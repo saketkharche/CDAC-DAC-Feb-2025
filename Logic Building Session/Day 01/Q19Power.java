@@ -8,6 +8,6 @@ class Q19Power {
             result *= base;
         }
 
-        System.out.println(base + " raised to the power " exponent + " is " + result);
+        System.out.println(base + " raised to the power " + exponent + " is " + result);
     }
 }
