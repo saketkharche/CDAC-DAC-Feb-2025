@@ -22,18 +22,9 @@ As of September 2024, Java 23 is the most recent version[1]. Java 8, 11, 17, and
 
 Java has been instrumental in powering a wide array of applications across various platforms, including Windows, Macintosh, UNIX, Android-based handheld devices, embedded systems, and corporate solutions[2].
 
-Citations:
-[1] https://en.wikipedia.org/wiki/Java_(programming_language)
-[2] https://u-next.com/blogs/java/history-of-java/
-[3] https://www.britannica.com/technology/Java-computer-programming-language
-[4] https://www.theknowledgeacademy.com/blog/history-and-evolution-of-java/
-[5] https://www.ccbp.in/blog/java-tutorial/history-of-java
-[6] https://www.finoit.com/articles/history-of-java-programming-language/
-[7] https://www.baeldung.com/java-history
-[8] https://www.theknowledgeacademy.com/blog/history-of-java-programming-language/
 
 **Q. How Java is Useful & Problems It Solves: Research the specific problems Java addresses in**
-**software development. Why is Java preferred for certain types of projects (e.g., web development,mobile apps, enterprise systems)? What are some of its key strengths?**
+**software development. Why is Java preferred for certain types of projects (e.g., web development ,mobile apps, enterprise systems)? What are some of its key strengths?**
 
 Ans:-
 ## Usefulness of Java and Problems Addressed
@@ -64,14 +55,7 @@ Java addresses several critical problems in software development, making it a pr
 *   **Large Community and Support:** A large and active community of developers ensures easy access to support, libraries, and frameworks[2][1].
 *   **Simple Navigation:** Easy-to-use navigation throughout the program[6].
 
-Citations:
-[1] https://www.shiksha.com/online-courses/articles/advantages-of-java-blogId-162815
-[2] https://unstop.com/blog/advantages-and-disadvantages-of-java
-[3] https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Java-Advantages-Benefits-Fast-Performance-Simple-Open-Typed-Features-Streams
-[4] https://www.netguru.com/blog/java-pros-and-cons
-[5] https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/7-Benefits-Java-advantages-dynamic-robust-performance-security-objects-simple
-[6] https://in.indeed.com/career-advice/career-development/advantages-of-java
-[7] https://www.invensis.net/blog/benefits-of-java-over-other-programming-languages
+
 
 **Q.Role of the Java Virtual Machine (JVM): Investigate the purpose of the JVM in the execution**
 **of Java programs. How does it enable Java’s platform independence (i.e., "Write Once, Run**
@@ -91,15 +75,7 @@ The Java Virtual Machine (JVM) is a virtual machine that enables computers to ru
 
 In essence, the JVM acts as a translator between the Java bytecode and the underlying hardware, ensuring that Java programs can run on any platform that has a JVM implementation[1][4]. This design facilitates Java's platform independence, as developers need only ensure a JVM is available for their target platform, rather than rewriting or recompiling code for each specific system[1].
 
-Citations:
-[1] https://www.theserverside.com/definition/Java-virtual-machine-JVM
-[2] https://www.infoworld.com/article/2269370/what-is-the-jvm-introducing-the-java-virtual-machine.html
-[3] https://docs.oracle.com/en/java/javase/22/vm/java-virtual-machine-technology-overview.html
-[4] https://www.reddit.com/r/javahelp/comments/8cen3k/what_exactly_is_the_java_virtual_machine_and_how/
-[5] https://en.wikipedia.org/wiki/Java_virtual_machine
-[6] https://www.ibm.com/think/topics/jvm-vs-jre-vs-jdk
-[7] https://stackoverflow.com/questions/65808437/why-do-we-use-the-java-virtual-machine
-[8] https://dzone.com/articles/mastering-the-jvm-elevating-java-development
+
 
 **Q Java Runtime Environment (JRE): Read about how the JRE fits into the picture when running**
 **Java applications. What does the JRE provide, and why is it essential?**
@@ -134,14 +110,7 @@ The JRE acts as a translator and facilitator between Java programs and the under
 
 The JRE is distinct from the Java Development Kit (JDK), which contains development tools. The JRE is specifically designed for running Java applications and is the minimum requirement for executing Java programs on any system[5].
 
-Citations:
-[1] https://www.ibm.com/think/topics/jre
-[2] https://builtin.com/software-engineering-perspectives/java-runtime-environment
-[3] https://www.redhat.com/en/topics/cloud-native-apps/what-is-a-Java-runtime-environment
-[4] https://docs.oracle.com/cd/E19455-01/806-3461/6jck06gqd/index.html
-[5] https://www.oracle.com/java/technologies/javase/jre8-readme.html
-[6] https://www.youtube.com/watch?v=eOpKpFFb6o8
-[7] https://www.java.com/en/download/help/whatis_java.html
+
 
 **Q Difference Between JDK, JRE, and JVM: Understand the differences and relationships**
 **between the Java Development Kit (JDK), Java Runtime Environment (JRE), and Java**
@@ -170,13 +139,7 @@ The Java Development Kit (JDK), Java Runtime Environment (JRE), and Java Virtual
 
 In summary, the JDK is used for development, providing all necessary tools to create Java applications; the JRE is used to run those applications by providing the JVM and required libraries; and the JVM is responsible for executing the bytecode generated by the JDK, ensuring that Java applications can run on any platform that has a compatible JRE installed. This layered architecture facilitates Java's hallmark feature of "write once, run anywhere."
 
-Citations:
-[1] https://www.tutorialspoint.com/java/java-jdk-jre-jvm.htm
-[2] https://www.scholarhat.com/tutorial/java/differences-between-jdk-jre-jvm-java-toolkit
-[3] https://byjus.com/gate/difference-between-jdk-jre-and-jvm/
-[4] https://www.shiksha.com/online-courses/articles/difference-between-jdk-jre-and-jvm/
-[5] https://www.3ritechnologies.com/what-is-the-difference-between-java-se-and-jdk/
-[6] https://www.digitalocean.com/community/tutorials/difference-jdk-vs-jre-vs-jvm
+
 
 **Q Memory Areas in JVM: Explore the different types of memory areas within the JVM, such as**
 **the Heap, Stack, and Method Area. What roles do these memory areas play during the execution of a Java program?**
@@ -225,11 +188,3 @@ The Java Virtual Machine (JVM) organizes memory into several distinct areas, eac
 - As methods are called, frames are pushed onto the Stack Area for local variable storage and to keep track of method calls and returns.
 - The PC Register tracks which instruction to execute next for each thread, ensuring correct program flow.
 - If native methods are called, the Native
-
-Citations:
-[1] https://waytoeasylearn.com/learn/memory-areas-in-jvm/
-[2] https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html
-[3] https://www.w3schools.blog/memory-areas-allocated-by-jvm
-[4] https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java
-[5] https://www.linkedin.com/pulse/how-many-types-memory-areas-allocated-jvm-kapil-sharma-dl1dc
-[6] https://www.baeldung.com/java-jvm-run-time-data-areas
