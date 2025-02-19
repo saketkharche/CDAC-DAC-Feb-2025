@@ -9,10 +9,10 @@ To document and share my progress in mastering advanced computing concepts durin
 
 ## [📚 Course Information](pplx://action/followup)
 
-*   **[Program](pplx://action/followup):** Diploma in Advanced Computing (DAC) [7]
+*   **[Program](pplx://action/followup):** Diploma in Advanced Computing (DAC) 
 *   **[Batch](pplx://action/followup):** February 2025
-*   **[Duration](pplx://action/followup):**  [4]
-*   **[Mode](pplx://action/followup):** Fully Online  [4][6]
+*   **[Duration](pplx://action/followup):**  
+*   **[Mode](pplx://action/followup):** Fully Online  
 
 ## [🛠️ Tech Stack](pplx://action/followup)
 
