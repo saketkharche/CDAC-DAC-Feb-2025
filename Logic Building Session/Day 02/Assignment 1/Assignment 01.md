@@ -3,7 +3,7 @@ Food for Thought: Research and Read More About
 **created Java, and why was it developed? How has it evolved over time?**
 Ans:-
 ## Origin
-The Java programming language was initiated in June 1991 by James Gosling, along with Mike Sheridan and Patrick Naughton[1][5][8]. At the time, Gosling and his team were working at Sun Microsystems[5][6]. The project, initially named "Oak" after an oak tree outside Gosling's office, later became known as "Java," inspired by Java coffee from Indonesia[1][5][6]. Gosling aimed to create a programming language with the precision and simplicity of C but with more capabilities[2].
+The Java programming language was initiated in June 1991 by James Gosling, along with Mike Sheridan and Patrick Naughton. At the time, Gosling and his team were working at Sun Microsystems[5][6]. The project, initially named "Oak" after an oak tree outside Gosling's office, later became known as "Java," inspired by Java coffee from Indonesia[1][5][6]. Gosling aimed to create a programming language with the precision and simplicity of C but with more capabilities[2].
 
 The primary goal was to develop a platform-neutral language that could be used for programming various electronic devices[5][6]. The team, known as the 'Green Team', sought to create a language that would work across different platforms[5]. They initially considered extending the C++ compiler but ultimately decided to develop Java as a new language[5].
 
