@@ -1,6 +1,5 @@
 # 🚀 CDAC DAC - Feb 2025 💻
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d241ff63f9061028f031a8e350529e15/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository is a digital notebook of my journey through C-DAC's Diploma in Advanced Computing (DAC) program, February 2025 batch. Think of it as a collection of experiments, notes, and projects that showcase the skills I'm building.
 
