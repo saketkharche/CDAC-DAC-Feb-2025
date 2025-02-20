@@ -1,39 +1,53 @@
-class Q2DaysOfWeek {
+import java.util.Scanner;
+
+public class Q2DaysOfWeek {
     public static void main(String[] args) {
-        int day = 3; // Example day
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a number (1-7) for the day of the week: ");
+        int day = scanner.nextInt();
 
         switch (day) {
             case 1:
-                System.out.println("Monday");
-                System.out.println("Weekday");
-                break;
             case 2:
-                System.out.println("Tuesday");
-                System.out.println("Weekday");
-                break;
             case 3:
-                System.out.println("Wednesday");
-                System.out.println("Weekday");
-                break;
             case 4:
-                System.out.println("Thursday");
-                System.out.println("Weekday");
-                break;
             case 5:
-                System.out.println("Friday");
                 System.out.println("Weekday");
+                switch (day) {
+                    case 1:
+                        System.out.println("Monday");
+                        break;
+                    case 2:
+                        System.out.println("Tuesday");
+                        break;
+                    case 3:
+                        System.out.println("Wednesday");
+                        break;
+                    case 4:
+                        System.out.println("Thursday");
+                        break;
+                    case 5:
+                        System.out.println("Friday");
+                        break;
+                }
                 break;
             case 6:
-                System.out.println("Saturday");
-                System.out.println("Weekend");
-                break;
             case 7:
-                System.out.println("Sunday");
                 System.out.println("Weekend");
+                switch (day) {
+                    case 6:
+                        System.out.println("Saturday");
+                        break;
+                    case 7:
+                        System.out.println("Sunday");
+                        break;
+                }
                 break;
             default:
-                System.out.println("Invalid input");
+                System.out.println("Invalid input! Please enter a number between 1 and 7.");
                 break;
         }
+
+        scanner.close();
     }
 }
