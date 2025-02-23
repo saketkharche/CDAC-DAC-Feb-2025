@@ -1,24 +1,34 @@
-Snippet 01:
-`public class InfiniteForLoop {`
-    `public static void main(String[] args) {`
-        `for (int i = 0; i < 10; i--) {`
-            `System.out.println(i);`
-        `}`
-    `}`
-`}`
+## Snippet 01
 
-Error: This loop runs infinitely because the loop control variable i is decremented (i--) in each iteration, rather than incremented. Therefore, i will never be greater than or equal to 10, so the condition i < 10 will always be true
-Correction: Change the  i-- to i++ to increment i in each iteration.
-`public class InfiniteForLoop {`
-    `public static void main(String[] args) {`
-        `for (int i = 0; i < 10; i++) { // Corrected: i++`
-            `System.out.println(i);`
-        `}`
-    `}`
-`}`
+```java
+public class InfiniteForLoop {
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i--) {
+            System.out.println(i);
+        }
+    }
+}
+```
 
-================================================================================================================================================================
-Snippet 02:
+**Error:** This loop runs infinitely because `i` is decremented (`i--`) instead of incremented. The condition `i < 10` will always be true.
+
+**Correction:** Change `i--` to `i++`.
+
+```java
+public class InfiniteForLoop {
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) { // Corrected: i++
+            System.out.println(i);
+        }
+    }
+}
+```
+
+---
+
+## Snippet 02
+
+```java
 public class IncorrectWhileCondition {
     public static void main(String[] args) {
         int count = 5;
@@ -28,12 +38,13 @@ public class IncorrectWhileCondition {
         }
     }
 }
+```
 
+**Error:** The condition `count = 0` is an assignment, not a comparison, causing a compilation error.
 
+**Correction:** Change `count = 0` to `count > 0`.
 
-Error: The loop does not execute as expected because the condition count = 0 is an assignment, not a comparison. The assignment count = 0 sets count to 0, and the value of the assignment expression is 0, which is then implicitly cast to a boolean. In Java, 0 is not true, so the loop never executes. Even if it did execute, it would be an infinite loop because count would be set to zero, always.
-
-Correction: Change count = 0 to count > 0 to check if count is greater than 0. This will cause the loop to execute until count reaches 0.
+```java
 public class IncorrectWhileCondition {
     public static void main(String[] args) {
         int count = 5;
@@ -43,8 +54,13 @@ public class IncorrectWhileCondition {
         }
     }
 }
-================================================================================================================================================================
-Snippet 03:
+```
+
+---
+
+## Snippet 03
+
+```java
 public class DoWhileIncorrectCondition {
     public static void main(String[] args) {
         int num = 0;
@@ -54,12 +70,13 @@ public class DoWhileIncorrectCondition {
         } while (num > 0);
     }
 }
+```
 
+**Error:** The loop executes only once because `num > 0` becomes false after the first iteration.
 
+**Correction:** Change the condition to `num <= 5` and initialize `num` to `1`.
 
-Error: The loop only executes once because, after the first iteration, num is incremented to 1. The condition num > 0 (i.e., 1 > 0) is then false, so the loop terminates.
-
-Correction: Change the condition to num < 5 (or any other desired upper bound) to make the loop execute multiple times. Also, it might be desirable to initialize num to 1.
+```java
 public class DoWhileIncorrectCondition {
     public static void main(String[] args) {
         int num = 1;
@@ -69,24 +86,27 @@ public class DoWhileIncorrectCondition {
         } while (num <= 5); // Corrected: num <= 5
     }
 }
-================================================================================================================================================================
-Snippet 04:
+```
+
+---
+
+## Snippet 04
+
+```java
 public class OffByOneErrorForLoop {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
             System.out.println(i);
         }
-        // Expected: 10 iterations with numbers 1 to 10
-        // Actual: Prints numbers 1 to 10, but the task expected only 1 to 9
     }
 }
+```
 
+**Error:** The loop prints numbers `1` to `10`, but if the expected output is `1` to `9`, there's an off-by-one error.
 
+**Correction:** Change `i <= 10` to `i < 10`.
 
-Error: The loop prints numbers from 1 to 10, but the task expected only 1 to 9. This is an off-by-one error in the loop boundary.
-
-Correction: Change the loop condition from i <= 10 to i < 10 to exclude 10 from the output.
-
+```java
 public class OffByOneErrorForLoop {
     public static void main(String[] args) {
         for (int i = 1; i < 10; i++) { // Corrected: i < 10
@@ -94,8 +114,13 @@ public class OffByOneErrorForLoop {
         }
     }
 }
-================================================================================================================================================================
-Snippet 05:
+```
+
+---
+
+## Snippet 05
+
+```java
 public class WrongInitializationForLoop {
     public static void main(String[] args) {
         for (int i = 10; i >= 0; i++) {
@@ -103,12 +128,13 @@ public class WrongInitializationForLoop {
         }
     }
 }
+```
 
+**Error:** The loop doesn't print numbers in the expected ascending order.
 
+**Correction:** Initialize `i = 0`, condition `i <= 10`, and increment `i++`.
 
-Error: The loop doesnt print numbers in the expected order (likely ascending). The initialization and update statements are set to descend from 10 to 0.
-
-Correction: If the intent is to print from 0 to 10, change the initialization to i = 0 and the condition to i <= 10, and keep the increment i++. If the intent is to count down, the code is correct as is. Assuming the intent was to count up, the corrected code is:
+```java
 public class WrongInitializationForLoop {
     public static void main(String[] args) {
         for (int i = 0; i <= 10; i++) { // Corrected: i = 0, i <= 10
@@ -116,8 +142,13 @@ public class WrongInitializationForLoop {
         }
     }
 }
-================================================================================================================================================================
-Snippet 06:
+```
+
+---
+
+## Snippet 06
+
+```java
 public class MisplacedForLoopBody {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++)
@@ -125,23 +156,27 @@ public class MisplacedForLoopBody {
         System.out.println("Done");
     }
 }
+```
 
+**Error:** "Done" prints only once outside the loop due to missing curly braces `{}`.
 
+**Correction:** Enclose both statements within `{}`.
 
-Error: "Done" prints only once, outside the loop. The loop body is only the single line System.out.println(i); The System.out.println("Done"); statement is not part of the loop because there are no curly braces {} to enclose multiple statements within the loop body.
-
-Correction: Enclose both System.out.println(i); and System.out.println("Done"); within curly braces {} to include them in the loop body.
-
+```java
 public class MisplacedForLoopBody {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) { // Added curly braces
             System.out.println(i);
             System.out.println("Done");
-        } // Added curly braces
+        }
     }
 }
-================================================================================================================================================================
-Snippet 07:
+```
+
+---
+## Snippet 07
+
+```java
 public class UninitializedWhileLoop {
     public static void main(String[] args) {
         int count;
@@ -151,11 +186,13 @@ public class UninitializedWhileLoop {
         }
     }
 }
+```
 
-Error: This code produces a compilation error because the loop variable count is declared but not initialized. Java requires local variables to be initialized before they are used. The compiler doesnt know what the initial value of count is, so it cant reliably determine whether the loop condition count < 10 is true or false the first time its evaluated.
+**Error:** `count` is declared but not initialized, causing a compilation error.
 
-Correction: Initialize count to a specific value, such as 0: int count = 0;
+**Correction:** Initialize `count` to `0`.
 
+```java
 public class UninitializedWhileLoop {
     public static void main(String[] args) {
         int count = 0; // Corrected: Initialized count
@@ -165,8 +202,13 @@ public class UninitializedWhileLoop {
         }
     }
 }
-================================================================================================================================================================
-Snippet 08:
+```
+
+---
+
+## Snippet 08
+
+```java
 public class OffByOneDoWhileLoop {
     public static void main(String[] args) {
         int num = 1;
@@ -176,25 +218,29 @@ public class OffByOneDoWhileLoop {
         } while (num > 0);
     }
 }
+```
 
+**Error:** The loop prints unexpected numbers due to incorrect initialization and decrement operation.
 
+**Correction:** Initialize `num = 1`, set condition `num <= 5`, and increment `num++`.
 
-Error: This loop prints unexpected numbers and potentially runs more times than intended. It starts with num = 1, prints 1, then decrements num to 0. The condition num > 0 is then false, so the loop terminates. If the goal was to print 1 to 5, the initialization and update logic are incorrect.
-
-Correction: If the intent is to print 1 to 5, change the initialization to num = 1; and the condition to num <= 5 and increment num++.
-
+```java
 public class OffByOneDoWhileLoop {
-public static void main(String[] args) {
-    int num = 1;
-    do {
-        System.out.println(num);
-        num++;
-    } while (num <= 5);
+    public static void main(String[] args) {
+        int num = 1;
+        do {
+            System.out.println(num);
+            num++;
+        } while (num <= 5);
+    }
 }
-}
+```
 
-================================================================================================================================================================
-Snippet 09:
+---
+
+## Snippet 09
+
+```java
 public class InfiniteForLoopUpdate {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i += 2) {
@@ -202,13 +248,13 @@ public class InfiniteForLoopUpdate {
         }
     }
 }
+```
 
+**Error:** The loop skips numbers (prints `0, 2, 4` instead of `0, 1, 2, 3, 4`).
 
+**Correction:** Increment `i` by `1` instead of `2`.
 
-Error: While this loop doesnt run infinitely, it might print unexpected results depending on the desired output. The loop increments i by 2 in each iteration (i += 2). Thus the loop prints 0, 2, 4. The numbers 1 and 3 never get printed.
-
-Correction: If the goal is to print all numbers less than 5, increment i by 1 in each iteration (i++ or i += 1).
-
+```java
 public class InfiniteForLoopUpdate {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) { // Corrected: i++
@@ -216,9 +262,13 @@ public class InfiniteForLoopUpdate {
         }
     }
 }
+```
 
-================================================================================================================================================================
-Snippet 10:
+---
+
+## Snippet 10
+
+```java
 public class IncorrectWhileLoopControl {
     public static void main(String[] args) {
         int num = 10;
@@ -228,13 +278,13 @@ public class IncorrectWhileLoopControl {
         }
     }
 }
+```
 
+**Error:** The condition `num = 10` is an assignment, causing a compilation error.
 
+**Correction:** Change `num = 10` to `num >= 0`.
 
-Error: This loop executes indefinitely (infinite loop). The condition num = 10 is an assignment, not a comparison, and 10 cannot be converted to boolean, and therefore gives a compilation error.
-
-Correction: Change the condition to num >= 0 or num > 0 to control the loop based on the value of num.
-
+```java
 public class IncorrectWhileLoopControl {
     public static void main(String[] args) {
         int num = 10;
@@ -244,8 +294,13 @@ public class IncorrectWhileLoopControl {
         }
     }
 }
-================================================================================================================================================================
-Snippet 11:
+```
+
+---
+
+## Snippet 11
+
+```java
 public class IncorrectLoopUpdate {
     public static void main(String[] args) {
         int i = 0;
@@ -255,13 +310,13 @@ public class IncorrectLoopUpdate {
         }
     }
 }
+```
 
+**Error:** The loop skips numbers (`0, 2, 4` instead of `0, 1, 2, 3, 4`).
 
+**Correction:** Change `i += 2` to `i++`.
 
-Error: The loop prints unexpected results because i is incremented by 2 in each iteration. The loop prints 0, 2, and 4. It skips 1 and 3.
-
-Correction: If the intent is to print all numbers less than 5, change the update statement to i++ or i += 1.
-
+```java
 public class IncorrectLoopUpdate {
     public static void main(String[] args) {
         int i = 0;
@@ -271,8 +326,13 @@ public class IncorrectLoopUpdate {
         }
     }
 }
-================================================================================================================================================================
-Snippet 12:
+```
+
+---
+
+## Snippet 12
+
+```java
 public class LoopVariableScope {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
@@ -281,27 +341,22 @@ public class LoopVariableScope {
         System.out.println(x); // Error: 'x' is not accessible here
     }
 }
+```
 
+**Error:** `x` is declared inside the loop, making it inaccessible outside.
+
+**Correction:** Declare `x` outside the loop.
+
+```java
 public class LoopVariableScope {
     public static void main(String[] args) {
+        int x = 0; // Corrected: Declared x outside the loop
         for (int i = 0; i < 5; i++) {
-            int x = i * 2;
+            x = i * 2;
         }
-        System.out.println(x); // Error: 'x' is not accessible here
+        System.out.println(x);
     }
 }
+```
 
-    Error: The variable x causes a compilation error because it is declared inside the for loop. Therefore, its scope is limited to the loop body, and it is not accessible outside the loop.
-    Correction: Declare x outside the loop to make it accessible after the loop finishes
-
-    public class LoopVariableScope {
-        public static void main(String[] args) {
-            int x = 0; // Corrected: Declared x outside the loop
-            for (int i = 0; i < 5; i++) {
-                x = i * 2;
-            }
-            System.out.println(x);
-        }
-    }
-================================================================================================================================================================
-    
+---
