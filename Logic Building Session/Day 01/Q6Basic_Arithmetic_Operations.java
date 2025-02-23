@@ -1,13 +1,13 @@
-class Q6Basic_Arithmetic_Operations{
+class Q6Basic_Arithmetic_Operations {
   public static void main(String[] args) {
-    int a = 15;
+    int a = 125;
     int b = 24;
 
-    int c =125+24;
-    int d =125-24;
-    int e =125*24;
-    int f =125/24;
-    int g =125%24;
+    int c = 125 + 24;
+    int d = 125 - 24;
+    int e = 125 * 24;
+    int f = 125 / 24;
+    int g = 125 % 24;
 
     System.out.println(a + " + " + b + " = " + c);
     System.out.println(a + " - " + b + " = " + d);
