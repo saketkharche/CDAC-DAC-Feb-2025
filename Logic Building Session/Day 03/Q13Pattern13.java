@@ -1,5 +1,6 @@
-class Q13Pattern13 {
+public class Q13Pattern13 {
     public static void main(String[] args) {
+        // Ascending pattern
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(i);
@@ -10,6 +11,7 @@ class Q13Pattern13 {
             System.out.println();
         }
 
+        // Descending pattern
         for (int i = 5; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(i);
@@ -17,12 +19,8 @@ class Q13Pattern13 {
                     System.out.print("*");
                 }
             }
-            if (i != 5 && i != 1) {
-                System.out.println();
-            }
-
+            System.out.println();
         }
-        System.out.println();
     }
 }
 // Sample Output:
