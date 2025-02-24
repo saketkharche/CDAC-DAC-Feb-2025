@@ -20,3 +20,10 @@ class Q15Pattern {
         }
     }
 }
+
+// Q15Pattern.java && java Q15Pattern
+//     *
+//    * *
+//   * * *
+//  * * * *
+// * * * * *
