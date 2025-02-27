@@ -13,6 +13,7 @@ This repository is primarily used for:
 The repository structure is as follows:
 
 *   **`Logic Building Session/`:** This directory contains code and materials specifically related to the logic building sessions.
+*   **`Operating System/`:** This directory contains code and materials specifically related to the Operating System.
 
 ## Languages Used
 
