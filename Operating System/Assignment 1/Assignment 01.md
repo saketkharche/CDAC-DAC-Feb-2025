@@ -227,43 +227,43 @@ cdac@Saket:~/LinuxAssignment$
 ![[Pasted image 20250226235915.png]]
 j) File Compression:
 a. Compress the "docs" directory into a zip file.
- cdac@Saket:~/LinuxAssignment$ ls
-docs  file1.txt
-cdac@Saket:~/LinuxAssignment$ zip -r docs.zip docs
-Command 'zip' not found, but can be installed with:
-sudo apt install zip
-cdac@Saket:~/LinuxAssignment$ sudo apt install zip
-[sudo] password for cdac:
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-The following additional packages will be installed:
-  unzip
-The following NEW packages will be installed:
-  unzip zip
-0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
-Need to get 350 kB of archives.
-After this operation, 933 kB of additional disk space will be used.
-Do you want to continue? [Y/n] y
-Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 unzip amd64 6.0-28ubuntu4.1 [174 kB]
-Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 zip amd64 3.0-13ubuntu0.2 [176 kB]
-Fetched 350 kB in 1s (277 kB/s)
-Selecting previously unselected package unzip.
-(Reading database ... 47312 files and directories currently installed.)
-Preparing to unpack .../unzip_6.0-28ubuntu4.1_amd64.deb ...
-Unpacking unzip (6.0-28ubuntu4.1) ...
-Selecting previously unselected package zip.
-Preparing to unpack .../zip_3.0-13ubuntu0.2_amd64.deb ...
-Unpacking zip (3.0-13ubuntu0.2) ...
-Setting up unzip (6.0-28ubuntu4.1) ...
-Setting up zip (3.0-13ubuntu0.2) ...
-Processing triggers for man-db (2.12.0-4build2) ...
-cdac@Saket:~/LinuxAssignment$ zip -r docs.zip docs
-  adding: docs/ (stored 0%)
-  adding: docs/file2.txt (stored 0%)
-cdac@Saket:~/LinuxAssignment$ ls
-docs  docs.zip  file1.txt
-cdac@Saket:~/LinuxAssignment$
+ `cdac@Saket:~/LinuxAssignment$ ls`
+`docs  file1.txt`
+`cdac@Saket:~/LinuxAssignment$ zip -r docs.zip docs`
+`Command 'zip' not found, but can be installed with:`
+`sudo apt install zip`
+`cdac@Saket:~/LinuxAssignment$ sudo apt install zip`
+`[sudo] password for cdac:`
+`Reading package lists... Done`
+`Building dependency tree... Done`
+`Reading state information... Done`
+`The following additional packages will be installed:`
+  `unzip`
+`The following NEW packages will be installed:`
+  `unzip zip`
+`0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.`
+`Need to get 350 kB of archives.`
+`After this operation, 933 kB of additional disk space will be used.`
+`Do you want to continue? [Y/n] y`
+`Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 unzip amd64 6.0-28ubuntu4.1 [174 kB]`
+`Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 zip amd64 3.0-13ubuntu0.2 [176 kB]`
+`Fetched 350 kB in 1s (277 kB/s)`
+`Selecting previously unselected package unzip.`
+`(Reading database ... 47312 files and directories currently installed.)`
+`Preparing to unpack .../unzip_6.0-28ubuntu4.1_amd64.deb ...`
+`Unpacking unzip (6.0-28ubuntu4.1) ...`
+`Selecting previously unselected package zip.`
+`Preparing to unpack .../zip_3.0-13ubuntu0.2_amd64.deb ...`
+`Unpacking zip (3.0-13ubuntu0.2) ...`
+`Setting up unzip (6.0-28ubuntu4.1) ...`
+`Setting up zip (3.0-13ubuntu0.2) ...`
+`Processing triggers for man-db (2.12.0-4build2) ...`
+`cdac@Saket:~/LinuxAssignment$ zip -r docs.zip docs`
+  `adding: docs/ (stored 0%)`
+  `adding: docs/file2.txt (stored 0%)`
+`cdac@Saket:~/LinuxAssignment$ ls`
+`docs  docs.zip  file1.txt`
+`cdac@Saket:~/LinuxAssignment$`
 ![[Pasted image 20250227001302.png]]
 b. Extract the contents of the zip file into a new directory.
 `cdac@Saket:~/LinuxAssignment$ ls`
@@ -334,6 +334,7 @@ word and the word to replace it with).
 
 
 ![[Pasted image 20250227084814.png]]
+
 Problem 2: Read the instructions carefully and answer accordingly. If there is
 any need to insert some data then do that as well.
 a. Suppose you have a file named "data.txt" containing important information. Display the
