@@ -1,5 +1,4 @@
-Problem 1: Read the instructions carefully and answer accordingly. If there is
-any need to insert some data then do that as well.
+### Problem 1: Read the instructions carefully and answer accordingly. If there is any need to insert some data then do that as well.
 
 a) Navigate and List:
 a. Start by navigating to your home directory and list its contents. Then, move into a
@@ -115,12 +114,13 @@ Ans:-
 g) File Searching:
 a. Search for all files with the extension ".txt" in the current directory and its subdirectories.
 Ans:-
-`cdac@Saket:~/LinuxAssignment$ find find . -type f -name "*.txt"`
-`find: ‘find’: No such file or directory`
+`cdac@Saket:~/LinuxAssignment$ find . -type f -name "*.txt"`
 `./docs/file2.txt`
+`./data.txt`
 `./file1.txt`
+`./docs1/docs/file2.txt`
 `cdac@Saket:~/LinuxAssignment$`
-![[Pasted image 20250226230034.png]]
+![[Pasted image 20250227180158.png]]
 
 
 b. Display lines containing a specific word in a file (provide a file name and the specific
@@ -198,32 +198,32 @@ a. Display the IP address of the system.
 
 ![[Pasted image 20250226234143.png]]
 b. Ping a remote server to check connectivity (provide a remote server address to ping).
-cdac@Saket:~/LinuxAssignment$ ping -c 4 google.com
-PING google.com (142.250.77.46) 56(84) bytes of data.
-64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=1 ttl=116 time=23.1 ms
-64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=2 ttl=116 time=25.2 ms
-64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=3 ttl=116 time=23.3 ms
-64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=4 ttl=116 time=22.2 ms
+`cdac@Saket:~/LinuxAssignment$ ping -c 4 google.com`
+`PING google.com (142.250.77.46) 56(84) bytes of data.`
+`64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=1 ttl=116 time=23.1 ms`
+`64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=2 ttl=116 time=25.2 ms`
+`64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=3 ttl=116 time=23.3 ms`
+`64 bytes from bom07s26-in-f14.1e100.net (142.250.77.46): icmp_seq=4 ttl=116 time=22.2 ms`
 
---- google.com ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss, time 3266ms
-rtt min/avg/max/mdev = 22.193/23.454/25.216/1.098 ms
-cdac@Saket:~/LinuxAssignment$ ping -c 4 nasa.com
-PING nasa.com (185.53.177.52) 56(84) bytes of data.
-64 bytes from 185.53.177.52: icmp_seq=1 ttl=40 time=151 ms
-64 bytes from 185.53.177.52: icmp_seq=2 ttl=40 time=150 ms
-64 bytes from 185.53.177.52: icmp_seq=3 ttl=40 time=151 ms
-64 bytes from 185.53.177.52: icmp_seq=4 ttl=40 time=150 ms
+`--- google.com ping statistics ---`
+`4 packets transmitted, 4 received, 0% packet loss, time 3266ms`
+`rtt min/avg/max/mdev = 22.193/23.454/25.216/1.098 ms`
+`cdac@Saket:~/LinuxAssignment$ ping -c 4 nasa.com`
+`PING nasa.com (185.53.177.52) 56(84) bytes of data.`
+`64 bytes from 185.53.177.52: icmp_seq=1 ttl=40 time=151 ms`
+`64 bytes from 185.53.177.52: icmp_seq=2 ttl=40 time=150 ms`
+`64 bytes from 185.53.177.52: icmp_seq=3 ttl=40 time=151 ms`
+`64 bytes from 185.53.177.52: icmp_seq=4 ttl=40 time=150 ms`
 
---- nasa.com ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss, time 3198ms
-rtt min/avg/max/mdev = 150.216/150.777/151.387/0.554 ms
-cdac@Saket:~/LinuxAssignment$ ping -c 4 jio.com
-PING jio.com (49.40.8.179) 56(84) bytes of data.
+`--- nasa.com ping statistics ---`
+`4 packets transmitted, 4 received, 0% packet loss, time 3198ms`
+`rtt min/avg/max/mdev = 150.216/150.777/151.387/0.554 ms`
+`cdac@Saket:~/LinuxAssignment$ ping -c 4 jio.com`
+`PING jio.com (49.40.8.179) 56(84) bytes of data.`
 
---- jio.com ping statistics ---
-4 packets transmitted, 0 received, 100% packet loss, time 3387ms
-cdac@Saket:~/LinuxAssignment$
+`--- jio.com ping statistics ---`
+`4 packets transmitted, 0 received, 100% packet loss, time 3387ms`
+`cdac@Saket:~/LinuxAssignment$`
 ![[Pasted image 20250226235915.png]]
 j) File Compression:
 a. Compress the "docs" directory into a zip file.
@@ -335,29 +335,163 @@ word and the word to replace it with).
 
 ![[Pasted image 20250227084814.png]]
 
-Problem 2: Read the instructions carefully and answer accordingly. If there is
-any need to insert some data then do that as well.
+## Problem 2: Read the instructions carefully and answer accordingly. If there is any need to insert some data then do that as well.
+
 a. Suppose you have a file named "data.txt" containing important information. Display the
 first 10 lines of this file to quickly glance at its contents using a command.
+`cdac@Saket:~$ cd LinuxAssignment/`
+`cdac@Saket:~/LinuxAssignment$ ls`
+`docs  docs.zip  docs1  file1.txt`
+`cdac@Saket:~/LinuxAssignment$ touch data.txt`
+`cdac@Saket:~/LinuxAssignment$ nano data.txt`
+`cdac@Saket:~/LinuxAssignment$ head -10 data.txt`
+`apple, blue, 27, dog, mountain`
+`sun, red, 12, cat, river`
+`book, green, 45, bird, forest`
+`car, yellow, 8, fish, ocean`
+`house, purple, 62, rabbit, desert`
+`tree, orange, 19, horse, field`
+`computer, brown, 33, mouse, city`
+`phone, pink, 51, snake, jungle`
+`chair, gray, 7, bear, cave`
+`table, white, 22, lion, savanna`
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227175529.png]]
+
 b. Now, to check the end of the file for any recent additions, display the last 5 lines of
 "data.txt" using another command.
+`cdac@Saket:~/LinuxAssignment$ ls`
+`data.txt  docs  docs.zip  docs1  file1.txt`
+`cdac@Saket:~/LinuxAssignment$ tail -5 data.txt`
+`time, metal, 95, snail, garden`
+`space, glass, 29, ant, ground`
+`light, wax, 16, bee, hive`
+`water, clay, 71, fly, window`
+`fire, sand, 43, spider, web`
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227180414.png]]
 c. In a file named "numbers.txt," there are a series of numbers. Display the first 15 lines of
 this file to analyze the initial data set.
+`cdac@Saket:~/LinuxAssignment$ nano numbers.txt`
+`cdac@Saket:~/LinuxAssignment$ head -n 15 numbers.txt`
+`1`
+`2`
+`3`
+`4`
+`5`
+`6`
+`7`
+`8`
+`9`
+`10`
+`11`
+`12`
+`13`
+`14`
+`15`
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227181254.png]]
 d. To focus on the last few numbers of the dataset, display the last 3 lines of "numbers.txt".
+`cdac@Saket:~/LinuxAssignment$ tail -n 3 numbers.txt`
+`28`
+`29`
+`30`
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227181347.png]]
 e. Imagine you have a file named "input.txt" with text content. Use a command to translate
 all lowercase letters to uppercase in "input.txt" and save the modified text in a new file
 named "output.txt."
+`@Saket:~/LinuxAssignment$ nano input.txt`
+`cdac@Saket:~/LinuxAssignment$ ls`
+`data.txt  docs1        output.txt`
+`docs      input.txt`
+`docs.zip  numbers.txt`
+`cdac@Saket:~/LinuxAssignment$ cat input.t`
+`xt`
+`this is a test.`
+`hello world.`
+`some more text.`
+`1234 test words`
+
+`cdac@Saket:~/LinuxAssignment$ tr '[:lower:]' '[:upper:]' < input.txt > output.txt`
+`cdac@Saket:~/LinuxAssignment$ ls`
+`data.txt  docs1        output.txt`
+`docs      input.txt`
+`docs.zip  numbers.txt`
+`cdac@Saket:~/LinuxAssignment$ cat output.txt`
+`THIS IS A TEST.`
+`HELLO WORLD.`
+`SOME MORE TEXT.`
+`1234 TEST WORDS`
+
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227184853.png]]
 f. In a file named "duplicate.txt," there are several lines of text, some of which are
 duplicates. Use a command to display only the unique lines from "duplicate.txt."
+`cdac@Saket:~/LinuxAssignment$ ls`
+`data.txt  docs  docs.zip  docs1  duplicate.txt  input.txt  numbers.txt  output.txt  uniqe1.txt`
+`cdac@Saket:~/LinuxAssignment$ cat duplicate.txt`
+`alpha`
+`beta`
+`gamma`
+`alpha`
+`delta`
+`epsilon`
+`beta`
+`gamma`
+`gamma`
+`alpha`
+`epsilon`
+`delta`
+`beta`
+`cdac@Saket:~/LinuxAssignment$ sort duplicate.txt | uniq`
+`alpha`
+`beta`
+`delta`
+`epsilon`
+`gamma`
+`cdac@Saket:~/LinuxAssignment$`
+![[Pasted image 20250227185615.png]]
 g. In a file named "fruit.txt," there is a list of fruits, but some fruits are repeated. Use a
 command to display each unique fruit along with the count of its occurrences in
 "fruit.txt."
-Submission Guidelines:
- Document each step of your solution and any challenges faced.
- Upload it on your GitHub repository
-Additional Tips:
- Experiment with different options and parameters of each command to explore their
-functionalities.
+`cdac@Saket:~/LinuxAssignment/docs$ nano fruit.txt`
+`cdac@Saket:~/LinuxAssignment/docs$ cat fruit.txt`
+`apple`
+`banana`
+`apple`
+`orange`
+`banana`
+`grape`
+`apple`
+`grape`
+`mango`
+`orange`
+`mango`
+`banana`
+`pineapple`
+`pear`
+`kiwi`
+`apple`
+`pear`
+`kiwi`
+`grape`
+`melon`
+`melon`
+`banana`
+`cdac@Saket:~/LinuxAssignment/docs$ sort fruit.txt | uniq -c`
+      `4 apple`
+      `4 banana`
+      `3 grape`
+      `2 kiwi`
+      `2 mango`
+      `2 melon`
+      `2 orange`
+      `2 pear`
+      `1 pineapple`
+`cdac@Saket:~/LinuxAssignment/docs$`
+
+![[Pasted image 20250227185834.png]]
 
 
 
