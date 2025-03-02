@@ -435,7 +435,9 @@ Consider the following processes with arrival times, burst times, and priorities
 | P 4      | 3            | 2          | 2        |
 
 Calculate the average waiting time using Priority Scheduling.
-![[WhatsApp Image 2025-03-01 at 23.28.52_bd738bb6 1.jpg]]
+
+###### Primtive Method
+![[WhatsApp Image 2025-03-02 at 16.44.01_dbf56867.jpg]]
 ---
 
 ## 4. Round Robin Scheduling
@@ -450,7 +452,7 @@ Consider the following processes with arrival times and burst times, and the tim
 | P 4      | 3            | 3          |
 
 Calculate the average turnaround time using Round Robin scheduling.
-![[Pasted image 20250301233738.png]]
+![[WhatsApp Image 2025-03-02 at 16.42.57_e16b7d46 1.jpg]]
 ---
 
 ## 5. Fork System Call Scenario
