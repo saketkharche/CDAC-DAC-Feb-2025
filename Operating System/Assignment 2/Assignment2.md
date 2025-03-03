@@ -179,11 +179,12 @@ fi
 ### Question 10: Write a shell script that prints a multiplication table for numbers from 1 to 5.
 ```sh
 #!/bin/bash
-for i in {1..5}; do
-    for j in {1..5}; do
-        printf "%4d" $((i * j))
+  GNU nano 7.2                                              sh10                                                        for num in {1..5}; do
+    echo "Multiplication Table for $num:"
+    for i in {1..10}; do
+        echo "$num x $i = $((num * i))"
     done
-    echo
+    echo ""
 done
 ```
 ![[Pasted image 20250301220214.png]]
