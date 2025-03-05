@@ -1,0 +1,4 @@
+echo "Printing top 3 lines of file 1"
+head -3 abc.txt
+echo "Printing bottom 2 lines of xyz"
+tail -2 xyz.txt

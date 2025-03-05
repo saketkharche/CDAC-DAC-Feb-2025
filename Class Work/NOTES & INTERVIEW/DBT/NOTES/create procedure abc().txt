@@ -1,0 +1,22 @@
+create procedure abc() 
+	begin 
+	declare x int default 1; 
+	pqr_loop:loop  
+	if x > 10 then 
+		leave pqr_loop; 
+	end if; 
+	set x = x + 1; 
+	if mod(x,2) != 0 then 
+		iterate pqr_loop; 
+	else 
+		insert into tempp values (x , 'inside loop');
+		iterate pqr_loop; 
+	end if; 
+	end loop; 
+end;
+
+
+select t.trainname, r.routeid, r.startstation, r.endstation, r.distance, departuretime, arrivaltime
+from trains t inner join schedules s on t.trainid = s.trainid
+inner join
+routes r on r.routeid = s.routeid;
