@@ -1,0 +1,155 @@
+-----------------------------------------
+Day 1: Introduction to Java
+Date : 03-March-2025
+-----------------------------------------
+Topics: 
+	-Introduction to Java
+	-History and versions of Java
+	-Download and install Java
+	-Setting up Environment variable and commands
+	-JDK vs JRE vs JVM
+	-Java Features
+	-Java Program Structure
+		
+OOPJ : Java 
+100 Marks:
+	-40 marks : CCEE
+	-20 marks : MCQ (Mid Quiz, Final Quiz)
+	-40 marks : Lab Exam (Coding)
+	--------------------------------
+	100 marks
+	
+Java:
+------
+	-high level, object oriented and platform independent
+	-James Gosling at Sun Microsystem, in 1995.
+	- WORA: Write once, Run anywhere : JVM (Java Virtual Machine)
+
+Key features:
+--------------
+	-Simple: Syntax similar to C++, but with automatic memory management.
+	-Object-Oriented: Uses classes and objects for better code modularity.
+	-Platform-Independent: Compiled into bytecode which runs on any system with JVM.
+	-Secure: No explicit pointers, automatic garbage collection, and runtime security checks.
+	-Robust: Strong memory management and exception handling.
+	-Multithreaded: Supports concurrent execution of multiple tasks.
+	-Portable: Java bytecode can run on any compatible OS.
+
+Programming Language: 
+	-coding language use to write some software appication.
+
+Technology:
+	- a broader concept involves tools, platforms or methodologies
+
+Framework:
+	- a structeured collection of code that simplifies development
+
+
+JVM , JDK , JRE:
+-------------------
+JVM: Java Virtual Machine
+-Runs Java applications by converting bytecode to machine code
+
+JVM Components:
+-----------------
+	-Class Loader - Loads .class files into memory.
+		-Runtime Memory Areas:
+	-Method Area: Stores class structures like methods, static variables.
+		-Heap: Stores objects and instance variables.
+		-Stack: Stores method calls and local variables.
+		-PC Register: Holds address of current instruction.
+		-Native Method Stack: Stores native code (C/C++ methods).
+	-Execution Engine:
+		-Interpreter: Converts bytecode to machine code line-by-line.
+		-JIT (Just-In-Time) Compiler: Optimizes frequently used code.
+	-Garbage Collector (GC): Automatically removes unused objects.
+
+JDK: Java Development Kit
+-------------------------
+-Contains JRE + development tools (compiler, debugger,...)
+
+JDK components:
+------------------
+	-Compiler (javac): 
+		-convert our source code(.java) into bytecode(.class)
+	-JVM (Java Virtual Machine)
+		-Executes the compiled bytecode.
+	-JRE (Java Runtime Envronment)
+		-Includes libraries and JVM necessary to run java applications
+	-Development tools:
+		-Debugger (jdb)
+		-archiving tools(jar files)
+	-API libraries:
+		-Predefined classes and methods for Java development
+	-Tools for packaging:
+		-jar for bundling compiled classes and resources
+	
+	
+JRE: Java Runtime Environment
+-Provides JVM, libraries and runtime files (no compiler)
+
+Java development platforms:
+------------------------------
+J2SE : Java platform, Standard Edition
+J2EE : Java platform, Enterprise Edition (corporate purpose)
+J2ME : Java platform, Micro Edition (mobile applications)
+JavaFX : Rich internet application, using to design lightweigth user interface applications.
+
+Software: Notepad++, Eclipse
+
+PrintStream Class:
+-------------------
+print()	 : Prints the text without a newline.
+println(): Prints the text and moves to the next line.
+printf() : Prints formatted text with format specifiers.
+
+
+printf() in Java:
+-------------------
+The printf() method in Java is used to print formatted output to the console. It is a method of the PrintStream class, which is a part of the System.out stream.
+
+Syntax:
+System.out.printf(format, arguments);
+
+Format Specifiers:
+-------------------
+Specifier	|	Description	Example
+-------------------------------------
+	-%d	Integer	
+		System.out.printf("%d", 25);
+		
+	-%f	Floating-point	
+		System.out.printf("%.2f", 10.5678);
+		
+	-%s	String	
+		System.out.printf("%s", "Hello");
+		
+	-%c	Character	
+		System.out.printf("%c", 'A');
+		
+	-%b	Boolean	
+		System.out.printf("%b", true);
+		
+	-%n	New Line	
+		System.out.printf("Hello%nWorld");
+
+Compiler: JIT (Just in Time) Compiler:
+----------------------------------------
+-Converts bytecode into machine code at runtime to improve performace.
+-Part of JVM
+-Purpose: Speed up the execution process for frequently used code.
+-Working:
+	-JVM FIRST INTERPREAT BYTECODE LINE BY LINE.
+	-JIT DETECTS HOTSPOT METHODS(FREQUENTLY USED METHODS)
+	-cONVERT THOSE METHODS INTO NATIVE MACHINE CODE
+	-STORES COMPILED CODE FOR FUTURE REUSE.
+
+Applications of Java:
+---------------------
+	-Desktop Applications: IDEs, media players, and antivirus software.
+	-Web Applications: E-commerce platforms, dynamic websites (using Servlets and JSP).
+	-Mobile Applications: Android apps (Java is the base language for Android development).
+	-Enterprise Applications: Large-scale distributed systems using Java EE.
+	-Embedded Systems: Applications in consumer electronics.
+	-Big Data and Cloud Computing: Frameworks like Hadoop rely on Java.
+	-Gaming Applications: High-performance gaming engines.

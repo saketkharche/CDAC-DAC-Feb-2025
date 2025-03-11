@@ -1,15 +1,14 @@
-	class Employee{
+	class EmployeeDemo5{
 		int i;
 		String name;
 		
-		 Employee(){
+		Employee(){
 			this.i = 100;
 			this.name="unknown";
 			System.out.println("Default");
-			
 		}
 		
-		 Employee(int i,String name){
+		Employee(int i,String name){
 			this.i = i;
 			this.name=name;
 			System.out.println("Parameterized");
@@ -18,7 +17,7 @@
 		void data(String name,int i)
 		{
 			this.i = i;
-			this.name=name;
+			this.name=name
 			
 		}
 		
@@ -29,16 +28,14 @@
 			name=name;
 			
 		}
-		class EmployeeDemo{
-
-		public static void main(String args[]){
+		Public static void main(String args[]){
 			
 			Employee e = new Employee();
 			e.data("dffd1",1232);
-			Employee e1 = new Employee(7232,"sdsf");
-			Employee.data1("dffd",232);
+			Employee e1 = new Employee("sdsf",7232);
+			data1("dffd",232);
 			
 		}
 		
-	}
+		
 	}

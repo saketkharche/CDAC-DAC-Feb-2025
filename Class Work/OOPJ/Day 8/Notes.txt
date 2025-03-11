@@ -1,0 +1,164 @@
+-----------------------------------------
+Day 8: Object Oriented Programming Concepts of Java
+Date : 11-March-2025
+-----------------------------------------
+
+Topics: 
+	- Inheritance
+	- Polymorphism
+	- Overloading
+	- Overriding
+
+
+Polymorphism: multiple forms
+
+Poly: many
+morphism: forms
+
+-It allows one interface to be used for different data types.
+-Types of polymorphism:
+	-1. Compile time Polymorphism: Static binding
+		-Method overloading
+		-Multiple methods with the same name but different parameterized
+		-Compile-time
+		
+	-2. Runtime Polymorphism : Dynamic binding
+		-Method overriding (inheritance)
+		-Subclas  provides a new implementation of an inherited method
+		-Runtime
+		-Access modifiers have certain role for runtime.
+
+HW: Differentiate between static and dynamic binding.
+		
+Method OVerloading:
+-------------------
+-Multiple methods with the same name but different parameters
+Types:
+
+-1. By changing the number of parameters
+-2. By changing the data types of parameters
+
+Ex: 
+class Adder{
+//instance methods
+int add(int a, int b)
+{
+	return a+b;
+}
+
+int add(int a, int b, int c)
+{
+	return a+b+c;
+}
+
+int add(int a, int b, long c)
+{
+	return a+b+c;
+}
+//static method
+static int add(int a, long b)
+{
+	return a+b;
+}
+
+static float add(long a, double b)
+{
+	return (float)a+b;
+}
+
+static int add(int a, int b, int c)
+{
+	return a+b+c;
+}
+
+static int add(int a, int b, long c)
+{
+	return a+b+c;
+}
+
+static float add(int a, float b, int c)
+{
+	return a+b+c;
+}
+}
+
+class OverloadingDemo{
+	p s v main(){
+		
+		Adder a1  = new Adder();
+		a1.add(2,4);//instance method
+		
+		Adder.add(2,3);//static method
+		Adder.add(2,3,5);
+		Adder.add(2,3.5f,5);
+	}
+}
+
+REturn type overloading:
+-------------------------
+MO: (method name + parameters):=> overloading
+return type ka isme koi role nahi hai.....
+
+Type promotion:
+---------------
+add(int,int, long)=>long
+add(int, long, int)=>long
+
+int->long->float->double
+
+Type Promotion Ambiguity:
+-------------------------
+//add(int a, long b){}
+
+add(long x, int y){
+}
+//call
+add(3,7L);
+
+
+Overloading the main():Yes
+------------------------
+class A{
+public static void main(String args[]){
+	SOP("With args");
+	main();
+}
+public static void main(){
+	SOP("Without args");
+}
+}
+
+Method Overriding:
+------------------
+
+When a subclass provides a specific implementation of a method already declared in its superclass, it is called method overriding.
+-Allows runtime polymorphism
+-provides specific implementation in the subclass
+-enhance the modularity and code reusability
+-supports dynamic method dispatch(runtime resolution)
+
+Rules for Method overriding:
+-----------------------------
+1. Same method Name
+2. Same parameters
+3. IS-A relations (extends)
+4. Same return type
+
+Access Modifier: public, Protected, default, Private
+-Public: 	class, Package, Subclass, Global
+-Protected: class, Packages, Subclass
+-Default: 	class, Package
+-Private: 	class
+
+Access Modifiers Restrictions:
+---------------------------------
+-The overriden method cannot have more restrictive access modifiers than the superclass methods.
+- public : can be overriden as public or protected
+- protected : can be overriden as protected or public
+- default :can be overridden with default, protected or public
+- private: cannot be overriden
+
+Important Note:
+----------------
+-No final methods: Methods declared as 'final'in the superclass cannot be overriden
+-No static methods: Static methods cannot be overriden , they are hidden

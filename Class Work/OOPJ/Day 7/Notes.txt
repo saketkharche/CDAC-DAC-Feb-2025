@@ -1,0 +1,293 @@
+-----------------------------------------
+Day 7: Object Oriented Programming Concepts of Java
+Date : 10-March-2025
+-----------------------------------------
+
+Topics: 
+	- Abstraction
+	- Abstract class
+	- Interface
+	- Encapsulation
+	- Inheritance
+	
+	
+	
+Abstraction:
+------------
+-Abstraction is an OOP principle that hides implementation details and 
+shows only the essential features of an object.
+
+Purpose:
+---------
+	-Simplifies the complexity
+	-Reduces the code complexity
+	-Increases the maintainability ans security.
+	
+Ways:
+------
+1. By using abstract class ('abstract' keyword)(100%: not necessary)
+2. Using interfaces('interface' keyword)(100%)
+
+Abstract class:
+Ex: 
+
+abstract class Shape{
+	//Method declaration
+	abstract double area();//Abstract method : No body for method
+	
+	//Method defination
+	void display(){//Concreate method -Method body content 
+		System.out.println("Printing: shape area");
+	}
+}
+
+Ex:
+abstract class  Employee{
+	int id;
+	String name;
+	
+	Employee(int id, String name){
+	
+		this.id = id;
+		this,name = name;
+		}
+	abstract void calculateSalary();
+	final static show(){
+		System.out.println("Static method");
+	}
+	
+	void display(){
+		System.out.println("Id : "+id+" "+"Name :"+name);
+	}
+}
+
+Ex:
+abstract class Animal{
+	abstract void sound();//withou implementation
+	
+	void display(){ //Non abstract method
+		System.out.println("Id : "+id+" "+"Name :"+name);
+	}
+}
+
+
+class Dog extends Animal{
+	void sound(){
+		System.out.println("Printing: Animal sound");
+	}
+	
+}
+
+Rule:
+-can have constructors, static method and final methods
+-used to provide common functionalities to multiple classes.
+
+Rule 1: Abstract Methods can be declared in Abstract classes
+Rule 2: If a subclass doen not implement an abstract method, then it must be declared abstract.
+
+Ex: abstract class Dog extends Animal{
+	abstract void eat();
+}
+
+Reference :
+1.
+Employee e = new Employee();
+
+2. 
+Employee e = null;
+
+3.
+Employee e = new childclass();
+
+Interface:
+---------------
+-It is a blue print of class.
+-By default, all methods in an interface are abstract and public (Java 7)
+-In Java 8: 
+	-Default methods : (default keyword) with implementation.
+	-Static methods
+-In Java 9:
+	-private methods: in interfaces are allowed
+	
+Syntax:
+interface Vehicle{
+	void drive();// Abstract method
+	default void speed(){//Non-abstract method
+		System.out.println("Speed: Vehicle");
+	}
+}
+
+Encapsulation:
+----------------
+-That binds data members and member function(methods) into a single unit,
+where we are hiding the internal implementation details and 
+providing controlled access through public methods.
+
+-Restrict direct access to data members.
+-Provides getter and setter methods to access and modify private data
+-It ensures data hiding and data security.
+-It improves on code reusability and modularity.
+
+
+How to implement Encapsulation:
+--------------------------------
+1. Decalre instance variable as private
+2. Providing getter and setter methods to access and modify
+ the private varibles
+3. By implementing data validations within setter methods.
+
+	
+Inheritance:
+-----------------
+-Inheritance is a mechanism in Java where a class (child class/sub class/derived class) acquires properties and behavior (fields and methods) from another class(parent class/super class/base class)
+-code reusability, hierarchical organization, and polymorphism.
+-Represents an IS-A relationship
+	Ex: Bike(child class) IS-A(relationship) Vehicle(Parent class)
+-Helps to avoid redundant code by reusing common functionality.
+
+
+Terminologies:
+--------------
+Class: blueprint for creating object
+Super class: (Parent class)
+	-The class whose properties are inherited.
+Sub class: (child class)
+	-The class that inherits properties from another class.
+	
+Reusability:Using existing methods and fields of a superclass in a subclass.
+
+EX:
+class Parent{
+	//Fields and methods
+}
+class Child extends Parent {
+	//Fields and methods: Parent
+	//Additional fields and methods: Child
+}
+
+
+Types of Inheritance:
+----------------------
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+----------------------------
+4. Multiple Inheritance
+5. Hybrid Inheritance
+
+Multiple Inheritance : Not supported in Java:
+-------------------------------------------------
+class A{
+	void msg(){
+		SOP("A");
+	}
+}
+
+class B{
+	void msg(){
+		SOP("B");
+	}
+}
+
+/*class C extends A, B{
+	
+}
+class Test{
+	public static void main(String aregs[]){
+		C c1 = new C();
+		c1.msg();//Error : CE : Ambiguty
+	}
+}
+*/
+
+Solution: Use interfaces for multiple inheritance
+
+Interfaces:
+-------------
+-An interface in Java is a blueprint of a class.
+-It contains only abstract methods and constants by default (before Java 8).
+-It cannot have a method body, only method declarations.
+-Interfaces are used to achieve abstraction and multiple inheritance.
+-Java 8: Interfaces can have default and static methods.
+-Java 9: Interfaces can have private methods.
+
+Why to use interfaces in Java to:
+------------------------------------
+-Achieve abstraction
+-Enable multiple inheritance (behavior)
+-Support loose coupling & polymorphism
+-Create standard contracts
+-Allow flexible implementations
+-Make code scalable, maintainable, and extensible
+
+Interface defination include:
+--------------------------------
+interface CDAC{
+	// constant variable
+	int CONSTANT =100;//Implicitly public, static, final
+	
+	//abstract methods
+	void abstractMethod();
+	
+	//default method Java 8+:
+	default void show(){
+		System.out.println("Default method");
+	}
+	
+	//static method
+	static void display(){
+		System.out.println("Static method");
+	}
+	
+	//private method
+	private void showbuddy(){
+		System.out.println("Private method");
+	}
+}
+
+Multiple Inheritane by using interfaces:
+-----------------------------------------
+
+Java 8+: Lamba expression, Stream API
+
+Functional interfaces:
+-------------------------
+-'@FunctionalInterface' used as annotation in decalaration of functional interfaces
+-used for Lamba expression and Stream API
+Such interfaces can be designed with exactly one abstract method.
+
+Ex:
+@FunctionalInterface
+interface Hello{
+	void sayHello(String name);
+}
+
+Relationships (Associations:)
+-----------------
+IS-A: Inheriatnce
+-IS-A relationship is established through inheritance, where subclass inherits properties and behaviour from super class.
+-use 'extends' keyword
+
+HAS-A: Aggregation
+-HAS-A relationship(aggregation) occurs when one class contains an object of another class.
+
+Ex:
+Programmer IS-A Employee. (inheritance)
+Employee HAS-A Address.
+
+
+Aggregation:
+-------------
+IS-A relationship (Inheritance) is not valid, but HAS-A relationship.
+when an object contains another object as a part of its data.
+
+
+Association:
+-------------
+-It represents the relationship between 2 separate classes that are related but can exist independently.
+-Type: 
+	-One-one
+	-one-many
+	-many-one
+	-many-many
+

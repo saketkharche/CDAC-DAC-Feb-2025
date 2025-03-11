@@ -1,0 +1,153 @@
+-----------------------------------------
+Day 2: Programming Concepts of Java
+Date : 04-March-2025
+-----------------------------------------
+Topics: 
+	-Java Tokens
+	-Data Types
+	
+		
+Home-Work:
+Q.Differenciate between JDK,JRE,JVM
+Q.Difference between float and double.
+
+
+Java Token:
+----------
+1.Identifiers
+-Class name, method name, interface name, variable : identifier
+-An identifier in Java is the name assigned to elements.
+-Rules:
+	-A-Z,a-z,digit(0-9),_,$
+	-cannot start with digit
+	-Max 15 character
+	-keywords cannot be used as identifier
+	Ex:
+	-AttendanceRecord, Set_Data
+	$_all_digit1$E34545hbsdhfchdhcdjfvjdfjvfjgbjgfjbgfjo
+	
+	
+2.Reserve words : keywords
+	-50 Keywords, 
+	-3 Literals : true, false, null
+	-Unused keywords : goto, const
+
+
+3.Literals : constants
+-A constant values assigned to a variable.
+	int x = 10; // 10 is a literal
+
+	1.Numeric 
+		-Interger constants
+			-Decimal Literals : Base 10 : 0-9
+			int x =10;
+			
+			-Octal Literals : Base 8 : 0-7
+			-prefix number with 0
+			int x =010; //interprete octal
+			
+			-Hexadecimal Literals : Base 16 : 0-9+(A-F/a-f)
+			-prefix 0x or 0X
+			int x = 0x10; //interprte hexa decimal
+			int x = 0X10; //interprte hexa decimal
+			
+		-Real constants or Floating point literals
+		-default type : double
+		-float: 'f' or 'F'
+		-double: 'd' or 'D'
+			float f = 123.456f;
+			double d = 123.456;	//Default double data type
+			double d =1234.56789D; //Explicit Double 
+			float f = 123.45; //Error :
+			double d = 0x123.456;
+		
+	2.Character
+		-Charcter constants
+		-String constants
+
+
+Data Types:
+--------------
+Integral Data type:
+------------------
+1. byte: 8 bits
+	0 = Positive number
+	1 = Negative number
+-Range : -128 to 127
+
+2. short: 16 bits
+-Range : -32768 to 32767
+
+3. int : 32 bits
+-Range : -2*^31 to 2*^31-1
+16 bit processor: C/C++ : 2 bytes
+32 bit processor: Java : 4 bytes : int
+
+4. long : 64 bits
+-Range:
+
+
+5. boolean :size not applicable
+Range: true/false
+case sensitive 
+
+boolean v = true;
+
+6. char Data type
+
+-size: char = 1 byte : C/C++ : ASCII characters a=97, A=65
+	-Java char = 2 bytes : Unicode character : global character
+	-size: 2 bytes
+	-Range: 0 to 65535 (Unicode range)
+	-default = \u0000
+	
+Escape characters: char literals:
+
+\n, \t,\r,\b,\f...
+
+%n and \n
+
+7. String Literals:
+
+-string literals is a sequence of characters enclosed within double quotes("").
+-Java , String is an object of the 'String' class.
+String s = "kiran";
+
+Automatic Type convert: Type-casting (Compiler  behaviour)
+------------------------------------------------------------
+
+byte -> short -> int -> long -> float -> double
+
+char -> int -> long -> float -> double
+
+char ch ='A'; //ASCII A=65
+int i = ch; //i=65, int = char
+SOP (i); //65
+
+float f = i; // float = int
+SOP(f) //65.0
+
+1. Implicit Type casting: Widening
+
+	-Happens automatically whaen a smaller data type is converted to larger datatype.
+	-int to double
+	-byte -> short -> int -> long -> float -> double
+	
+2. Explicit Type casting: Narrowing
+	-Requires manual casting because there is a risk of data loss.
+	-A larger data type is converted into a smaller data type.
+	-double-> float-> long-> int -> short-> byte
+
+Bit conversion:
+----------------	
++5 : 0000 0101
+-5 : 1000 0101
+
+HW: 1's complement and 2's complement
+
+0000 0101
+------------
+1111 1010
++       1
+------------
+1111 1011
