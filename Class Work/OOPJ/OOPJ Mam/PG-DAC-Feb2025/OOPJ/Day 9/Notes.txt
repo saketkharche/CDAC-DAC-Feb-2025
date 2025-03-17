@@ -1,0 +1,123 @@
+-----------------------------------------
+Day 8: Object Oriented Programming Concepts of Java
+Date : 12-March-2025
+-----------------------------------------
+
+Topics: 
+	- Super keyword
+	- Final keyword
+	- instanceof 
+	- Upcasting and Downcasting
+	- Garbage collection
+	
+set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_40\bin
+set PATH=%JAVA_HOME%\bin;%PATH%
+
+
+super keyword:
+--------------
+-It is used to refer parent class(superclass)
+-Main purpose is to used inheritance to differentiate the superclass and subclass methods and constructors.
+-It allows subclasses to access methods, constructors and fields of their parents.
+
+Purpose:
+---------
+1. call the superclass constructor
+2. call the superclass method
+3. call the superclass fields
+
+syntax:
+-keyword 'super'
+-super():implicitly call superclass constructor
+-super cannot be used inside the static methods
+-A subclass cannot access private members of the superclass using super keyword
+
+
+'final' Keyword:constant
+-------------------------
+-It is used to restrict modifications in three context:
+1. Final variable
+	-value cannot be changed (constant)
+	-final variable is a constant that cannot be reassigned after initialization
+	
+2. Final Method
+	-cannot be overriden
+3. Final class
+	-cannnot be inherited
+-------------------------------	
+4. Final parameter:
+	-Method parameters cannot be changed
+5. Blank Final Variable
+	-Final variables that are initialized later (constructor or static block)
+6. Final reference variable: 
+-It can not be reassigned, but the object can be modified
+
+
+instanceof keyword: operator
+-----------------------------
+-It is used to check whether an object is an instance of a specific class or subclass.
+-result=> bollean (true/false)
+
+Upcasting:
+---------
+-Assigning a subclass object to a superclass reference
+-Allows a subclass object to be treated as asuperclass object
+-It enables overriding and dynamic binding(dynamic method dispatch)
+-imporoves code flexibility and reusability.
+
+
+Downcasting:
+----------------
+-Converting a superclass reference back into subclass reference
+-It enables calling subclass specific methods
+
+
+Garbage Collection:
+--------------------
+-Automatic memory management
+-GC : Garbage Collector : to free up heap memory
+-It works on objects that are no longer references
+
+Request GC methods:(2 ways)
+-------------------
+1. System.gc();//Method 1 : REquest GC to run
+2. Runtime.getRuntime().gc();// Method 2: Way to request GC
+
+
+Ways to make object eligble for Garbage Collection:
+---------------------------------------------------
+1. Nulling a Reference variable:
+
+Test t1 = new Test();
+Test t2 = new Test();
+
+t1 = null;//Object is now eligible for GC
+t2 = null;
+
+2. Re-Assigning a Reference Variable:
+
+Test t1 = new Test();
+Test t2 = new Test();
+Test t3 = new Test();
+
+t1=t2;
+t3=t2;
+
+3. Island of Isolation:
+
+Test t1 = new Test();
+Test t2 = new Test();
+Test t3 = new Test();
+
+t1.obj1 = t2.obj2;
+t2.obj2 = t3.obj3;
+t3.obj3 = t1.obj1;
+
+t1=null;
+t1=null;
+t3=null;
+
+
+1. 80%:100GB: threshold
+2. Memory Full
+3. Depends on his mood

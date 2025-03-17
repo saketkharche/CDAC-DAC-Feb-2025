@@ -1,0 +1,105 @@
+-----------------------------------------
+Day 10: Object Oriented Programming Concepts of Java
+Date : 13-March-2025
+-----------------------------------------
+
+Topics: 
+	- Garbage collection
+	- String
+
+	
+	
+finalize(): method is called before an object is garbage collected to perform cleanup operations.
+
+- The finalize() method is called before the object is collected.
+- It can be used to release resources (like closing files, sockets).
+
+String: (Immutable)
+----------------------
+
+- A string in Java is an object that represents a sequence of charaters
+- Package: import java.lang.String class
+- Immutable (cannot be changed after creation)
+- Implementes Serializable , Comparable and CharSequence interfaces.
+- String can be created using String literals and 'new' keyword.
+
+
+Important String Methods:
+-----------------------------
+length(): Returns the length of the string
+	String s1 = "Hello";
+	s1.length() : //5
+charAt(index):Return character at a specific index
+	String s1 = "Hello";
+	s1.charAt(1):// e
+substring(beginIndex,endIndex): Extract the substring
+	String s1 = "Hello";
+	s1.substring(1,4); //ell
+contains(str): Checks ID string contains anaother string
+	String s1 = "Hello";
+	s1.contains("He") //true
+indexOf(str): Return index of first occurrence
+	String s1 = "Hello";
+	s1.indexOf("l") //2
+toLowerCase() :Converts string to lowercase
+	String s1 = "Hello";
+	s1.toLowerCase() //hello
+toUpperCase() :Converts string to uppercase
+	String s1 = "Hello";
+	s1.toUpperCase() //HELLO
+trim() :Removes leading and trailing spaces
+	String s1 = "  Hello";
+	s1.trim() //Hello
+replace(old ,new) :Replace the character or sequence 
+	String s1 = "  Hello";
+	s1.replace("l", "p") //Heppo
+	
+String Comparison:
+-------------------
+1. Using == (Reference comparison)
+== operator compares references rather than values.
+EX:
+    String s1 = "Hello"; // Created in String Pool
+    String s2 = "Hello"; // References same object as s1
+    System.out.println(s1 == s2); // Output: true
+
+2. Using equals() (Value comparison)
+-compares the actual content of the string
+EX:
+    String s3 = new String("Hello"); // Created in Heap
+    String s4 = new String("Hello"); // Different object
+    System.out.println(s3 == s4); // Output: false
+
+3. Using compareTo() (Lexicographical comparison)
+-Returns 0 if strings are equal, positive if first is greater, negative if second is greater.
+
+
+Ex:
+
+String s1 = "Apple";
+String s2 = "Banana";
+s1.compareTo(s2)
+
+StringBuffer and StringBuilder:(Mutable)
+----------------------------------------
+-creating mutable stings
+-Thread safe:
+	-StringBuffer: synchorized (Multithreading)
+	-Slow performance
+	-StringBuilder: not synchronized (Single Thread)
+	-Faster performace
+
+Ex:
+
+StringBuffer sb = new StringBuffer("Hello");
+sb.append("Duniya!");
+
+Ex:
+    StringBuffer sb = new StringBuffer("Hello");
+    sb.append(" World");
+    System.out.println(sb); // Output: Hello World
+
+Ex:
+    StringBuilder sb = new StringBuilder("Java");
+    sb.append(" Rocks");
+    System.out.println(sb); // Output: Java Rocks
