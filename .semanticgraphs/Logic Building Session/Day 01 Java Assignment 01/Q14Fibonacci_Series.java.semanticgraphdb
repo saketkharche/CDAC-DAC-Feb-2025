@@ -1,0 +1,106 @@
+
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.javaå
+Q14Fibonacci_SeriesCLASSú
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java("
+packageQ14Fibonacci_Series"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier"> </mark><mark class="modifier">class </mark>Q14Fibonacci_Series"
+accesspackage_private*Q14Fibonacci_Series2‘
+"Q14Fibonacci_Series.main(String[])DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (á#
+"Q14Fibonacci_Series.main(String[])METHOD†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ÿ
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java2 (32Ÿ
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2Ÿ
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2Ÿ
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java  (!2›
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java
+ 
+("2›
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2ﬁ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (%2›
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2ﬁ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2ﬁ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2ﬁ
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2◊
+'Q14Fibonacci_Series.main(String[])!args	PARAMETER†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java# ('2‡
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2‰
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2Â
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2‡
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2Â
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20DECLARATION†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2∂
+voidRETURN_TYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (Ø
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13VARIABLE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 10*n2Æ
+intTYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (ª
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17VARIABLE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">first</mark> = 0*first2Æ
+intTYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (æ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18VARIABLE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">second</mark> = 1*second2Æ
+intTYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (Æ
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18VARIABLE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2Æ
+intTYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (à
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20VARIABLE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">next</mark> = first + second*next2Æ
+intTYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2›
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (2ﬁ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALL†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java (%€
+'Q14Fibonacci_Series.main(String[])!args	PARAMETER†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2≥
+String[]TYPE†
+ïC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q14Fibonacci_Series.java ("

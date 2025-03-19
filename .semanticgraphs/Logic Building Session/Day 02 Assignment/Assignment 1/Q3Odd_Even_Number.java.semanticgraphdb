@@ -1,0 +1,45 @@
+
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.javaˆ
+Q3Odd_Even_NumberCLASSŸ
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java("
+packageQ3Odd_Even_Number"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3Odd_Even_Number"
+accesspackage_private*Q3Odd_Even_Number2Õ
+ Q3Odd_Even_Number.main(String[])DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java (À
+
+ Q3Odd_Even_Number.main(String[])METHOD£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ü
+.Q3Odd_Even_Number.main(String[])?num@2.12:2.15CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java (2Ø
+%Q3Odd_Even_Number.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java% ()2ã
+.Q3Odd_Even_Number.main(String[])?num@2.12:2.15DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java (2¹
+voidRETURN_TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java (¹
+.Q3Odd_Even_Number.main(String[])?num@2.12:2.15VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 10*num2±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java (ß
+%Q3Odd_Even_Number.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¶
+String[]TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q3Odd_Even_Number.java ($

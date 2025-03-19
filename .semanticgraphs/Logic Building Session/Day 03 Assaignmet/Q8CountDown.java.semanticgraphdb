@@ -1,0 +1,48 @@
+
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.javaƒ
+Q8CountDownCLASSå
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java("
+packageQ8CountDown"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>Q8CountDown"
+accesspackage_private*Q8CountDown2º
+Q8CountDown.main(String[])DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (Õ
+Q8CountDown.main(String[])METHODê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¡
+&Q8CountDown.main(String[])?i@3.17:3.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (2¡
+&Q8CountDown.main(String[])?i@3.17:3.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java! ("2¡
+&Q8CountDown.main(String[])?i@3.17:3.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (2ø
+Q8CountDown.main(String[])!args	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java% ()2»
+&Q8CountDown.main(String[])?i@3.17:3.18DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (2¶
+voidRETURN_TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (á
+&Q8CountDown.main(String[])?i@3.17:3.18VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 10*i2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java (≥
+Q8CountDown.main(String[])!args	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2£
+String[]TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q8CountDown.java ($

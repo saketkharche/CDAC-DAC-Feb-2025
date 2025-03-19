@@ -1,0 +1,76 @@
+
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java€
+Q15FactorialCLASSï
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java("
+packageQ15Factorial"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q15Factorial"
+accesspackage_private*Q15Factorial2∆
+Q15Factorial.main(String[])DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (Ò
+Q15Factorial.main(String[])METHODô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+'Q15Factorial.main(String[])?i@5.17:5.18CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (2–
+,Q15Factorial.main(String[])?number@2.12:2.18CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (#2À
+'Q15Factorial.main(String[])?i@5.17:5.18CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java% (&2”
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (2”
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (!2À
+'Q15Factorial.main(String[])?i@5.17:5.18CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java$ (%2–
+,Q15Factorial.main(String[])?number@2.12:2.18CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java	- 	(32”
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java	? 	(H2…
+ Q15Factorial.main(String[])!args	PARAMETERô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java% ()2◊
+,Q15Factorial.main(String[])?number@2.12:2.18DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (2⁄
+/Q15Factorial.main(String[])?factorial@3.13:3.22DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (2“
+'Q15Factorial.main(String[])?i@5.17:5.18DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (2Ø
+voidRETURN_TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (©
+,Q15Factorial.main(String[])?number@2.12:2.18VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 5*number2ß
+intTYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (µ
+/Q15Factorial.main(String[])?factorial@3.13:3.22VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java ("
+typelong"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">factorial</mark> = 1*	factorial2®
+longTYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (ô
+'Q15Factorial.main(String[])?i@5.17:5.18VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2ß
+intTYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java (∆
+ Q15Factorial.main(String[])!args	PARAMETERô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+String[]TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q15Factorial.java ($

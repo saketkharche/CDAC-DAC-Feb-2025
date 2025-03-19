@@ -1,0 +1,270 @@
+
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.javaó
+EmployeeCLASSz
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Employee"
+accesspackage_private*Employee2¢
+Employee.Employee()DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+2≠
+Employee.Employee(int, String)DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+2≤
+#Employee.Employee(int, String, int)DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+2≤
+#Employee.Employee(int, int, String)DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+2°
+Employee?i@1.6:1.7DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2•
+Employee?name@2.9:2.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java	 (2£
+Employee?age@3.6:3.9DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (	‡
+Employee.Employee()CONSTRUCTOR~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+"Z
+declarationStringE<mark class="modifier"> </mark><mark class="method">Employee</mark>()*Employee2ö
+Employee?i@1.6:1.7CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2û
+Employee?name@2.9:2.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2ó
+EmployeeRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+Ó
+Employee.Employee(int, String)CONSTRUCTOR~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+"«
+declarationString±<mark class="modifier"> </mark><mark class="method">Employee</mark>(<mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> String name)*Employee2®
+ Employee.Employee(int, String)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2´
+#Employee.Employee(int, String)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2®
+ Employee.Employee(int, String)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2´
+#Employee.Employee(int, String)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2ö
+Employee?i@1.6:1.7CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (	2û
+Employee?name@2.9:2.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2≠
+ Employee.Employee(int, String)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2∞
+#Employee.Employee(int, String)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2ó
+EmployeeRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+ó
+ Employee.Employee(int, String)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (ã
+#Employee.Employee(int, String)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2é
+StringTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (Æ
+#Employee.Employee(int, String, int)CONSTRUCTOR~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+"™
+declarationStringî<mark class="modifier"> </mark><mark class="method">Employee</mark>(<mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> age)*Employee2≠
+%Employee.Employee(int, String, int)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2∞
+(Employee.Employee(int, String, int)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2Ø
+'Employee.Employee(int, String, int)!ageCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2≠
+%Employee.Employee(int, String, int)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2∞
+(Employee.Employee(int, String, int)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2Ø
+'Employee.Employee(int, String, int)!ageCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ( 2ö
+Employee?i@1.6:1.7CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (	2û
+Employee?name@2.9:2.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2ú
+Employee?age@3.6:3.9CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2≤
+%Employee.Employee(int, String, int)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2µ
+(Employee.Employee(int, String, int)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2¥
+'Employee.Employee(int, String, int)!age	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java# (&2ó
+EmployeeRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+ú
+%Employee.Employee(int, String, int)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (ê
+(Employee.Employee(int, String, int)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2é
+StringTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (¢
+'Employee.Employee(int, String, int)!age	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java# (&"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> age*age2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("Æ
+#Employee.Employee(int, int, String)CONSTRUCTOR~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+"™
+declarationStringî<mark class="modifier"> </mark><mark class="method">Employee</mark>(<mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> age<mark class="modifier"><mark class="modifier">,</mark></mark> String name)*Employee2≠
+%Employee.Employee(int, int, String)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2∞
+(Employee.Employee(int, int, String)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2Ø
+'Employee.Employee(int, int, String)!ageCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2≠
+%Employee.Employee(int, int, String)!iCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2∞
+(Employee.Employee(int, int, String)!nameCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2Ø
+'Employee.Employee(int, int, String)!ageCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ( 2ö
+Employee?i@1.6:1.7CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (	2û
+Employee?name@2.9:2.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2ú
+Employee?age@3.6:3.9CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2≤
+%Employee.Employee(int, int, String)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2¥
+'Employee.Employee(int, int, String)!age	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (2µ
+(Employee.Employee(int, int, String)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" (&2ó
+EmployeeRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (
+ú
+%Employee.Employee(int, int, String)!i	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (¢
+'Employee.Employee(int, int, String)!age	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> age*age2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (ê
+(Employee.Employee(int, int, String)!name	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" (&"
+typeString"
+isFinalfalse" 
+declarationStringString name*name2é
+StringTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (!ˆ
+Employee?i@1.6:1.7VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java ("
+isFinalfalse"
+typeint"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>"
+isStaticfalse"
+accesspackage_private*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (Î
+Employee?name@2.9:2.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java	 ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2é
+StringTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (¸
+Employee?age@3.6:3.9VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (	"
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">age</mark>"
+isStaticfalse"
+accesspackage_private*age2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java (¨
+EmployeeDemo8CLASS~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java! !("
+packageEmployeeDemo8"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>EmployeeDemo8"
+accesspackage_private*EmployeeDemo82´
+EmployeeDemo8.main(String[])DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" "(’
+EmployeeDemo8.main(String[])METHOD~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" "("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2õ
+Employee.Employee()CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java& &(2Æ
+!EmployeeDemo8.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java"! "('2∫
++EmployeeDemo8.main(String[])?e1@37.12:37.14DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java% %(2π
+*EmployeeDemo8.main(String[])?e@38.12:38.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java& &(2∫
++EmployeeDemo8.main(String[])?e2@39.12:39.14DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java' '(2ì
+voidRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" "(í
++EmployeeDemo8.main(String[])?e1@37.12:37.14VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java% %("
+typeEmployee"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark>Employee <mark class="class-field">e1</mark> = new Employee(1, "Rama"<mark class="modifier">,</mark> 22)*e12ê
+EmployeeTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java% %(Ä
+*EmployeeDemo8.main(String[])?e@38.12:38.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java& &("
+typeEmployee"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Employee <mark class="class-field">e</mark> = new Employee()*e2ê
+EmployeeTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java& &(2õ
+Employee.Employee()CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java& &(ñ
++EmployeeDemo8.main(String[])?e2@39.12:39.14VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java' '("
+typeEmployee"
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark>Employee <mark class="class-field">e2</mark> = new Employee(11, "Ramayan"<mark class="modifier">,</mark> 32)*e22ê
+EmployeeTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java' '(è
+!EmployeeDemo8.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java"! "('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ê
+String[]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\EmployeeDemo8.java" "('

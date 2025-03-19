@@ -1,0 +1,53 @@
+
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.javaÜ
+ArithmeticExceptionExampleCLASSâ
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java('"%
+packageArithmeticExceptionExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"x
+declarationStringc<mark class="modifier">public </mark><mark class="modifier">class </mark>ArithmeticExceptionExample"
+accesspublic*ArithmeticExceptionExample2»
+)ArithmeticExceptionExample.main(String[])DECLARATIONç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java (Œ
+)ArithmeticExceptionExample.main(String[])METHODç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Õ
+5ArithmeticExceptionExample.main(String[])?e@4.37:4.38CALLç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java@ (A2À
+.ArithmeticExceptionExample.main(String[])!args	PARAMETERç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java% ()2Ÿ
+:ArithmeticExceptionExample.main(String[])?result@3.16:3.22DECLARATIONç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java (2‘
+5ArithmeticExceptionExample.main(String[])?e@4.37:4.38DECLARATIONç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java% (&2£
+voidRETURN_TYPEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java (§
+:ArithmeticExceptionExample.main(String[])?result@3.16:3.22VARIABLEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = 10 / 0*result2õ
+intTYPEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java (º
+.ArithmeticExceptionExample.main(String[])!args	PARAMETERç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2†
+String[]TYPEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java ($›
+5ArithmeticExceptionExample.main(String[])?e@4.37:4.38VARIABLEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java% (&"
+typeArithmeticException"
+isFinalfalse"*
+declarationStringArithmeticException e*e2´
+ArithmeticExceptionTYPEç
+ÇC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArithmeticExceptionExample.java ($

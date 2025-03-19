@@ -1,0 +1,113 @@
+
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.javaâ
+DataDemoCLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java ("
+packageDataDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>DataDemo"
+accesspackage_private*DataDemo2°
+DataDemo.main(String[])DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (∂
+DataDemo.main(String[])METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2´
+(DataDemo.main(String[])?True@22.10:22.14CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (2©
+&DataDemo.main(String[])?v2@25.10:25.12CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (2§
+DataDemo.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java  (&2∑
+-DataDemo.main(String[])?floatvalue@18.8:18.18DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (2∏
+.DataDemo.main(String[])?doublevalue@19.9:19.20DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java	 (2Ø
+%DataDemo.main(String[])?v@21.10:21.11DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ (2≤
+(DataDemo.main(String[])?True@22.10:22.14DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ (2Ø
+%DataDemo.main(String[])?v@23.10:23.11DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ (2∞
+&DataDemo.main(String[])?v1@24.10:24.12DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ (2∞
+&DataDemo.main(String[])?v2@25.10:25.12DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (Å
+-DataDemo.main(String[])?floatvalue@18.8:18.18VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java ("
+typefloat"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">floatvalue</mark> = 3.142343243f*
+floatvalue2à
+floatTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (í
+.DataDemo.main(String[])?doublevalue@19.9:19.20VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java	 ("
+typedouble"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">doublevalue</mark> = 3.1423432433454546546d*doublevalue2â
+doubleTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (Â
+%DataDemo.main(String[])?v@21.10:21.11VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ ("
+typeboolean"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">v</mark> = true*v2ä
+booleanTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (	Ó
+(DataDemo.main(String[])?True@22.10:22.14VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ ("
+typeboolean"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">True</mark> = true*True2ä
+booleanTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (	ì
+%DataDemo.main(String[])?v@23.10:23.11VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ ("
+typeboolean"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">v</mark> = True*v2ä
+booleanTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (	2´
+(DataDemo.main(String[])?True@22.10:22.14CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (Â
+&DataDemo.main(String[])?v1@24.10:24.12VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ ("
+typeboolean"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">v1</mark> = 0*v12ä
+booleanTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (	ä
+&DataDemo.main(String[])?v2@25.10:25.12VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java
+ ("
+typeboolean"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">v2</mark> = "<mark class="modifier">false</mark>"*v22ä
+booleanTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (	Ä
+DataDemo.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ã
+String[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\DataDemo.java (&

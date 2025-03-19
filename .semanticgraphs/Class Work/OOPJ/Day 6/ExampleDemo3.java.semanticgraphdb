@@ -1,0 +1,167 @@
+
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.javaç
+ExampleCLASS}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+packageExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Example"
+accesspackage_private*Example2•
+Example.modify(Wrapper)DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (ï
+Example.modify(Wrapper)METHOD}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">modify</mark>(Wrapper w)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*modify2†
+Example.modify(Wrapper)!wCALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2†
+Example.modify(Wrapper)!wCALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2•
+Example.modify(Wrapper)!w	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2í
+voidRETURN_TYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (¸
+Example.modify(Wrapper)!w	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+typeWrapper"
+isFinalfalse"
+declarationString	Wrapper w*w2é
+WrapperTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (‡
+WrapperCLASS}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+packageWrapper"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Wrapper"
+accesspackage_private*Wrapper2™
+Wrapper.Wrapper(int, String)DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (	2£
+Wrapper?num@21.6:21.9DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (	2•
+Wrapper?name@22.9:22.13DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java	 (ä
+Wrapper.Wrapper(int, String)CONSTRUCTOR}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (	"»
+declarationString≤<mark class="modifier"> </mark><mark class="method">Wrapper</mark>(<mark class="modifier">int</mark> num<mark class="modifier"><mark class="modifier">,</mark></mark> String name)*Wrapper2ß
+ Wrapper.Wrapper(int, String)!numCALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2®
+!Wrapper.Wrapper(int, String)!nameCALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2ú
+Wrapper?num@21.6:21.9CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2û
+Wrapper?name@22.9:22.13CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2¨
+ Wrapper.Wrapper(int, String)!num	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2≠
+!Wrapper.Wrapper(int, String)!name	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (2ï
+WrapperRETURN_TYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (	ô
+ Wrapper.Wrapper(int, String)!num	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> num*num2ä
+intTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java
+ (á
+!Wrapper.Wrapper(int, String)!name	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2ç
+StringTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (˚
+Wrapper?num@21.6:21.9VARIABLE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (	"
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>"
+isStaticfalse"
+accesspackage_private*num2ä
+intTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (Í
+Wrapper?name@22.9:22.13VARIABLE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java	 ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2ç
+StringTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (•
+ExampleDemo2CLASS}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+packageExampleDemo2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>ExampleDemo2"
+accesspackage_private*ExampleDemo22©
+ExampleDemo2.main(String[])DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (ä
+ExampleDemo2.main(String[])METHOD}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ò
+Example.Example()CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! !(2∞
+)ExampleDemo2.main(String[])?e@33.11:33.12CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java" "(2∞
+)ExampleDemo2.main(String[])?w@32.11:32.12CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java" "(2∞
+)ExampleDemo2.main(String[])?w@32.11:32.12CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java$ $(2∞
+)ExampleDemo2.main(String[])?w@32.11:32.12CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java% %(2∞
+)ExampleDemo2.main(String[])?w@32.11:32.12CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java& &(2¨
+ ExampleDemo2.main(String[])!args	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! ('2∑
+)ExampleDemo2.main(String[])?w@32.11:32.12DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java   (2∑
+)ExampleDemo2.main(String[])?e@33.11:33.12DECLARATION}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! !(2í
+voidRETURN_TYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java (›
+)ExampleDemo2.main(String[])?w@32.11:32.12VARIABLE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java   ("
+typeWrapper"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Wrapper <mark class="class-field">w</mark> = new Wrapper(10)*w2é
+WrapperTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java   (
+ˆ
+)ExampleDemo2.main(String[])?e@33.11:33.12VARIABLE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! !("
+typeExample"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>Example <mark class="class-field">e</mark> = new Example()*e2é
+ExampleTYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! !(
+2ò
+Example.Example()CALL}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! !(å
+ ExampleDemo2.main(String[])!args	PARAMETER}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java! ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2è
+String[]TYPE}
+sC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo3.java ('

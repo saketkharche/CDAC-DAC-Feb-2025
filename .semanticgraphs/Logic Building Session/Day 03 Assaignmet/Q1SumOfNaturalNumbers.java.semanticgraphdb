@@ -1,0 +1,61 @@
+
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.javaä
+Q1SumOfNaturalNumbersCLASSñ
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java(" 
+packageQ1SumOfNaturalNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>Q1SumOfNaturalNumbers"
+accesspackage_private*Q1SumOfNaturalNumbers2–
+$Q1SumOfNaturalNumbers.main(String[])DECLARATIONö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (‰
+$Q1SumOfNaturalNumbers.main(String[])METHODö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2’
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (2’
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java! ("2◊
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15CALLö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (2’
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (2◊
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15CALLö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.javaA (D2”
+)Q1SumOfNaturalNumbers.main(String[])!args	PARAMETERö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java% ()2ﬁ
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15DECLARATIONö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (2‹
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18DECLARATIONö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (2∞
+voidRETURN_TYPEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (™
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15VARIABLEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2®
+intTYPEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (§
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18VARIABLEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2®
+intTYPEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java (—
+)Q1SumOfNaturalNumbers.main(String[])!args	PARAMETERö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2≠
+String[]TYPEö
+èC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q1SumOfNaturalNumbers.java ($

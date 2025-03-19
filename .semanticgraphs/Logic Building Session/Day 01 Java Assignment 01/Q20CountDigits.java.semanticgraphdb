@@ -1,0 +1,61 @@
+
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.javaÈ
+Q20CountDigitsCLASSó
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java("
+packageQ20CountDigits"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q20CountDigits"
+accesspackage_private*Q20CountDigits2 
+Q20CountDigits.main(String[])DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (Ú
+Q20CountDigits.main(String[])METHODõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‘
+.Q20CountDigits.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (2‘
+.Q20CountDigits.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (2”
+-Q20CountDigits.main(String[])?count@3.12:3.17CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (2”
+-Q20CountDigits.main(String[])?count@3.12:3.17CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java
+6 
+(;2Õ
+"Q20CountDigits.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java% ()2€
+.Q20CountDigits.main(String[])?number@2.12:2.18DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (2⁄
+-Q20CountDigits.main(String[])?count@3.12:3.17DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (2±
+voidRETURN_TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (¥
+.Q20CountDigits.main(String[])?number@2.12:2.18VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 123456*number2©
+intTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (¨
+-Q20CountDigits.main(String[])?count@3.12:3.17VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2©
+intTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java (Ã
+"Q20CountDigits.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Æ
+String[]TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q20CountDigits.java ($

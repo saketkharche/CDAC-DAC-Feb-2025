@@ -1,0 +1,55 @@
+
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.javaò
+FileNotFoundExceptionExampleCLASSè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java ()"'
+packageFileNotFoundExceptionExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"z
+declarationStringe<mark class="modifier">public </mark><mark class="modifier">class </mark>FileNotFoundExceptionExample"
+accesspublic*FileNotFoundExceptionExample2Ã
++FileNotFoundExceptionExample.main(String[])DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java (‚
++FileNotFoundExceptionExample.main(String[])METHODè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2—
+7FileNotFoundExceptionExample.main(String[])?e@6.39:6.40CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.javaB (C2œ
+0FileNotFoundExceptionExample.main(String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java% ()2€
+:FileNotFoundExceptionExample.main(String[])?file@5.23:5.27DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java (2ÿ
+7FileNotFoundExceptionExample.main(String[])?e@6.39:6.40DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java' ((2•
+voidRETURN_TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java (∂
+:FileNotFoundExceptionExample.main(String[])?file@5.23:5.27VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java ("
+type
+FileReader"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark>FileReader <mark class="class-field">file</mark> = new FileReader("nonexistent.txt")*file2§
+
+FileReaderTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java (¬
+0FileNotFoundExceptionExample.main(String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¢
+String[]TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java ($È
+7FileNotFoundExceptionExample.main(String[])?e@6.39:6.40VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java' (("
+typeFileNotFoundException"
+isFinalfalse",
+declarationStringFileNotFoundException e*e2Ø
+FileNotFoundExceptionTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\FileNotFoundExceptionExample.java (&

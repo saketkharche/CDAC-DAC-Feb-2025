@@ -1,0 +1,74 @@
+
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.javaÀ
+Q26Pattern26CLASSç
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java("
+packageQ26Pattern26"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q26Pattern26"
+accesspackage_private*Q26Pattern262æ
+Q26Pattern26.main(String[])DECLARATIONë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (í
+Q26Pattern26.main(String[])METHODë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2√
+'Q26Pattern26.main(String[])?i@3.17:3.18CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2√
+'Q26Pattern26.main(String[])?i@3.17:3.18CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java  (!2√
+'Q26Pattern26.main(String[])?j@4.21:4.22CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2√
+'Q26Pattern26.main(String[])?i@3.17:3.18CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java! ("2√
+'Q26Pattern26.main(String[])?j@4.21:4.22CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java$ (%2≈
+)Q26Pattern26.main(String[])?num@2.12:2.15CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java! ($2≈
+)Q26Pattern26.main(String[])?num@2.12:2.15CALLë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2¡
+ Q26Pattern26.main(String[])!args	PARAMETERë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java% ()2Ã
+)Q26Pattern26.main(String[])?num@2.12:2.15DECLARATIONë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2 
+'Q26Pattern26.main(String[])?i@3.17:3.18DECLARATIONë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2 
+'Q26Pattern26.main(String[])?j@4.21:4.22DECLARATIONë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (2ß
+voidRETURN_TYPEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (è
+)Q26Pattern26.main(String[])?num@2.12:2.15VARIABLEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 1*num2ü
+intTYPEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (â
+'Q26Pattern26.main(String[])?i@3.17:3.18VARIABLEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2ü
+intTYPEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (â
+'Q26Pattern26.main(String[])?j@4.21:4.22VARIABLEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2ü
+intTYPEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java (∂
+ Q26Pattern26.main(String[])!args	PARAMETERë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2§
+String[]TYPEë
+ÜC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q26Pattern26.java ($

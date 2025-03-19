@@ -1,0 +1,118 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.javaﬁ
+Q5CLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+packageQ5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q5"
+accesspublic*Q52ñ
+Q5.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (Â$
+Q5.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ú
+Q5.main(String[])?sc@4.16:4.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2ú
+Q5.main(String[])?sc@4.16:4.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (	2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (	2†
+"Q5.main(String[])?temp@11.12:11.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.javaJ (K2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.javaY (Z2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (	2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (	2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (	2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.javaL (M2õ
+Q5.main(String[])?b@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java[ (\2ú
+Q5.main(String[])?sc@4.16:4.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (
+2ô
+Q5.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java% ()2£
+Q5.main(String[])?sc@4.16:4.18DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2¢
+Q5.main(String[])?a@6.12:6.13DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2¢
+Q5.main(String[])?b@8.12:8.13DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2ß
+"Q5.main(String[])?temp@11.12:11.16DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (”
+Q5.main(String[])?sc@4.16:4.18VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2è
+java.util.ScannerTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (Ó
+Q5.main(String[])?a@6.12:6.13VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = sc.nextInt()*a2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2ú
+Q5.main(String[])?sc@4.16:4.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (Ó
+Q5.main(String[])?b@8.12:8.13VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = sc.nextInt()*b2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2ú
+Q5.main(String[])?sc@4.16:4.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (Ï
+"Q5.main(String[])?temp@11.12:11.16VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = a*temp2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (2õ
+Q5.main(String[])?a@6.12:6.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java (
+Q5.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ü
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q5.java ($

@@ -1,0 +1,70 @@
+
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.javañ
+Q6Area_of_RectangleCLASS°
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java("
+packageQ6Area_of_Rectangle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier"> </mark><mark class="modifier">class </mark>Q6Area_of_Rectangle"
+accesspackage_private*Q6Area_of_Rectangle2Ÿ
+"Q6Area_of_Rectangle.main(String[])DECLARATION•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (¸
+"Q6Area_of_Rectangle.main(String[])METHOD•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2„
+3Q6Area_of_Rectangle.main(String[])?length@2.12:2.18CALL•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2‰
+4Q6Area_of_Rectangle.main(String[])?breadth@3.12:3.19CALL•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (#2·
+1Q6Area_of_Rectangle.main(String[])?area@4.12:4.16CALL•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java7 (;2‹
+'Q6Area_of_Rectangle.main(String[])!args	PARAMETER•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java% ()2Í
+3Q6Area_of_Rectangle.main(String[])?length@2.12:2.18DECLARATION•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2Î
+4Q6Area_of_Rectangle.main(String[])?breadth@3.12:3.19DECLARATION•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2Ë
+1Q6Area_of_Rectangle.main(String[])?area@4.12:4.16DECLARATION•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2ª
+voidRETURN_TYPE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (»
+3Q6Area_of_Rectangle.main(String[])?length@2.12:2.18VARIABLE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">length</mark> = 5*length2≥
+intTYPE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (Ã
+4Q6Area_of_Rectangle.main(String[])?breadth@3.12:3.19VARIABLE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">breadth</mark> = 10*breadth2≥
+intTYPE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (û
+1Q6Area_of_Rectangle.main(String[])?area@4.12:4.16VARIABLE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">area</mark> = length * breadth*area2≥
+intTYPE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2„
+3Q6Area_of_Rectangle.main(String[])?length@2.12:2.18CALL•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (2‰
+4Q6Area_of_Rectangle.main(String[])?breadth@3.12:3.19CALL•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java (#Â
+'Q6Area_of_Rectangle.main(String[])!args	PARAMETER•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2∏
+String[]TYPE•
+öC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q6Area_of_Rectangle.java ($

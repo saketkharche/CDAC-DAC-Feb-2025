@@ -1,0 +1,113 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.javaã
+Laptop3CLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java("
+packageLaptop3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Laptop3"
+accesspackage_private*Laptop32¶
+Laptop3?ram@1.5:1.8DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (2©
+Laptop3?name@2.15:2.19DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (2©
+Laptop3?price@3.8:3.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (2¢
+Laptop3?name@2.15:2.19CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (à
+Laptop3?ram@1.5:1.8VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java ("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ram</mark> = 2;"
+isStaticfalse"
+accesspackage_private*ram2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (†
+Laptop3?name@2.15:2.19VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java ("
+isFinalfalse"
+typeString"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">static </mark>String <mark class="class-field">name</mark> = "HP";"
+isStatictrue"
+accesspackage_private*name2í
+StringTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (ü
+Laptop3?price@3.8:3.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java ("
+isFinalfalse"
+typedouble"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">price</mark> = 20000.0;"
+isStaticfalse"
+accesspackage_private*price2í
+doubleTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (™
+LaptopDemo3CLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java ("
+packageLaptopDemo3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>LaptopDemo3"
+accesspackage_private*LaptopDemo32≠
+LaptopDemo3.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (˘
+LaptopDemo3.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ù
+Laptop3.Laptop3()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (2ù
+Laptop3.Laptop3()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (2∑
++LaptopDemo3.main(String[])?obj1@30.10:30.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java# #(2∑
++LaptopDemo3.main(String[])?obj2@31.10:31.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java$ $(2∑
++LaptopDemo3.main(String[])?obj2@31.10:31.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java% %(2∞
+LaptopDemo3.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java  (&2æ
++LaptopDemo3.main(String[])?obj1@30.10:30.14DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java
+ (2æ
++LaptopDemo3.main(String[])?obj2@31.10:31.14DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java
+ (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (ç
++LaptopDemo3.main(String[])?obj1@30.10:30.14VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java
+ ("
+typeLaptop3"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>Laptop3 <mark class="class-field">obj1</mark> = new Laptop3()*obj12ì
+Laptop3TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (	2ù
+Laptop3.Laptop3()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (ç
++LaptopDemo3.main(String[])?obj2@31.10:31.14VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java
+ ("
+typeLaptop3"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>Laptop3 <mark class="class-field">obj2</mark> = new Laptop3()*obj22ì
+Laptop3TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (	2ù
+Laptop3.Laptop3()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (ï
+LaptopDemo3.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Laptop3.java (&

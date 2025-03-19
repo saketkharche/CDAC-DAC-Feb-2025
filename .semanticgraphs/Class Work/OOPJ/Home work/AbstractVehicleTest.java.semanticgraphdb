@@ -1,0 +1,200 @@
+
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.javañ
+
+VehicleCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+packageVehicle"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Vehicle"
+accesspackage_private*Vehicle2∂
+Vehicle.Vehicle(String, int)DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2©
+Vehicle.start()DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2Ø
+Vehicle.displayInfo()DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 (2±
+Vehicle?brand@2.11:2.16DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2∞
+Vehicle?speed@3.8:3.13DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (Ù
+Vehicle.Vehicle(String, int)CONSTRUCTORà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("À
+declarationStringµ<mark class="modifier"> </mark><mark class="method">Vehicle</mark>(String brand<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> speed)*Vehicle2µ
+"Vehicle.Vehicle(String, int)!brandCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2µ
+"Vehicle.Vehicle(String, int)!speedCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2™
+Vehicle?brand@2.11:2.16CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2©
+Vehicle?speed@3.8:3.13CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2∫
+"Vehicle.Vehicle(String, int)!brand	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2∫
+"Vehicle.Vehicle(String, int)!speed	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (#2°
+VehicleRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (¢
+"Vehicle.Vehicle(String, int)!brand	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+typeString"
+isFinalfalse"!
+declarationStringString brand*brand2ô
+StringTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (∑
+"Vehicle.Vehicle(String, int)!speed	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (#"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> speed*speed2ñ
+intTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (”
+Vehicle.start()METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+isFinalfalse"¢
+declarationStringå<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstracttrue"
+typevoid*start2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (ó
+Vehicle.displayInfo()METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 ("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">displayInfo</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displayInfo2™
+Vehicle?brand@2.11:2.16CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java' (,2©
+Vehicle?speed@3.8:3.13CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java' (,2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (Ñ
+Vehicle?brand@2.11:2.16VARIABLEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+isFinalfalse"
+typeString"a
+declarationStringL<mark class="modifier"> </mark>String <mark class="class-field">brand</mark>"
+isStaticfalse"
+accesspackage_private*brand2ô
+StringTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (
+ò
+Vehicle?speed@3.8:3.13VARIABLEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+isFinalfalse"
+typeint"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">speed</mark>"
+isStaticfalse"
+accesspackage_private*speed2ñ
+intTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (è
+BikeCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (
+"
+packageBike"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Bike<mark class="modifier"> extends </mark>Vehicle"
+accesspackage_private*Bike2∞
+Bike.Bike(String, int)DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2¶
+Bike.start()DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 (2ú
+VehicleEXTENDà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (¶
+Bike.Bike(String, int)CONSTRUCTORà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("»
+declarationString≤<mark class="modifier"> </mark><mark class="method">Bike</mark>(String brand<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> speed)*Bike2Ø
+Vehicle.Vehicle(String, int)CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2Ø
+Bike.Bike(String, int)!brandCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2Ø
+Bike.Bike(String, int)!speedCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2¥
+Bike.Bike(String, int)!brand	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (2¥
+Bike.Bike(String, int)!speed	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ( 2û
+BikeRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (ú
+Bike.Bike(String, int)!brand	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ("
+typeString"
+isFinalfalse"!
+declarationStringString brand*brand2ô
+StringTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 (±
+Bike.Bike(String, int)!speed	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java ( "
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> speed*speed2ñ
+intTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (Å
+Bike.start()METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 ("
+isFinalfalse"©
+declarationStringì<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*start2¶
+Vehicle.start()OVERRIDEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java	 (2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java (›
+AbstractVehicleTestCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java% %( "
+packageAbstractVehicleTest"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>AbstractVehicleTest"
+accesspublic*AbstractVehicleTest2º
+"AbstractVehicleTest.main(String[])DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java& &(ñ
+"AbstractVehicleTest.main(String[])METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java& &("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2»
+5AbstractVehicleTest.main(String[])?myBike@40.13:40.19CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java+ +(2»
+5AbstractVehicleTest.main(String[])?myBike@40.13:40.19CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java, ,(2ø
+'AbstractVehicleTest.main(String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java&% &()2œ
+5AbstractVehicleTest.main(String[])?myBike@40.13:40.19DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java( ((2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java& &(™
+5AbstractVehicleTest.main(String[])?myBike@40.13:40.19VARIABLEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java( (("
+typeBike"
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier"> </mark>Bike <mark class="class-field">myBike</mark> = new Bike("Yamaha"<mark class="modifier">,</mark> 120)*myBike2ó
+BikeTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java( ((´
+'AbstractVehicleTest.main(String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java&% &()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2õ
+String[]TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\AbstractVehicleTest.java& &($

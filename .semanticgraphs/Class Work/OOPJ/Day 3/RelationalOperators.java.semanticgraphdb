@@ -1,0 +1,75 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.javaÑ
+RelationalOperatorsCLASS€
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java( "
+packageRelationalOperators"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>RelationalOperators"
+accesspublic*RelationalOperators2¸
+"RelationalOperators.main(String[])DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (°
+"RelationalOperators.main(String[])METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java( ()2½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java- (.2½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java, (-2½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java1 (22½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java/ (02½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java3 (42½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java, (-2½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java0 (12½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java3 (42½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java8 (92½
+.RelationalOperators.main(String[])?x@2.12:2.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java0 (12½
+.RelationalOperators.main(String[])?y@2.20:2.21CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java5 (62»
+'RelationalOperators.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java% ()2Ä
+.RelationalOperators.main(String[])?x@2.12:2.13DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (2Ä
+.RelationalOperators.main(String[])?y@2.20:2.21DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (2š
+voidRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (ÿ
+.RelationalOperators.main(String[])?x@2.12:2.13VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = 10, y = 5*x2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (ÿ
+.RelationalOperators.main(String[])?y@2.20:2.21VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark> = 10, y = 5*y2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java (£
+'RelationalOperators.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2—
+String[]TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\RelationalOperators.java ($

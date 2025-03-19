@@ -1,0 +1,42 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.javaŠ
+IfDemoCLASS|
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java("
+packageIfDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>IfDemo"
+accesspackage_private*IfDemo2§
+IfDemo.main(String[])DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java (²
+IfDemo.main(String[])METHOD€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ª
+IfDemo.main(String[])!args	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java  (&2³
+!IfDemo.main(String[])?age@3.5:3.8DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java (2–
+voidRETURN_TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java (æ
+!IfDemo.main(String[])?age@3.5:3.8VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">age</mark> = 15*age2Ž
+intTYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java (Ž
+IfDemo.main(String[])!args	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2“
+String[]TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\IfDemo.java (&

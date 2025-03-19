@@ -1,0 +1,128 @@
+
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java∫
+AdderCLASS
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java("
+packageAdder"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Adder"
+accesspackage_private*Adder2®
+Adder.add(int, int)DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2≠
+Adder.add(int, int, int)DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (Í
+
+Adder.add(int, int)METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">add</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*add2£
+Adder.add(int, int)!aCALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2£
+Adder.add(int, int)!bCALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2®
+Adder.add(int, int)!a	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2®
+Adder.add(int, int)!b	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2ò
+intRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ò
+Adder.add(int, int)!a	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ò
+Adder.add(int, int)!b	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ø
+Adder.add(int, int, int)METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+isFinalfalse"Ç
+declarationStringÏ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">add</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> c)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*add2®
+Adder.add(int, int, int)!aCALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2®
+Adder.add(int, int, int)!bCALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2®
+Adder.add(int, int, int)!cCALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2≠
+Adder.add(int, int, int)!a	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2≠
+Adder.add(int, int, int)!b	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (2≠
+Adder.add(int, int, int)!c	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java% (&2ò
+intRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ù
+Adder.add(int, int, int)!a	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ù
+Adder.add(int, int, int)!b	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (ù
+Adder.add(int, int, int)!c	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> c*c2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java! ($Œ
+MethodOverloading1CLASSÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+packageMethodOverloading1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>MethodOverloading1"
+accesspublic*MethodOverloading12∂
+!MethodOverloading1.main(String[])DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (Í
+!MethodOverloading1.main(String[])METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2°
+Adder.add(int, int)CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java! ($2¶
+Adder.add(int, int, int)CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java! ($2π
+&MethodOverloading1.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java% ()2ô
+voidRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java (†
+&MethodOverloading1.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ñ
+String[]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\MethodOverloading1.java ($

@@ -1,0 +1,115 @@
+
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.javaÒ
+ExceptionDemo8CLASSù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ("
+packageExceptionDemo8"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier"> </mark><mark class="modifier">class </mark>ExceptionDemo8"
+accesspackage_private*ExceptionDemo82Ã
+ExceptionDemo8.main(String[])DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (´
+ExceptionDemo8.main(String[])METHODù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2—
+)ExceptionDemo8.main(String[])?s1@7.9:7.11CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java
+ 
+(2—
+)ExceptionDemo8.main(String[])?s2@8.9:8.11CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?i@10.6:10.7CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?j@11.6:11.7CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?k@14.7:14.8CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2œ
+"ExceptionDemo8.main(String[])!args	PARAMETERù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java% ()2ÿ
+)ExceptionDemo8.main(String[])?s1@7.9:7.11DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java	 (2ÿ
+)ExceptionDemo8.main(String[])?s2@8.9:8.11DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java	 (2ÿ
+)ExceptionDemo8.main(String[])?i@10.6:10.7DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java
+ 
+(2ÿ
+)ExceptionDemo8.main(String[])?j@11.6:11.7DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2ÿ
+)ExceptionDemo8.main(String[])?k@14.7:14.8DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2⁄
++ExceptionDemo8.main(String[])?e@21.29:21.30DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2≥
+voidRETURN_TYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (ì
+)ExceptionDemo8.main(String[])?s1@7.9:7.11VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java	 ("
+typeString"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>String <mark class="class-field">s1</mark> = "15"*s12Æ
+StringTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (í
+)ExceptionDemo8.main(String[])?s2@8.9:8.11VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java	 ("
+typeString"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>String <mark class="class-field">s2</mark> = "0"*s22Æ
+StringTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (ã
+)ExceptionDemo8.main(String[])?i@10.6:10.7VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java
+ 
+("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = Integer.parseInt(s1)*i2´
+intTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java
+ 
+(2—
+)ExceptionDemo8.main(String[])?s1@7.9:7.11CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java
+ 
+(ã
+)ExceptionDemo8.main(String[])?j@11.6:11.7VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = Integer.parseInt(s2)*j2´
+intTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?s2@8.9:8.11CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (–
+)ExceptionDemo8.main(String[])?k@14.7:14.8VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = i / j*k2´
+intTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?i@10.6:10.7CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (2—
+)ExceptionDemo8.main(String[])?j@11.6:11.7CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (–
+"ExceptionDemo8.main(String[])!args	PARAMETERù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2∞
+String[]TYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ($ˆ
++ExceptionDemo8.main(String[])?e@21.29:21.30VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java ("
+typeNullPointerException"
+isFinalfalse"+
+declarationStringNullPointerException e*e2º
+NullPointerExceptionTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ExceptionDemo8.java (

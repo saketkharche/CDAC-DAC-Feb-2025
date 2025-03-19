@@ -1,0 +1,59 @@
+
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java­	
+com.springcore.ci.CertiCLASS¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java ("
+packagecom.springcore.ci"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>Certi"
+accesspublic*Certi2€
+/com.springcore.ci.Certi.Certi(java.lang.String)DECLARATION¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2ó
+"com.springcore.ci.Certi.toString()DECLARATION¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2ö
+%com.springcore.ci.Certi?name@3.9:3.13DECLARATION¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java	 (»
+/com.springcore.ci.Certi.Certi(java.lang.String)CONSTRUCTOR¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java ("h
+declarationStringS<mark class="modifier">public </mark><mark class="method">Certi</mark>(String name)*Certi2ã
+java.lang.Object.Object()CALL¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2þ
+4com.springcore.ci.Certi.Certi(java.lang.String)!nameCALL¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2ï
+%com.springcore.ci.Certi?name@3.9:3.13CALL¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2ƒ
+4com.springcore.ci.Certi.Certi(java.lang.String)!name	PARAMETER¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2è
+com.springcore.ci.CertiRETURN_TYPE¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (ª
+4com.springcore.ci.Certi.Certi(java.lang.String)!name	PARAMETER¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Ú
+java.lang.StringTYPE¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (Ã
+"com.springcore.ci.Certi.toString()METHOD¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java ("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2ï
+%com.springcore.ci.Certi?name@3.9:3.13CALL¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (2á
+java.lang.StringRETURN_TYPE¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (ˆ
+%com.springcore.ci.Certi?name@3.9:3.13VARIABLE¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java	 ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2Ú
+java.lang.StringTYPE¿
+´C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Certi.java (

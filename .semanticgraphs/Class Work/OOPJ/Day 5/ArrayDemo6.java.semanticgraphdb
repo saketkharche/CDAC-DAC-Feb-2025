@@ -1,0 +1,118 @@
+
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.javaó
+
+ArrayDemo6CLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java ("
+package
+ArrayDemo6"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrayDemo6"
+accesspackage_private*
+ArrayDemo62•
+ArrayDemo6.main(String[])DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (¬
+ArrayDemo6.main(String[])METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2´
+&ArrayDemo6.main(String[])?arr@9.6:9.13CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java
+ 
+(2®
+#ArrayDemo6.main(String[])?a@5.6:5.9CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java
+	 
+(
+2´
+&ArrayDemo6.main(String[])?arr@9.6:9.13CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2®
+#ArrayDemo6.main(String[])?b@6.6:6.9CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java	 (
+2´
+&ArrayDemo6.main(String[])?arr@9.6:9.13CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2®
+#ArrayDemo6.main(String[])?c@7.6:7.9CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java	 (
+2´
+&ArrayDemo6.main(String[])?arr@9.6:9.13CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2≠
+(ArrayDemo6.main(String[])?ar@14.10:14.14CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2¨
+'ArrayDemo6.main(String[])?x@16.11:16.12CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2®
+ArrayDemo6.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java  (&2Ø
+#ArrayDemo6.main(String[])?a@5.6:5.9DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	2Ø
+#ArrayDemo6.main(String[])?b@6.6:6.9DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	2Ø
+#ArrayDemo6.main(String[])?c@7.6:7.9DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	2≤
+&ArrayDemo6.main(String[])?arr@9.6:9.13DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java	 	(2¥
+(ArrayDemo6.main(String[])?ar@14.10:14.14DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java
+ (2≥
+'ArrayDemo6.main(String[])?x@16.11:16.12DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (Ê
+#ArrayDemo6.main(String[])?a@5.6:5.9VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	"
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = { 1, 2, 3 }*a2ä
+int[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	È
+#ArrayDemo6.main(String[])?b@6.6:6.9VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	"
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">b</mark> = { 11, 12, 13 }*b2ä
+int[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	È
+#ArrayDemo6.main(String[])?c@7.6:7.9VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	"
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">c</mark> = { 21, 22, 23 }*c2ä
+int[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (	ë
+&ArrayDemo6.main(String[])?arr@9.6:9.13VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java	 	("
+typeint"
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[3][]*arr2å
+int[][]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java	 	(ﬁ
+(ArrayDemo6.main(String[])?ar@14.10:14.14VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java
+ ("
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">ar</mark>*ar2ä
+int[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (◊
+'ArrayDemo6.main(String[])?x@16.11:16.12VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark>*x2à
+intTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (
+Ü
+ArrayDemo6.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ç
+String[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo6.java (&

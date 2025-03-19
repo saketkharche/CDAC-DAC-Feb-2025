@@ -1,0 +1,59 @@
+
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java‡
+Q12StarPattern1CLASSê
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java("
+packageQ12StarPattern1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>Q12StarPattern1"
+accesspackage_private*Q12StarPattern12ƒ
+Q12StarPattern1.main(String[])DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (†
+Q12StarPattern1.main(String[])METHODî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2…
+*Q12StarPattern1.main(String[])?i@2.17:2.18CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (2…
+*Q12StarPattern1.main(String[])?i@2.17:2.18CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java ( 2…
+*Q12StarPattern1.main(String[])?j@3.21:3.22CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (2…
+*Q12StarPattern1.main(String[])?j@3.21:3.22CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java# ($2«
+#Q12StarPattern1.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java% ()2–
+*Q12StarPattern1.main(String[])?i@2.17:2.18DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (2–
+*Q12StarPattern1.main(String[])?j@3.21:3.22DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (2™
+voidRETURN_TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (í
+*Q12StarPattern1.main(String[])?i@2.17:2.18VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (í
+*Q12StarPattern1.main(String[])?j@3.21:3.22VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java (ø
+#Q12StarPattern1.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ß
+String[]TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q12StarPattern1.java ($

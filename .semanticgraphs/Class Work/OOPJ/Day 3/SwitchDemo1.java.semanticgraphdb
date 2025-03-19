@@ -1,0 +1,44 @@
+
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.javaš
+SwitchDemo1CLASSx
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java("
+packageSwitchDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>SwitchDemo1"
+accesspackage_private*SwitchDemo12§
+SwitchDemo1.main(String[])DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java (Ü
+SwitchDemo1.main(String[])METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¬
+&SwitchDemo1.main(String[])?ch@3.9:3.11CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java	 (2ª
+SwitchDemo1.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java% ()2³
+&SwitchDemo1.main(String[])?ch@3.9:3.11DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java	 (2‘
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java (Ë
+&SwitchDemo1.main(String[])?ch@3.9:3.11VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java	 ("
+typeString"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>String <mark class="class-field">ch</mark> = "a"*ch2Œ
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java (‰
+SwitchDemo1.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ž
+String[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\SwitchDemo1.java ($

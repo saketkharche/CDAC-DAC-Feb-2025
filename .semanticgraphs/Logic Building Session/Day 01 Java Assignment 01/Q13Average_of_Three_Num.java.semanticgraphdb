@@ -1,0 +1,84 @@
+
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java¨
+Q13Average_of_Three_NumCLASS 
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java(""
+packageQ13Average_of_Three_Num"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q13Average_of_Three_Num"
+accesspackage_private*Q13Average_of_Three_Num2Ü
+&Q13Average_of_Three_Num.main(String[])DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (ä
+&Q13Average_of_Three_Num.main(String[])METHOD¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2ä
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java! (%2ä
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java( (,2ç
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java0 (72ß
++Q13Average_of_Three_Num.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java# ('2ë
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2ë
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2ë
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2î
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2º
+voidRETURN_TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (Å
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num1</mark> = 20*num12²
+intTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (Å
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num2</mark> = 40*num22²
+intTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (Å
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num3</mark> = 60*num32²
+intTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (¥
+
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("
+typedouble"
+isFinalfalse"Ÿ
+declarationString‰<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">average</mark> = (num1 + num2 + num3) / 3.0*average2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2ä
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java (2ä
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java! (%2ä
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java( (,ç
++Q13Average_of_Three_Num.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2·
+String[]TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q13Average_of_Three_Num.java ("

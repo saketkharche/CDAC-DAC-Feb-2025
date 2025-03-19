@@ -1,0 +1,95 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java§
+
+StringDemoCLASS€
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java("
+package
+StringDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>StringDemo"
+accesspackage_private*
+StringDemo2¯
+StringDemo.main(String[])DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (ý
+StringDemo.main(String[])METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2²
+#StringDemo.main(String[])?s@4.8:4.9CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (2²
+#StringDemo.main(String[])?s@4.8:4.9CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (2À
+1StringDemo.main(String[])?concatString@24.8:24.20CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java ( 2²
+StringDemo.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java" (&2¹
+#StringDemo.main(String[])?s@4.8:4.9DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (	2»
+%StringDemo.main(String[])?s2@7.8:7.10DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (
+2»
+%StringDemo.main(String[])?s1@8.8:8.10DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (
+2»
+%StringDemo.main(String[])?s3@9.8:9.10DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java	 	(
+2Ç
+1StringDemo.main(String[])?concatString@24.8:24.20DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (2š
+voidRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (Ú
+#StringDemo.main(String[])?s@4.8:4.9VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (	"
+typeString"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = "ABC"*s2•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (Þ
+%StringDemo.main(String[])?s2@7.8:7.10VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (
+"
+typeString"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>String <mark class="class-field">s2</mark> = "ABC"*s22•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (ê
+%StringDemo.main(String[])?s1@8.8:8.10VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (
+"
+typeString"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>String <mark class="class-field">s1</mark> = new String("XYZ")*s12•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (ê
+%StringDemo.main(String[])?s3@9.8:9.10VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java	 	(
+"
+typeString"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>String <mark class="class-field">s3</mark> = new String("XYZ")*s32•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java	 	(À
+1StringDemo.main(String[])?concatString@24.8:24.20VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java ("
+typeString"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>String <mark class="class-field">concatString</mark> = s.concat(" Vipul")*concatString2•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (2²
+#StringDemo.main(String[])?s@4.8:4.9CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (š
+StringDemo.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2—
+String[]TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\StringDemo.java (!

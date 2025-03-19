@@ -1,0 +1,46 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java‚
+Test1CLASS{
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java("
+packageTest1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Test1"
+accesspackage_private*Test12¤
+Test1.main(String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (ù	
+Test1.main(String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2§
+Test1.main(String[])?a@3.6:3.7CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (2§
+Test1.main(String[])?a@3.6:3.7CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (2§
+Test1.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java  (&2®
+Test1.main(String[])?a@3.6:3.7DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (2”
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (Ú
+Test1.main(String[])?a@3.6:3.7VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 5*a2Œ
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (‰
+Test1.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2‘
+String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\Test1.java (&

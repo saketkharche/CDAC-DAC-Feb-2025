@@ -1,0 +1,74 @@
+
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.javaì
+Q3Divide_Two_NumbersCLASSù
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java("
+packageQ3Divide_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3Divide_Two_Numbers"
+accesspackage_private*Q3Divide_Two_Numbers2÷
+#Q3Divide_Two_Numbers.main(String[])DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (
+#Q3Divide_Two_Numbers.main(String[])METHOD°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java# ($2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java/ (02Ÿ
+(Q3Divide_Two_Numbers.main(String[])!args	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java# ('2‡
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	2‡
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	2‡
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	2∑
+voidRETURN_TYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (∞
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 50*a2Ø
+intTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (Ø
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 3*b2Ø
+intTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (Ï
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = a / b*c2Ø
+intTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (2Ÿ
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java (ﬁ
+(Q3Divide_Two_Numbers.main(String[])!args	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¥
+String[]TYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q3Divide_Two_Numbers.java ("

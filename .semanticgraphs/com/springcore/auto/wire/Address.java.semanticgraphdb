@@ -1,0 +1,144 @@
+
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java∫
+ com.springcore.auto.wire.AddressCLASS»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("#
+packagecom.springcore.auto.wire"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Address"
+accesspublic*Address2Ü
+,com.springcore.auto.wire.Address.getStreet()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2ñ
+<com.springcore.auto.wire.Address.setStreet(java.lang.String)DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+(2Ñ
+*com.springcore.auto.wire.Address.getCity()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2î
+:com.springcore.auto.wire.Address.setCity(java.lang.String)DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2Ö
++com.springcore.auto.wire.Address.toString()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2ã
+1com.springcore.auto.wire.Address?street@3.16:3.22DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2â
+/com.springcore.auto.wire.Address?city@4.16:4.20DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (∆
+,com.springcore.auto.wire.Address.getStreet()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"h
+declarationStringS<mark class="modifier">public </mark>String <mark class="method">getStreet</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*	getStreet2Ñ
+1com.springcore.auto.wire.Address?street@3.16:3.22CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java	 (2Í
+java.lang.StringRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (©
+<com.springcore.auto.wire.Address.setStreet(java.lang.String)METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+("
+isFinalfalse"ë
+declarationString|<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setStreet</mark>(String street)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	setStreet2ñ
+Ccom.springcore.auto.wire.Address.setStreet(java.lang.String)!streetCALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2Ñ
+1com.springcore.auto.wire.Address?street@3.16:3.22CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2õ
+Ccom.springcore.auto.wire.Address.setStreet(java.lang.String)!street	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+($2ﬁ
+voidRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+(œ
+Ccom.springcore.auto.wire.Address.setStreet(java.lang.String)!street	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+($"
+typeString"
+isFinalfalse""
+declarationStringString street*street2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java
+ 
+(æ
+*com.springcore.auto.wire.Address.getCity()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getCity</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getCity2Ç
+/com.springcore.auto.wire.Address?city@4.16:4.20CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java	 (2Í
+java.lang.StringRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (ó
+:com.springcore.auto.wire.Address.setCity(java.lang.String)METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"ç
+declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setCity</mark>(String city)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setCity2í
+?com.springcore.auto.wire.Address.setCity(java.lang.String)!cityCALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2Ç
+/com.springcore.auto.wire.Address?city@4.16:4.20CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (2ó
+?com.springcore.auto.wire.Address.setCity(java.lang.String)!city	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ( 2ﬁ
+voidRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java («
+?com.springcore.auto.wire.Address.setCity(java.lang.String)!city	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ( "
+typeString"
+isFinalfalse" 
+declarationStringString city*city2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (¯	
++com.springcore.auto.wire.Address.toString()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Ñ
+1com.springcore.auto.wire.Address?street@3.16:3.22CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ($2Ç
+/com.springcore.auto.wire.Address?city@4.16:4.20CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java3 (72Í
+java.lang.StringRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java (©
+1com.springcore.auto.wire.Address?street@3.16:3.22VARIABLE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"
+typeString"i
+declarationStringT<mark class="modifier">private </mark>String <mark class="class-field">street</mark>"
+isStaticfalse"
+accessprivate*street2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java	 (£
+/com.springcore.auto.wire.Address?city@4.16:4.20VARIABLE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">city</mark>"
+isStaticfalse"
+accessprivate*city2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\Address.java	 (

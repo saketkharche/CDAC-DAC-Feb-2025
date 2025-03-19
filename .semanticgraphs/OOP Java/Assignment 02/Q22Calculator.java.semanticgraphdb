@@ -1,0 +1,146 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java´
+Q22CalculatorCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+packageQ22Calculator"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Q22Calculator"
+accesspublic*Q22Calculator2¨
+Q22Calculator.main(String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (≈-
+Q22Calculator.main(String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java
+ 
+(2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2∫
+1Q22Calculator.main(String[])?operator@12.13:12.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2∏
+/Q22Calculator.main(String[])?result@15.15:15.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2¥
++Q22Calculator.main(String[])?num1@8.15:8.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (#2∂
+-Q22Calculator.main(String[])?num2@10.15:10.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java& (*2∏
+/Q22Calculator.main(String[])?result@15.15:15.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2¥
++Q22Calculator.main(String[])?num1@8.15:8.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (#2∂
+-Q22Calculator.main(String[])?num2@10.15:10.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java& (*2∏
+/Q22Calculator.main(String[])?result@15.15:15.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2¥
++Q22Calculator.main(String[])?num1@8.15:8.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (#2∂
+-Q22Calculator.main(String[])?num2@10.15:10.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java& (*2∏
+/Q22Calculator.main(String[])?result@15.15:15.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2∂
+-Q22Calculator.main(String[])?num2@10.15:10.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java  ($2¥
++Q22Calculator.main(String[])?num1@8.15:8.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java. (22∂
+-Q22Calculator.main(String[])?num2@10.15:10.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java5 (92¿
+7Q22Calculator.main(String[])?validOperation@16.16:16.30CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2¿
+7Q22Calculator.main(String[])?validOperation@16.16:16.30CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2∏
+/Q22Calculator.main(String[])?result@15.15:15.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java, (22≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java! !(
+2Ø
+!Q22Calculator.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java% ()2π
+)Q22Calculator.main(String[])?sc@4.16:4.18DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2ª
++Q22Calculator.main(String[])?num1@8.15:8.19DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2Ω
+-Q22Calculator.main(String[])?num2@10.15:10.19DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java
+ 
+(2¡
+1Q22Calculator.main(String[])?operator@12.13:12.21DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2ø
+/Q22Calculator.main(String[])?result@15.15:15.21DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2«
+7Q22Calculator.main(String[])?validOperation@16.16:16.30DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (Ù
+)Q22Calculator.main(String[])?sc@4.16:4.18VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ö
+java.util.ScannerTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (∫
++Q22Calculator.main(String[])?num1@8.15:8.19VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+typedouble"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num1</mark> = sc.nextDouble()*num12è
+doubleTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (º
+-Q22Calculator.main(String[])?num2@10.15:10.19VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java
+ 
+("
+typedouble"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num2</mark> = sc.nextDouble()*num22è
+doubleTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java
+ 
+(2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java
+ 
+(ß
+1Q22Calculator.main(String[])?operator@12.13:12.21VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+typechar"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = sc.next().charAt(0)*operator2ç
+charTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (2≤
+)Q22Calculator.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (ˇ
+/Q22Calculator.main(String[])?result@15.15:15.21VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+typedouble"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">result</mark> = 0*result2è
+doubleTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (ù
+7Q22Calculator.main(String[])?validOperation@16.16:16.30VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ("
+typeboolean"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">validOperation</mark> = true*validOperation2ê
+booleanTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java (ë
+!Q22Calculator.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ë
+String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q22Calculator.java ($

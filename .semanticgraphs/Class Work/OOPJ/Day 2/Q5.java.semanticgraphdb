@@ -1,0 +1,78 @@
+
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.javaÿ
+Q5CLASSo
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java("
+packageQ5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q5"
+accesspublic*Q52ï
+Q5.main(String[])DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (º
+Q5.main(String[])METHODs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¶
+)Q5.main(String[])?binaryLiteral@3.12:3.25CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.javaD (Q2•
+(Q5.main(String[])?octalLiteral@7.12:7.24CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java@ (L2•
+(Q5.main(String[])?hexLiteral@11.12:11.22CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.javaF (P2Ø
+2Q5.main(String[])?floatingPointLiteral@15.15:15.35CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java? (S2ò
+Q5.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java% ()2≠
+)Q5.main(String[])?binaryLiteral@3.12:3.25DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (2¨
+(Q5.main(String[])?octalLiteral@7.12:7.24DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (2¨
+(Q5.main(String[])?hexLiteral@11.12:11.22DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (2∂
+2Q5.main(String[])?floatingPointLiteral@15.15:15.35DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (#2à
+voidRETURN_TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (Î
+)Q5.main(String[])?binaryLiteral@3.12:3.25VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java ("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">binaryLiteral</mark> = 0b1010*binaryLiteral2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (Â
+(Q5.main(String[])?octalLiteral@7.12:7.24VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">octalLiteral</mark> = 012*octalLiteral2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (·
+(Q5.main(String[])?hexLiteral@11.12:11.22VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">hexLiteral</mark> = 0xA*
+hexLiteral2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (ä
+2Q5.main(String[])?floatingPointLiteral@15.15:15.35VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (#"
+typedouble"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">floatingPointLiteral</mark> = 10.5*floatingPointLiteral2É
+doubleTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java (Ó
+Q5.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ö
+String[]TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q5.java ($

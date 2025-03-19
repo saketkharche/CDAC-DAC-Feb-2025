@@ -1,0 +1,63 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.javaﬁ
+Q9CLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java ("
+packageQ9"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q9"
+accesspublic*Q92ñ
+Q9.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (°
+Q9.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2°
+#Q9.main(String[])?scanner@4.16:4.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (2°
+#Q9.main(String[])?scanner@4.16:4.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java
+ 
+(2õ
+Q9.main(String[])?N@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.javaF (G2õ
+Q9.main(String[])?N@8.12:8.13CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.javaQ (R2ô
+Q9.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java% ()2®
+#Q9.main(String[])?scanner@4.16:4.23DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (2¢
+Q9.main(String[])?N@8.12:8.13DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (‚
+#Q9.main(String[])?scanner@4.16:4.23VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2è
+java.util.ScannerTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (¯
+Q9.main(String[])?N@8.12:8.13VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = scanner.nextInt()*N2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (2°
+#Q9.main(String[])?scanner@4.16:4.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java (
+Q9.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ü
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q9.java ($

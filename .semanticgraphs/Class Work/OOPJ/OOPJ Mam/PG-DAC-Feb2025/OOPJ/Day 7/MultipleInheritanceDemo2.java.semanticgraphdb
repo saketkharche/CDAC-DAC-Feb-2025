@@ -1,0 +1,187 @@
+
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.javaß
+PrinterTRAIT§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java
+ ("
+packagePrinter"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">interface </mark>Printer"
+accesspackage_private*Printer2È
+Printer.print()DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (é
+Printer.print()METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">print</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*print2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (­
+ScannerTRAIT§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java
+ ("
+packageScanner"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">interface </mark>Scanner"
+accesspackage_private*Scanner2Ç
+Scanner.scan()DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (
+2Ì
+Scanner.square(int)DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	(æ
+Scanner.scan()METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">scan</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*scan2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (˜
+
+Scanner.square(int)METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	("
+isFinalfalse"Ã
+declarationString­<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">square</mark>(<mark class="modifier">int</mark> x)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*square2Ç
+Scanner.square(int)!xCALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 (
+2Ç
+Scanner.square(int)!xCALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (2Ì
+Scanner.square(int)!x	PARAMETER§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	(2¼
+intRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	(à
+Scanner.square(int)!x	PARAMETER§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2µ
+intTYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java	 	(°
+ComputerCLASS§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java ("
+packageComputer"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ž
+declarationStringˆ<mark class="modifier"> </mark><mark class="modifier">class </mark>Computer<mark class="modifier"><br>implements </mark>Printer, Scanner"
+accesspackage_private*Computer2É
+Computer.print()DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (2È
+Computer.scan()DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (2Ç
+Computer.msg()DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (	2»
+PrinterEXTEND§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (!2»
+ScannerEXTEND§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# (*°
+Computer.print()METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java ("
+isFinalfalse"€
+declarationStringk<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">print</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*print2Å
+Printer.print()OVERRIDE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java («
+Computer.scan()METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java ("
+isFinalfalse"
+declarationStringj<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">scan</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*scan2Ä
+Scanner.scan()OVERRIDE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (ä
+Computer.msg()METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (	"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">msg</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*msg2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java (·
+MultipleInheritanceDemo2CLASS§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java   ("#
+packageMultipleInheritanceDemo2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier"> </mark><mark class="modifier">class </mark>MultipleInheritanceDemo2"
+accesspackage_private*MultipleInheritanceDemo22à
+'MultipleInheritanceDemo2.main(String[])DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java! !(Ô
+'MultipleInheritanceDemo2.main(String[])METHOD§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java! !("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+Scanner.square(int)CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java' '(#2Å
+Computer.Computer()CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# #(2ç
+5MultipleInheritanceDemo2.main(String[])?c@35.11:35.12CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java$ $(2ç
+5MultipleInheritanceDemo2.main(String[])?c@35.11:35.12CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java% %(2ç
+5MultipleInheritanceDemo2.main(String[])?c@35.11:35.12CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java& &(2ã
+,MultipleInheritanceDemo2.main(String[])!args	PARAMETER§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java!  !(&2î
+5MultipleInheritanceDemo2.main(String[])?c@35.11:35.12DECLARATION§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# #(2½
+voidRETURN_TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java! !(‰
+5MultipleInheritanceDemo2.main(String[])?c@35.11:35.12VARIABLE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# #("
+typeComputer"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Computer <mark class="class-field">c</mark> = new Computer()*c2º
+ComputerTYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# #(
+2Å
+Computer.Computer()CALL§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java# #(î
+,MultipleInheritanceDemo2.main(String[])!args	PARAMETER§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java!  !(&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2º
+String[]TYPE§
+œC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultipleInheritanceDemo2.java! !(&

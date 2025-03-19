@@ -1,0 +1,81 @@
+
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java¬
+Q20AbsoluteValueCLASSÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ("
+packageQ20AbsoluteValue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>Q20AbsoluteValue"
+accesspublic*Q20AbsoluteValue2≥
+Q20AbsoluteValue.main(String[])DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (€
+Q20AbsoluteValue.main(String[])METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2π
+,Q20AbsoluteValue.main(String[])?sc@4.16:4.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java$ ('2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java* (-2¡
+4Q20AbsoluteValue.main(String[])?absValue@11.12:11.20CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java0 (82π
+,Q20AbsoluteValue.main(String[])?sc@4.16:4.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (
+2∂
+$Q20AbsoluteValue.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java% ()2¿
+,Q20AbsoluteValue.main(String[])?sc@4.16:4.18DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2¡
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2»
+4Q20AbsoluteValue.main(String[])?absValue@11.12:11.20DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (ˇ
+,Q20AbsoluteValue.main(String[])?sc@4.16:4.18VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2û
+java.util.ScannerTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (Ω
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = sc.nextInt()*num2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2π
+,Q20AbsoluteValue.main(String[])?sc@4.16:4.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (‘
+4Q20AbsoluteValue.main(String[])?absValue@11.12:11.20VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ("
+typeint"
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">absValue</mark> = (num < 0) ? -num : num*absValue2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java (2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java$ ('2∫
+-Q20AbsoluteValue.main(String[])?num@8.12:8.15CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java* (-ú
+$Q20AbsoluteValue.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+String[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q20AbsoluteValue.java ($

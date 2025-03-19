@@ -1,0 +1,73 @@
+
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java˝
+array2dCLASSu
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java("
+packagearray2d"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>array2d"
+accesspublic*array2d2†
+array2d.main(String[])DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (É
+array2d.main(String[])METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2®
+%array2d.main(String[])?arr1@4.12:4.20CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2®
+%array2d.main(String[])?arr2@5.12:5.20CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2£
+array2d.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java% ()2Ø
+%array2d.main(String[])?arr1@4.12:4.20DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2Ø
+%array2d.main(String[])?arr2@5.12:5.20DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2Æ
+$array2d.main(String[])?arr@7.16:7.21DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2Ø
+%array2d.main(String[])?ar@11.16:11.20DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (é
+%array2d.main(String[])?arr1@4.12:4.20VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[2][]*arr12ä
+int[][]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (è
+%array2d.main(String[])?arr2@5.12:5.20VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ("
+typeint"
+isFinalfalse"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr2</mark> = new <mark class="modifier">int</mark>[4][3]*arr22ä
+int[][]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (ÿ
+$array2d.main(String[])?arr@7.16:7.21VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark>*arr2à
+int[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (◊
+%array2d.main(String[])?ar@11.16:11.20VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ("
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">ar</mark>*ar2à
+int[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java (ˇ
+array2d.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ã
+String[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 05\array2d.java ($

@@ -1,0 +1,73 @@
+
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.javaè
+c1CLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java ("
+packagec1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"‰
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">class </mark>c1<mark class="modifier"> extends </mark>problem2"
+accesspackage_private*c12Ï
+c1.problem2()DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 (2Þ
+!folder.folderl1.folderl2.problem2EXTEND°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (ÿ
+c1.problem2()METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 ("
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">problem2</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*problem22Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (ö
+problem4CLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java ("
+packageproblem4"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem4"
+accesspublic*problem42Ù
+problem4.main(String[])DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 	(¿
+
+problem4.main(String[])METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 	("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Â
+c1.c1()CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (2Ü
+problem4.main(String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	% 	()2ç
+%problem4.main(String[])?c@11.11:11.12DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 	(ð
+%problem4.main(String[])?c@11.11:11.12VARIABLE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java ("
+
+typec1"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>c1 <mark class="class-field">c</mark> = new c1()*c2½
+c1TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (
+2Â
+c1.c1()CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java (ð
+problem4.main(String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ã
+String[]TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem4.java	 	($

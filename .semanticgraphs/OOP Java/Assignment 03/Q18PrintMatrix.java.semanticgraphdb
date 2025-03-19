@@ -1,0 +1,142 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.javaî
+Q18PrintMatrixCLASS|
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java("
+packageQ18PrintMatrix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q18PrintMatrix"
+accesspublic*Q18PrintMatrix2¯
+Q18PrintMatrix.main(String[])DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¼
+*Q18PrintMatrix.printMatrixRowWise(int[][])DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ()»
+Q18PrintMatrix.main(String[])METHOD€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2µ
+*Q18PrintMatrix.printMatrixRowWise(int[][])CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¹
+.Q18PrintMatrix.main(String[])?matrix@3.16:3.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java
+3 
+(92¹
+.Q18PrintMatrix.main(String[])?matrix@3.16:3.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java
+I 
+(O2¹
+.Q18PrintMatrix.main(String[])?matrix@3.16:3.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (!2²
+"Q18PrintMatrix.main(String[])!args	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java% ()2À
+.Q18PrintMatrix.main(String[])?matrix@3.16:3.22DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2–
+voidRETURN_TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (ò
+.Q18PrintMatrix.main(String[])?matrix@3.16:3.22VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+typeint"
+isFinalfalse"ö
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3, 4 }<mark class="modifier">,</mark> { 5, 6, 7, 8 }<mark class="modifier">,</mark> { 9, 10, 11, 12 } }*matrix2’
+int[][]TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (–
+"Q18PrintMatrix.main(String[])!args	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2“
+String[]TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ($‚!
+*Q18PrintMatrix.printMatrixRowWise(int[][])METHOD€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ()"
+isFinalfalse"ß
+declarationStringÉ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrixRowWise</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrixRowWise2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ($2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?i@29.17:29.18CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?m@25.12:25.13CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?i@29.17:29.18CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ( 2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?j@31.21:31.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?n@26.12:26.13CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java  (!2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?j@31.21:31.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java# ($2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java !  ('2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?i@29.17:29.18CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (  ()2Ã
+8Q18PrintMatrix.printMatrixRowWise(int[][])?j@31.21:31.22CALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java +  (,2Á
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrix	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java2 (82Ê
+8Q18PrintMatrix.printMatrixRowWise(int[][])?m@25.12:25.13DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ê
+8Q18PrintMatrix.printMatrixRowWise(int[][])?n@26.12:26.13DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ê
+8Q18PrintMatrix.printMatrixRowWise(int[][])?i@29.17:29.18DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2Ê
+8Q18PrintMatrix.printMatrixRowWise(int[][])?j@31.21:31.22DECLARATION€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2–
+voidRETURN_TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (Ä
+8Q18PrintMatrix.printMatrixRowWise(int[][])?m@25.12:25.13VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+typeint"
+isFinalfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">m</mark> = matrix.length*m2Ž
+intTYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (Ç
+8Q18PrintMatrix.printMatrixRowWise(int[][])?n@26.12:26.13VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+typeint"
+isFinalfalse"‹
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = matrix[0].length*n2Ž
+intTYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (2¼
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrixCALL€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (ø
+8Q18PrintMatrix.printMatrixRowWise(int[][])?i@29.17:29.18VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Ž
+intTYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (ø
+8Q18PrintMatrix.printMatrixRowWise(int[][])?j@31.21:31.22VARIABLE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2Ž
+intTYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java (Ä
+1Q18PrintMatrix.printMatrixRowWise(int[][])!matrix	PARAMETER€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java2 (8"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2’
+int[][]TYPE€
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q18PrintMatrix.java* (/

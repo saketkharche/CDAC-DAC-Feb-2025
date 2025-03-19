@@ -1,0 +1,200 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java
+Q11SubarraySumCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+packageQ11SubarraySum"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q11SubarraySum"
+accesspublic*Q11SubarraySum2π
+'Q11SubarraySum.findSubarray(int[], int)DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (#2Ø
+Q11SubarraySum.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (⁄%
+'Q11SubarraySum.findSubarray(int[], int)METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (#"
+isFinalfalse"∫
+declarationString§<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findSubarray</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findSubarray2¿
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2∂
++Q11SubarraySum.findSubarray(int[], int)!arrCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java  (#2¿
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java, (/2¿
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java	 	(2∂
++Q11SubarraySum.findSubarray(int[], int)!arrCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java	 	(2¿
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java	 	(2¿
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2π
+.Q11SubarraySum.findSubarray(int[], int)!targetCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2¿
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2∂
++Q11SubarraySum.findSubarray(int[], int)!arrCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2¬
+7Q11SubarraySum.findSubarray(int[], int)?start@6.12:6.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ( 2¬
+7Q11SubarraySum.findSubarray(int[], int)?start@6.12:6.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2¿
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2π
+.Q11SubarraySum.findSubarray(int[], int)!targetCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2¬
+7Q11SubarraySum.findSubarray(int[], int)?start@6.12:6.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.javaB (G2¿
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.javaS (V2ª
++Q11SubarraySum.findSubarray(int[], int)!arr	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java* (-2æ
+.Q11SubarraySum.findSubarray(int[], int)!target	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java3 (92«
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2…
+7Q11SubarraySum.findSubarray(int[], int)?start@6.12:6.17DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2«
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (˘
+5Q11SubarraySum.findSubarray(int[], int)?sum@5.12:5.15VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (Ä
+7Q11SubarraySum.findSubarray(int[], int)?start@6.12:6.17VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark> = 0*start2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (˘
+5Q11SubarraySum.findSubarray(int[], int)?end@8.17:8.20VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark> = 0*end2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (≤
++Q11SubarraySum.findSubarray(int[], int)!arr	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java* (-"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2ê
+int[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java$ ()µ
+.Q11SubarraySum.findSubarray(int[], int)!target	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java3 (9"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java/ (2€ 
+Q11SubarraySum.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≤
+'Q11SubarraySum.findSubarray(int[], int)CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java' '(2º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2∂
++Q11SubarraySum.main(String[])?n@30.12:30.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2∂
++Q11SubarraySum.main(String[])?i@33.17:33.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !(2∂
++Q11SubarraySum.main(String[])?n@30.12:30.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !(2∂
++Q11SubarraySum.main(String[])?i@33.17:33.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !( 2∏
+-Q11SubarraySum.main(String[])?arr@31.14:31.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java!$ !('2∂
++Q11SubarraySum.main(String[])?i@33.17:33.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java!( !()2º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java!- !(42º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% %(2∏
+-Q11SubarraySum.main(String[])?arr@31.14:31.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java' '(2ª
+0Q11SubarraySum.main(String[])?target@37.12:37.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java' '( 2º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java) )(2≤
+"Q11SubarraySum.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% ()2√
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2Ω
++Q11SubarraySum.main(String[])?n@30.12:30.13DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2ø
+-Q11SubarraySum.main(String[])?arr@31.14:31.17DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2Ω
++Q11SubarraySum.main(String[])?i@33.17:33.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !(2¬
+0Q11SubarraySum.main(String[])?target@37.12:37.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% %(2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (ä
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ú
+java.util.ScannerTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (ª
++Q11SubarraySum.main(String[])?n@30.12:30.13VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (◊
+-Q11SubarraySum.main(String[])?arr@31.14:31.17VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2ê
+int[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (2∂
++Q11SubarraySum.main(String[])?n@30.12:30.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java (Î
++Q11SubarraySum.main(String[])?i@33.17:33.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java! !( 
+0Q11SubarraySum.main(String[])?target@37.12:37.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% %("
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = scanner.nextInt()*target2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% %(2º
+1Q11SubarraySum.main(String[])?scanner@26.16:26.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% %(ñ
+"Q11SubarraySum.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q11SubarraySum.java ($

@@ -1,0 +1,120 @@
+
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.javaÈ
+ExampleCLASSx
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java("
+packageExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Example"
+accesspackage_private*Example2û
+Example.Example()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	2°
+Example.Example(int)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	2û
+Example.display()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2†
+Example?num@1.6:1.9DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	—
+Example.Example()CONSTRUCTOR|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	"Y
+declarationStringD<mark class="modifier"> </mark><mark class="method">Example</mark>()*Example2ô
+Example?num@1.6:1.9CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2ô
+Example?num@1.6:1.9CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2î
+ExampleRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	û
+Example.Example(int)CONSTRUCTOR|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	"|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Example</mark>(<mark class="modifier">int</mark> n)*Example2ú
+Example.Example(int)!nCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java
+ 
+(2ô
+Example?num@1.6:1.9CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java
+ 
+(2°
+Example.Example(int)!n	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2î
+ExampleRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	â
+Example.Example(int)!n	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2â
+intTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java
+ (≥
+Example.display()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ô
+Example?num@1.6:1.9CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java" (%2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (˜
+Example?num@1.6:1.9VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (	"
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>"
+isStaticfalse"
+accesspackage_private*num2â
+intTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (û
+ExampleDemoCLASS|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ("
+packageExampleDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>ExampleDemo"
+accesspackage_private*ExampleDemo2ß
+ExampleDemo.main(String[])DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (ˇ	
+ExampleDemo.main(String[])METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+Example.Example(int)CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2Ø
+)ExampleDemo.main(String[])?e2@24.11:24.13CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2™
+ExampleDemo.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java! ('2∂
+)ExampleDemo.main(String[])?e2@24.11:24.13DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (˘
+)ExampleDemo.main(String[])?e2@24.11:24.13VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ("
+typeExample"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Example <mark class="class-field">e2</mark> = new Example(5)*e22ç
+ExampleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (
+2ö
+Example.Example(int)CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java (â
+ExampleDemo.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java! ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2é
+String[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 6\ExampleDemo.java ('

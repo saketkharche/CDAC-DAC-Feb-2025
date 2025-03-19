@@ -1,0 +1,148 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.javaª
+Q5SumAndAverageCLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+packageQ5SumAndAverage"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q5SumAndAverage"
+accesspublic*Q5SumAndAverage2±
+Q5SumAndAverage.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (Ó)
+Q5SumAndAverage.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2º
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java
+ 
+(2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java& ('2∏
+,Q5SumAndAverage.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∏
+,Q5SumAndAverage.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ( 2∫
+.Q5SumAndAverage.main(String[])?arr@10.14:10.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∏
+,Q5SumAndAverage.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2º
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∫
+.Q5SumAndAverage.main(String[])?arr@10.14:10.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∫
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∫
+.Q5SumAndAverage.main(String[])?num@20.17:20.20CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∫
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java" (%2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java( ()2∫
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java1 (42æ
+2Q5SumAndAverage.main(String[])?average@24.15:24.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java5 (<2º
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2¥
+#Q5SumAndAverage.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java% ()2√
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2Ω
+*Q5SumAndAverage.main(String[])?n@8.12:8.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2¡
+.Q5SumAndAverage.main(String[])?arr@10.14:10.17DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java
+ 
+(2ø
+,Q5SumAndAverage.main(String[])?i@14.17:14.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2¡
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2¡
+.Q5SumAndAverage.main(String[])?num@20.17:20.20DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2≈
+2Q5SumAndAverage.main(String[])?average@24.15:24.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (ã
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ù
+java.util.ScannerTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (º
+*Q5SumAndAverage.main(String[])?n@8.12:8.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2º
+0Q5SumAndAverage.main(String[])?scanner@4.16:4.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (⁄
+.Q5SumAndAverage.main(String[])?arr@10.14:10.17VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java
+ 
+("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java
+ 
+(2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java
+ 
+(Ó
+,Q5SumAndAverage.main(String[])?i@14.17:14.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (Ù
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (
+.Q5SumAndAverage.main(String[])?num@20.17:20.20VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (Æ
+2Q5SumAndAverage.main(String[])?average@24.15:24.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ("
+typedouble"
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">average</mark> = (<mark class="modifier">double</mark>) sum / n*average2í
+doubleTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java (2∫
+.Q5SumAndAverage.main(String[])?sum@19.12:19.15CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java" (%2∂
+*Q5SumAndAverage.main(String[])?n@8.12:8.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java( ()ô
+#Q5SumAndAverage.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q5SumAndAverage.java ($

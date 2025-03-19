@@ -1,0 +1,850 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java—
+EmployeeActionsTRAITt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java
+ ("
+packageEmployeeActions"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier"> </mark><mark class="modifier">interface </mark>EmployeeActions"
+accesspackage_private*EmployeeActions2¶
+!EmployeeActions.calculateSalary()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	 (2•
+ EmployeeActions.displayDetails()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	 (®
+!EmployeeActions.calculateSalary()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	 ("
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">calculateSalary</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*calculateSalary2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (•
+ EmployeeActions.displayDetails()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	 ("
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">displayDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displayDetails2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (Ω
+EmployeeCLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	 	("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"ƒ
+declarationStringÆ<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Employee<mark class="modifier"><br>implements </mark>EmployeeActions"
+accesspackage_private*Employee2´
+&Employee.Employee(int, String, String)DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2ü
+Employee.calculateSalary()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ((2û
+Employee.displayDetails()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2£
+Employee?employeeId@10.8:10.18DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java
+ 
+(2¶
+!Employee?employeeName@11.11:11.23DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2§
+Employee?department@12.11:12.21DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2è
+EmployeeActionsEXTENDt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java	# 	(2”
+&Employee.Employee(int, String, String)CONSTRUCTORt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("ó
+declarationStringÅ<mark class="modifier">public </mark><mark class="method">Employee</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> String dept)*Employee2ß
+)Employee.Employee(int, String, String)!idCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2©
++Employee.Employee(int, String, String)!nameCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ( 2©
++Employee.Employee(int, String, String)!deptCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2ú
+Employee?employeeId@10.8:10.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2ü
+!Employee?employeeName@11.11:11.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2ù
+Employee?department@12.11:12.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2¨
+)Employee.Employee(int, String, String)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2Æ
++Employee.Employee(int, String, String)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java# ('2Æ
++Employee.Employee(int, String, String)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java0 (42ç
+EmployeeRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (é
+)Employee.Employee(int, String, String)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (ˇ
++Employee.Employee(int, String, String)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java# ('"
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("ˇ
++Employee.Employee(int, String, String)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java0 (4"
+typeString"
+isFinalfalse" 
+declarationStringString dept*dept2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java) (/Î
+Employee.calculateSalary()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">calculateSalary</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstracttrue"
+typevoid*calculateSalary2£
+!EmployeeActions.calculateSalary()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ((2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (°	
+Employee.displayDetails()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("
+isFinalfalse"â
+declarationStringt<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">displayDetails</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayDetails2ú
+Employee?employeeId@10.8:10.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java$ (.2ü
+!Employee?employeeName@11.11:11.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& (22ù
+Employee?department@12.11:12.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java, (62¢
+ EmployeeActions.displayDetails()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (Å
+Employee?employeeId@10.8:10.18VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java
+ 
+("
+isFinalfalse"
+typeint"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">employeeId</mark>"
+isStaticfalse"
+accesspackage_private*
+employeeId2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java
+ 
+(Ú
+!Employee?employeeName@11.11:11.23VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("
+isFinalfalse"
+typeString"h
+declarationStringS<mark class="modifier"> </mark>String <mark class="class-field">employeeName</mark>"
+isStaticfalse"
+accesspackage_private*employeeName2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (
+Ï
+Employee?department@12.11:12.21VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java ("
+isFinalfalse"
+typeString"f
+declarationStringQ<mark class="modifier"> </mark>String <mark class="class-field">department</mark>"
+isStaticfalse"
+accesspackage_private*
+department2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java (
+‹
+
+ManagerCLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java! !("
+packageManager"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">class </mark>Manager<mark class="modifier"> extends </mark>Employee"
+accesspackage_private*Manager2π
+4Manager.Manager(int, String, String, double, double)DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &(2û
+Manager.calculateSalary()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java. .(2ù
+Manager.displayDetails()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java5 5(2§
+Manager?basicSalary@34.11:34.22DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java" "(2û
+Manager?bonus@35.11:35.16DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java# #(2à
+EmployeeEXTENDt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java! !(˚
+4Manager.Manager(int, String, String, double, double)CONSTRUCTORt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &("Á
+declarationString—<mark class="modifier">public </mark><mark class="method">Manager</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> String dept<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> salary<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> bonus)*Manager2§
+&Employee.Employee(int, String, String)CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java' '(2µ
+7Manager.Manager(int, String, String, double, double)!idCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java' '(2∑
+9Manager.Manager(int, String, String, double, double)!nameCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java' '(2∑
+9Manager.Manager(int, String, String, double, double)!deptCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java' '(2π
+;Manager.Manager(int, String, String, double, double)!salaryCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java( ((!2∏
+:Manager.Manager(int, String, String, double, double)!bonusCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java) )(2ù
+Manager?basicSalary@34.11:34.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java( ((2ó
+Manager?bonus@35.11:35.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java) )(2∫
+7Manager.Manager(int, String, String, double, double)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &(2º
+9Manager.Manager(int, String, String, double, double)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&" &(&2º
+9Manager.Manager(int, String, String, double, double)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&/ &(32æ
+;Manager.Manager(int, String, String, double, double)!salary	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&< &(B2Ω
+:Manager.Manager(int, String, String, double, double)!bonus	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&K &(P2å
+ManagerRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &(ú
+7Manager.Manager(int, String, String, double, double)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &(ç
+9Manager.Manager(int, String, String, double, double)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&" &(&"
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java& &(!ç
+9Manager.Manager(int, String, String, double, double)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&/ &(3"
+typeString"
+isFinalfalse" 
+declarationStringString dept*dept2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&( &(.±
+;Manager.Manager(int, String, String, double, double)!salary	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&< &(B"
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> salary*salary2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&5 &(;Æ
+:Manager.Manager(int, String, String, double, double)!bonus	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&K &(P"
+typedouble"
+isFinalfalse"?
+declarationString*<mark class="modifier">double</mark> bonus*bonus2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java&D &(J∂
+Manager.calculateSalary()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java. .("
+isFinalfalse"π
+declarationString£<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculateSalary</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*calculateSalary2ù
+Manager?basicSalary@34.11:34.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/ /((2ó
+Manager?bonus@35.11:35.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/+ /(02Ø
+1Manager.calculateSalary()?totalSalary@47.15:47.26CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java0A 0(L2ú
+Employee.calculateSalary()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java. .(2£
+!EmployeeActions.calculateSalary()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java. .(2∂
+1Manager.calculateSalary()?totalSalary@47.15:47.26DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/ /(2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java. .(¬
+1Manager.calculateSalary()?totalSalary@47.15:47.26VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/ /("
+typedouble"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">totalSalary</mark> = basicSalary + bonus*totalSalary2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/ /(2ù
+Manager?basicSalary@34.11:34.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/ /((2ó
+Manager?bonus@35.11:35.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java/+ /(0‡
+
+Manager.displayDetails()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java5 5("
+isFinalfalse"∏
+declarationString¢<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">displayDetails</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayDetails2ó
+Employee.displayDetails()CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java6 6(2ù
+Manager?basicSalary@34.11:34.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java7/ 7(:2ó
+Manager?bonus@35.11:35.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java8( 8(-2õ
+Employee.displayDetails()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java5 5(2¢
+ EmployeeActions.displayDetails()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java5 5(2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java5 5(ç
+Manager?basicSalary@34.11:34.22VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java" "("
+isFinalfalse"
+typedouble"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">basicSalary</mark>"
+isStaticfalse"
+accesspackage_private*basicSalary2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java" "(
+˙
+Manager?bonus@35.11:35.16VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java# #("
+isFinalfalse"
+typedouble"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">bonus</mark>"
+isStaticfalse"
+accesspackage_private*bonus2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java# #(
+Ò
+
+	DeveloperCLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java= =("
+package	Developer"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">class </mark>Developer<mark class="modifier"> extends </mark>Employee"
+accesspackage_private*	Developer2∫
+5Developer.Developer(int, String, String, double, int)DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B(2†
+Developer.calculateSalary()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaJ J(2ü
+Developer.displayDetails()DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaQ Q(2•
+ Developer?hourlyRate@62.11:62.21DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java> >(2•
+ Developer?hoursWorked@63.8:63.19DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java? ?(2à
+EmployeeEXTENDt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java= =( ã
+5Developer.Developer(int, String, String, double, int)CONSTRUCTORt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B("‰
+declarationStringŒ<mark class="modifier">public </mark><mark class="method">Developer</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> String dept<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> rate<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> hours)*	Developer2§
+&Employee.Employee(int, String, String)CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaC C(2∂
+8Developer.Developer(int, String, String, double, int)!idCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaC C(2∏
+:Developer.Developer(int, String, String, double, int)!nameCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaC C(2∏
+:Developer.Developer(int, String, String, double, int)!deptCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaC C(2∏
+:Developer.Developer(int, String, String, double, int)!rateCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaD D(2π
+;Developer.Developer(int, String, String, double, int)!hoursCALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaE E( 2û
+ Developer?hourlyRate@62.11:62.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaD D(2û
+ Developer?hoursWorked@63.8:63.19CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaE E(2ª
+8Developer.Developer(int, String, String, double, int)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B(2Ω
+:Developer.Developer(int, String, String, double, int)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB$ B((2Ω
+:Developer.Developer(int, String, String, double, int)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB1 B(52Ω
+:Developer.Developer(int, String, String, double, int)!rate	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB> B(B2æ
+;Developer.Developer(int, String, String, double, int)!hours	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaBH B(M2é
+	DeveloperRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B(ù
+8Developer.Developer(int, String, String, double, int)!id	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B(é
+:Developer.Developer(int, String, String, double, int)!name	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB$ B(("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB B(#é
+:Developer.Developer(int, String, String, double, int)!dept	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB1 B(5"
+typeString"
+isFinalfalse" 
+declarationStringString dept*dept2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB* B(0¨
+:Developer.Developer(int, String, String, double, int)!rate	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB> B(B"
+typedouble"
+isFinalfalse">
+declarationString)<mark class="modifier">double</mark> rate*rate2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaB7 B(=¶
+;Developer.Developer(int, String, String, double, int)!hours	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaBH B(M"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> hours*hours2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaBD B(Gƒ
+Developer.calculateSalary()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaJ J("
+isFinalfalse"π
+declarationString£<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculateSalary</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*calculateSalary2û
+ Developer?hourlyRate@62.11:62.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK K('2û
+ Developer?hoursWorked@63.8:63.19CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK* K(52±
+3Developer.calculateSalary()?totalSalary@75.15:75.26CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaL8 L(C2ú
+Employee.calculateSalary()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaJ J(2£
+!EmployeeActions.calculateSalary()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaJ J(2∏
+3Developer.calculateSalary()?totalSalary@75.15:75.26DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK K(2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaJ J(—
+3Developer.calculateSalary()?totalSalary@75.15:75.26VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK K("
+typedouble"
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">totalSalary</mark> = hourlyRate * hoursWorked*totalSalary2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK K(2û
+ Developer?hourlyRate@62.11:62.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK K('2û
+ Developer?hoursWorked@63.8:63.19CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaK* K(5Í
+
+Developer.displayDetails()METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaQ Q("
+isFinalfalse"∏
+declarationString¢<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">displayDetails</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayDetails2ó
+Employee.displayDetails()CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaR R(2û
+ Developer?hourlyRate@62.11:62.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaS. S(82û
+ Developer?hoursWorked@63.8:63.19CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaT. T(92õ
+Employee.displayDetails()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaQ Q(2¢
+ EmployeeActions.displayDetails()OVERRIDEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaQ Q(2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaQ Q(å
+ Developer?hourlyRate@62.11:62.21VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java> >("
+isFinalfalse"
+typedouble"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">hourlyRate</mark>"
+isStaticfalse"
+accesspackage_private*
+hourlyRate2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java> >(
+Ö
+ Developer?hoursWorked@63.8:63.19VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java? ?("
+isFinalfalse"
+typeint"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">hoursWorked</mark>"
+isStaticfalse"
+accesspackage_private*hoursWorked2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java? ?(Ú
+EMSAppCLASSt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaY Y("
+packageEMSApp"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>EMSApp"
+accesspublic*EMSApp2ö
+EMSApp.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ Z(ño
+EMSApp.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ Z("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ô
+Employee.displayDetails()CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¶) ¶(72ö
+Employee.calculateSalary()CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaµ- µ(<2¥
+4Manager.Manager(int, String, String, double, double)CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄ/ Ä(62µ
+5Developer.Developer(int, String, String, double, int)CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaö/ ö(82§
+&EMSApp.main(String[])?exit@95.16:95.20CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaa a(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javak k(2®
+*EMSApp.main(String[])?choice@107.16:107.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javam m(2•
+'EMSApp.main(String[])?count@93.12:93.17CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javao o(2©
++EMSApp.main(String[])?employees@92.19:92.28CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javao  o()2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaq! q(#2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javar r(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javau& u((2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javax& x((2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java{( {(*2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java~' ~()2´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄ Ä(!2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄ" Ä('2¶
+&EMSApp.main(String[])?id@113.28:113.30CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄ7 Ä(92®
+(EMSApp.main(String[])?name@117.31:117.35CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄ; Ä(?2®
+(EMSApp.main(String[])?dept@120.31:120.35CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄA Ä(E2™
+*EMSApp.main(String[])?salary@123.31:123.37CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄG Ä(M2©
+)EMSApp.main(String[])?bonus@126.31:126.36CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÄO Ä(T2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÅ Å(2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaâ â(2´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaâ  â()2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaã! ã(#2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaå å(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaè& è((2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaí& í((2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaï& ï((2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaò$ ò(&2´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaö ö(!2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaö" ö('2¶
+&EMSApp.main(String[])?id@139.28:139.30CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaö9 ö(;2®
+(EMSApp.main(String[])?name@143.31:143.35CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaö= ö(A2®
+(EMSApp.main(String[])?dept@146.31:146.35CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaöC ö(G2®
+(EMSApp.main(String[])?rate@149.31:149.35CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaöI ö(M2©
+)EMSApp.main(String[])?hours@152.28:152.33CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaöO ö(T2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaõ õ(2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java£ £(2•
+%EMSApp.main(String[])?i@165.33:165.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java•( •()2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java•, •(12•
+%EMSApp.main(String[])?i@165.33:165.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java•3 •(42´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¶ ¶(%2•
+%EMSApp.main(String[])?i@165.33:165.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¶& ¶('2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaØ Ø(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java±! ±(#2•
+%EMSApp.main(String[])?i@179.33:179.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥( ≥()2ß
+'EMSApp.main(String[])?count@93.12:93.17CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥, ≥(12•
+%EMSApp.main(String[])?i@179.33:179.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥3 ≥(42´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¥  ¥()2•
+%EMSApp.main(String[])?i@179.33:179.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¥* ¥(+2¶
+&EMSApp.main(String[])?id@177.28:177.30CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¥; ¥(=2´
++EMSApp.main(String[])?employees@92.19:92.28CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaµ  µ()2•
+%EMSApp.main(String[])?i@179.33:179.34CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaµ* µ(+2©
+)EMSApp.main(String[])?found@178.32:178.37CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java∂  ∂(%2©
+)EMSApp.main(String[])?found@178.32:178.37CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java∫ ∫("2¶
+&EMSApp.main(String[])?exit@95.16:95.20CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaƒ ƒ(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaÃ Ã(
+2û
+Employee?employeeId@10.8:10.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java¥- ¥(72ù
+EMSApp.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ% Z()2©
+$EMSApp.main(String[])?sc@91.16:91.18DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java[ [(2∞
++EMSApp.main(String[])?employees@92.19:92.28DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java\ \(2¨
+'EMSApp.main(String[])?count@93.12:93.17DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java] ](2´
+&EMSApp.main(String[])?exit@95.16:95.20DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java_ _(2Ø
+*EMSApp.main(String[])?choice@107.16:107.22DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javak k(2´
+&EMSApp.main(String[])?id@113.28:113.30DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaq q(2≠
+(EMSApp.main(String[])?name@117.31:117.35DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javau u(#2≠
+(EMSApp.main(String[])?dept@120.31:120.35DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javax x(#2Ø
+*EMSApp.main(String[])?salary@123.31:123.37DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java{ {(%2Æ
+)EMSApp.main(String[])?bonus@126.31:126.36DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java~ ~($2≠
+&EMSApp.main(String[])?id@139.28:139.30DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaã ã(2Ø
+(EMSApp.main(String[])?name@143.31:143.35DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaè è(#2Ø
+(EMSApp.main(String[])?dept@146.31:146.35DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaí í(#2Ø
+(EMSApp.main(String[])?rate@149.31:149.35DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaï ï(#2∞
+)EMSApp.main(String[])?hours@152.28:152.33DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaò ò(!2¨
+%EMSApp.main(String[])?i@165.33:165.34DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java•! •("2≠
+&EMSApp.main(String[])?id@177.28:177.30DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java± ±(2∞
+)EMSApp.main(String[])?found@178.32:178.37DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≤  ≤(%2¨
+%EMSApp.main(String[])?i@179.33:179.34DECLARATIONv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥! ≥("2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ Z(Ÿ
+$EMSApp.main(String[])?sc@91.16:91.18VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java[ [("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2è
+java.util.ScannerTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java[ [(Â
++EMSApp.main(String[])?employees@92.19:92.28VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java\ \("
+typeEmployee"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>Employee[] <mark class="class-field">employees</mark> = new Employee[10]*	employees2à
+
+Employee[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java\ \(÷
+'EMSApp.main(String[])?count@93.12:93.17VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java] ]("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java] ](Ç
+&EMSApp.main(String[])?exit@95.16:95.20VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java_ _("
+typeboolean"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">exit</mark> = <mark class="modifier">false</mark>*exit2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java_ _(ã
+*EMSApp.main(String[])?choice@107.16:107.22VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javak k("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">choice</mark> = sc.nextInt()*choice2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javak k(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javak k(ˇ
+&EMSApp.main(String[])?id@113.28:113.30VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaq q("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark> = sc.nextInt()*id2Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaq q(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaq! q(#
+(EMSApp.main(String[])?name@117.31:117.35VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javau u(#"
+typeString"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>String <mark class="class-field">name</mark> = sc.nextLine()*name2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javau u(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javau& u((
+(EMSApp.main(String[])?dept@120.31:120.35VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javax x(#"
+typeString"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>String <mark class="class-field">dept</mark> = sc.nextLine()*dept2Ñ
+StringTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javax x(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javax& x((ó
+*EMSApp.main(String[])?salary@123.31:123.37VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java{ {(%"
+typedouble"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">salary</mark> = sc.nextDouble()*salary2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java{ {(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java{( {(*î
+)EMSApp.main(String[])?bonus@126.31:126.36VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java~ ~($"
+typedouble"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">bonus</mark> = sc.nextDouble()*bonus2Ñ
+doubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java~ ~(2¢
+$EMSApp.main(String[])?sc@91.16:91.18CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java~' ~()Ö
+&EMSApp.main(String[])?id@139.28:139.30VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaã ã("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark> = sc.nextInt()*id2É
+intTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaã ã(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaã! ã(#ˆ
+(EMSApp.main(String[])?name@143.31:143.35VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaè è(#"
+typeString"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>String <mark class="class-field">name</mark> = sc.nextLine()*name2Ü
+StringTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaè è(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaè& è((ˆ
+(EMSApp.main(String[])?dept@146.31:146.35VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaí í(#"
+typeString"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>String <mark class="class-field">dept</mark> = sc.nextLine()*dept2Ü
+StringTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaí í(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaí& í((ó
+(EMSApp.main(String[])?rate@149.31:149.35VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaï ï(#"
+typedouble"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">rate</mark> = sc.nextDouble()*rate2Ü
+doubleTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaï ï(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaï& ï((é
+)EMSApp.main(String[])?hours@152.28:152.33VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaò ò(!"
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">hours</mark> = sc.nextInt()*hours2É
+intTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaò ò(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaò$ ò(&œ
+%EMSApp.main(String[])?i@165.33:165.34VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java•! •(""
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2É
+intTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java• •( Ö
+&EMSApp.main(String[])?id@177.28:177.30VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java± ±("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark> = sc.nextInt()*id2É
+intTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java± ±(2§
+$EMSApp.main(String[])?sc@91.16:91.18CALLv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java±! ±(#ã
+)EMSApp.main(String[])?found@178.32:178.37VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≤  ≤(%"
+typeboolean"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">found</mark> = <mark class="modifier">false</mark>*found2á
+booleanTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≤ ≤(œ
+%EMSApp.main(String[])?i@179.33:179.34VARIABLEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥! ≥(""
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2É
+intTYPEv
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.java≥ ≥( Ù
+EMSApp.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ% Z()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ü
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\EMSApp.javaZ Z($

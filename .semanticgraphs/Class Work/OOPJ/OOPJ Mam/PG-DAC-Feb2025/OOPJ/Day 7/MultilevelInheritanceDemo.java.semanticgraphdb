@@ -1,0 +1,169 @@
+
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java§
+AnimalCLASS§
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java("
+packageAnimal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Animal"
+accesspackage_private*Animal2 
+Animal.display()DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2À
+Animal?id@1.5:1.7DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (
+Animal.display()METHOD®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2æ
+voidRETURN_TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (“
+Animal?id@1.5:1.7VARIABLE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark> = 5;"
+isStaticfalse"
+accesspackage_private*id2∂
+intTYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (à
+DogCLASS®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (	"
+packageDog"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">class </mark>Dog<mark class="modifier"> extends </mark>Animal"
+accesspackage_private*Dog2Ã
+Dog.childDisplay()DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java
+ 
+(2…
+Dog?cid@9.5:9.8DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java	 	(2ª
+AnimalEXTEND®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (˝
+Dog.childDisplay()METHOD®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java
+ 
+("
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">childDisplay</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*childDisplay2æ
+voidRETURN_TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java
+ 
+(“
+Dog?cid@9.5:9.8VARIABLE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java	 	("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cid</mark> = 4;"
+isStaticfalse"
+accesspackage_private*cid2∂
+intTYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java	 	(ú
+BabydogCLASS®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("
+packageBabydog"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">class </mark>Babydog<mark class="modifier"> extends </mark>Dog"
+accesspackage_private*Babydog2œ
+Babydog.babyDisplay()DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2–
+Babydog?bcid@17.5:17.9DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (	2∏
+DogEXTEND®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (˛
+Babydog.babyDisplay()METHOD®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">babyDisplay</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*babyDisplay2æ
+voidRETURN_TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (‹
+Babydog?bcid@17.5:17.9VARIABLE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (	"
+isFinalfalse"
+typeint"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">bcid</mark> = 6;"
+isStaticfalse"
+accesspackage_private*bcid2∂
+intTYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (æ
+MultilevelInheritanceDemoCLASS®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("$
+packageMultilevelInheritanceDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier"> </mark><mark class="modifier">class </mark>MultilevelInheritanceDemo"
+accesspackage_private*MultilevelInheritanceDemo2‚
+(MultilevelInheritanceDemo.main(String[])DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java („
+(MultilevelInheritanceDemo.main(String[])METHOD®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ƒ
+Babydog.Babydog()CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java   (2Í
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java! !(2Â
+-MultilevelInheritanceDemo.main(String[])!args	PARAMETER®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java  (&2Ò
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java
+ (2æ
+voidRETURN_TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (ä
+7MultilevelInheritanceDemo.main(String[])?b1@26.10:26.12VARIABLE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java
+ ("
+typeBabydog"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Babydog <mark class="class-field">b1</mark> = new Babydog()*b12∫
+BabydogTYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (	2ƒ
+Babydog.Babydog()CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (Ò
+-MultilevelInheritanceDemo.main(String[])!args	PARAMETER®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ª
+String[]TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\MultilevelInheritanceDemo.java (&

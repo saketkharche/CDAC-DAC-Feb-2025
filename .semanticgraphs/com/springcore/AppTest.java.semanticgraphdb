@@ -1,0 +1,59 @@
+
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java·
+com.springcore.AppTestCLASS¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java	 	("
+packagecom.springcore"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"”
+declarationString<mark class="modifier">public </mark><mark class="modifier">class </mark>AppTest<mark class="modifier"> extends </mark>TestCase"
+accesspublic*AppTest2€
+0com.springcore.AppTest.AppTest(java.lang.String)DECLARATION¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (2î
+com.springcore.AppTest.suite()DECLARATION¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (2ð
+ com.springcore.AppTest.testApp()DECLARATION¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java! !(2ã
+junit.framework.TestCaseEXTEND¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java
+ 
+(ñ
+0com.springcore.AppTest.AppTest(java.lang.String)CONSTRUCTOR¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java ("n
+declarationStringY<mark class="modifier">public </mark><mark class="method">AppTest</mark>(String testName)*AppTest2‚
+9com.springcore.AppTest.AppTest(java.lang.String)!testNameCALL¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (2‡
+9com.springcore.AppTest.AppTest(java.lang.String)!testName	PARAMETER¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (#2æ
+com.springcore.AppTestRETURN_TYPE¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (µ
+9com.springcore.AppTest.AppTest(java.lang.String)!testName	PARAMETER¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (#"
+typeString"
+isFinalfalse"$
+declarationStringString testName*testName2Ù
+java.lang.StringTYPE¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (º
+com.springcore.AppTest.suite()METHOD¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java ("
+isFinalfalse"‡
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">static </mark>Test <mark class="method">suite</mark>()"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeTest*suite2ä
+junit.framework.TestRETURN_TYPE¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java (ª
+ com.springcore.AppTest.testApp()METHOD¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java! !("
+isFinalfalse"‚
+declarationStringm<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">testApp</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*testApp2Ô
+voidRETURN_TYPE¾
+³C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\test\java\com\springcore\AppTest.java! !(

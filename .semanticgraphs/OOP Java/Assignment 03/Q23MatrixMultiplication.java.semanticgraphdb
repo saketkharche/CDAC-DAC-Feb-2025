@@ -1,0 +1,310 @@
+
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java•
+Q23MatrixMultiplicationCLASS…
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java($""
+packageQ23MatrixMultiplication"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"u
+declarationString`<mark class="modifier">public </mark><mark class="modifier">class </mark>Q23MatrixMultiplication"
+accesspublic*Q23MatrixMultiplication2Á
+&Q23MatrixMultiplication.main(String[])DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ù
+>Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (.2Ç
+,Q23MatrixMultiplication.printMatrix(int[][])DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java: :("æ
+&Q23MatrixMultiplication.main(String[])METHOD‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+,Q23MatrixMultiplication.printMatrix(int[][])CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2À
+,Q23MatrixMultiplication.printMatrix(int[][])CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ò
+>Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (-2À
+,Q23MatrixMultiplication.printMatrix(int[][])CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ì
+8Q23MatrixMultiplication.main(String[])?matrixA@3.16:3.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ì
+8Q23MatrixMultiplication.main(String[])?matrixB@8.16:8.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ì
+8Q23MatrixMultiplication.main(String[])?matrixA@3.16:3.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. (52Ì
+8Q23MatrixMultiplication.main(String[])?matrixB@8.16:8.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java7 (>2Í
+9Q23MatrixMultiplication.main(String[])?result@22.16:22.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ä
++Q23MatrixMultiplication.main(String[])!args	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java% ()2Ó
+8Q23MatrixMultiplication.main(String[])?matrixA@3.16:3.23DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ó
+8Q23MatrixMultiplication.main(String[])?matrixB@8.16:8.23DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ô
+9Q23MatrixMultiplication.main(String[])?result@22.16:22.22DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ÿ
+voidRETURN_TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (Ù
+8Q23MatrixMultiplication.main(String[])?matrixA@3.16:3.23VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java ("
+typeint"
+isFinalfalse"À
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrixA</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 } }*matrixA2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (þ
+8Q23MatrixMultiplication.main(String[])?matrixB@8.16:8.23VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java ("
+typeint"
+isFinalfalse"å
+declarationStringÏ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrixB</mark> = { { 7, 8 }<mark class="modifier">,</mark> { 9, 10 }<mark class="modifier">,</mark> { 11, 12 } }*matrixB2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (·	
+9Q23MatrixMultiplication.main(String[])?result@22.16:22.22VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java ("
+typeint"
+isFinalfalse"«
+declarationString•<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = matrixMultiplication(matrixA, matrixB)*result2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ò
+>Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (-2Ì
+8Q23MatrixMultiplication.main(String[])?matrixA@3.16:3.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. (52Ì
+8Q23MatrixMultiplication.main(String[])?matrixB@8.16:8.23CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java7 (>±
++Q23MatrixMultiplication.main(String[])!args	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2œ
+String[]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java ($•K
+>Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])METHOD‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (."
+isFinalfalse"Ä
+declarationString®<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">matrixMultiplication</mark>(<mark class="modifier">int</mark>[][] A<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] B)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*matrixMultiplication2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java& ('2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java7 (82Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java# #(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java# #(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java( ((2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java) )(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java* *(2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?rowsA@40.12:40.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java,! ,(&2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsB@42.12:42.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java,( ,(-2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. .(2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?rowsA@40.12:40.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. .(!2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java.# .($2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/ /(2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsB@42.12:42.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/  /(%2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/' /((2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0  0(!2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsA@41.12:41.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0$ 0()2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0+ 0(,2å
+QQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?result@44.16:44.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1 1(2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1 1(2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1 1(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1$ 1(%2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1& 1('2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1) 1(*2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java1. 1(/2à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java10 1(12à
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java13 1(42å
+QQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?result@44.16:44.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java6 6(2Ù
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!A	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java7 (82Ù
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!B	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaB (C2ë
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?rowsA@40.12:40.17DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java( ((2ë
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsA@41.12:41.17DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java) )(2ë
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsB@42.12:42.17DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java* *(2ì
+QQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?result@44.16:44.22DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java, ,(2ç
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. .(2ç
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/ /(2ç
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0 0(2¢
+int[][]RETURN_TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java (‰
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?rowsA@40.12:40.17VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java( (("
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rowsA</mark> = A.length*rowsA2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java( ((2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java( ((Œ
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsA@41.12:41.17VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java) )("
+typeint"
+isFinalfalse"Š
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">colsA</mark> = A[0].length*colsA2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java) )(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!ACALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java) )(Œ
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsB@42.12:42.17VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java* *("
+typeint"
+isFinalfalse"Š
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">colsB</mark> = B[0].length*colsB2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java* *(2Ô
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!BCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java* *(·
+QQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?result@44.16:44.22VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java, ,("
+typeint"
+isFinalfalse"¸
+declarationString¢<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[rowsA][colsB]*result2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java, ,(2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?rowsA@40.12:40.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java,! ,(&2ä
+PQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?colsB@42.12:42.17CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java,( ,(-ž
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?i@46.17:46.18VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. .("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java. .(ž
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?j@47.21:47.22VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/ /("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/ /(ž
+LQ23MatrixMultiplication.matrixMultiplication(int[][], int[][])?k@48.25:48.26VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 0*k2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java0 0(Û
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!A	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java7 (8"
+typeint[][]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[][] A*A2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java/ (4Û
+@Q23MatrixMultiplication.matrixMultiplication(int[][], int[][])!B	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaB (C"
+typeint[][]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[][] B*B2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java: (?ƒ
+,Q23MatrixMultiplication.printMatrix(int[][])METHOD‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java: :(""
+isFinalfalse"Ø
+declarationStringÂ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2Ç
+3Q23MatrixMultiplication.printMatrix(int[][])!matrixCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java; ;(2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@ @(2Ç
+3Q23MatrixMultiplication.printMatrix(int[][])!matrixCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@ @("2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@+ @(,2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?j@65.21:65.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA A(2Ç
+3Q23MatrixMultiplication.printMatrix(int[][])!matrixCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA  A(&2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA' A((2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?j@65.21:65.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA2 A(32Ç
+3Q23MatrixMultiplication.printMatrix(int[][])!matrixCALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaB! B('2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaB( B()2Î
+:Q23MatrixMultiplication.printMatrix(int[][])?j@65.21:65.22CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaB+ B(,2Ì
+3Q23MatrixMultiplication.printMatrix(int[][])!matrix	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java:+ :(12Õ
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@ @(2Õ
+:Q23MatrixMultiplication.printMatrix(int[][])?j@65.21:65.22DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA A(2Ÿ
+voidRETURN_TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java: :(Œ
+:Q23MatrixMultiplication.printMatrix(int[][])?i@64.17:64.18VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@ @("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java@ @(Œ
+:Q23MatrixMultiplication.printMatrix(int[][])?j@65.21:65.22VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA A("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.javaA A(Ø
+3Q23MatrixMultiplication.printMatrix(int[][])!matrix	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java:+ :(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q23MatrixMultiplication.java:# :((

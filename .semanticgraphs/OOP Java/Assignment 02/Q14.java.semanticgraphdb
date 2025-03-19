@@ -1,0 +1,104 @@
+
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.javaÉ
+Q14CLASSu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("
+packageQ14"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Q14"
+accesspublic*Q142õ
+Q14.countSetBits(int)DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("2ò
+Q14.main(String[])DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (ÿ
+Q14.countSetBits(int)METHODu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (""
+isFinalfalse"œ
+declarationStringπ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">countSetBits</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*countSetBits2ñ
+Q14.countSetBits(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2ñ
+Q14.countSetBits(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2ñ
+Q14.countSetBits(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2ñ
+Q14.countSetBits(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2§
+%Q14.countSetBits(int)?count@4.12:4.17CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2§
+%Q14.countSetBits(int)?count@4.12:4.17CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java	 	(2õ
+Q14.countSetBits(int)!n	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java' ((2´
+%Q14.countSetBits(int)?count@4.12:4.17DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2â
+intRETURN_TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (÷
+%Q14.countSetBits(int)?count@4.12:4.17VARIABLEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2Ç
+intTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (¸
+Q14.countSetBits(int)!n	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java' (("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2Ç
+intTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java# (&≥
+Q14.main(String[])METHODu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2î
+Q14.countSetBits(int)CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java8 (D2•
+&Q14.main(String[])?scanner@13.16:13.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2•
+&Q14.main(String[])?scanner@13.16:13.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2ü
+ Q14.main(String[])?n@15.12:15.13CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.javaE (F2õ
+Q14.main(String[])!args	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java% ()2¨
+&Q14.main(String[])?scanner@13.16:13.23DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2¶
+ Q14.main(String[])?n@15.12:15.13DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2ä
+voidRETURN_TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (Á
+&Q14.main(String[])?scanner@13.16:13.23VARIABLEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ê
+java.util.ScannerTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (Å
+ Q14.main(String[])?n@15.12:15.13VARIABLEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2Ç
+intTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (2•
+&Q14.main(String[])?scanner@13.16:13.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java (Û
+Q14.main(String[])!args	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2á
+String[]TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q14.java ($

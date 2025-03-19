@@ -1,0 +1,51 @@
+
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.javaÍ
+
+Q10EvenOddCLASS“
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java("
+package
+Q10EvenOdd"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Q10EvenOdd"
+accesspackage_private*
+Q10EvenOdd2Â
+Q10EvenOdd.main(String[])DECLARATION—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (ð
+Q10EvenOdd.main(String[])METHOD—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (	2Å
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java/ (02Å
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java/ (02Å
+Q10EvenOdd.main(String[])!args	PARAMETER—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java# ('2Ì
+#Q10EvenOdd.main(String[])?a@2.8:2.9DECLARATION—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (	2­
+voidRETURN_TYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (’
+#Q10EvenOdd.main(String[])?a@2.8:2.9VARIABLE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 15*a2¥
+intTYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java (À
+Q10EvenOdd.main(String[])!args	PARAMETER—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ª
+String[]TYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q10EvenOdd.java ("

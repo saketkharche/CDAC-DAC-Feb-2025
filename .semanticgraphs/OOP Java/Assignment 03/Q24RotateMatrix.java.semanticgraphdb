@@ -1,0 +1,235 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java≠
+Q24RotateMatrixCLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java("
+packageQ24RotateMatrix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q24RotateMatrix"
+accesspublic*Q24RotateMatrix2±
+Q24RotateMatrix.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2∫
+'Q24RotateMatrix.rotateMatrix90(int[][])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ((2∑
+$Q24RotateMatrix.printMatrix(int[][])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) )("˜
+Q24RotateMatrix.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∞
+$Q24RotateMatrix.printMatrix(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2≥
+'Q24RotateMatrix.rotateMatrix90(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ((2∞
+$Q24RotateMatrix.printMatrix(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2ª
+/Q24RotateMatrix.main(String[])?matrix@3.16:3.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2ª
+/Q24RotateMatrix.main(String[])?matrix@3.16:3.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) (/2æ
+2Q24RotateMatrix.main(String[])?rotated@14.16:14.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¥
+#Q24RotateMatrix.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java% ()2¬
+/Q24RotateMatrix.main(String[])?matrix@3.16:3.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2≈
+2Q24RotateMatrix.main(String[])?rotated@14.16:14.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (È
+/Q24RotateMatrix.main(String[])?matrix@3.16:3.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"Í
+declarationString‘<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (ì
+2Q24RotateMatrix.main(String[])?rotated@14.16:14.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">rotated</mark> = rotateMatrix90(matrix)*rotated2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2≥
+'Q24RotateMatrix.rotateMatrix90(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ((2ª
+/Q24RotateMatrix.main(String[])?matrix@3.16:3.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) (/ô
+#Q24RotateMatrix.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ($â-
+'Q24RotateMatrix.rotateMatrix90(int[][])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (("
+isFinalfalse"ﬁ
+declarationString»<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">rotateMatrix90</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*rotateMatrix902∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ($2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java4 (:2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.javaE (K2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java" (#2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java% (&2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ( 2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java  (!2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java# ($2«
+;Q24RotateMatrix.rotateMatrix90(int[][])?rotated@28.16:28.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java! !(2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java! !(2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java! !(2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java! !( 2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java!$ !(*2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java!+ !(,2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java!. !(/2«
+;Q24RotateMatrix.rotateMatrix90(int[][])?rotated@28.16:28.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java% %(2ø
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java1 (72»
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2Œ
+;Q24RotateMatrix.rotateMatrix90(int[][])?rotated@28.16:28.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2»
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2»
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2ö
+int[][]RETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = matrix.length*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2∫
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (≈
+;Q24RotateMatrix.rotateMatrix90(int[][])?rotated@28.16:28.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"±
+declarationStringõ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">rotated</mark> = new <mark class="modifier">int</mark>[n][n]*rotated2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java" (#2¡
+5Q24RotateMatrix.rotateMatrix90(int[][])?n@27.12:27.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java% (&˜
+5Q24RotateMatrix.rotateMatrix90(int[][])?i@30.17:30.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (˜
+5Q24RotateMatrix.rotateMatrix90(int[][])?j@31.21:31.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java (√
+.Q24RotateMatrix.rotateMatrix90(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java1 (7"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) (.ã
+$Q24RotateMatrix.printMatrix(int[][])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) )(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2∑
++Q24RotateMatrix.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java* *(2æ
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/ /(2∑
++Q24RotateMatrix.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/ /("2æ
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/+ /(,2æ
+2Q24RotateMatrix.printMatrix(int[][])?j@48.21:48.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0 0(2∑
++Q24RotateMatrix.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0  0(&2æ
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0' 0((2æ
+2Q24RotateMatrix.printMatrix(int[][])?j@48.21:48.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java02 0(32∑
++Q24RotateMatrix.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java1! 1('2æ
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java1( 1()2æ
+2Q24RotateMatrix.printMatrix(int[][])?j@48.21:48.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java1+ 1(,2º
++Q24RotateMatrix.printMatrix(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java)+ )(12≈
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/ /(2≈
+2Q24RotateMatrix.printMatrix(int[][])?j@48.21:48.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0 0(2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java) )(Ù
+2Q24RotateMatrix.printMatrix(int[][])?i@47.17:47.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/ /("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java/ /(Ù
+2Q24RotateMatrix.printMatrix(int[][])?j@48.21:48.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java0 0(¿
++Q24RotateMatrix.printMatrix(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java)+ )(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q24RotateMatrix.java)# )((

@@ -1,0 +1,63 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.javaá
+loopsCLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java("
+packageloops"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>loops"
+accesspackage_private*loops2ß
+loops.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (ì
+loops.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Æ
+"loops.main(String[])?a@16.13:16.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2Æ
+"loops.main(String[])?b@16.20:16.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java% (&2Æ
+"loops.main(String[])?a@16.13:16.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java- (.2Æ
+"loops.main(String[])?b@16.20:16.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java1 (22Æ
+"loops.main(String[])?a@16.13:16.14CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2Æ
+"loops.main(String[])?b@16.20:16.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2™
+loops.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java# ('2µ
+"loops.main(String[])?a@16.13:16.14DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2µ
+"loops.main(String[])?b@16.20:16.21DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (Ó
+"loops.main(String[])?a@16.13:16.14VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10, b = 20*a2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java	 (Ó
+"loops.main(String[])?b@16.20:16.21VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10, b = 20*b2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java	 (è
+loops.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("

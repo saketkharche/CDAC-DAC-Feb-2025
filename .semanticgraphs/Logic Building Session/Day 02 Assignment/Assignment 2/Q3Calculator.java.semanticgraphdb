@@ -1,0 +1,138 @@
+
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.javaÈ
+Q3CalculatorCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+packageQ3Calculator"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3Calculator"
+accesspackage_private*Q3Calculator2À
+Q3Calculator.main(String[])DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (‚4
+Q3Calculator.main(String[])METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java
+ 
+(2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2Ÿ
+0Q3Calculator.main(String[])?operator@13.13:13.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2”
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2’
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java  ($2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java0 (62◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2”
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2’
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java  ($2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java0 (62◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2”
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2’
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java  ($2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java0 (62’
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java   (2”
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java   (!2’
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java $  ((2◊
+.Q3Calculator.main(String[])?result@15.15:15.21CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java!4 !(:2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java+ +(2Œ
+ Q3Calculator.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java% ()2›
+-Q3Calculator.main(String[])?scanner@4.16:4.23DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2⁄
+*Q3Calculator.main(String[])?num1@7.15:7.19DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2‹
+,Q3Calculator.main(String[])?num2@10.15:10.19DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java
+ 
+(2‡
+0Q3Calculator.main(String[])?operator@13.13:13.21DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2ﬁ
+.Q3Calculator.main(String[])?result@15.15:15.21DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (¬
+-Q3Calculator.main(String[])?scanner@4.16:4.23VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2∫
+java.util.ScannerTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (£
+*Q3Calculator.main(String[])?num1@7.15:7.19VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+typedouble"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num1</mark> = scanner.nextDouble()*num12Ø
+doubleTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (•
+,Q3Calculator.main(String[])?num2@10.15:10.19VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java
+ 
+("
+typedouble"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num2</mark> = scanner.nextDouble()*num22Ø
+doubleTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java
+ 
+(2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java
+ 
+(è
+0Q3Calculator.main(String[])?operator@13.13:13.21VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+typechar"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = scanner.next().charAt(0)*operator2≠
+charTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (2÷
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (∫
+.Q3Calculator.main(String[])?result@15.15:15.21VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ("
+typedouble"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">result</mark>*result2Ø
+doubleTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java (–
+ Q3Calculator.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q3Calculator.java ($

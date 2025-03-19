@@ -1,0 +1,106 @@
+
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java—
+!com.springcore.javaconfig.StudentCLASS…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ("$
+packagecom.springcore.javaconfig"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Student"
+accesspublic*Student2¶
+Kcom.springcore.javaconfig.Student.Student(com.springcore.javaconfig.Samosa)DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	(2à
+-com.springcore.javaconfig.Student.getSamosa()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2®
+Mcom.springcore.javaconfig.Student.setSamosa(com.springcore.javaconfig.Samosa)DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2Ñ
+)com.springcore.javaconfig.Student.study()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2ç
+2com.springcore.javaconfig.Student?samosa@7.16:7.22DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (Ï
+Kcom.springcore.javaconfig.Student.Student(com.springcore.javaconfig.Samosa)CONSTRUCTOR…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	("l
+declarationStringW<mark class="modifier">public </mark><mark class="method">Student</mark>(Samosa samosa)*Student2Ì
+java.lang.Object.Object()CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java
+ 
+(2¶
+Rcom.springcore.javaconfig.Student.Student(com.springcore.javaconfig.Samosa)!samosaCALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2Ü
+2com.springcore.javaconfig.Student?samosa@7.16:7.22CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2´
+Rcom.springcore.javaconfig.Student.Student(com.springcore.javaconfig.Samosa)!samosa	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	(2¸
+!com.springcore.javaconfig.StudentRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	(
+Rcom.springcore.javaconfig.Student.Student(com.springcore.javaconfig.Samosa)!samosa	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	("
+typeSamosa"
+isFinalfalse""
+declarationStringSamosa samosa*samosa2Ù
+ com.springcore.javaconfig.SamosaTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 	(€
+-com.springcore.javaconfig.Student.getSamosa()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ("
+isFinalfalse"h
+declarationStringS<mark class="modifier">public </mark>Samosa <mark class="method">getSamosa</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeSamosa*	getSamosa2Ü
+2com.springcore.javaconfig.Student?samosa@7.16:7.22CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 (2˚
+ com.springcore.javaconfig.SamosaRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (‚
+Mcom.springcore.javaconfig.Student.setSamosa(com.springcore.javaconfig.Samosa)METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ("
+isFinalfalse"ë
+declarationString|<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setSamosa</mark>(Samosa samosa)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	setSamosa2®
+Tcom.springcore.javaconfig.Student.setSamosa(com.springcore.javaconfig.Samosa)!samosaCALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2Ü
+2com.springcore.javaconfig.Student?samosa@7.16:7.22CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2≠
+Tcom.springcore.javaconfig.Student.setSamosa(com.springcore.javaconfig.Samosa)!samosa	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ($2ﬂ
+voidRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (Ú
+Tcom.springcore.javaconfig.Student.setSamosa(com.springcore.javaconfig.Samosa)!samosa	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ($"
+typeSamosa"
+isFinalfalse""
+declarationStringSamosa samosa*samosa2Ù
+ com.springcore.javaconfig.SamosaTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (”
+)com.springcore.javaconfig.Student.study()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">study</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*study2˛
+*com.springcore.javaconfig.Samosa.display()CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2Å
+-java.io.PrintStream.println(java.lang.String)CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2Ü
+2com.springcore.javaconfig.Student?samosa@7.16:7.22CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (2ﬂ
+voidRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java (º
+2com.springcore.javaconfig.Student?samosa@7.16:7.22VARIABLE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java ("
+isFinalfalse"
+typeSamosa"i
+declarationStringT<mark class="modifier">private </mark>Samosa <mark class="class-field">samosa</mark>"
+isStaticfalse"
+accessprivate*samosa2Ù
+ com.springcore.javaconfig.SamosaTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\Student.java	 (

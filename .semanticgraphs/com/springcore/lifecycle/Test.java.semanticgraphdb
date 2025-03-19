@@ -1,0 +1,69 @@
+
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java‹
+com.springcore.lifecycle.TestCLASS≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java ("#
+packagecom.springcore.lifecycle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Test"
+accesspublic*Test2ç
+6com.springcore.lifecycle.Test.main(java.lang.String[])DECLARATION≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (¨
+6com.springcore.lifecycle.Test.main(java.lang.String[])METHOD≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2˝
+-java.io.PrintStream.println(java.lang.Object)CALL≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (2ö
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?context@10.29:10.36CALL≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (	2ö
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?context@10.29:10.36CALL≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (#2ö
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?example@21.10:21.17CALL≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (2ê
+;com.springcore.lifecycle.Test.main(java.lang.String[])!args	PARAMETER≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java" (&2°
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?context@10.29:10.36DECLARATION≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java
+ 
+($2°
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?example@21.10:21.17DECLARATION≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java
+ (2€
+voidRETURN_TYPE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (µ
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?context@10.29:10.36VARIABLE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java
+ 
+($""
+typeAbstractApplicationContext"
+isFinalfalse"ƒ
+declarationStringÆ<mark class="modifier"> </mark>AbstractApplicationContext <mark class="class-field">context</mark> = new ClassPathXmlApplicationContext("com/springcore/lifecycle/config.xml")*context2é
+>org.springframework.context.support.AbstractApplicationContextTYPE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java
+ 
+(Ë
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?example@21.10:21.17VARIABLE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java
+ ("
+typeExample"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark>Example <mark class="class-field">example</mark> = (Example) context.getBean("example")*example2
+ com.springcore.lifecycle.ExampleTYPE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (	2ö
+Jcom.springcore.lifecycle.Test.main(java.lang.String[])?context@10.29:10.36CALL≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (#√
+;com.springcore.lifecycle.Test.main(java.lang.String[])!args	PARAMETER≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2‚
+java.lang.String[]TYPE≈
+∫C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Test.java (!

@@ -1,0 +1,112 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java¸
+Q4CLASSÄ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java("
+packageQ4"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4"
+accesspublic*Q42ß
+Q4.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (µ
+Q4.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ø
+ Q4.main(String[])?num1@2.12:2.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2Ø
+ Q4.main(String[])?num2@3.12:3.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2Ø
+ Q4.main(String[])?num3@4.12:4.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java  ($2Æ
+Q4.main(String[])?sum@7.12:7.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java
+" 
+(%2Ø
+ Q4.main(String[])?num1@2.12:2.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java/ (32Ø
+ Q4.main(String[])?num2@3.12:3.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java= (A2Ø
+ Q4.main(String[])?num3@4.12:4.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.javaO (S2¥
+%Q4.main(String[])?average@10.15:10.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java` (g2™
+Q4.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java% ()2∂
+ Q4.main(String[])?num1@2.12:2.16DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2∂
+ Q4.main(String[])?num2@3.12:3.16DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2∂
+ Q4.main(String[])?num3@4.12:4.16DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2µ
+Q4.main(String[])?sum@7.12:7.15DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2ª
+%Q4.main(String[])?average@10.15:10.22DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java
+ 
+(2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (
+ Q4.main(String[])?num1@2.12:2.16VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num1</mark> = 10*num12í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (
+ Q4.main(String[])?num2@3.12:3.16VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num2</mark> = 20*num22í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (
+ Q4.main(String[])?num3@4.12:4.16VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num3</mark> = 30*num32í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (ì
+Q4.main(String[])?sum@7.12:7.15VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = num1 + num2 + num3*sum2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2Ø
+ Q4.main(String[])?num1@2.12:2.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2Ø
+ Q4.main(String[])?num2@3.12:3.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java (2Ø
+ Q4.main(String[])?num3@4.12:4.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java  ($‚
+%Q4.main(String[])?average@10.15:10.22VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java
+ 
+("
+typedouble"
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">average</mark> = (<mark class="modifier">double</mark>) sum / 3*average2ï
+doubleTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java
+ 
+(2Æ
+Q4.main(String[])?sum@7.12:7.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java
+" 
+(%í
+Q4.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Day 02\Home work\Q4.java ($

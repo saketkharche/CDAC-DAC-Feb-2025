@@ -1,0 +1,205 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.javaﬂ
+Q10CLASSp
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java("
+packageQ10"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Q10"
+accesspublic*Q102ó
+Q10.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (ë7
+Q10.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java" (&2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java+ (/2¢
+$Q10.main(String[])?isEqual@6.16:6.23CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java: (A2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+ 
+(!2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+% 
+()2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java+ (/2ß
+)Q10.main(String[])?isNotEqual@10.16:10.26CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java: (D2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java  ($2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java' (+2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java* (.2™
+,Q10.main(String[])?isGreaterThan@14.16:14.29CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java9 (F2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (!2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java$ ((2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java* (.2ß
+)Q10.main(String[])?isLessThan@18.16:18.26CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java9 (C2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java' (+2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java/ (32ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java+ (/2±
+3Q10.main(String[])?isGreaterThanOrEqual@22.16:22.36CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java: (N2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java$ ((2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java, (02ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java+ (/2Æ
+0Q10.main(String[])?isLessThanOrEqual@26.16:26.33CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java: (K2ö
+Q10.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java% ()2¶
+!Q10.main(String[])?num1@2.12:2.16DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2¶
+!Q10.main(String[])?num2@3.12:3.16DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2©
+$Q10.main(String[])?isEqual@6.16:6.23DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2Æ
+)Q10.main(String[])?isNotEqual@10.16:10.26DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+ 
+(2±
+,Q10.main(String[])?isGreaterThan@14.16:14.29DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2Æ
+)Q10.main(String[])?isLessThan@18.16:18.26DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2∏
+3Q10.main(String[])?isGreaterThanOrEqual@22.16:22.36DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ($2µ
+0Q10.main(String[])?isLessThanOrEqual@26.16:26.33DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (!2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (œ
+!Q10.main(String[])?num1@2.12:2.16VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num1</mark> = 15*num12Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (œ
+!Q10.main(String[])?num2@3.12:3.16VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num2</mark> = 20*num22Å
+intTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (≤
+$Q10.main(String[])?isEqual@6.16:6.23VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+typeboolean"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isEqual</mark> = num1 == num2*isEqual2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java" (&Ω
+)Q10.main(String[])?isNotEqual@10.16:10.26VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+ 
+("
+typeboolean"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isNotEqual</mark> = num1 != num2*
+isNotEqual2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+ 
+(2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+ 
+(!2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java
+% 
+()∆
+,Q10.main(String[])?isGreaterThan@14.16:14.29VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+typeboolean"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isGreaterThan</mark> = num1 > num2*isGreaterThan2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java  ($2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java' (+º
+)Q10.main(String[])?isLessThan@18.16:18.26VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ("
+typeboolean"
+isFinalfalse"ì
+declarationString~<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isLessThan</mark> = num1 < num2*
+isLessThan2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (!2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java$ ((‹
+3Q10.main(String[])?isGreaterThanOrEqual@22.16:22.36VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ($"
+typeboolean"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isGreaterThanOrEqual</mark> = num1 >= num2*isGreaterThanOrEqual2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java' (+2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java/ (3”
+0Q10.main(String[])?isLessThanOrEqual@26.16:26.33VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (!"
+typeboolean"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isLessThanOrEqual</mark> = num1 <= num2*isLessThanOrEqual2Ö
+booleanTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java (2ü
+!Q10.main(String[])?num1@2.12:2.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java$ ((2ü
+!Q10.main(String[])?num2@3.12:3.16CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java, (0Ò
+Q10.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ü
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q10.java ($

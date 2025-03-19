@@ -1,0 +1,204 @@
+
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.javaƒ
+Q15SubarraysWithZeroSumCLASSâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ($""
+packageQ15SubarraysWithZeroSum"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"u
+declarationString`<mark class="modifier">public </mark><mark class="modifier">class </mark>Q15SubarraysWithZeroSum"
+accesspublic*Q15SubarraysWithZeroSum2Œ
+3Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (+2¡
+&Q15SubarraysWithZeroSum.main(String[])DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java   (‘6
+3Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])METHODâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (+"
+isFinalfalse"‹
+declarationString∆<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findZeroSumSubarrays</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findZeroSumSubarrays2À
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arrCALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	 	(!2”
+?Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?n@5.12:5.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	$ 	(%2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	' 	(,2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ( 2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java" (%2”
+?Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?n@5.12:5.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java( ()2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java+ (.2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?sum@10.16:10.19CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2À
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arrCALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?sum@10.16:10.19CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?found@6.16:6.21CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java! (&2’
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java( ()2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java- (02’
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java2 (32À
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arrCALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java) (,2’
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java- (.2’
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java  (#2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?found@6.16:6.21CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2–
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arr	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java2 (52⁄
+?Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?n@5.12:5.13DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2ﬁ
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?found@6.16:6.21DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2ﬁ
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	 	(2ﬁ
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?sum@10.16:10.19DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java
+ 
+(2ﬁ
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2‹
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2ü
+voidRETURN_TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (È
+?Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?n@5.12:5.13VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2À
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arrCALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (Õ
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?found@6.16:6.21VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ("
+typeboolean"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">found</mark> = <mark class="modifier">false</mark>*found2õ
+booleanTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (û
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	 	("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark> = 0*start2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java	 	(ô
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?sum@10.16:10.19VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java
+ 
+("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java
+ 
+(¯
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?end@11.21:11.24VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark> = start*end2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ( Ú
+AQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?k@18.29:18.30VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = start*k2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java (2◊
+CQ15SubarraysWithZeroSum.findZeroSumSubarrays(int[])?start@9.17:9.22CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java! (&–
+7Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])!arr	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java2 (5"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2ô
+int[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java, (1Ü
+&Q15SubarraysWithZeroSum.main(String[])METHODâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java   ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2«
+3Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java& &(2«
+3Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java) )(2«
+3Q15SubarraysWithZeroSum.findZeroSumSubarrays(int[])CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java, ,(2Ã
+8Q15SubarraysWithZeroSum.main(String[])?nums1@33.14:33.19CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java& &("2Ã
+8Q15SubarraysWithZeroSum.main(String[])?nums2@34.14:34.19CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java) )("2Ã
+8Q15SubarraysWithZeroSum.main(String[])?nums3@35.14:35.19CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java, ,("2ƒ
++Q15SubarraysWithZeroSum.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java %  ()2”
+8Q15SubarraysWithZeroSum.main(String[])?nums1@33.14:33.19DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java! !(2”
+8Q15SubarraysWithZeroSum.main(String[])?nums2@34.14:34.19DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java" "(2”
+8Q15SubarraysWithZeroSum.main(String[])?nums3@35.14:35.19DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java# #(2ü
+voidRETURN_TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java   (ª
+8Q15SubarraysWithZeroSum.main(String[])?nums1@33.14:33.19VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java! !("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">nums1</mark> = { 1, 3, -7, 3, 2, 3, 1, -3, -2, -2 }*nums12ô
+int[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java! !(¨
+8Q15SubarraysWithZeroSum.main(String[])?nums2@34.14:34.19VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java" "("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">nums2</mark> = { 1, 2, -3, 4, 5, 6 }*nums22ô
+int[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java" "(Ø
+8Q15SubarraysWithZeroSum.main(String[])?nums3@35.14:35.19VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java# #("
+typeint"
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">nums3</mark> = { 1, 2, -2, 3, 4, 5, 6 }*nums32ô
+int[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java# #(±
++Q15SubarraysWithZeroSum.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java %  ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ú
+String[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q15SubarraysWithZeroSum.java   ($

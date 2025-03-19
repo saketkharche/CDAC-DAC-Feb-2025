@@ -1,0 +1,74 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java´
+Q18PassOrFailCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ("
+packageQ18PassOrFail"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Q18PassOrFail"
+accesspublic*Q18PassOrFail2¨
+Q18PassOrFail.main(String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (®
+Q18PassOrFail.main(String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≤
+)Q18PassOrFail.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2∫
+1Q18PassOrFail.main(String[])?percentage@8.15:8.25CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (#2∏
+/Q18PassOrFail.main(String[])?result@11.15:11.21CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java( (.2≤
+)Q18PassOrFail.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (
+2Ø
+!Q18PassOrFail.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java% ()2π
+)Q18PassOrFail.main(String[])?sc@4.16:4.18DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2¡
+1Q18PassOrFail.main(String[])?percentage@8.15:8.25DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2ø
+/Q18PassOrFail.main(String[])?result@11.15:11.21DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (Ù
+)Q18PassOrFail.main(String[])?sc@4.16:4.18VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ö
+java.util.ScannerTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (Õ
+1Q18PassOrFail.main(String[])?percentage@8.15:8.25VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ("
+typedouble"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">percentage</mark> = sc.nextDouble()*
+percentage2è
+doubleTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2≤
+)Q18PassOrFail.main(String[])?sc@4.16:4.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (¡
+/Q18PassOrFail.main(String[])?result@11.15:11.21VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ("
+typeString"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark>String <mark class="class-field">result</mark> = (percentage >= 40) ? "Pass" : "Fail"*result2è
+StringTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (2∫
+1Q18PassOrFail.main(String[])?percentage@8.15:8.25CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java (#ë
+!Q18PassOrFail.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ë
+String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q18PassOrFail.java ($

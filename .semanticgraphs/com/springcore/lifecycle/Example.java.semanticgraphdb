@@ -1,0 +1,119 @@
+
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java¢
+ com.springcore.lifecycle.ExampleCLASS»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("#
+packagecom.springcore.lifecycle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Example"
+accesspublic*Example2Ñ
+*com.springcore.lifecycle.Example.Example()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2á
+-com.springcore.lifecycle.Example.getSubject()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2ó
+=com.springcore.lifecycle.Example.setSubject(java.lang.String)DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2Ö
++com.springcore.lifecycle.Example.toString()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2Ç
+(com.springcore.lifecycle.Example.start()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2Ä
+&com.springcore.lifecycle.Example.end()DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java   (2å
+2com.springcore.lifecycle.Example?subject@6.16:6.23DECLARATION»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (⁄
+*com.springcore.lifecycle.Example.Example()CONSTRUCTOR»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("_
+declarationStringJ<mark class="modifier">public </mark><mark class="method">Example</mark>()*Example2Ï
+java.lang.Object.Object()CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2˙
+ com.springcore.lifecycle.ExampleRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ( 
+-com.springcore.lifecycle.Example.getSubject()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("
+isFinalfalse"i
+declarationStringT<mark class="modifier">public </mark>String <mark class="method">getSubject</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*
+getSubject2Ö
+2com.springcore.lifecycle.Example?subject@6.16:6.23CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java		 	(2Í
+java.lang.StringRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (≤
+=com.springcore.lifecycle.Example.setSubject(java.lang.String)METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("
+isFinalfalse"ì
+declarationString~<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setSubject</mark>(String subject)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setSubject2ò
+Ecom.springcore.lifecycle.Example.setSubject(java.lang.String)!subjectCALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2Ö
+2com.springcore.lifecycle.Example?subject@6.16:6.23CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2ù
+Ecom.springcore.lifecycle.Example.setSubject(java.lang.String)!subject	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (&2ﬁ
+voidRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (”
+Ecom.springcore.lifecycle.Example.setSubject(java.lang.String)!subject	PARAMETER»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (&"
+typeString"
+isFinalfalse"#
+declarationStringString subject*subject2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (Ù
++com.springcore.lifecycle.Example.toString()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Ö
+2com.springcore.lifecycle.Example?subject@6.16:6.23CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (&2Í
+java.lang.StringRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (˘
+(com.springcore.lifecycle.Example.start()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("
+isFinalfalse"¥
+declarationStringû<mark class="annotation">@PostConstruct</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*start2Ä
+-java.io.PrintStream.println(java.lang.String)CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (2ﬁ
+voidRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java (
+&com.springcore.lifecycle.Example.end()METHOD»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java   ("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@PreDestroy</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">end</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*end2Ä
+-java.io.PrintStream.println(java.lang.String)CALL»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java! !(2ﬁ
+voidRETURN_TYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java   (¨
+2com.springcore.lifecycle.Example?subject@6.16:6.23VARIABLE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java ("
+isFinalfalse"
+typeString"j
+declarationStringU<mark class="modifier">private </mark>String <mark class="class-field">subject</mark>"
+isStaticfalse"
+accessprivate*subject2„
+java.lang.StringTYPE»
+ΩC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Example.java	 (

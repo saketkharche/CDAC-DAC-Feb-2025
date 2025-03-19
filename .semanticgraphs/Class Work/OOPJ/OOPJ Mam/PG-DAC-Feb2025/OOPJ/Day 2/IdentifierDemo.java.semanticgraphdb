@@ -1,0 +1,44 @@
+
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java”
+DataDemoCLASSù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java ("
+packageDataDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>DataDemo"
+accesspackage_private*DataDemo2∆
+DataDemo.main(String[])DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java (ˆ	
+DataDemo.main(String[])METHODù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2…
+!DataDemo.main(String[])?b@6.7:6.8CALLù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java (2…
+DataDemo.main(String[])!args	PARAMETERù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java  (&2–
+!DataDemo.main(String[])?b@6.7:6.8DECLARATIONù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java (2≥
+voidRETURN_TYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java (Ç
+!DataDemo.main(String[])?b@6.7:6.8VARIABLEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java ("
+typebyte"
+isFinalfalse"a
+declarationStringL<mark class="modifier"> </mark>byte <mark class="class-field">b</mark> = 100*b2¨
+byteTYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java ( 
+DataDemo.main(String[])!args	PARAMETERù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2∞
+String[]TYPEù
+íC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\IdentifierDemo.java (&

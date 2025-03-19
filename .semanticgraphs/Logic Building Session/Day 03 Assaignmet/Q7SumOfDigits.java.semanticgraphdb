@@ -1,0 +1,74 @@
+
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java“
+Q7SumOfDigitsCLASSé
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java("
+packageQ7SumOfDigits"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>Q7SumOfDigits"
+accesspackage_private*Q7SumOfDigits2¿
+Q7SumOfDigits.main(String[])DECLARATIONí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (Û
+Q7SumOfDigits.main(String[])METHODí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2«
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2«
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2«
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2…
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2«
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2«
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java3 (62√
+!Q7SumOfDigits.main(String[])!args	PARAMETERí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java% ()2Œ
+*Q7SumOfDigits.main(String[])?num@2.12:2.15DECLARATIONí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2Œ
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15DECLARATIONí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2–
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21DECLARATIONí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2®
+voidRETURN_TYPEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (ñ
+*Q7SumOfDigits.main(String[])?num@2.12:2.15VARIABLEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 9876*num2†
+intTYPEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (í
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15VARIABLEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2†
+intTYPEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (Í
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21VARIABLEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">digit</mark> = num % 10*digit2†
+intTYPEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (2«
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java (π
+!Q7SumOfDigits.main(String[])!args	PARAMETERí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2•
+String[]TYPEí
+áC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q7SumOfDigits.java ($

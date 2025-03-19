@@ -1,0 +1,202 @@
+
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java±
+PhotosynthesisTRAIT{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java
+ ("
+packagePhotosynthesis"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier"> </mark><mark class="modifier">interface </mark>Photosynthesis"
+accesspackage_private*Photosynthesis2´
+Photosynthesis.absorbSunlight()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java	 (≤
+Photosynthesis.absorbSunlight()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java	 ("
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">absorbSunlight</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*absorbSunlight2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (°
+RespirationTRAIT{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java
+ ("
+packageRespiration"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">interface </mark>Respiration"
+accesspackage_private*Respiration2ß
+Respiration.releaseOxygen()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java	 (¨
+Respiration.releaseOxygen()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java	 ("
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">releaseOxygen</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*releaseOxygen2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (ä
+PlantCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+packagePlant"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">class </mark>Plant<mark class="modifier"><br>implements </mark>Photosynthesis, Respiration"
+accesspackage_private*Plant2ü
+Plant.Plant(String)DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2†
+Plant.getPlantName()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2¢
+Plant.absorbSunlight()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2°
+Plant.releaseOxygen()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2ß
+Plant?plantName@12.19:12.28DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2ï
+PhotosynthesisEXTEND{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (%2í
+RespirationEXTEND{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java' (2å
+Plant.Plant(String)CONSTRUCTOR{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("h
+declarationStringS<mark class="modifier">public </mark><mark class="method">Plant</mark>(String name)*Plant2ù
+Plant.Plant(String)!nameCALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2†
+Plant?plantName@12.19:12.28CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2¢
+Plant.Plant(String)!name	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2ë
+PlantRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (˙
+Plant.Plant(String)!name	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2ã
+StringTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (™
+Plant.getPlantName()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+isFinalfalse"k
+declarationStringV<mark class="modifier">public </mark>String <mark class="method">getPlantName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getPlantName2†
+Plant?plantName@12.19:12.28CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2í
+StringRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (£
+Plant.absorbSunlight()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+isFinalfalse"∏
+declarationString¢<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">absorbSunlight</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*absorbSunlight2†
+Plant?plantName@12.19:12.28CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ($2®
+Photosynthesis.absorbSunlight()OVERRIDE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (ú
+Plant.releaseOxygen()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+isFinalfalse"∑
+declarationString°<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">releaseOxygen</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*releaseOxygen2†
+Plant?plantName@12.19:12.28CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ($2§
+Respiration.releaseOxygen()OVERRIDE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (Û
+Plant?plantName@12.19:12.28VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java ("
+isFinalfalse"
+typeString"l
+declarationStringW<mark class="modifier">private </mark>String <mark class="class-field">plantName</mark>"
+isStaticfalse"
+accessprivate*	plantName2ã
+StringTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java (è
+	TestPlantCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java$ $("
+package	TestPlant"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>TestPlant"
+accesspublic*	TestPlant2§
+TestPlant.main(String[])DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java% %(ö
+TestPlant.main(String[])METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java% %("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≥
+.TestPlant.main(String[])?mangoTree@38.14:38.23CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java', '(52≥
+.TestPlant.main(String[])?mangoTree@38.14:38.23CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java( ((2≥
+.TestPlant.main(String[])?mangoTree@38.14:38.23CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java) )(2Æ
+)TestPlant.main(String[])?fern@45.14:45.18CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java., .(02Æ
+)TestPlant.main(String[])?fern@45.14:45.18CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java/ /(2Æ
+)TestPlant.main(String[])?fern@45.14:45.18CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java0 0(2ß
+TestPlant.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java%% %()2∫
+.TestPlant.main(String[])?mangoTree@38.14:38.23DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java& &(2µ
+)TestPlant.main(String[])?fern@45.14:45.18DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java- -(2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java% %(
+.TestPlant.main(String[])?mangoTree@38.14:38.23VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java& &("
+typePlant"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Plant <mark class="class-field">mangoTree</mark> = new Plant("Mango Tree")*	mangoTree2ä
+PlantTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java& &(€
+)TestPlant.main(String[])?fern@45.14:45.18VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java- -("
+typePlant"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Plant <mark class="class-field">fern</mark> = new Plant("Fern")*fern2ä
+PlantTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java- -(Ö
+TestPlant.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java%% %()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ç
+String[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestPlant.java% %($

@@ -1,0 +1,82 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java–
+IOExceptionExampleCLASSÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ("
+packageIOExceptionExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>IOExceptionExample"
+accesspublic*IOExceptionExample2∑
+!IOExceptionExample.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (Õ
+!IOExceptionExample.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ƒ
+5java.io.BufferedReader.BufferedReader(java.io.Reader)CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java( (62æ
+/java.io.FileReader.FileReader(java.lang.String)CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java; (E2¡
+2IOExceptionExample.main(String[])?reader@7.27:7.33CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ( 2¡
+2IOExceptionExample.main(String[])?reader@7.27:7.33CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java	 	(2æ
+/IOExceptionExample.main(String[])?e@10.29:10.30CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java8 (92∫
+&IOExceptionExample.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java% ()2»
+2IOExceptionExample.main(String[])?reader@7.27:7.33DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (!2∆
+0IOExceptionExample.main(String[])?line@8.19:8.23DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (2≈
+/IOExceptionExample.main(String[])?e@10.29:10.30DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java
+ 
+(2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (Õ
+2IOExceptionExample.main(String[])?reader@7.27:7.33VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (!"
+typeBufferedReader"
+isFinalfalse"£
+declarationStringç<mark class="modifier"> </mark>BufferedReader <mark class="class-field">reader</mark> = new BufferedReader(new FileReader("nonexistent.txt"))*reader2•
+java.io.BufferedReaderTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (2ƒ
+5java.io.BufferedReader.BufferedReader(java.io.Reader)CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java( (62æ
+/java.io.FileReader.FileReader(java.lang.String)CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java; (EΩ
+0IOExceptionExample.main(String[])?line@8.19:8.23VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ("
+typeString"
+isFinalfalse"t
+declarationString_<mark class="modifier"> </mark>String <mark class="class-field">line</mark> = reader.readLine()*line2ï
+StringTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java (2¡
+2IOExceptionExample.main(String[])?reader@7.27:7.33CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ( ¢
+&IOExceptionExample.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java ($µ
+/IOExceptionExample.main(String[])?e@10.29:10.30VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java
+ 
+("
+typeIOException"
+isFinalfalse""
+declarationStringIOException e*e2¢
+java.io.IOExceptionTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IOExceptionExample.java
+ 
+(

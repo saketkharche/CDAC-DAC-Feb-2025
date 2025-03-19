@@ -1,0 +1,55 @@
+
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.javaﬂ
+WrapperDemo2CLASSó
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java("
+packageWrapperDemo2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>WrapperDemo2"
+accesspackage_private*WrapperDemo22»
+WrapperDemo2.main(String[])DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (ü
+WrapperDemo2.main(String[])METHODõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+%WrapperDemo2.main(String[])?i@4.6:4.7CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (2À
+%WrapperDemo2.main(String[])?j@5.8:5.9CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (2À
+ WrapperDemo2.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java% ()2“
+%WrapperDemo2.main(String[])?i@4.6:4.7DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (2“
+%WrapperDemo2.main(String[])?j@5.8:5.9DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (	2±
+voidRETURN_TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (¥
+%WrapperDemo2.main(String[])?i@4.6:4.7VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java ("
+typeint"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = Integer.parseInt("12345")*i2©
+intTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (º
+%WrapperDemo2.main(String[])?j@5.8:5.9VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java (	"
+typefloat"
+isFinalfalse"ò
+declarationStringÇ<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">j</mark> = Float.parseFloat("1234.5")*j2´
+floatTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java ( 
+ WrapperDemo2.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Æ
+String[]TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day11\WrapperDemo2.java ($

@@ -1,0 +1,177 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java¥
+Q2ReverseArrayCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+packageQ2ReverseArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q2ReverseArray"
+accesspublic*Q2ReverseArray2Ø
+Q2ReverseArray.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (ó8
+Q2ReverseArray.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∫
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java
+ 
+(2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java& ('2∂
++Q2ReverseArray.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∂
++Q2ReverseArray.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ( 2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∂
++Q2ReverseArray.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?left@19.12:19.16CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?right@19.22:19.27CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?left@19.12:19.16CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?left@19.12:19.16CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?right@19.22:19.27CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (!2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?right@19.22:19.27CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?temp@22.16:22.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?left@19.12:19.16CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?right@19.22:19.27CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java! !(2∏
+-Q2ReverseArray.main(String[])?num@33.17:33.20CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java" "( 2∫
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java% %(2≤
+"Q2ReverseArray.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java% ()2¡
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2ª
+)Q2ReverseArray.main(String[])?n@8.12:8.13DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2ø
+-Q2ReverseArray.main(String[])?arr@10.14:10.17DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java
+ 
+(2Ω
++Q2ReverseArray.main(String[])?i@14.17:14.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¿
+.Q2ReverseArray.main(String[])?left@19.12:19.16DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¡
+/Q2ReverseArray.main(String[])?right@19.22:19.27DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¿
+.Q2ReverseArray.main(String[])?temp@22.16:22.20DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2ø
+-Q2ReverseArray.main(String[])?num@33.17:33.20DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java! !(2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (à
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ú
+java.util.ScannerTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (∑
+)Q2ReverseArray.main(String[])?n@8.12:8.13VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∫
+/Q2ReverseArray.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (’
+-Q2ReverseArray.main(String[])?arr@10.14:10.17VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java
+ 
+("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2ê
+int[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java
+ 
+(2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java
+ 
+(Î
++Q2ReverseArray.main(String[])?i@14.17:14.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (Ñ
+.Q2ReverseArray.main(String[])?left@19.12:19.16VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">left</mark> = 0, right = n - 1*left2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (æ
+/Q2ReverseArray.main(String[])?right@19.22:19.27VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">right</mark> = 0, right = n - 1*right2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2¥
+)Q2ReverseArray.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (Ù
+.Q2ReverseArray.main(String[])?temp@22.16:22.20VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[left]*temp2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2∏
+-Q2ReverseArray.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (2π
+.Q2ReverseArray.main(String[])?left@19.12:19.16CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java (Ì
+-Q2ReverseArray.main(String[])?num@33.17:33.20VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java! !("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java! !(ñ
+"Q2ReverseArray.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q2ReverseArray.java ($

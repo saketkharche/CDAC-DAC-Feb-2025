@@ -1,0 +1,249 @@
+
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java∫
+com.springcore.StudentCLASSæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+packagecom.springcore"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Student"
+accesspublic*Student2ó
+Gcom.springcore.Student.Student(int, java.lang.String, java.lang.String)DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2
+ com.springcore.Student.Student()DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java% %(2ı
+%com.springcore.Student.getStudentId()DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2¯
+(com.springcore.Student.setStudentId(int)DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2˜
+'com.springcore.Student.getStudentName()DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2á
+7com.springcore.Student.setStudentName(java.lang.String)DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2˙
+*com.springcore.Student.getStudentAddress()DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ( 2ä
+:com.springcore.Student.setStudentAddress(java.lang.String)DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2Ò
+!com.springcore.Student.toString()DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java* *(2˙
+*com.springcore.Student?studentId@3.13:3.22DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2¸
+,com.springcore.Student?studentName@4.16:4.27DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2ˇ
+/com.springcore.Student?studentAddress@5.16:5.30DECLARATIONæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (”
+Gcom.springcore.Student.Student(int, java.lang.String, java.lang.String)CONSTRUCTORæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("Æ
+declarationStringò<mark class="modifier">public </mark><mark class="method">Student</mark>(<mark class="modifier">int</mark> studentId<mark class="modifier"><mark class="modifier">,</mark></mark> String studentName<mark class="modifier"><mark class="modifier">,</mark></mark> String studentAddress)*Student2‚
+java.lang.Object.Object()CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java   (2ö
+Qcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentIdCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java! !(2ú
+Scom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentNameCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java" "( 2ü
+Vcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentAddressCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java# #(&2Û
+*com.springcore.Student?studentId@3.13:3.22CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java! !(2ı
+,com.springcore.Student?studentName@4.16:4.27CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java" "(2¯
+/com.springcore.Student?studentAddress@5.16:5.30CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java# #(2ü
+Qcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentId	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2°
+Scom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentName	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java& (12§
+Vcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentAddress	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java: (H2Ê
+com.springcore.StudentRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (⁄
+Qcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentId	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+typeint"
+isFinalfalse"@
+declarationString+<mark class="modifier">int</mark> studentId*	studentId2Ã
+intTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (’
+Scom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentName	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java& (1"
+typeString"
+isFinalfalse"'
+declarationStringString studentName*studentName2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (%ﬁ
+Vcom.springcore.Student.Student(int, java.lang.String, java.lang.String)!studentAddress	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java: (H"
+typeString"
+isFinalfalse"*
+declarationStringString studentAddress*studentAddress2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java3 (9®
+ com.springcore.Student.Student()CONSTRUCTORæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java% %("_
+declarationStringJ<mark class="modifier">public </mark><mark class="method">Student</mark>()*Student2‚
+java.lang.Object.Object()CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java& &(2Ê
+com.springcore.StudentRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java% %(¨
+%com.springcore.Student.getStudentId()METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"Ü
+declarationStringq<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getStudentId</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getStudentId2Û
+*com.springcore.Student?studentId@3.13:3.22CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java		 	(2”
+intRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (ÿ
+(com.springcore.Student.setStudentId(int)METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"≥
+declarationStringù<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setStudentId</mark>(<mark class="modifier">int</mark> studentId)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setStudentId2ˆ
+-java.io.PrintStream.println(java.lang.String)CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2˚
+2com.springcore.Student.setStudentId(int)!studentIdCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2Û
+*com.springcore.Student?studentId@3.13:3.22CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2Ä
+2com.springcore.Student.setStudentId(int)!studentId	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ('2‘
+voidRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (ª
+2com.springcore.Student.setStudentId(int)!studentId	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ('"
+typeint"
+isFinalfalse"@
+declarationString+<mark class="modifier">int</mark> studentId*	studentId2Ã
+intTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (®
+'com.springcore.Student.getStudentName()METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"m
+declarationStringX<mark class="modifier">public </mark>String <mark class="method">getStudentName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getStudentName2ı
+,com.springcore.Student?studentName@4.16:4.27CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java	 (2‡
+java.lang.StringRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (ˆ
+7com.springcore.Student.setStudentName(java.lang.String)METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setStudentName</mark>(String studentName)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setStudentName2ˆ
+-java.io.PrintStream.println(java.lang.String)CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2å
+Ccom.springcore.Student.setStudentName(java.lang.String)!studentNameCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ( 2ı
+,com.springcore.Student?studentName@4.16:4.27CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2ë
+Ccom.springcore.Student.setStudentName(java.lang.String)!studentName	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java# (.2‘
+voidRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (≈
+Ccom.springcore.Student.setStudentName(java.lang.String)!studentName	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java# (."
+typeString"
+isFinalfalse"'
+declarationStringString studentName*studentName2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("¥
+*com.springcore.Student.getStudentAddress()METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ( "
+isFinalfalse"p
+declarationString[<mark class="modifier">public </mark>String <mark class="method">getStudentAddress</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getStudentAddress2¯
+/com.springcore.Student?studentAddress@5.16:5.30CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java	 (2‡
+java.lang.StringRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (ë
+:com.springcore.Student.setStudentAddress(java.lang.String)METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"¢
+declarationStringå<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setStudentAddress</mark>(String studentAddress)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setStudentAddress2ˆ
+-java.io.PrintStream.println(java.lang.String)CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2í
+Icom.springcore.Student.setStudentAddress(java.lang.String)!studentAddressCALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (&2¯
+/com.springcore.Student?studentAddress@5.16:5.30CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (2ó
+Icom.springcore.Student.setStudentAddress(java.lang.String)!studentAddress	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java& (42‘
+voidRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (—
+Icom.springcore.Student.setStudentAddress(java.lang.String)!studentAddress	PARAMETERæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java& (4"
+typeString"
+isFinalfalse"*
+declarationStringString studentAddress*studentAddress2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java (%∑
+!com.springcore.Student.toString()METHODæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java* *("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Û
+*com.springcore.Student?studentId@3.13:3.22CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java+! +(*2ı
+,com.springcore.Student?studentName@4.16:4.27CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java+@ +(K2¯
+/com.springcore.Student?studentAddress@5.16:5.30CALLæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java+d +(r2‡
+java.lang.StringRETURN_TYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java* *(†
+*com.springcore.Student?studentId@3.13:3.22VARIABLEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"
+typeint"á
+declarationStringr<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">studentId</mark>"
+isStaticfalse"
+accessprivate*	studentId2Ã
+intTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java	 (ö
+,com.springcore.Student?studentName@4.16:4.27VARIABLEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"
+typeString"n
+declarationStringY<mark class="modifier">private </mark>String <mark class="class-field">studentName</mark>"
+isStaticfalse"
+accessprivate*studentName2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java	 (£
+/com.springcore.Student?studentAddress@5.16:5.30VARIABLEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java ("
+isFinalfalse"
+typeString"q
+declarationString\<mark class="modifier">private </mark>String <mark class="class-field">studentAddress</mark>"
+isStaticfalse"
+accessprivate*studentAddress2Ÿ
+java.lang.StringTYPEæ
+≥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\Student.java	 (

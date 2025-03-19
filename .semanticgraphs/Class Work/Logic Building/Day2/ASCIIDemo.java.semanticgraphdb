@@ -1,0 +1,64 @@
+
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.javaü
+	ASCIIDemoCLASS
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java("
+package	ASCIIDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>ASCIIDemo"
+accesspackage_private*	ASCIIDemo2≠
+ASCIIDemo.main(String[])DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (Ì
+ASCIIDemo.main(String[])METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∞
+"ASCIIDemo.main(String[])?a@3.5:3.6CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (2∞
+ASCIIDemo.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java  (&2∑
+"ASCIIDemo.main(String[])?a@3.5:3.6DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (2∏
+#ASCIIDemo.main(String[])?b@5.9:5.10DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java	 (
+2∑
+"ASCIIDemo.main(String[])?c@7.6:7.7DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (2ô
+voidRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (Í
+"ASCIIDemo.main(String[])?a@3.5:3.6VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 255*a2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (ô
+#ASCIIDemo.main(String[])?b@5.9:5.10VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java	 (
+"
+typeboolean"
+isFinalfalse"£
+declarationStringç<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">b</mark> = <mark class="modifier">false</mark>*b2ï
+booleanTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (œ
+"ASCIIDemo.main(String[])?c@7.6:7.7VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java ("
+typechar"
+isFinalfalse"a
+declarationStringL<mark class="modifier"> </mark>char <mark class="class-field">c</mark> = 'z'*c2í
+charTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (ó
+ASCIIDemo.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ñ
+String[]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\ASCIIDemo.java (&

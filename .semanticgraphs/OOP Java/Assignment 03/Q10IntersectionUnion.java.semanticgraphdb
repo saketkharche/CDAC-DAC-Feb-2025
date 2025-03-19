@@ -1,0 +1,333 @@
+
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.javaÛ
+Q10IntersectionUnionCLASSÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (!"
+packageQ10IntersectionUnion"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"r
+declarationString]<mark class="modifier">public </mark><mark class="modifier">class </mark>Q10IntersectionUnion"
+accesspublic*Q10IntersectionUnion2ƒ
+,Q10IntersectionUnion.findUnion(int[], int[])DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ( 2À
+3Q10IntersectionUnion.findIntersection(int[], int[])DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ('2ª
+#Q10IntersectionUnion.main(String[])DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java" "(Ç
+,Q10IntersectionUnion.findUnion(int[], int[])METHODÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ( "
+isFinalfalse"∏
+declarationString¢<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findUnion</mark>(<mark class="modifier">int</mark>[] arr1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] arr2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	findUnion2¨
+java.util.HashSet.HashSet()CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java% (.2¬
+1Q10IntersectionUnion.findUnion(int[], int[])!arr1CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	 	(2Õ
+<Q10IntersectionUnion.findUnion(int[], int[])?union@7.25:7.30CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	 	("2À
+:Q10IntersectionUnion.findUnion(int[], int[])?num@9.17:9.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	' 	(*2¬
+1Q10IntersectionUnion.findUnion(int[], int[])!arr2CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+ 
+(2Õ
+<Q10IntersectionUnion.findUnion(int[], int[])?union@7.25:7.30CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+ 
+("2Õ
+<Q10IntersectionUnion.findUnion(int[], int[])?num@10.17:10.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+' 
+(*2Õ
+<Q10IntersectionUnion.findUnion(int[], int[])?union@7.25:7.30CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2Õ
+<Q10IntersectionUnion.findUnion(int[], int[])?num@13.17:13.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ( 2«
+1Q10IntersectionUnion.findUnion(int[], int[])!arr1	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' (+2«
+1Q10IntersectionUnion.findUnion(int[], int[])!arr2	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java3 (72‘
+<Q10IntersectionUnion.findUnion(int[], int[])?union@7.25:7.30DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2“
+:Q10IntersectionUnion.findUnion(int[], int[])?num@9.17:9.20DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	 	(2‘
+<Q10IntersectionUnion.findUnion(int[], int[])?num@10.17:10.20DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+ 
+(2‘
+<Q10IntersectionUnion.findUnion(int[], int[])?num@13.17:13.20DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2ú
+voidRETURN_TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (˚
+<Q10IntersectionUnion.findUnion(int[], int[])?union@7.25:7.30VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ("
+typeHashSet<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>HashSet<Integer> <mark class="class-field">union</mark> = new HashSet<>()*union2¢
+java.util.HashSetTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2°
+IntegerTYPE_ARGUMENTÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2¨
+java.util.HashSet.HashSet()CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java% (.Ü
+:Q10IntersectionUnion.findUnion(int[], int[])?num@9.17:9.20VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	 	("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java	 	(à
+<Q10IntersectionUnion.findUnion(int[], int[])?num@10.17:10.20VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+ 
+("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java
+ 
+(à
+<Q10IntersectionUnion.findUnion(int[], int[])?num@13.17:13.20VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (∆
+1Q10IntersectionUnion.findUnion(int[], int[])!arr1	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' (+"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] arr1*arr12ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java! (&∆
+1Q10IntersectionUnion.findUnion(int[], int[])!arr2	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java3 (7"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] arr2*arr22ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java- (2ˆ
+3Q10IntersectionUnion.findIntersection(int[], int[])METHODÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ('"
+isFinalfalse"ø
+declarationString©<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findIntersection</mark>(<mark class="modifier">int</mark>[] arr1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] arr2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findIntersection2¨
+java.util.HashSet.HashSet()CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java# (,2…
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr1CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?set@21.25:21.28CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ( 2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@23.17:23.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java% ((2…
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr2CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?set@21.25:21.28CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@25.17:25.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ( 2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@25.17:25.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java! ($2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?set@21.25:21.28CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2‘
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@25.17:25.20CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2Œ
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr1	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. (22Œ
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr2	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java: (>2€
+CQ10IntersectionUnion.findIntersection(int[], int[])?set@21.25:21.28DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2€
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@23.17:23.20DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2€
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@25.17:25.20DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2ú
+voidRETURN_TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (˛
+CQ10IntersectionUnion.findIntersection(int[], int[])?set@21.25:21.28VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ("
+typeHashSet<Integer>"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>HashSet<Integer> <mark class="class-field">set</mark> = new HashSet<>()*set2¢
+java.util.HashSetTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2°
+IntegerTYPE_ARGUMENTÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (2¨
+java.util.HashSet.HashSet()CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java# (,è
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@23.17:23.20VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (è
+CQ10IntersectionUnion.findIntersection(int[], int[])?num@25.17:25.20VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java (Õ
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr1	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. (2"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] arr1*arr12ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( (-Õ
+8Q10IntersectionUnion.findIntersection(int[], int[])!arr2	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java: (>"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] arr2*arr22ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java4 (9∞5
+#Q10IntersectionUnion.main(String[])METHODÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java" "("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ω
+,Q10IntersectionUnion.findUnion(int[], int[])CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java4 4(2ƒ
+3Q10IntersectionUnion.findIntersection(int[], int[])CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java5 5(2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' '(2√
+2Q10IntersectionUnion.main(String[])?n1@39.12:39.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( ((2¬
+1Q10IntersectionUnion.main(String[])?i@42.17:42.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java* *(2√
+2Q10IntersectionUnion.main(String[])?n1@39.12:39.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java* *(2¬
+1Q10IntersectionUnion.main(String[])?i@42.17:42.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java*  *(!2≈
+4Q10IntersectionUnion.main(String[])?arr1@40.14:40.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java*% *()2¬
+1Q10IntersectionUnion.main(String[])?i@42.17:42.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java** *(+2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java*/ *(62»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. .(2√
+2Q10IntersectionUnion.main(String[])?n2@46.12:46.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java/ /(2¬
+1Q10IntersectionUnion.main(String[])?i@49.17:49.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1 1(2√
+2Q10IntersectionUnion.main(String[])?n2@46.12:46.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1 1(2¬
+1Q10IntersectionUnion.main(String[])?i@49.17:49.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1  1(!2≈
+4Q10IntersectionUnion.main(String[])?arr2@47.14:47.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1% 1()2¬
+1Q10IntersectionUnion.main(String[])?i@49.17:49.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1* 1(+2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1/ 1(62≈
+4Q10IntersectionUnion.main(String[])?arr1@40.14:40.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java4 4(2≈
+4Q10IntersectionUnion.main(String[])?arr2@47.14:47.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java4 4(2≈
+4Q10IntersectionUnion.main(String[])?arr1@40.14:40.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java5 5(2≈
+4Q10IntersectionUnion.main(String[])?arr2@47.14:47.18CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java5 5(#2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java7 7(2æ
+(Q10IntersectionUnion.main(String[])!args	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java"% "()2œ
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java# #(2 
+2Q10IntersectionUnion.main(String[])?n1@39.12:39.14DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' '(2Ã
+4Q10IntersectionUnion.main(String[])?arr1@40.14:40.18DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( ((2…
+1Q10IntersectionUnion.main(String[])?i@42.17:42.18DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java* *(2 
+2Q10IntersectionUnion.main(String[])?n2@46.12:46.14DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. .(2Ã
+4Q10IntersectionUnion.main(String[])?arr2@47.14:47.18DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java/ /(2…
+1Q10IntersectionUnion.main(String[])?i@49.17:49.18DECLARATIONÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1 1(2ú
+voidRETURN_TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java" "(ú
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java# #("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2¢
+java.util.ScannerTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java# #(‹
+2Q10IntersectionUnion.main(String[])?n1@39.12:39.14VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' '("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n1</mark> = scanner.nextInt()*n12î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' '(2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java' '(˙
+4Q10IntersectionUnion.main(String[])?arr1@40.14:40.18VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( (("
+typeint"
+isFinalfalse"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[n1]*arr12ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( ((2√
+2Q10IntersectionUnion.main(String[])?n1@39.12:39.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java( ((˝
+1Q10IntersectionUnion.main(String[])?i@42.17:42.18VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java* *("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java* *(‹
+2Q10IntersectionUnion.main(String[])?n2@46.12:46.14VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. .("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n2</mark> = scanner.nextInt()*n22î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. .(2»
+7Q10IntersectionUnion.main(String[])?scanner@35.16:35.23CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java. .(˙
+4Q10IntersectionUnion.main(String[])?arr2@47.14:47.18VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java/ /("
+typeint"
+isFinalfalse"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr2</mark> = new <mark class="modifier">int</mark>[n2]*arr22ñ
+int[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java/ /(2√
+2Q10IntersectionUnion.main(String[])?n2@46.12:46.14CALLÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java/ /(˝
+1Q10IntersectionUnion.main(String[])?i@49.17:49.18VARIABLEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1 1("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2î
+intTYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java1 1(®
+(Q10IntersectionUnion.main(String[])!args	PARAMETERÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java"% "()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ô
+String[]TYPEÜ
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q10IntersectionUnion.java" "($

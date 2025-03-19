@@ -1,0 +1,84 @@
+
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.javaÈ
+Q16PrimeNumberCLASSó
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java("
+packageQ16PrimeNumber"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q16PrimeNumber"
+accesspackage_private*Q16PrimeNumber2 
+Q16PrimeNumber.main(String[])DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (§
+Q16PrimeNumber.main(String[])METHODõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‘
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2’
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2œ
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2‘
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java! ('2œ
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java- (.2‘
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java	 	(2œ
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java	 	(2’
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java
+ 
+(2’
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2‘
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java/ (52‘
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java/ (52Õ
+"Q16PrimeNumber.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java% ()2€
+.Q16PrimeNumber.main(String[])?number@2.12:2.18DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2‹
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2÷
+)Q16PrimeNumber.main(String[])?i@8.21:8.22DECLARATIONõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (2±
+voidRETURN_TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (∞
+.Q16PrimeNumber.main(String[])?number@2.12:2.18VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 17*number2©
+intTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (¡
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java ("
+typeboolean"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isPrime</mark> = true*isPrime2≠
+booleanTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (ü
+)Q16PrimeNumber.main(String[])?i@8.21:8.22VARIABLEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2©
+intTYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java (Ã
+"Q16PrimeNumber.main(String[])!args	PARAMETERõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Æ
+String[]TYPEõ
+êC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q16PrimeNumber.java ($

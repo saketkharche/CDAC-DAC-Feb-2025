@@ -1,0 +1,108 @@
+
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.javaÎ
+Test1CLASSê
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java("
+packageTest1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Test1"
+accesspackage_private*Test12∑
+Test1.increment()DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 (2Ω
+Test1?counter@1.15:1.22DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (Ü
+Test1.increment()METHODî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 ("
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">increment</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	increment2∂
+Test1?counter@1.15:1.22CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2™
+voidRETURN_TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (‡
+Test1?counter@1.15:1.22VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java ("
+isFinalfalse"
+typeint"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">counter</mark> = 0;"
+isStatictrue"
+accesspackage_private*counter2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (™
+MainCLASSî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java ("
+packageMain"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2π
+Main.main(String[])DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 	(¥
+Main.main(String[])METHODî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2™
+Test.Test()CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java
+ 
+(2™
+Test.Test()CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2√
+$Main.main(String[])?obj1@10.13:10.17CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2√
+$Main.main(String[])?obj2@11.13:11.17CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2º
+Main.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	% 	()2 
+$Main.main(String[])?obj1@10.13:10.17DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java
+ 
+(2 
+$Main.main(String[])?obj2@11.13:11.17DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2™
+voidRETURN_TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 	(≠
+$Main.main(String[])?obj1@10.13:10.17VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java
+ 
+("
+typeTest"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Test <mark class="class-field">obj1</mark> = new Test()*obj12£
+TestTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java
+ 
+(2™
+Test.Test()CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java
+ 
+(≠
+$Main.main(String[])?obj2@11.13:11.17VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java ("
+typeTest"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Test <mark class="class-field">obj2</mark> = new Test()*obj22£
+TestTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (2™
+Test.Test()CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java (¥
+Main.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ß
+String[]TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\Test1.java	 	($

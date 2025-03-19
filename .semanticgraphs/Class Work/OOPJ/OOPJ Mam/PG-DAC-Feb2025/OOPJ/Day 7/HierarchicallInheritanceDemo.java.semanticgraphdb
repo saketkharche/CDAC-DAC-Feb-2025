@@ -1,0 +1,141 @@
+
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.javaØ
+AnimalCLASS§
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java("
+packageAnimal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Animal"
+accesspackage_private*Animal2É
+Animal.eat()DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	ê
+Animal.eat()METHOD«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">eat</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*eat2Á
+voidRETURN_TYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (½
+DogCLASS«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	"
+packageDog"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">class </mark>Dog<mark class="modifier"> extends </mark>Animal"
+accesspackage_private*Dog2Ç
+
+Dog.bark()DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (
+2¾
+AnimalEXTEND«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (ê
+
+Dog.bark()METHOD«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">bark</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*bark2Á
+voidRETURN_TYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (¾
+CatCLASS«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	"
+packageCat"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">class </mark>Cat<mark class="modifier"> extends </mark>Animal"
+accesspackage_private*Cat2È
+Cat.sound()DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2¾
+AnimalEXTEND«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (í
+Cat.sound()METHOD«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">sound</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*sound2Á
+voidRETURN_TYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (Ó
+HierarchicallInheritanceDemoCLASS«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (""'
+packageHierarchicallInheritanceDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier"> </mark><mark class="modifier">class </mark>HierarchicallInheritanceDemo"
+accesspackage_private*HierarchicallInheritanceDemo2è
++HierarchicallInheritanceDemo.main(String[])DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (ä
++HierarchicallInheritanceDemo.main(String[])METHOD«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¿
+	Cat.Cat()CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2¿
+	Dog.Dog()CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2î
+8HierarchicallInheritanceDemo.main(String[])?c1@21.6:21.8CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2î
+8HierarchicallInheritanceDemo.main(String[])?c1@21.6:21.8CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2ï
+9HierarchicallInheritanceDemo.main(String[])?c11@26.6:26.9CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2ï
+9HierarchicallInheritanceDemo.main(String[])?c11@26.6:26.9CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2ë
+0HierarchicallInheritanceDemo.main(String[])!args	PARAMETER«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java  (&2õ
+8HierarchicallInheritanceDemo.main(String[])?c1@21.6:21.8DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2ö
+9HierarchicallInheritanceDemo.main(String[])?c11@26.6:26.9DECLARATION«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	2Á
+voidRETURN_TYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (ü
+8HierarchicallInheritanceDemo.main(String[])?c1@21.6:21.8VARIABLE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java ("
+typeCat"
+isFinalfalse"g
+declarationStringR<mark class="modifier"> </mark>Cat <mark class="class-field">c1</mark> = new Cat()*c12¹
+CatTYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2¿
+	Cat.Cat()CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (ÿ
+9HierarchicallInheritanceDemo.main(String[])?c11@26.6:26.9VARIABLE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (	"
+typeDog"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>Dog <mark class="class-field">c11</mark> = new Dog()*c112¹
+DogTYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (2¿
+	Dog.Dog()CALL«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (ú
+0HierarchicallInheritanceDemo.main(String[])!args	PARAMETER«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¾
+String[]TYPE«
+ C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\HierarchicallInheritanceDemo.java (&

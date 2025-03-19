@@ -1,0 +1,55 @@
+
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.javaƒ
+ArrayIndexExampleCLASS
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java("
+packageArrayIndexExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>ArrayIndexExample"
+accesspublic*ArrayIndexExample2µ
+ ArrayIndexExample.main(String[])DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java (°
+ ArrayIndexExample.main(String[])METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2º
+.ArrayIndexExample.main(String[])?arr@2.14:2.17CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java ("2∫
+,ArrayIndexExample.main(String[])?e@5.48:5.49CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.javaK (L2∏
+%ArrayIndexExample.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java% ()2√
+.ArrayIndexExample.main(String[])?arr@2.14:2.17DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java (2¡
+,ArrayIndexExample.main(String[])?e@5.48:5.49DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java0 (12ô
+voidRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java (ç
+.ArrayIndexExample.main(String[])?arr@2.14:2.17VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java ("
+typeint"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 2, 3, 4, 5 }*arr2ì
+int[]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java (ü
+%ArrayIndexExample.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ñ
+String[]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java ($·
+,ArrayIndexExample.main(String[])?e@5.48:5.49VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java0 (1"&
+typeArrayIndexOutOfBoundsException"
+isFinalfalse"5
+declarationString ArrayIndexOutOfBoundsException e*e2¨
+ArrayIndexOutOfBoundsExceptionTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\ArrayIndexExample.java (/

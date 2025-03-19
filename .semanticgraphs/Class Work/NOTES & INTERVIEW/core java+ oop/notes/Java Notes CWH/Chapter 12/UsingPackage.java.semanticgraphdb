@@ -1,0 +1,72 @@
+
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java˘
+UsingCLASS¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java ("
+packageUsing"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">class </mark>Using<mark class="modifier"> extends </mark>HarryGym"
+accesspackage_private*Using2”
+Using.meth2()DECLARATION¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java	 (2€
+codewithharry.gym.HarryGymEXTEND¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (Å
+Using.meth2()METHOD¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java	 ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">meth2</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*meth22 
+voidRETURN_TYPE¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (í
+UsingPackageCLASS¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java ("
+packageUsingPackage"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>UsingPackage"
+accesspublic*UsingPackage2·
+UsingPackage.main(String[])DECLARATION¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (–
+UsingPackage.main(String[])METHOD¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ã
+Using.Using()CALL¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (2Ë
+)UsingPackage.main(String[])?c@16.14:16.15CALL¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (	2‰
+ UsingPackage.main(String[])!args	PARAMETER¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java% ()2Ô
+)UsingPackage.main(String[])?c@16.14:16.15DECLARATION¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (2 
+voidRETURN_TYPE¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (í
+)UsingPackage.main(String[])?c@16.14:16.15VARIABLE¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java ("
+typeUsing"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Using <mark class="class-field">c</mark> = new Using()*c2ƒ
+UsingTYPE¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (2Ã
+Using.Using()CALL¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java (¸
+ UsingPackage.main(String[])!args	PARAMETER¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2«
+String[]TYPE¥
+©C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\UsingPackage.java ($

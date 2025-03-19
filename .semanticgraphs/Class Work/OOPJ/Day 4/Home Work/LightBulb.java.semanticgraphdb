@@ -1,0 +1,144 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java™
+switch1CLASSÄ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java("
+packageswitch1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>switch1"
+accesspackage_private*switch12Ø
+switch1.SwitchOn(boolean)DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (2∞
+switch1.SwitchOff(boolean)DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (2¨
+switch1.check(boolean)DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	(2™
+switch1?sw@1.12:1.14DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (¥
+switch1.SwitchOn(boolean)METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+isFinalfalse"À
+declarationStringµ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">SwitchOn</mark>(<mark class="modifier">boolean</mark> sw)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*SwitchOn2∞
+switch1.SwitchOn(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java! (#2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (Ø
+switch1.SwitchOn(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java! (#"
+typeboolean"
+isFinalfalse"=
+declarationString(<mark class="modifier">boolean</mark> sw*sw2ñ
+booleanTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ( ∏
+switch1.SwitchOff(boolean)METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">SwitchOff</mark>(<mark class="modifier">boolean</mark> sw)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	SwitchOff2±
+switch1.SwitchOff(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java" ($2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (∞
+switch1.SwitchOff(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java" ($"
+typeboolean"
+isFinalfalse"=
+declarationString(<mark class="modifier">boolean</mark> sw*sw2ñ
+booleanTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (!”
+switch1.check(boolean)METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	("
+isFinalfalse"»
+declarationString≤<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">check</mark>(<mark class="modifier">boolean</mark> sw)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*check2®
+switch1.check(boolean)!swCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java
+ 
+(2≠
+switch1.check(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	( 2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	(¨
+switch1.check(boolean)!sw	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	( "
+typeboolean"
+isFinalfalse"=
+declarationString(<mark class="modifier">boolean</mark> sw*sw2ñ
+booleanTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java	 	(Ω
+switch1?sw@1.12:1.14VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+isFinalfalse"
+typeboolean"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">sw</mark> = <mark class="modifier">false</mark>;"
+isStaticfalse"
+accesspackage_private*sw2ñ
+booleanTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (¶
+	LightBulbCLASSÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+package	LightBulb"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>LightBulb"
+accesspackage_private*	LightBulb2Æ
+LightBulb.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (–
+LightBulb.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2†
+switch1.switch1()CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (2µ
+&LightBulb.main(String[])?s@21.16:21.17CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (	2µ
+&LightBulb.main(String[])?s@21.16:21.17CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (	2µ
+&LightBulb.main(String[])?s@21.16:21.17CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (	2µ
+&LightBulb.main(String[])?s@21.16:21.17CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (	2±
+LightBulb.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java% ()2º
+&LightBulb.main(String[])?s@21.16:21.17DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (ã
+&LightBulb.main(String[])?s@21.16:21.17VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ("
+typeswitch1"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>switch1 <mark class="class-field">s</mark> = new switch1()*s2ñ
+switch1TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (2†
+switch1.switch1()CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java (ô
+LightBulb.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Home Work\LightBulb.java ($

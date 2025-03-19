@@ -1,0 +1,127 @@
+
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.javaÊ
+JaggedArrayDemoCLASS…
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java("
+packageJaggedArrayDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>JaggedArrayDemo"
+accesspackage_private*JaggedArrayDemo2¹
+JaggedArrayDemo.main(String[])DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (Î,
+JaggedArrayDemo.main(String[])METHOD‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java" (#2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2¿
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2À
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALL‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2¼
+#JaggedArrayDemo.main(String[])!args	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java  (&2Ç
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (2Æ
++JaggedArrayDemo.main(String[])?i@13.9:13.10DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+2Ç
+,JaggedArrayDemo.main(String[])?j@14.10:14.11DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2Æ
++JaggedArrayDemo.main(String[])?i@22.9:22.10DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+2Ç
+,JaggedArrayDemo.main(String[])?j@23.10:23.11DECLARATION‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2Ÿ
+voidRETURN_TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (·
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 ("
+typeint"
+isFinalfalse"­
+declarationString—<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[3][]*arr12›
+int[][]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (ý
++JaggedArrayDemo.main(String[])?i@13.9:13.10VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (þ
+,JaggedArrayDemo.main(String[])?j@14.10:14.11VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (	ý
++JaggedArrayDemo.main(String[])?i@22.9:22.10VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (þ
+,JaggedArrayDemo.main(String[])?j@23.10:23.11VARIABLE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2—
+intTYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (	©
+#JaggedArrayDemo.main(String[])!args	PARAMETER‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2œ
+String[]TYPE‰
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (&

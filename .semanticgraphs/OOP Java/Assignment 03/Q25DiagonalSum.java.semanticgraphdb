@@ -1,0 +1,231 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java£
+Q25DiagonalSumCLASS|
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java("
+packageQ25DiagonalSum"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q25DiagonalSum"
+accesspublic*Q25DiagonalSum2Ø
+Q25DiagonalSum.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2π
+'Q25DiagonalSum.findDiagonalSum(int[][])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ('2µ
+#Q25DiagonalSum.printMatrix(int[][])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java, ,("à
+Q25DiagonalSum.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Æ
+#Q25DiagonalSum.printMatrix(int[][])CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2≤
+'Q25DiagonalSum.findDiagonalSum(int[][])CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (,2π
+.Q25DiagonalSum.main(String[])?matrix@3.16:3.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2π
+.Q25DiagonalSum.main(String[])?matrix@3.16:3.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java- (32¡
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.javaO ([2¡
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.javaO ([2¡
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java8 (D2¡
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.javaJ (V2≤
+"Q25DiagonalSum.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java% ()2¿
+.Q25DiagonalSum.main(String[])?matrix@3.16:3.22DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2»
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (Ê
+.Q25DiagonalSum.main(String[])?matrix@3.16:3.22VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ("
+typeint"
+isFinalfalse"Í
+declarationString‘<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix2í
+int[][]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (ô
+6Q25DiagonalSum.main(String[])?diagonalSums@14.14:14.26VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">diagonalSums</mark> = findDiagonalSum(matrix)*diagonalSums2ê
+int[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2≤
+'Q25DiagonalSum.findDiagonalSum(int[][])CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (,2π
+.Q25DiagonalSum.main(String[])?matrix@3.16:3.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java- (3ñ
+"Q25DiagonalSum.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ($∂*
+'Q25DiagonalSum.findDiagonalSum(int[][])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ('"
+isFinalfalse"›
+declarationString«<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">findDiagonalSum</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[]*findDiagonalSum2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ($2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java4 (:2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.javaE (K2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   (2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?n@28.12:28.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   (2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   ( 2—
+FQ25DiagonalSum.findDiagonalSum(int[][])?primaryDiagonalSum@29.12:29.30CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java" "(2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java"" "((2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java") "(*2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java", "(-2”
+HQ25DiagonalSum.findDiagonalSum(int[][])?secondaryDiagonalSum@30.12:30.32CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java% %( 2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java%$ %(*2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java%+ %(,2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?n@28.12:28.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java%. %(/2¿
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java%2 %(32—
+FQ25DiagonalSum.findDiagonalSum(int[][])?primaryDiagonalSum@29.12:29.30CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java( ((+2”
+HQ25DiagonalSum.findDiagonalSum(int[][])?secondaryDiagonalSum@30.12:30.32CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java(- ((A2æ
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrix	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java0 (62«
+5Q25DiagonalSum.findDiagonalSum(int[][])?n@28.12:28.13DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2ÿ
+FQ25DiagonalSum.findDiagonalSum(int[][])?primaryDiagonalSum@29.12:29.30DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2⁄
+HQ25DiagonalSum.findDiagonalSum(int[][])?secondaryDiagonalSum@30.12:30.32DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ( 2«
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   (2ó
+int[]RETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (æ
+5Q25DiagonalSum.findDiagonalSum(int[][])?n@28.12:28.13VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = matrix.length*n2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (2π
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (©
+FQ25DiagonalSum.findDiagonalSum(int[][])?primaryDiagonalSum@29.12:29.30VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">primaryDiagonalSum</mark> = 0*primaryDiagonalSum2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (Ø
+HQ25DiagonalSum.findDiagonalSum(int[][])?secondaryDiagonalSum@30.12:30.32VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java ( "
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">secondaryDiagonalSum</mark> = 0*secondaryDiagonalSum2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java (ı
+5Q25DiagonalSum.findDiagonalSum(int[][])?i@32.17:32.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java   (¡
+.Q25DiagonalSum.findDiagonalSum(int[][])!matrix	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java0 (6"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2í
+int[][]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java( (-Ï
+#Q25DiagonalSum.printMatrix(int[][])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java, ,(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2µ
+*Q25DiagonalSum.printMatrix(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java- -(2º
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2 2(2µ
+*Q25DiagonalSum.printMatrix(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2 2("2º
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2+ 2(,2º
+1Q25DiagonalSum.printMatrix(int[][])?j@51.21:51.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3 3(2µ
+*Q25DiagonalSum.printMatrix(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3  3(&2º
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3' 3((2º
+1Q25DiagonalSum.printMatrix(int[][])?j@51.21:51.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java32 3(32µ
+*Q25DiagonalSum.printMatrix(int[][])!matrixCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java4! 4('2º
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java4( 4()2º
+1Q25DiagonalSum.printMatrix(int[][])?j@51.21:51.22CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java4+ 4(,2∫
+*Q25DiagonalSum.printMatrix(int[][])!matrix	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java,+ ,(12√
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2 2(2√
+1Q25DiagonalSum.printMatrix(int[][])?j@51.21:51.22DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3 3(2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java, ,(Ò
+1Q25DiagonalSum.printMatrix(int[][])?i@50.17:50.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2 2("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java2 2(Ò
+1Q25DiagonalSum.printMatrix(int[][])?j@51.21:51.22VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3 3("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java3 3(Ω
+*Q25DiagonalSum.printMatrix(int[][])!matrix	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java,+ ,(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2í
+int[][]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q25DiagonalSum.java,# ,((

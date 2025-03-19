@@ -1,0 +1,208 @@
+
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java»
+#folder.folderl1.folderl2.CalculatorCLASS∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("#
+packagefolder.folderl1.folderl2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Calculator"
+accesspackage_private*
+Calculator2˘
+7folder.folderl1.folderl2.Calculator.calculate(int, int)DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ˇ
+7folder.folderl1.folderl2.Calculator.calculate(int, int)METHOD∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"â
+declarationStringÛ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2Ë
+-java.io.PrintStream.println(java.lang.String)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2Ù
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!aCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java0 (12Ù
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!bCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java2 (32˘
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2˘
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&2∆
+voidRETURN_TYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ñ
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ñ
+9folder.folderl1.folderl2.Calculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java! ($–
+%folder.folderl1.folderl2.ScCalculatorCLASS∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java
+ 
+("#
+packagefolder.folderl1.folderl2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>ScCalculator"
+accesspackage_private*ScCalculator2˚
+9folder.folderl1.folderl2.ScCalculator.calculate(int, int)DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (·
+9folder.folderl1.folderl2.ScCalculator.calculate(int, int)METHOD∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"â
+declarationStringÛ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2Ë
+-java.io.PrintStream.println(java.lang.String)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2’
+java.lang.Math.sin(double)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java5 (82ˆ
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!aCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java9 (:2ˆ
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!bCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java; (<2˚
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2˚
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&2∆
+voidRETURN_TYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ò
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ò
+;folder.folderl1.folderl2.ScCalculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java! ($–
+%folder.folderl1.folderl2.HyCalculatorCLASS∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("#
+packagefolder.folderl1.folderl2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>HyCalculator"
+accesspackage_private*HyCalculator2˚
+9folder.folderl1.folderl2.HyCalculator.calculate(int, int)DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (æ
+9folder.folderl1.folderl2.HyCalculator.calculate(int, int)METHOD∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"â
+declarationStringÛ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2Ë
+-java.io.PrintStream.println(java.lang.String)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2Ë
+-java.io.PrintStream.println(java.lang.String)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2’
+java.lang.Math.sin(double)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java5 (82ˆ
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!aCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java0 (12ˆ
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!bCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java2 (32ˆ
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!aCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java9 (:2ˆ
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!bCALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java; (<2˚
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2˚
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&2∆
+voidRETURN_TYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ò
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!a	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ò
+;folder.folderl1.folderl2.HyCalculator.calculate(int, int)!b	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java! ($≥	
+!folder.folderl1.folderl2.problem2CLASS∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("#
+packagefolder.folderl1.folderl2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem2"
+accesspublic*problem22¸
+:folder.folderl1.folderl2.problem2.main(java.lang.String[])DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2ˆ
+4folder.folderl1.folderl2.problem2?proInt@24.18:24.24DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2ı
+3folder.folderl1.folderl2.problem2?defInt@25.8:25.14DECLARATION∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (¡	
+:folder.folderl1.folderl2.problem2.main(java.lang.String[])METHOD∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ë
+-java.io.PrintStream.println(java.lang.String)CALL∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (2ˇ
+?folder.folderl1.folderl2.problem2.main(java.lang.String[])!args	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% ()2∆
+voidRETURN_TYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (ù
+?folder.folderl1.folderl2.problem2.main(java.lang.String[])!args	PARAMETER∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Õ
+java.lang.String[]TYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ($ë
+4folder.folderl1.folderl2.problem2?proInt@24.18:24.24VARIABLE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"
+typeint"ã
+declarationStringv<mark class="modifier">protected </mark><mark class="modifier">int</mark> <mark class="class-field">proInt</mark> = 4;"
+isStaticfalse"
+access	protected*proInt2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (é
+3folder.folderl1.folderl2.problem2?defInt@25.8:25.14VARIABLE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java ("
+isFinalfalse"
+typeint"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">defInt</mark> = 41;"
+isStaticfalse"
+accesspackage_private*defInt2æ
+intTYPE∞
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem2.java (

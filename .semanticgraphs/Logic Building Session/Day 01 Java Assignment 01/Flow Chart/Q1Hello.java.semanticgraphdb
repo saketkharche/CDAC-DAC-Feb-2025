@@ -1,0 +1,35 @@
+
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java¶
+Q1HelloCLASSŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java ("
+packageQ1Hello"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"”
+declarationString<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1Hello<mark class="modifier"> extends </mark>eecs.Gui"
+accesspublic*Q1Hello2Ç
+Q1Hello.main(String[])DECLARATIONŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	 	(2´
+eecs.GuiEXTENDŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java" (%Û
+Q1Hello.main(String[])METHODŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	 	("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ê
+Q1Hello.main(String[])!args	PARAMETERŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	$ 	((2µ
+voidRETURN_TYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	 	(Í
+Q1Hello.main(String[])!args	PARAMETERŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	$ 	(("
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2²
+String[]TYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Flow Chart\Q1Hello.java	 	(#

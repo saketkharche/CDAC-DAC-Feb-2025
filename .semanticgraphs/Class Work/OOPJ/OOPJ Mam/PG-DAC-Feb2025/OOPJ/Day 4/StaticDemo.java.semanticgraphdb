@@ -1,0 +1,130 @@
+
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.javaž
+
+StaticDemoCLASS™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+package
+StaticDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>StaticDemo"
+accesspackage_private*
+StaticDemo2¼
+StaticDemo.show()DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (
+2½
+StaticDemo.show1()DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2Ä
+StaticDemo.main(String[])DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2Á
+StaticDemo?x@3.12:3.13DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2Á
+StaticDemo?y@4.12:4.13DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2¿
+StaticDemo?z@5.5:5.6DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (‚	
+StaticDemo.show()METHOD™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">show</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show2º
+StaticDemo?x@3.12:3.13CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2º
+StaticDemo?x@3.12:3.13CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java	 	(2¸
+StaticDemo?z@5.5:5.6CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java
+ 
+(2¯
+voidRETURN_TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (ð
+StaticDemo.show1()METHOD™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+isFinalfalse" 
+declarationStringŠ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">show1</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show12º
+StaticDemo?x@3.12:3.13CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2º
+StaticDemo?x@3.12:3.13CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2¯
+voidRETURN_TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (¤
+StaticDemo.main(String[])METHOD™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¶
+StaticDemo.show1()CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2¶
+StaticDemo.show1()CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2»
+StaticDemo.StaticDemo()CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ( 2Ì
+(StaticDemo.main(String[])?s1@20.13:20.15CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2Ç
+StaticDemo.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java  (&2Ó
+(StaticDemo.main(String[])?s1@20.13:20.15DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2¯
+voidRETURN_TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (à
+(StaticDemo.main(String[])?s1@20.13:20.15VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+type
+StaticDemo"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>StaticDemo <mark class="class-field">s1</mark> = new StaticDemo()*s12®
+
+StaticDemoTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (2»
+StaticDemo.StaticDemo()CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ( Ä
+StaticDemo.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¬
+String[]TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (&Þ
+StaticDemo?x@3.12:3.13VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+isFinalfalse"
+typeint"¤
+declarationStringŽ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = 10;"
+isStatictrue"
+accesspackage_private*x2§
+intTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (Þ
+StaticDemo?y@4.12:4.13VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+isFinalfalse"
+typeint"¤
+declarationStringŽ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark> = 20;"
+isStatictrue"
+accesspackage_private*y2§
+intTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (¶
+StaticDemo?z@5.5:5.6VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">z</mark> = 30;"
+isStaticfalse"
+accesspackage_private*z2§
+intTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\StaticDemo.java (

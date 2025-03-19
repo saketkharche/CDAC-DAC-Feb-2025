@@ -1,0 +1,35 @@
+
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.javaè
+codewithharry.HarryCLASS≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java ("
+packagecodewithharry"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>Harry"
+accesspublic*Harry2Î
+,codewithharry.Harry.main(java.lang.String[])DECLARATION≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java (ô	
+,codewithharry.Harry.main(java.lang.String[])METHOD≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Â
+-java.io.PrintStream.println(java.lang.String)CALL≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java (2Ó
+1codewithharry.Harry.main(java.lang.String[])!args	PARAMETER≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java% ()2√
+voidRETURN_TYPE≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java (â
+1codewithharry.Harry.main(java.lang.String[])!args	PARAMETER≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2 
+java.lang.String[]TYPE≠
+¢C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\Harry.java ($

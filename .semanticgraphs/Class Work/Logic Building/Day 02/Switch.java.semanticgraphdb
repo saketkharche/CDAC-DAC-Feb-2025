@@ -1,0 +1,44 @@
+
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.javaé
+SwitchCLASS~
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java("
+packageSwitch"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Switch"
+accesspackage_private*Switch2©
+Switch.main(String[])DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (Á
+Switch.main(String[])METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¨
+Switch.main(String[])?a@2.8:2.9CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (2¨
+Switch.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java# ('2≥
+Switch.main(String[])?a@2.8:2.9DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (	2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (‰
+Switch.main(String[])?a@2.8:2.9VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java (í
+Switch.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+String[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Switch.java ("

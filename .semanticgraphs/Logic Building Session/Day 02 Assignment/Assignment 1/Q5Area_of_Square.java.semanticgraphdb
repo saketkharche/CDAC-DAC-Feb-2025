@@ -1,0 +1,61 @@
+
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.javaÅ
+Q5Area_of_SquareCLASSû
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java("
+packageQ5Area_of_Square"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5Area_of_Square"
+accesspackage_private*Q5Area_of_Square2”
+Q5Area_of_Square.main(String[])DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (⁄
+Q5Area_of_Square.main(String[])METHOD¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2€
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2€
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2€
+.Q5Area_of_Square.main(String[])?area@3.12:3.16CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java4 (82÷
+$Q5Area_of_Square.main(String[])!args	PARAMETER¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java% ()2‚
+.Q5Area_of_Square.main(String[])?side@2.12:2.16DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2‚
+.Q5Area_of_Square.main(String[])?area@3.12:3.16DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2∏
+voidRETURN_TYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (∏
+.Q5Area_of_Square.main(String[])?side@2.12:2.16VARIABLE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">side</mark> = 5*side2∞
+intTYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (ˇ
+.Q5Area_of_Square.main(String[])?area@3.12:3.16VARIABLE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">area</mark> = side * side*area2∞
+intTYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2€
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (2€
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java (‹
+$Q5Area_of_Square.main(String[])!args	PARAMETER¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2µ
+String[]TYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q5Area_of_Square.java ($

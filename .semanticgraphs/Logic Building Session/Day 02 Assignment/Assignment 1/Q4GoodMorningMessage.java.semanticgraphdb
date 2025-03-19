@@ -1,0 +1,63 @@
+
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.javaž
+Q4GoodMorningMessageCLASS¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (!"
+packageQ4GoodMorningMessage"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"r
+declarationString]<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4GoodMorningMessage"
+accesspublic*Q4GoodMorningMessage2Û
+#Q4GoodMorningMessage.main(String[])DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (è
+#Q4GoodMorningMessage.main(String[])METHOD¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ñ
+ java.util.Calendar.getInstance()CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java  (+2â
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2ã
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2ã
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java	 	(2Þ
+(Q4GoodMorningMessage.main(String[])!args	PARAMETER¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java% ()2é
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2ê
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2¼
+voidRETURN_TYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (¥
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20VARIABLE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java ("
+typeCalendar"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>Calendar <mark class="class-field">now</mark> = Calendar.getInstance()*now2Ã
+java.util.CalendarTYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2Ñ
+ java.util.Calendar.getInstance()CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java  (+Ç
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16VARIABLE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java ("
+typeint"
+isFinalfalse"œ
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">hour</mark> = now.get(Calendar.HOUR_OF_DAY)*hour2´
+intTYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (2â
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java (è
+(Q4GoodMorningMessage.main(String[])!args	PARAMETER¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¹
+String[]TYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 1\Q4GoodMorningMessage.java ($

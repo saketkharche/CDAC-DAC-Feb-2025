@@ -1,0 +1,53 @@
+
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.javaÕ
+
+ThrowDemo1CLASS™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java ("
+package
+ThrowDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>ThrowDemo1"
+accesspackage_private*
+ThrowDemo12Ä
+ThrowDemo1.main(String[])DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java (ò	
+ThrowDemo1.main(String[])METHOD™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ë
+'ThrowDemo1.main(String[])?e@10.30:10.31CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java (2Ç
+ThrowDemo1.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java" (&2Ò
+'ThrowDemo1.main(String[])?e@10.30:10.31DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java
+ 
+(2¯
+voidRETURN_TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java (Ä
+ThrowDemo1.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¬
+String[]TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java (!ê
+'ThrowDemo1.main(String[])?e@10.30:10.31VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java
+ 
+("
+typeNullPointerException"
+isFinalfalse"+
+declarationStringNullPointerException e*e2¸
+NullPointerExceptionTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ThrowDemo1.java
+	 
+(

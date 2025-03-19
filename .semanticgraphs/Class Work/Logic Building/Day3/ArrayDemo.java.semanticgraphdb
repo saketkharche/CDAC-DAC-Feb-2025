@@ -1,0 +1,190 @@
+
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaü
+	ArrayDemoCLASS
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java("
+package	ArrayDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrayDemo"
+accesspackage_private*	ArrayDemo2≠
+ArrayDemo.main(String[])DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (ß>
+ArrayDemo.main(String[])METHODÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≥
+%ArrayDemo.main(String[])?i@50.9:50.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2 2(2≥
+%ArrayDemo.main(String[])?a@37.5:37.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2 2(2≥
+%ArrayDemo.main(String[])?i@50.9:50.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2 2(2¥
+&ArrayDemo.main(String[])?j@51.10:51.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3 3(2≥
+%ArrayDemo.main(String[])?a@37.5:37.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3 3(2≥
+%ArrayDemo.main(String[])?i@50.9:50.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3 3(2¥
+&ArrayDemo.main(String[])?j@51.10:51.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3 3( 2≥
+%ArrayDemo.main(String[])?a@37.5:37.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java4 4(2≥
+%ArrayDemo.main(String[])?i@50.9:50.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java4 4(2¥
+&ArrayDemo.main(String[])?j@51.10:51.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java4 4(2≥
+%ArrayDemo.main(String[])?i@68.9:68.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD D(2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD D(2≥
+%ArrayDemo.main(String[])?i@68.9:68.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD D(2¥
+&ArrayDemo.main(String[])?j@69.10:69.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE E(2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE E(2≥
+%ArrayDemo.main(String[])?i@68.9:68.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE E(2¥
+&ArrayDemo.main(String[])?j@69.10:69.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE" E(#2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaF F(2≥
+%ArrayDemo.main(String[])?i@68.9:68.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaF F(2¥
+&ArrayDemo.main(String[])?j@69.10:69.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaF
+ F(2≥
+%ArrayDemo.main(String[])?i@75.9:75.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK K(2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK K(2≥
+%ArrayDemo.main(String[])?i@75.9:75.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK K(2¥
+&ArrayDemo.main(String[])?j@76.10:76.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL L(2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL L(2≥
+%ArrayDemo.main(String[])?i@75.9:75.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL L(2¥
+&ArrayDemo.main(String[])?j@76.10:76.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL" L(#2∂
+(ArrayDemo.main(String[])?arr1@65.4:65.12CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaM M(2≥
+%ArrayDemo.main(String[])?i@75.9:75.10CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaM M(2¥
+&ArrayDemo.main(String[])?j@76.10:76.11CALLÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaM M(2∞
+ArrayDemo.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java  (&2∫
+%ArrayDemo.main(String[])?a@37.5:37.10DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(
+2∫
+%ArrayDemo.main(String[])?i@50.9:50.10DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2	 2(
+2ª
+&ArrayDemo.main(String[])?j@51.10:51.11DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3
+ 3(2º
+'ArrayDemo.main(String[])?arr@61.4:61.11DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java= =(2Ω
+(ArrayDemo.main(String[])?arr1@65.4:65.12DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(2∫
+%ArrayDemo.main(String[])?i@68.9:68.10DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD	 D(
+2ª
+&ArrayDemo.main(String[])?j@69.10:69.11DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE
+ E(2∫
+%ArrayDemo.main(String[])?i@75.9:75.10DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK	 K(
+2ª
+&ArrayDemo.main(String[])?j@76.10:76.11DECLARATIONÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL
+ L(2ô
+voidRETURN_TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (¥
+%ArrayDemo.main(String[])?a@37.5:37.10VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(
+"
+typeint"
+isFinalfalse"¿
+declarationString™<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">a</mark> = { { 1, 2, 3, 4 }<mark class="modifier">,</mark> { 5, 6, 7, 8 } }*a2ï
+int[][]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(Î
+%ArrayDemo.main(String[])?i@50.9:50.10VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2	 2(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java2 2(Ï
+&ArrayDemo.main(String[])?j@51.10:51.11VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3
+ 3("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java3 3(	Û
+'ArrayDemo.main(String[])?arr@61.4:61.11VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java= =("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark>*arr2ì
+int[][]TYPEÅ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java= =(	¶
+(ArrayDemo.main(String[])?arr1@65.4:65.12VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A("
+typeint"
+isFinalfalse"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[2][2]*arr12ì
+int[][]TYPEÅ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(
+Î
+%ArrayDemo.main(String[])?i@68.9:68.10VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD	 D(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaD D(Ï
+&ArrayDemo.main(String[])?j@69.10:69.11VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE
+ E("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaE E(	Î
+%ArrayDemo.main(String[])?i@75.9:75.10VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK	 K(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaK K(Ï
+&ArrayDemo.main(String[])?j@76.10:76.11VARIABLEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL
+ L("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ë
+intTYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaL L(	ó
+ArrayDemo.main(String[])!args	PARAMETERÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ñ
+String[]TYPEÉ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (&

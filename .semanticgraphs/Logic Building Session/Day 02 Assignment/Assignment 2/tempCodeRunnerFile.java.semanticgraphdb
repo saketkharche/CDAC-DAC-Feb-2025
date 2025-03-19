@@ -1,0 +1,127 @@
+
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java¢
+Q4DiscountCalculationCLASS¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (" 
+packageQ4DiscountCalculation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>Q4DiscountCalculation"
+accesspackage_private*Q4DiscountCalculation2Ú
+$Q4DiscountCalculation.main(String[])DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (·*
+$Q4DiscountCalculation.main(String[])METHOD¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2å
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (&2å
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java
+ 
+(&2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ( 2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2í
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java" (/2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java3 (@2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.javaC (K2ð
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java6 (F2å
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2Ý
+)Q4DiscountCalculation.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java% ()2ì
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2ò
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2ô
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java
+ 
+(2ï
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2÷
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2º
+voidRETURN_TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (×
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2À
+java.util.ScannerTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (â
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ("
+typedouble"
+isFinalfalse"Ÿ
+declarationString‰<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">totalPurchase</mark> = scanner.nextDouble()*totalPurchase2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2å
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (&¾
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java
+ 
+("
+typeString"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>String <mark class="class-field">hasMembership</mark> = scanner.next()*hasMembership2µ
+StringTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java
+ 
+(2å
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java
+ 
+(&Õ
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ("
+typedouble"
+isFinalfalse"‚
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">discount</mark>*discount2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (â
+
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ("
+typedouble"
+isFinalfalse"¸
+declarationString¢<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">discountedAmount</mark> = totalPurchase - (totalPurchase * discount)*discountedAmount2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java (2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java" (/2ë
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java3 (@2è
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.javaC (Kå
+)Q4DiscountCalculation.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2·
+String[]TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\tempCodeRunnerFile.java ($

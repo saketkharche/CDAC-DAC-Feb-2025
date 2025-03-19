@@ -1,0 +1,179 @@
+
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java◊
+Q13MarksAggregationCLASSÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ( "
+packageQ13MarksAggregation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>Q13MarksAggregation"
+accesspublic*Q13MarksAggregation2π
+"Q13MarksAggregation.main(String[])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (õ;
+"Q13MarksAggregation.main(String[])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¿
+0Q13MarksAggregation.main(String[])?i@12.17:12.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?i@12.17:12.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java  (!2¿
+0Q13MarksAggregation.main(String[])?i@12.17:12.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java= (>2¿
+0Q13MarksAggregation.main(String[])?j@14.21:14.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?j@14.21:14.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java# ($2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?i@12.17:12.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?j@14.21:14.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2ƒ
+4Q13MarksAggregation.main(String[])?scanner@5.16:5.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (%2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java  (!2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java& (+2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java, (-2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java4 (92¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java: (;2ƒ
+4Q13MarksAggregation.main(String[])?total@21.16:21.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java  (%2…
+9Q13MarksAggregation.main(String[])?percentage@22.18:22.28CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2ƒ
+4Q13MarksAggregation.main(String[])?above75@8.12:8.19CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2…
+9Q13MarksAggregation.main(String[])?percentage@22.18:22.28CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (!2ƒ
+4Q13MarksAggregation.main(String[])?below40@9.12:9.19CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2ƒ
+4Q13MarksAggregation.main(String[])?above75@8.12:8.19CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java K  (R2ƒ
+4Q13MarksAggregation.main(String[])?below40@9.12:9.19CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java!K !(R2ƒ
+4Q13MarksAggregation.main(String[])?scanner@5.16:5.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java# #(2º
+'Q13MarksAggregation.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java% ()2À
+4Q13MarksAggregation.main(String[])?scanner@5.16:5.23DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2…
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2À
+4Q13MarksAggregation.main(String[])?above75@8.12:8.19DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2À
+4Q13MarksAggregation.main(String[])?below40@9.12:9.19DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java	 	(2«
+0Q13MarksAggregation.main(String[])?i@12.17:12.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2«
+0Q13MarksAggregation.main(String[])?j@14.21:14.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2«
+0Q13MarksAggregation.main(String[])?i@20.17:20.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2À
+4Q13MarksAggregation.main(String[])?total@21.16:21.21DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2–
+9Q13MarksAggregation.main(String[])?percentage@22.18:22.28DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (ó
+4Q13MarksAggregation.main(String[])?scanner@5.16:5.23VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2°
+java.util.ScannerTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (π
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"∞
+declarationStringö<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">marks</mark> = new <mark class="modifier">int</mark>[20][3]*marks2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (ã
+4Q13MarksAggregation.main(String[])?above75@8.12:8.19VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">above75</mark> = 0*above752ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (ã
+4Q13MarksAggregation.main(String[])?below40@9.12:9.19VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java	 	("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">below40</mark> = 0*below402ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java	 	(˙
+0Q13MarksAggregation.main(String[])?i@12.17:12.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (˙
+0Q13MarksAggregation.main(String[])?j@14.21:14.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (˙
+0Q13MarksAggregation.main(String[])?i@20.17:20.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (∆
+4Q13MarksAggregation.main(String[])?total@21.16:21.21VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typeint"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">total</mark> = marks[i][0] + marks[i][1] + marks[i][2]*total2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java& (+2¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java, (-2¬
+2Q13MarksAggregation.main(String[])?marks@7.16:7.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java4 (92¿
+0Q13MarksAggregation.main(String[])?i@20.17:20.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java: (;˘
+9Q13MarksAggregation.main(String[])?percentage@22.18:22.28VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ("
+typefloat"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">percentage</mark> = (total / 300.0f) * 100*
+percentage2ï
+floatTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java (2ƒ
+4Q13MarksAggregation.main(String[])?total@21.16:21.21CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java  (%•
+'Q13MarksAggregation.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ò
+String[]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q13MarksAggregation.java ($

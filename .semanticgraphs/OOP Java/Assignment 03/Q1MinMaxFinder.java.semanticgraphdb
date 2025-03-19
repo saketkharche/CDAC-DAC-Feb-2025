@@ -1,0 +1,172 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java¥
+Q1MinMaxFinderCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+packageQ1MinMaxFinder"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1MinMaxFinder"
+accesspublic*Q1MinMaxFinder2Ø
+Q1MinMaxFinder.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (Á:
+Q1MinMaxFinder.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∫
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2¥
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java
+ 
+(2¥
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java& ('2∂
++Q1MinMaxFinder.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2¥
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ( 2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@14.17:14.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∫
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2¥
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ( 2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?min@19.12:19.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?min@19.12:19.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?max@20.12:20.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?max@20.12:20.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∂
++Q1MinMaxFinder.main(String[])?i@22.17:22.18CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?min@19.12:19.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java 2  (52∏
+-Q1MinMaxFinder.main(String[])?max@20.12:20.15CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java!1 !(42∫
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java# #(2≤
+"Q1MinMaxFinder.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java% ()2¡
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2ª
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2ø
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java
+ 
+(2Ω
++Q1MinMaxFinder.main(String[])?i@14.17:14.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2ø
+-Q1MinMaxFinder.main(String[])?min@19.12:19.15DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2ø
+-Q1MinMaxFinder.main(String[])?max@20.12:20.15DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2Ω
++Q1MinMaxFinder.main(String[])?i@22.17:22.18DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (à
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ú
+java.util.ScannerTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (∑
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∫
+/Q1MinMaxFinder.main(String[])?scanner@4.16:4.23CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (’
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java
+ 
+("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2ê
+int[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java
+ 
+(2¥
+)Q1MinMaxFinder.main(String[])?n@8.12:8.13CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java
+ 
+(Î
++Q1MinMaxFinder.main(String[])?i@14.17:14.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (≤
+-Q1MinMaxFinder.main(String[])?min@19.12:19.15VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">min</mark> = arr[0]*min2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (≤
+-Q1MinMaxFinder.main(String[])?max@20.12:20.15VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">max</mark> = arr[0]*max2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (2∏
+-Q1MinMaxFinder.main(String[])?arr@10.14:10.17CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (Î
++Q1MinMaxFinder.main(String[])?i@22.17:22.18VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java (ñ
+"Q1MinMaxFinder.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q1MinMaxFinder.java ($

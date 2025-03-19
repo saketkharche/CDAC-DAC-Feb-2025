@@ -1,0 +1,82 @@
+
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java…
+Q8Swap_Two_NumbersCLASS›
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java("
+packageQ8Swap_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier"> </mark><mark class="modifier">class </mark>Q8Swap_Two_Numbers"
+accesspackage_private*Q8Swap_Two_Numbers2Ò
+!Q8Swap_Two_Numbers.main(String[])DECLARATIONŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (Š
+!Q8Swap_Two_Numbers.main(String[])METHODŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Õ
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java3 (42Õ
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.javaB (C2Ù
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Õ
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Õ
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Õ
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Õ
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Ù
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Õ
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java	1 	(22Õ
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java	@ 	(A2Õ
+&Q8Swap_Two_Numbers.main(String[])!args	PARAMETERŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java! (%2Ü
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7DECLARATIONŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7DECLARATIONŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (2à
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10DECLARATIONŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (
+2µ
+voidRETURN_TYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (ª
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7VARIABLEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2­
+intTYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (ª
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7VARIABLEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 20*b2­
+intTYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (¯
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10VARIABLEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (
+"
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark>*temp2­
+intTYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java (Ø
+&Q8Swap_Two_Numbers.main(String[])!args	PARAMETERŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java! (%"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2²
+String[]TYPEŸ
+”C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q8Swap_Two_Numbers.java ( 

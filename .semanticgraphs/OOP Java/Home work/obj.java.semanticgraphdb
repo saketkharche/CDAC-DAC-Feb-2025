@@ -1,0 +1,420 @@
+
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java¡
+	LightBulbCLASSm
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java("
+package	LightBulb"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>LightBulb"
+accesspackage_private*	LightBulb2ñ
+LightBulb.switchOn()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ó
+LightBulb.switchOff()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ì
+LightBulb.check()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ò
+LightBulb?on@1.12:1.14DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (ò
+LightBulb.switchOn()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"É
+declarationStringn<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">switchOn</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*switchOn2ë
+LightBulb?on@1.12:1.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (
+2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (õ
+LightBulb.switchOff()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">switchOff</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	switchOff2ë
+LightBulb?on@1.12:1.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (
+2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (è
+LightBulb.check()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">check</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*check2ë
+LightBulb?on@1.12:1.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (ó
+LightBulb?on@1.12:1.14VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"
+typeboolean"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">on</mark> = <mark class="modifier">false</mark>;"
+isStaticfalse"
+accesspackage_private*on2Ç
+booleanTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (ñ
+CarCLASSq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (	"
+packageCar"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>Car"
+accesspackage_private*Car2ì
+Car.drive(double)DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ï
+Car.loadgas(double)DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2û
+Car.changeEfficiency(double)DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java! !( 2ê
+Car.checkGas()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java% %(2ï
+Car.checkOdometer()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java) )(2ï
+Car?gas@20.11:20.14DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ô
+Car?running@21.11:21.18DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ú
+Car?efficiency@22.11:22.21DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (≠
+Car.drive(double)METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"ß
+declarationStringë<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">drive</mark>(<mark class="modifier">double</mark> x)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*drive2í
+Car?running@21.11:21.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2é
+Car.drive(double)!xCALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2é
+Car?gas@20.11:20.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2é
+Car?gas@20.11:20.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2í
+Car?running@21.11:21.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ï
+Car?efficiency@22.11:22.21CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ()2ì
+Car.drive(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (˘
+Car.drive(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> x*x2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (Í
+Car.loadgas(double)METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"´
+declarationStringï<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">loadgas</mark>(<mark class="modifier">double</mark> gas)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*loadgas2í
+Car.loadgas(double)!gasCALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2é
+Car?gas@20.11:20.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (2ó
+Car.loadgas(double)!gas	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (Å
+Car.loadgas(double)!gas	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (""
+typedouble"
+isFinalfalse"=
+declarationString(<mark class="modifier">double</mark> gas*gas2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (û
+Car.changeEfficiency(double)METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java! !( "
+isFinalfalse"¥
+declarationStringû<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">changeEfficiency</mark>(<mark class="modifier">double</mark> eff)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*changeEfficiency2ï
+Car?efficiency@22.11:22.21CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java" "(2õ
+ Car.changeEfficiency(double)!effCALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java" "(2†
+ Car.changeEfficiency(double)!eff	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java!( !(+2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java! !(ä
+ Car.changeEfficiency(double)!eff	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java!( !(+"
+typedouble"
+isFinalfalse"=
+declarationString(<mark class="modifier">double</mark> eff*eff2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java!! !('è
+Car.checkGas()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java% %("
+isFinalfalse"É
+declarationStringn<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">checkGas</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*checkGas2é
+Car?gas@20.11:20.14CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java&# &(&2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java% %(¢
+Car.checkOdometer()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java) )("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">checkOdometer</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*checkOdometer2í
+Car?running@21.11:21.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java*) *(02Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java) )(
+Car?gas@20.11:20.14VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"
+typedouble"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">gas</mark> = 0;"
+isStaticfalse"
+accesspackage_private*gas2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (
+¸
+Car?running@21.11:21.18VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"
+typedouble"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">running</mark> = 0;"
+isStaticfalse"
+accesspackage_private*running2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (
+Ö
+Car?efficiency@22.11:22.21VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java ("
+isFinalfalse"
+typedouble"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">efficiency</mark> = 0;"
+isStaticfalse"
+accesspackage_private*
+efficiency2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java (
+Ì
+BankAccountCLASSq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java. .("
+packageBankAccount"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>BankAccount"
+accesspackage_private*BankAccount2ù
+BankAccount.deposit(double)DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1(2û
+BankAccount.withdraw(double)DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5 5(2ú
+BankAccount.checkBalance()DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java9 9(2°
+BankAccount?balance@47.11:47.18DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java/ /(à
+BankAccount.deposit(double)METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1("
+isFinalfalse"©
+declarationStringì<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deposit</mark>(<mark class="modifier">double</mark> x)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deposit2ö
+BankAccount?balance@47.11:47.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java2 2(2ò
+BankAccount.deposit(double)!xCALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java2 2(2ù
+BankAccount.deposit(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1( 2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1(É
+BankAccount.deposit(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1( "
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> x*x2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java1 1(ç
+BankAccount.withdraw(double)METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5 5("
+isFinalfalse"™
+declarationStringî<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">withdraw</mark>(<mark class="modifier">double</mark> x)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*withdraw2ö
+BankAccount?balance@47.11:47.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java6 6(2ô
+BankAccount.withdraw(double)!xCALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java6 6(2û
+BankAccount.withdraw(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5  5(!2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5 5(Ñ
+BankAccount.withdraw(double)!x	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5  5(!"
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> x*x2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java5 5(Ø
+BankAccount.checkBalance()METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java9 9("
+isFinalfalse"á
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">checkBalance</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*checkBalance2ö
+BankAccount?balance@47.11:47.18CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java:0 :(72Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java9 9(Ñ
+BankAccount?balance@47.11:47.18VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java/ /("
+isFinalfalse"
+typedouble"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">balance</mark> = 0;"
+isStaticfalse"
+accesspackage_private*balance2Å
+doubleTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java/ /(
+›
+objCLASSq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java> >("
+packageobj"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>obj"
+accesspublic*obj2î
+obj.main(String[])DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java? ?(◊
+obj.main(String[])METHODq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java? ?("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ê
+LightBulb.LightBulb()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java@ @($2Ñ
+	Car.Car()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaF F(2î
+BankAccount.BankAccount()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaM M((2ú
+!obj.main(String[])?lt@64.18:64.20CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaA A(
+2ú
+!obj.main(String[])?lt@64.18:64.20CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaB B(
+2ú
+!obj.main(String[])?lt@64.18:64.20CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaC C(
+2ú
+!obj.main(String[])?lt@64.18:64.20CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaD D(
+2õ
+ obj.main(String[])?c@70.12:70.13CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaG G(	2õ
+ obj.main(String[])?c@70.12:70.13CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaH H(	2õ
+ obj.main(String[])?c@70.12:70.13CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaI I(	2õ
+ obj.main(String[])?c@70.12:70.13CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaJ J(	2õ
+ obj.main(String[])?c@70.12:70.13CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaK K(	2ú
+!obj.main(String[])?ba@77.20:77.22CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaN N(
+2ú
+!obj.main(String[])?ba@77.20:77.22CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaO O(
+2ú
+!obj.main(String[])?ba@77.20:77.22CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaP P(
+2ó
+obj.main(String[])!args	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java?% ?()2£
+!obj.main(String[])?lt@64.18:64.20DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java@ @(2¢
+ obj.main(String[])?c@70.12:70.13DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaF F(2£
+!obj.main(String[])?ba@77.20:77.22DECLARATIONq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaM M(2Ü
+voidRETURN_TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java? ?(ÿ
+!obj.main(String[])?lt@64.18:64.20VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java@ @("
+type	LightBulb"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>LightBulb <mark class="class-field">lt</mark> = new LightBulb()*lt2Ñ
+	LightBulbTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java@ @(2ê
+LightBulb.LightBulb()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java@ @($∞
+ obj.main(String[])?c@70.12:70.13VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaF F("
+typeCar"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Car <mark class="class-field">c</mark> = new Car()*c2~
+CarTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaF F(2Ñ
+	Car.Car()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaF F(‰
+!obj.main(String[])?ba@77.20:77.22VARIABLEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaM M("
+typeBankAccount"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>BankAccount <mark class="class-field">ba</mark> = new BankAccount()*ba2Ü
+BankAccountTYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaM M(2î
+BankAccount.BankAccount()CALLq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.javaM M((Î
+obj.main(String[])!args	PARAMETERq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java?% ?()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2É
+String[]TYPEq
+gC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Home work\obj.java? ?($

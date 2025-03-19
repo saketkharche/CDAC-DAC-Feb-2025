@@ -1,0 +1,61 @@
+
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java¶
+Q17First_N_NaturalNumbersCLASS¢
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java("$
+packageQ17First_N_NaturalNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier"> </mark><mark class="modifier">class </mark>Q17First_N_NaturalNumbers"
+accesspackage_private*Q17First_N_NaturalNumbers2à
+(Q17First_N_NaturalNumbers.main(String[])DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (ú
+(Q17First_N_NaturalNumbers.main(String[])METHOD¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2å
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java$ (%2å
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (2å
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (2å
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java  (!2å
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALL¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (2ã
+-Q17First_N_NaturalNumbers.main(String[])!args	PARAMETER¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java% ()2ì
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (2ì
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18DECLARATION¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (2¼
+voidRETURN_TYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (À
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13VARIABLE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = 6*N2´
+intTYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (À
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18VARIABLE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2´
+intTYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java (í
+-Q17First_N_NaturalNumbers.main(String[])!args	PARAMETER¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¹
+String[]TYPE¦
+›C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q17First_N_NaturalNumbers.java ($

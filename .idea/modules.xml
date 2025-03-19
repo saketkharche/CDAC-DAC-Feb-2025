@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CDAC-DAC-Feb-2025.iml" filepath="$PROJECT_DIR$/.idea/CDAC-DAC-Feb-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building Session/Day 02 Assignment/Day 02 Assignment.iml" filepath="$PROJECT_DIR$/Logic Building Session/Day 02 Assignment/Day 02 Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/Logic Building/Logic Building.iml" filepath="$PROJECT_DIR$/Class Work/Logic Building/Logic Building.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building Session/Logic Building Session.iml" filepath="$PROJECT_DIR$/Logic Building Session/Logic Building Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Java/OOP Java.iml" filepath="$PROJECT_DIR$/OOP Java/OOP Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/OOPJ/OOPJ.iml" filepath="$PROJECT_DIR$/Class Work/OOPJ/OOPJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/OOPJ/OOPJ Mam/OOPJ Mam.iml" filepath="$PROJECT_DIR$/Class Work/OOPJ/OOPJ Mam/OOPJ Mam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/Operating System/Operating System.iml" filepath="$PROJECT_DIR$/Class Work/Operating System/Operating System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/core java+ oop/core java+ oop.iml" filepath="$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/core java+ oop/core java+ oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/Adv Java/Notes/spring/springcore/src/main/main.iml" filepath="$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/Adv Java/Notes/spring/springcore/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/Adv Java/Notes/spring/springcore/src/test/test.iml" filepath="$PROJECT_DIR$/Class Work/NOTES &amp; INTERVIEW/Adv Java/Notes/spring/springcore/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

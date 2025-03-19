@@ -1,0 +1,100 @@
+
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java‡
+UsernameValidatorCLASSù
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java("
+packageUsernameValidator"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>UsernameValidator"
+accesspublic*UsernameValidator2‹
+)UsernameValidator.isValidUsername(String)DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ()2”
+ UsernameValidator.main(String[])DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (œ
+)UsernameValidator.isValidUsername(String)METHOD°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ()"
+isFinalfalse"¬
+declarationString¨<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isValidUsername</mark>(String username)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*isValidUsername2ﬁ
+2UsernameValidator.isValidUsername(String)!usernameCALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2ﬁ
+2UsernameValidator.isValidUsername(String)!usernameCALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2ﬁ
+2UsernameValidator.isValidUsername(String)!usernameCALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2„
+2UsernameValidator.isValidUsername(String)!username	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java1 (92∫
+booleanRETURN_TYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (Í
+2UsernameValidator.isValidUsername(String)!username	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java1 (9"
+typeString"
+isFinalfalse"$
+declarationStringString username*username2≤
+StringTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java* (0ÿ
+ UsernameValidator.main(String[])METHOD°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2’
+)UsernameValidator.isValidUsername(String)CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (*2’
+)UsernameValidator.isValidUsername(String)CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (*2’
+)UsernameValidator.isValidUsername(String)CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (*2ﬁ
+2UsernameValidator.main(String[])?user1@15.15:15.20CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java+ (02ﬁ
+2UsernameValidator.main(String[])?user2@16.15:16.20CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java+ (02ﬁ
+2UsernameValidator.main(String[])?user3@17.15:17.20CALL°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java+ (02÷
+%UsernameValidator.main(String[])!args	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java% ()2Â
+2UsernameValidator.main(String[])?user1@15.15:15.20DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2Â
+2UsernameValidator.main(String[])?user2@16.15:16.20DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2Â
+2UsernameValidator.main(String[])?user3@17.15:17.20DECLARATION°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (2∑
+voidRETURN_TYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (Ø
+2UsernameValidator.main(String[])?user1@15.15:15.20VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">user1</mark> = "user123"*user12≤
+StringTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (≠
+2UsernameValidator.main(String[])?user2@16.15:16.20VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ("
+typeString"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>String <mark class="class-field">user2</mark> = "admin"*user22≤
+StringTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (±
+2UsernameValidator.main(String[])?user3@17.15:17.20VARIABLE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ("
+typeString"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>String <mark class="class-field">user3</mark> = "User Name"*user32≤
+StringTYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java (€
+%UsernameValidator.main(String[])!args	PARAMETER°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¥
+String[]TYPE°
+ñC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\UsernameValidator.java ($

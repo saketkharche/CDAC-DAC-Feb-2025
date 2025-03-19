@@ -1,0 +1,202 @@
+
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.javaŒ
+calc.CalculatorCLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+packagecalc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Calculator"
+accesspackage_private*
+Calculator2å
+#calc.Calculator.calculate(int, int)DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (›
+#calc.Calculator.calculate(int, int)METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+isFinalfalse"‰
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2à
+%calc.Calculator.calculate(int, int)!aCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java0 (12à
+%calc.Calculator.calculate(int, int)!bCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java2 (32å
+%calc.Calculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2å
+%calc.Calculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% (&2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (‚
+%calc.Calculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (‚
+%calc.Calculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java! ($”
+calc.ScCalculatorCLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java	 	("
+packagecalc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>ScCalculator"
+accesspackage_private*ScCalculator2ç
+%calc.ScCalculator.calculate(int, int)DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+(ý
+%calc.ScCalculator.calculate(int, int)METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+("
+isFinalfalse"‰
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2Õ
+java.lang.Math.sin(double)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java5 (82â
+'calc.ScCalculator.calculate(int, int)!aCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java9 (:2â
+'calc.ScCalculator.calculate(int, int)!bCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java; (<2ç
+'calc.ScCalculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+(2ç
+'calc.ScCalculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+% 
+(&2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+(„
+'calc.ScCalculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+ 
+(„
+'calc.ScCalculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+% 
+(&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java
+! 
+($”
+calc.HyCalculatorCLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+packagecalc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>HyCalculator"
+accesspackage_private*HyCalculator2ç
+%calc.HyCalculator.calculate(int, int)DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (²
+%calc.HyCalculator.calculate(int, int)METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+isFinalfalse"‰
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">calculate</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	calculate2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2Õ
+java.lang.Math.sin(double)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java5 (82â
+'calc.HyCalculator.calculate(int, int)!aCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java0 (12â
+'calc.HyCalculator.calculate(int, int)!bCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java2 (32â
+'calc.HyCalculator.calculate(int, int)!aCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java9 (:2â
+'calc.HyCalculator.calculate(int, int)!bCALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java; (<2ç
+'calc.HyCalculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2ç
+'calc.HyCalculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% (&2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java („
+'calc.HyCalculator.calculate(int, int)!a	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java („
+'calc.HyCalculator.calculate(int, int)!b	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java! ($†
+calc.problem1CLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+packagecalc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem1"
+accesspublic*problem12è
+&calc.problem1.main(java.lang.String[])DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (™	
+&calc.problem1.main(java.lang.String[])METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (2ë
++calc.problem1.main(java.lang.String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% ()2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java (‰
++calc.problem1.main(java.lang.String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Í
+java.lang.String[]TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\problem1.java ($

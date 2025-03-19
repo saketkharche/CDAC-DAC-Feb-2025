@@ -1,0 +1,98 @@
+
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java’
+
+ArrayDemo4CLASSô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java ("
+package
+ArrayDemo4"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrayDemo4"
+accesspackage_private*
+ArrayDemo42ƒ
+ArrayDemo4.main(String[])DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (≤
+ArrayDemo4.main(String[])METHODô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2 
+&ArrayDemo4.main(String[])?arr@6.6:6.11CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2À
+'ArrayDemo4.main(String[])?a@14.10:14.11CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2À
+'ArrayDemo4.main(String[])?arr1@8.7:8.13CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2Ã
+(ArrayDemo4.main(String[])?a1@18.11:18.13CALLô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2«
+ArrayDemo4.main(String[])!args	PARAMETERô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java  (&2—
+&ArrayDemo4.main(String[])?arr@6.6:6.11DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2“
+'ArrayDemo4.main(String[])?arr1@8.7:8.13DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2‘
+)ArrayDemo4.main(String[])?arr2@10.7:10.13DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java
+ 
+(2“
+'ArrayDemo4.main(String[])?a@14.10:14.11DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java
+ (2”
+(ArrayDemo4.main(String[])?a1@18.11:18.13DECLARATIONô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (2Ø
+voidRETURN_TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (±
+&ArrayDemo4.main(String[])?arr@6.6:6.11VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java ("
+typeint"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 2, 3, 4, 5 }*arr2©
+int[]TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (ú
+'ArrayDemo4.main(String[])?arr1@8.7:8.13VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java ("
+typechar"
+isFinalfalse"˜
+declarationString·<mark class="modifier"> </mark>char[] <mark class="class-field">arr1</mark> = { 'c'<mark class="modifier">,</mark> 'd'<mark class="modifier">,</mark> 'a'<mark class="modifier">,</mark> 'c'<mark class="modifier">,</mark> 'm' }*arr12™
+char[]TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (¨
+)ArrayDemo4.main(String[])?arr2@10.7:10.13VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java
+ 
+("
+typebyte"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark>byte[] <mark class="class-field">arr2</mark> = { 1, 132, 0, 0, 1, 1, 0, 0, 1, 1 }*arr22™
+byte[]TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java
+ 
+(ï
+'ArrayDemo4.main(String[])?a@14.10:14.11VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java
+ ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark>*a2ß
+intTYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (	˝
+(ArrayDemo4.main(String[])?a1@18.11:18.13VARIABLEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java ("
+typechar"
+isFinalfalse"\
+declarationStringG<mark class="modifier"> </mark>char <mark class="class-field">a1</mark>*a12®
+charTYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (
+ƒ
+ArrayDemo4.main(String[])!args	PARAMETERô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+String[]TYPEô
+éC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 4\ArrayDemo4.java (&

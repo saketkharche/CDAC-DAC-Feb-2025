@@ -1,0 +1,72 @@
+
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.javaº
+CmdArgsCLASSí
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java("
+packageCmdArgs"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>CmdArgs"
+accesspackage_private*CmdArgs2æ
+CmdArgs.main(String[])DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (Ø
+CmdArgs.main(String[])METHODñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2º
+CmdArgs.main(String[])!argsCALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2º
+CmdArgs.main(String[])!argsCALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2√
+"CmdArgs.main(String[])?s1@5.9:5.11CALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2√
+"CmdArgs.main(String[])?s2@6.9:6.11CALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2¡
+CmdArgs.main(String[])!args	PARAMETERñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java% ()2»
+ CmdArgs.main(String[])?i@2.6:2.7DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2 
+"CmdArgs.main(String[])?s1@5.9:5.11DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java	 (2 
+"CmdArgs.main(String[])?s2@6.9:6.11DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java	 (2¨
+voidRETURN_TYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (ç
+ CmdArgs.main(String[])?i@2.6:2.7VARIABLEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 10*i2§
+intTYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (¿
+"CmdArgs.main(String[])?s1@5.9:5.11VARIABLEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java	 ("
+typeString"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>String <mark class="class-field">s1</mark> = args[0]*s12ß
+StringTYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2º
+CmdArgs.main(String[])!argsCALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (¿
+"CmdArgs.main(String[])?s2@6.9:6.11VARIABLEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java	 ("
+typeString"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>String <mark class="class-field">s2</mark> = args[1]*s22ß
+StringTYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (2º
+CmdArgs.main(String[])!argsCALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java (ª
+CmdArgs.main(String[])!args	PARAMETERñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2©
+String[]TYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\CmdArgs.java ($

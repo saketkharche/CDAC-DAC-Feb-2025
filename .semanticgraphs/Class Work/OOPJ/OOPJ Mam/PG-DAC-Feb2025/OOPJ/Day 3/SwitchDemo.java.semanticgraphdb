@@ -1,0 +1,47 @@
+
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.javaÑ
+
+SwitchDemoCLASS•
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java("
+package
+SwitchDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>SwitchDemo"
+accesspackage_private*
+SwitchDemo2Ä
+SwitchDemo.main(String[])DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java (ì	
+SwitchDemo.main(String[])METHOD™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2È
+$SwitchDemo.main(String[])?ch@3.7:3.9CALL™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java	 (2Ç
+SwitchDemo.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java% ()2Ï
+$SwitchDemo.main(String[])?ch@3.7:3.9DECLARATION™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java (	2¯
+voidRETURN_TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java (›
+$SwitchDemo.main(String[])?ch@3.7:3.9VARIABLE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java (	"
+typelong"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">ch</mark> = 1*ch2¨
+longTYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java (Ä
+SwitchDemo.main(String[])!args	PARAMETER™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¬
+String[]TYPE™
+ŽC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\SwitchDemo.java ($

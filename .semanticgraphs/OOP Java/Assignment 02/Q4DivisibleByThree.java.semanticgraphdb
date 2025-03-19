@@ -1,0 +1,136 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java–
+Q4DivisibleByThreeCLASSÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ("
+packageQ4DivisibleByThree"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4DivisibleByThree"
+accesspublic*Q4DivisibleByThree2∑
+!Q4DivisibleByThree.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (Ã,
+!Q4DivisibleByThree.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¬
+3Q4DivisibleByThree.main(String[])?scanner@4.16:4.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2¬
+3Q4DivisibleByThree.main(String[])?scanner@4.16:4.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2¡
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java
+ 
+(2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java" (#2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2∆
+7Q4DivisibleByThree.main(String[])?lastDigit@14.16:14.25CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (!2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2∆
+7Q4DivisibleByThree.main(String[])?lastDigit@14.16:14.25CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2¡
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (%2¡
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (%2∫
+&Q4DivisibleByThree.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java% ()2…
+3Q4DivisibleByThree.main(String[])?scanner@4.16:4.23DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2»
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2≈
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java	 	(2≈
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java
+ 
+(2Õ
+7Q4DivisibleByThree.main(String[])?lastDigit@14.16:14.25DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (î
+3Q4DivisibleByThree.main(String[])?scanner@4.16:4.23VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2†
+java.util.ScannerTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (⁄
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ("
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = scanner.nextInt()*number2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2¬
+3Q4DivisibleByThree.main(String[])?scanner@4.16:4.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (˚
+/Q4DivisibleByThree.main(String[])?sum@9.12:9.15VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java	 	("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java	 	(¡
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java
+ 
+("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = number*n2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java
+ 
+(2¡
+2Q4DivisibleByThree.main(String[])?number@6.12:6.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java
+ 
+(•
+7Q4DivisibleByThree.main(String[])?lastDigit@14.16:14.25VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">lastDigit</mark> = n - ((n >> 3) * 10)*	lastDigit2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java (2æ
+/Q4DivisibleByThree.main(String[])?n@10.12:10.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java" (#¢
+&Q4DivisibleByThree.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q4DivisibleByThree.java ($

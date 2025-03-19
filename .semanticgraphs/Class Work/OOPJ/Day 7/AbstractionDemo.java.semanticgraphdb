@@ -1,0 +1,160 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java©
+ShapeCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+packageShape"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Shape"
+accesspackage_private*Shape2û
+Shape.draw()DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (æ
+Shape.draw()METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">draw</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstracttrue"
+typevoid*draw2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java
+ (…
+CircleCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+packageCircle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Circle<mark class="modifier"> extends </mark>Shape"
+accesspackage_private*Circle2ü
+Circle.draw()DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2í
+ShapeEXTENDÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (µ
+Circle.draw()METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">draw</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*draw2õ
+Shape.draw()OVERRIDEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (ÿ
+	RectangleCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+package	Rectangle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">class </mark>Rectangle<mark class="modifier"> extends </mark>Shape"
+accesspackage_private*	Rectangle2¢
+Rectangle.draw()DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+2í
+ShapeEXTENDÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (∏
+Rectangle.draw()METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">draw</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*draw2õ
+Shape.draw()OVERRIDEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (º
+AbstractionDemoCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+packageAbstractionDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>AbstractionDemo"
+accesspackage_private*AbstractionDemo2∞
+AbstractionDemo.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java („
+AbstractionDemo.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+Circle.Circle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2†
+Rectangle.Rectangle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2†
+Rectangle.Rectangle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2∑
+,AbstractionDemo.main(String[])?s1@22.8:22.10CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2∑
+,AbstractionDemo.main(String[])?s2@26.8:26.10CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2∑
+,AbstractionDemo.main(String[])?s2@26.8:26.10CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2≥
+#AbstractionDemo.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java  (&2æ
+,AbstractionDemo.main(String[])?s1@22.8:22.10DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+2æ
+,AbstractionDemo.main(String[])?s2@26.8:26.10DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+2ø
+-AbstractionDemo.main(String[])?s3@29.12:29.14DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (˛
+,AbstractionDemo.main(String[])?s1@22.8:22.10VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+"
+typeShape"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Shape <mark class="class-field">s1</mark> = new Circle()*s12ê
+ShapeTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2ö
+Circle.Circle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (á
+,AbstractionDemo.main(String[])?s2@26.8:26.10VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (
+"
+typeShape"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Shape <mark class="class-field">s2</mark> = new Rectangle()*s22ê
+ShapeTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2†
+Rectangle.Rectangle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (î
+-AbstractionDemo.main(String[])?s3@29.12:29.14VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java ("
+type	Rectangle"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Rectangle <mark class="class-field">s3</mark> = new Rectangle()*s32î
+	RectangleTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (2†
+Rectangle.Rectangle()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (ó
+#AbstractionDemo.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\AbstractionDemo.java (&
