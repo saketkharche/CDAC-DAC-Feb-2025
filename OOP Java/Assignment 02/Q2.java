@@ -6,7 +6,7 @@ class Q2{
 
 		}
 		else{
-			System.out.print(a+"is even");
+			System.out.print(a+" is even");
 		}
 	}
 }
