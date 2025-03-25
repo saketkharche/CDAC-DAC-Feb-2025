@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CheatSheetCategoryBasedSelectionDialog">
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_SELECTED_CHEATSHEET_ID" value="org.eclipse.jdt.helloworld"/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_RADIO_SELECTION" value="1"/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_CHEATSHEET_FILENAME" value=""/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_CHEATSHEET_URL" value=""/>
+		<item key="DIALOG_X_ORIGIN" value="604"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+		<item key="DIALOG_WIDTH" value="344"/>
+		<item key="DIALOG_HEIGHT" value="628"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.5|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<list key="CheatSheetCategoryBasedSelectionDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Java Development"/>
+			<item value="Tasks"/>
+			<item value="Team/Git"/>
+		</list>
+	</section>
+</section>
