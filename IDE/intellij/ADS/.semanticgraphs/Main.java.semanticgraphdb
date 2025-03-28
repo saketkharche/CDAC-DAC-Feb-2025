@@ -1,0 +1,44 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.javaä
+MainCLASSp
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java("
+packageMain"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2˜
+Main.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java (œ
+Main.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ÿ
+!Main.main(String[])?arr@2.18:2.21CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java (2›
+Main.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java% ()2¦
+!Main.main(String[])?arr@2.18:2.21DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java (2‰
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java (Ê
+!Main.main(String[])?arr@2.18:2.21VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java ("
+typeInteger"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Integer[] <mark class="class-field">arr</mark> = new Integer[3]*arr2‡
+	Integer[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java (ò
+Main.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2†
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Main.java ($

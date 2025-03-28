@@ -1,0 +1,68 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java‡
+Day01.Recursion2CLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java ("
+packageDay01"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier">public </mark><mark class="modifier">class </mark>Recursion2"
+accesspublic*
+Recursion22¨
+Day01.Recursion2.show(int)DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2ª
+)Day01.Recursion2.main(java.lang.String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (ø
+Day01.Recursion2.show(int)METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java ("
+isFinalfalse"¡
+declarationString´<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">show</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*show2•
+Day01.Recursion2.show(int)CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2ß
+Day01.Recursion2.show(int)!nCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2ß
+Day01.Recursion2.show(int)!nCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2ß
+Day01.Recursion2.show(int)!nCALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2¨
+Day01.Recursion2.show(int)!n	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2ï
+intRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (ô
+Day01.Recursion2.show(int)!n	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (˙
+)Day01.Recursion2.main(java.lang.String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2´
+ java.io.PrintStream.println(int)CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2•
+Day01.Recursion2.show(int)CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (2æ
+.Day01.Recursion2.main(java.lang.String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java% ()2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java (¨
+.Day01.Recursion2.main(java.lang.String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ù
+java.lang.String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion2.java ($

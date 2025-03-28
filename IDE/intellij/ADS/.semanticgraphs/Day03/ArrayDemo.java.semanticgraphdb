@@ -1,0 +1,285 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java∫
+Day03.ArrayDemoCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+packageDay03"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>ArrayDemo"
+accesspublic*	ArrayDemo2©
+Day03.ArrayDemo.display()DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2´
+Day03.ArrayDemo.insert(int)DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2©
+Day03.ArrayDemo.find(int)DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2´
+Day03.ArrayDemo.delete(int)DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %(2∏
+(Day03.ArrayDemo.main(java.lang.String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java; ;(2¨
+Day03.ArrayDemo?a1@3.15:3.19DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2´
+Day03.ArrayDemo?n@4.15:4.16DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (ú
+Day03.ArrayDemo.display()METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+isFinalfalse"¢
+declarationStringå<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java	 	(2Æ
+%Day03.ArrayDemo.display()?i@8.16:8.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2Æ
+%Day03.ArrayDemo.display()?i@8.16:8.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java	 	(2Æ
+%Day03.ArrayDemo.display()?i@8.16:8.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java	  	(!2µ
+%Day03.ArrayDemo.display()?i@8.16:8.17DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (·
+%Day03.ArrayDemo.display()?i@8.16:8.17VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (Õ
+Day03.ArrayDemo.insert(int)METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+isFinalfalse"»
+declarationString≤<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">insert</mark>(<mark class="modifier">int</mark> value)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*insert2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2™
+!Day03.ArrayDemo.insert(int)!valueCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2Ø
+!Day03.ArrayDemo.insert(int)!value	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ( 2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (¢
+!Day03.ArrayDemo.insert(int)!value	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ( "
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (Ï
+Day03.ArrayDemo.find(int)METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+isFinalfalse"«
+declarationString±<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">find</mark>(<mark class="modifier">int</mark> key)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*find2∞
+'Day03.ArrayDemo.find(int)?i@27.16:27.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2∞
+'Day03.ArrayDemo.find(int)?i@27.16:27.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2∞
+'Day03.ArrayDemo.find(int)?i@27.16:27.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2¶
+Day03.ArrayDemo.find(int)!keyCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2´
+Day03.ArrayDemo.find(int)!key	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2∑
+'Day03.ArrayDemo.find(int)?i@27.16:27.17DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (2ó
+booleanRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java („
+'Day03.ArrayDemo.find(int)?i@27.16:27.17VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (ö
+Day03.ArrayDemo.find(int)!key	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> key*key2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (¢#
+Day03.ArrayDemo.delete(int)METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %("
+isFinalfalse"∆
+declarationString∞<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">delete</mark>(<mark class="modifier">int</mark> key)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*delete2∂
+-java.io.PrintStream.println(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java/ /(2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java( ((2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java( ((2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java( ((2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java( ((2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java) )(2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java) )(2®
+Day03.ArrayDemo.delete(int)!keyCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java) )(2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java. .(2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java. .(2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2≤
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2≤
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java4 4(2≤
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java4 4(2•
+Day03.ArrayDemo?a1@3.15:3.19CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java4 4(2≤
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java4 4(2§
+Day03.ArrayDemo?n@4.15:4.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java6 6(	2≠
+Day03.ArrayDemo.delete(int)!key	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %(2π
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java& &(2π
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %(·
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java& &("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java& &(ö
+)Day03.ArrayDemo.delete(int)?k@51.16:51.17VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = i*k2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(2≤
+)Day03.ArrayDemo.delete(int)?i@38.12:38.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java3 3(ú
+Day03.ArrayDemo.delete(int)!key	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> key*key2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java% %(‡
+(Day03.ArrayDemo.main(java.lang.String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java; ;("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¢
+Day03.ArrayDemo.display()CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java> >(2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java? ?(2§
+Day03.ArrayDemo.insert(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java@ @(2§
+Day03.ArrayDemo.insert(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaA A(2§
+Day03.ArrayDemo.insert(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaB B(2§
+Day03.ArrayDemo.insert(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaC C(2§
+Day03.ArrayDemo.insert(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaD D(2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaG G(2¢
+Day03.ArrayDemo.display()CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaH H(2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaJ J(2¥
++java.io.PrintStream.print(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaQ Q(2§
+Day03.ArrayDemo.delete(int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaS S(2¢
+Day03.ArrayDemo.display()CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaU U(2¡
+8Day03.ArrayDemo.main(java.lang.String[])?key@82.12:82.15CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaS S(2ª
+-Day03.ArrayDemo.main(java.lang.String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java;% ;()2»
+8Day03.ArrayDemo.main(java.lang.String[])?key@82.12:82.15DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaR R(2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java; ;(˘
+8Day03.ArrayDemo.main(java.lang.String[])?key@82.12:82.15VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaR R("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">key</mark> = 20*key2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.javaR R(ß
+-Day03.ArrayDemo.main(java.lang.String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java;% ;()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2õ
+java.lang.String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java; ;($€
+Day03.ArrayDemo?a1@3.15:3.19VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+isFinalfalse"
+typeint"Œ
+declarationString∏<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="class-field">a1</mark> = new <mark class="modifier">int</mark>[15];"
+isStatictrue"
+accesspackage_private*a12é
+int[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (¨
+Day03.ArrayDemo?n@4.15:4.16VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java ("
+isFinalfalse"
+typeint"£
+declarationStringç<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 0;"
+isStatictrue"
+accesspackage_private*n2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day03\ArrayDemo.java (

@@ -1,0 +1,77 @@
+
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java›
+SumofNumbersCLASSÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java ("
+packageSumofNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>SumofNumbers"
+accesspackage_private*SumofNumbers2©
+SumofNumbers.sum(int)DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2Ø
+SumofNumbers.main(String[])DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+ 
+(≠
+SumofNumbers.sum(int)METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java ("
+isFinalfalse"¿
+declarationString™<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">sum</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*sum2¢
+SumofNumbers.sum(int)CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2§
+SumofNumbers.sum(int)!nCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2§
+SumofNumbers.sum(int)!nCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2§
+SumofNumbers.sum(int)!nCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2©
+SumofNumbers.sum(int)!n	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (2ó
+intRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (ò
+SumofNumbers.sum(int)!n	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java (≥
+SumofNumbers.main(String[])METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+ 
+("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¢
+SumofNumbers.sum(int)CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java( (+2≤
+ SumofNumbers.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+% 
+()2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+ 
+(ò
+ SumofNumbers.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+% 
+()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+String[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\SumofNumbers.java
+ 
+($

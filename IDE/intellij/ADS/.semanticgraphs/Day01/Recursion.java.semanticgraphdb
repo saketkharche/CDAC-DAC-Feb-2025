@@ -1,0 +1,52 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java“
+Day01.RecursionCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java ("
+packageDay01"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>Recursion"
+accesspublic*	Recursion2¶
+Day01.Recursion.show()DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java (2∏
+(Day01.Recursion.main(java.lang.String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	 	(ù
+Day01.Recursion.show()METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java ("
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">show</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show2∂
+-java.io.PrintStream.println(java.lang.String)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java (2ü
+Day01.Recursion.show()CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java (æ
+(Day01.Recursion.main(java.lang.String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ü
+Day01.Recursion.show()CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java (2ª
+-Day01.Recursion.main(java.lang.String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	% 	()2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	 	(ß
+-Day01.Recursion.main(java.lang.String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2õ
+java.lang.String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\Recursion.java	 	($

@@ -1,0 +1,906 @@
+
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaˆ(
+Day01.AdvancedArrayOperationsCLASSé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ($"
+packageDay01"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"u
+declarationString`<mark class="modifier">public </mark><mark class="modifier">class </mark>AdvancedArrayOperations"
+accesspublic*AdvancedArrayOperations2⁄
+:Day01.AdvancedArrayOperations.AdvancedArrayOperations(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("2–
+0Day01.AdvancedArrayOperations.insertElement(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2Ã
+,Day01.AdvancedArrayOperations.displayArray()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2Õ
+-Day01.AdvancedArrayOperations.sortAscending()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2Œ
+.Day01.AdvancedArrayOperations.sortDescending()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java   (2Ã
+,Day01.AdvancedArrayOperations.reverseArray()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java& &(2–
+0Day01.AdvancedArrayOperations.deleteByValue(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/ /(2–
+0Day01.AdvancedArrayOperations.deleteByIndex(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5 5(2÷
+6Day01.AdvancedArrayOperations.replaceElement(int, int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java< <(2Œ
+.Day01.AdvancedArrayOperations.findElement(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C(2«
+'Day01.AdvancedArrayOperations.findMax()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaK K(2«
+'Day01.AdvancedArrayOperations.findMin()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaP P(2«
+'Day01.AdvancedArrayOperations.findSum()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaU U(2À
++Day01.AdvancedArrayOperations.findAverage()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaZ Z(2 
+*Day01.AdvancedArrayOperations.findMedian()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java_ _(2»
+(Day01.AdvancedArrayOperations.findMode()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javag g(2–
+0Day01.AdvancedArrayOperations.removeDuplicates()DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javap p( 2Œ
+.Day01.AdvancedArrayOperations.resizeArray(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax x(2”
+3Day01.AdvancedArrayOperations.countOccurrences(int)DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java} }(2‘
+2Day01.AdvancedArrayOperations.findMaxSubarraySum()DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÇ Ç(!2ÿ
+6Day01.AdvancedArrayOperations.main(java.util.String[])DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã ã(2Õ
+-Day01.AdvancedArrayOperations?array@5.18:5.23DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2Ã
+,Day01.AdvancedArrayOperations?size@6.16:6.20DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (§
+:Day01.AdvancedArrayOperations.AdvancedArrayOperations(int)CONSTRUCTORé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (""ö
+declarationStringÑ<mark class="modifier">public </mark><mark class="method">AdvancedArrayOperations</mark>(<mark class="modifier">int</mark> capacity)*AdvancedArrayOperations2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java	 	(2‹
+CDay01.AdvancedArrayOperations.AdvancedArrayOperations(int)!capacityCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java	 	( 2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java
+ 
+(2·
+CDay01.AdvancedArrayOperations.AdvancedArrayOperations(int)!capacity	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' (/2Ω
+Day01.AdvancedArrayOperationsRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("Í
+CDay01.AdvancedArrayOperations.AdvancedArrayOperations(int)!capacity	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' (/"
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> capacity*capacity2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java# (&Ò
+0Day01.AdvancedArrayOperations.insertElement(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">insertElement</mark>(<mark class="modifier">int</mark> element)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*insertElement2«
+.Day01.AdvancedArrayOperations.resizeArray(int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2—
+8Day01.AdvancedArrayOperations.insertElement(int)!elementCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2÷
+8Day01.AdvancedArrayOperations.insertElement(int)!element	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java" ()2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (›
+8Day01.AdvancedArrayOperations.insertElement(int)!element	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java" ()"
+typeint"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark> element*element2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (!Ï
+
+,Day01.AdvancedArrayOperations.displayArray()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("
+isFinalfalse"á
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">displayArray</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayArray2π
+ java.util.Arrays.toString(int[])CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java" (*2º
+#java.util.Arrays.copyOf(int[], int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java2 (82∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java9 (>2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java@ (D2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (∂	
+-Day01.AdvancedArrayOperations.sortAscending()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">sortAscending</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*sortAscending2ø
+&java.util.Arrays.sort(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (Å
+.Day01.AdvancedArrayOperations.sortDescending()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java   ("
+isFinalfalse"â
+declarationStringt<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">sortDescending</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*sortDescending2ø
+&java.util.Arrays.sort(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java! !(2≈
+,Day01.AdvancedArrayOperations.reverseArray()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java" "(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java! !(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java! !("2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java   (ˆ
+,Day01.AdvancedArrayOperations.reverseArray()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java& &("
+isFinalfalse"á
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">reverseArray</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*reverseArray2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' '(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' '( 2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java'& '('2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java) )(2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java) )(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java) )(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java) )(!2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java)( )()2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java* *(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java* *(2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java* *(2÷
+=Day01.AdvancedArrayOperations.reverseArray()?temp@40.16:40.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java*" *(&2⁄
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' '(2›
+=Day01.AdvancedArrayOperations.reverseArray()?temp@40.16:40.20DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java& &(ñ
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' '("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java' '(∆
+=Day01.AdvancedArrayOperations.reverseArray()?temp@40.16:40.20VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( (("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = array[i]*temp2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((2”
+:Day01.AdvancedArrayOperations.reverseArray()?i@39.17:39.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java( ((Ó
+0Day01.AdvancedArrayOperations.deleteByValue(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/ /("
+isFinalfalse"∞
+declarationStringö<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deleteByValue</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deleteByValue2«
+.Day01.AdvancedArrayOperations.findElement(int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0 0(2…
+0Day01.AdvancedArrayOperations.deleteByIndex(int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java1 1(&2œ
+6Day01.AdvancedArrayOperations.deleteByValue(int)!valueCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0  0(%2€
+BDay01.AdvancedArrayOperations.deleteByValue(int)?index@48.12:48.17CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java1 1(2€
+BDay01.AdvancedArrayOperations.deleteByValue(int)?index@48.12:48.17CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java1' 1(,2‘
+6Day01.AdvancedArrayOperations.deleteByValue(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/" /('2‚
+BDay01.AdvancedArrayOperations.deleteByValue(int)?index@48.12:48.17DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0 0(2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/ /(‘
+BDay01.AdvancedArrayOperations.deleteByValue(int)?index@48.12:48.17VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0 0("
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">index</mark> = findElement(value)*index2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0 0(2«
+.Day01.AdvancedArrayOperations.findElement(int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0 0(2œ
+6Day01.AdvancedArrayOperations.deleteByValue(int)!valueCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java0  0(%◊
+6Day01.AdvancedArrayOperations.deleteByValue(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/" /('"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java/ /(!È
+0Day01.AdvancedArrayOperations.deleteByIndex(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5 5("
+isFinalfalse"∞
+declarationStringö<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deleteByIndex</mark>(<mark class="modifier">int</mark> index)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deleteByIndex2œ
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java6 6(2œ
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java6 6(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java6" 6(&2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java7 7(2œ
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java7  7(%2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java7+ 7(02œ
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java72 7(72≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java79 7(=2œ
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java7@ 7(E2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java8 8(2‘
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!index	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5" 5('2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5 5(◊
+6Day01.AdvancedArrayOperations.deleteByIndex(int)!index	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5" 5('"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java5 5(!Ø
+6Day01.AdvancedArrayOperations.replaceElement(int, int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java< <("
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">replaceElement</mark>(<mark class="modifier">int</mark> index<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> newValue)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*replaceElement2’
+<Day01.AdvancedArrayOperations.replaceElement(int, int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java= =(2’
+<Day01.AdvancedArrayOperations.replaceElement(int, int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java= =(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java=" =(&2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java> >(2’
+<Day01.AdvancedArrayOperations.replaceElement(int, int)!indexCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java> >(2ÿ
+?Day01.AdvancedArrayOperations.replaceElement(int, int)!newValueCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java> >(#2⁄
+<Day01.AdvancedArrayOperations.replaceElement(int, int)!index	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java<# <((2›
+?Day01.AdvancedArrayOperations.replaceElement(int, int)!newValue	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java<. <(62§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java< <(›
+<Day01.AdvancedArrayOperations.replaceElement(int, int)!index	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java<# <(("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java< <("Ê
+?Day01.AdvancedArrayOperations.replaceElement(int, int)!newValue	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java<. <(6"
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> newValue*newValue2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java<* <(-˙
+.Day01.AdvancedArrayOperations.findElement(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C("
+isFinalfalse"≠
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findElement</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findElement2’
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD D(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD D( 2’
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD" D(#2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaE E(2’
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaE E(2Õ
+4Day01.AdvancedArrayOperations.findElement(int)!valueCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaE E(!2’
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaE* E(+2“
+4Day01.AdvancedArrayOperations.findElement(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C($2‹
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD D(2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C(ò
+<Day01.AdvancedArrayOperations.findElement(int)?i@68.17:68.18VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD D("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaD D(’
+4Day01.AdvancedArrayOperations.findElement(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C($"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaC C(ﬂ
+
+'Day01.AdvancedArrayOperations.findMax()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaK K("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findMax</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMax2π
+ java.util.stream.IntStream.max()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaL- L(02¡
+(java.util.Arrays.stream(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaL L(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaL L("2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaL' L(+2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaK K(ﬂ
+
+'Day01.AdvancedArrayOperations.findMin()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaP P("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findMin</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMin2π
+ java.util.stream.IntStream.min()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaQ- Q(02¡
+(java.util.Arrays.stream(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaQ Q(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaQ Q("2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaQ' Q(+2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaP P(ﬂ
+
+'Day01.AdvancedArrayOperations.findSum()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaU U("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findSum</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findSum2π
+ java.util.stream.IntStream.sum()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaV- V(02¡
+(java.util.Arrays.stream(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaV V(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaV V("2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaV' V(+2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaU U(∂	
++Day01.AdvancedArrayOperations.findAverage()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaZ Z("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">findAverage</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*findAverage2¿
+'Day01.AdvancedArrayOperations.findSum()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java[( [(/2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java[ [(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java[4 [(82¶
+doubleRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaZ Z(Ï
+*Day01.AdvancedArrayOperations.findMedian()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java_ _("
+isFinalfalse"á
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">findMedian</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*
+findMedian2∆
+-Day01.AdvancedArrayOperations.sortAscending()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaa a(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java` `(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javab b(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javab" b('2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javab( b(,2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javac c(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javac c(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javac& c(+2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javac, c(02¶
+doubleRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java_ _(∆
+(Day01.AdvancedArrayOperations.findMode()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javag g("
+isFinalfalse"Ç
+declarationStringm<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findMode</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMode2ø
+&java.util.Map.Entry.comparingByValue()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javal? l(O2¥
+java.util.HashMap.HashMap()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah2 h(;2—
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai i(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai i( 2—
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai" i(#2Ÿ
+@Day01.AdvancedArrayOperations.findMode()?frequency@104.34:104.43CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaj j(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaj j(2—
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaj  j(!2Ÿ
+@Day01.AdvancedArrayOperations.findMode()?frequency@104.34:104.43CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaj$ j(-2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaj; j(@2—
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javajA j(B2Ÿ
+@Day01.AdvancedArrayOperations.findMode()?frequency@104.34:104.43CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javal l((2‡
+@Day01.AdvancedArrayOperations.findMode()?frequency@104.34:104.43DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah" h(+2ÿ
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai i(2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javag g(˙
+@Day01.AdvancedArrayOperations.findMode()?frequency@104.34:104.43VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah" h(+"!
+typeHashMap<Integer, Integer>"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark>HashMap<Integer, Integer> <mark class="class-field">frequency</mark> = new HashMap<>()*	frequency2™
+java.util.HashMapTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah h(2≥
+java.util.IntegerTYPE_ARGUMENTé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah h(2≥
+java.util.IntegerTYPE_ARGUMENTé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah h( 2¥
+java.util.HashMap.HashMap()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javah2 h(;î
+8Day01.AdvancedArrayOperations.findMode()?i@105.17:105.18VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai i("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javai i(Ù
+0Day01.AdvancedArrayOperations.removeDuplicates()METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javap p( "
+isFinalfalse"ã
+declarationStringv<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">removeDuplicates</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*removeDuplicates2¿
+'java.util.LinkedHashSet.LinkedHashSet()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q(.2Ÿ
+@Day01.AdvancedArrayOperations.removeDuplicates()?i@114.17:114.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar r(2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar r( 2Ÿ
+@Day01.AdvancedArrayOperations.removeDuplicates()?i@114.17:114.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar" r(#2€
+BDay01.AdvancedArrayOperations.removeDuplicates()?set@113.21:113.24CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar' r(*2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar/ r(42Ÿ
+@Day01.AdvancedArrayOperations.removeDuplicates()?i@114.17:114.18CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar5 r(62≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javas s(2€
+BDay01.AdvancedArrayOperations.removeDuplicates()?set@113.21:113.24CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat t(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat t(!2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat" t(&2€
+BDay01.AdvancedArrayOperations.removeDuplicates()?num@116.17:116.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat, t(/2‚
+BDay01.AdvancedArrayOperations.removeDuplicates()?set@113.21:113.24DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q(2‡
+@Day01.AdvancedArrayOperations.removeDuplicates()?i@114.17:114.18DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar r(2‚
+BDay01.AdvancedArrayOperations.removeDuplicates()?num@116.17:116.20DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat t(2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javap p(≠
+BDay01.AdvancedArrayOperations.removeDuplicates()?set@113.21:113.24VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q("
+typeSet<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Set<Integer> <mark class="class-field">set</mark> = new LinkedHashSet<>()*set2¶
+java.util.SetTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q(2≥
+java.util.IntegerTYPE_ARGUMENTé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q(2¿
+'java.util.LinkedHashSet.LinkedHashSet()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaq q(.ú
+@Day01.AdvancedArrayOperations.removeDuplicates()?i@114.17:114.18VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar r("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javar r(û
+BDay01.AdvancedArrayOperations.removeDuplicates()?num@116.17:116.20VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat t("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javat t(Ñ
+.Day01.AdvancedArrayOperations.resizeArray(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax x("
+isFinalfalse"∞
+declarationStringö<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">resizeArray</mark>(<mark class="modifier">int</mark> newSize)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*resizeArray2º
+#java.util.Arrays.copyOf(int[], int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javay y(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javay y(2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javay y(#2œ
+6Day01.AdvancedArrayOperations.resizeArray(int)!newSizeCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javay% y(,2‘
+6Day01.AdvancedArrayOperations.resizeArray(int)!newSize	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax  x('2§
+voidRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax x(€
+6Day01.AdvancedArrayOperations.resizeArray(int)!newSize	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax  x('"
+typeint"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark> newSize*newSize2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javax x(˘
+3Day01.AdvancedArrayOperations.countOccurrences(int)METHODé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java} }("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">countOccurrences</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*countOccurrences2ª
+"java.util.stream.IntStream.count()CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~K ~(P2€
+Bjava.util.stream.IntStream.filter(java.util.function.IntPredicate)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~3 ~(92¡
+(java.util.Arrays.stream(int[], int, int)CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~ ~("2∆
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~# ~((2≈
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~- ~(12‹
+CDay01.AdvancedArrayOperations.countOccurrences(int)?x@126.58:126.59CALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~? ~(@2“
+9Day01.AdvancedArrayOperations.countOccurrences(int)!valueCALLé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~D ~(I2◊
+9Day01.AdvancedArrayOperations.countOccurrences(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java}$ }()2„
+CDay01.AdvancedArrayOperations.countOccurrences(int)?x@126.58:126.59DECLARATIONé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~: ~(;2£
+intRETURN_TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java} }(⁄
+9Day01.AdvancedArrayOperations.countOccurrences(int)!value	PARAMETERé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java}$ }()"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java}  }(#û
+CDay01.AdvancedArrayOperations.countOccurrences(int)?x@126.58:126.59VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java~: ~(;"
+type"
+isFinalfalse"
+declarationString x*x2TYPEî!
+2Day01.AdvancedArrayOperations.findMaxSubarraySum()METHODê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÇ Ç(!"
+isFinalfalse"å
+declarationStringw<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findMaxSubarraySum</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMaxSubarraySum2›
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ Ñ(2«
+,Day01.AdvancedArrayOperations?size@6.16:6.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ Ñ( 2›
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ" Ñ(#2È
+NDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxEndingHere@131.42:131.55CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖ Ö(2»
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖ% Ö(*2›
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖ+ Ö(,2È
+NDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxEndingHere@131.42:131.55CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖ/ Ö(<2»
+-Day01.AdvancedArrayOperations?array@5.18:5.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖ? Ö(D2›
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÖE Ö(F2‰
+IDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxSoFar@131.12:131.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÜ Ü(2‰
+IDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxSoFar@131.12:131.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÜ  Ü((2È
+NDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxEndingHere@131.42:131.55CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÜ* Ü(72‰
+IDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxSoFar@131.12:131.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaà à(2Î
+IDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxSoFar@131.12:131.20DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ É(2
+NDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxEndingHere@131.42:131.55DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ* É(72‰
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ Ñ(2•
+intRETURN_TYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÇ Ç(‹
+IDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxSoFar@131.12:131.20VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ É("
+typeint"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxSoFar</mark> = Integer.MIN_VALUE, maxEndingHere = 0*maxSoFar2û
+intTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ É(Î
+NDay01.AdvancedArrayOperations.findMaxSubarraySum()?maxEndingHere@131.42:131.55VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ* É(7"
+typeint"
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxEndingHere</mark> = Integer.MIN_VALUE, maxEndingHere = 0*maxEndingHere2û
+intTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÉ É(¢
+BDay01.AdvancedArrayOperations.findMaxSubarraySum()?i@132.17:132.18VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ Ñ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2û
+intTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÑ Ñ(äG
+6Day01.AdvancedArrayOperations.main(java.util.String[])METHODê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã ã("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2’
+:Day01.AdvancedArrayOperations.AdvancedArrayOperations(int)CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaè/ è(F2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaé é(2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?capacity@142.12:142.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaèG è(O2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¶ ¶( 2Ê
+KDay01.AdvancedArrayOperations.main(java.util.String[])?choice@166.16:166.22CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaß ß(2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java®A ®(I2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java®X ®(_2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java© ©("2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java™ ™("2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java´ ´("2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¨? ¨(G2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¨V ¨(]2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java≠? ≠(G2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java≠V ≠(]2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÆI Æ(Q2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÆa Æ(h2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaÆt Æ({2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaØ^ Ø(f2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaØs Ø(z2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∞7 ∞(?2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∞X ∞(`2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java±8 ±(@2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java±] ±(e2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java≤; ≤(C2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java≥9 ≥(A2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¥ ¥(#2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaµ µ(#2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∂e ∂(m2Ë
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLë
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∂ ∂(Ü2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∑E ∑(M2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java∏ ∏($2€
+;Day01.AdvancedArrayOperations.main(java.util.String[])!args	PARAMETERê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã% ã()2Ó
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaå å(2Ô
+MDay01.AdvancedArrayOperations.main(java.util.String[])?capacity@142.12:142.20DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaé é(2Ô
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaè  è((2Ì
+KDay01.AdvancedArrayOperations.main(java.util.String[])?choice@166.16:166.22DECLARATIONê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¶ ¶(2¶
+voidRETURN_TYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã ã(≈
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaå å("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2¨
+java.util.ScannerTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaå å(∂
+MDay01.AdvancedArrayOperations.main(java.util.String[])?capacity@142.12:142.20VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaé é("
+typeint"
+isFinalfalse"ì
+declarationString~<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">capacity</mark> = scanner.nextInt()*capacity2û
+intTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaé é(2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaé é(»
+MDay01.AdvancedArrayOperations.main(java.util.String[])?arrayOps@143.32:143.40VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaè  è(("
+typeAdvancedArrayOperations"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark>AdvancedArrayOperations <mark class="class-field">arrayOps</mark> = new AdvancedArrayOperations(capacity)*arrayOps2∏
+Day01.AdvancedArrayOperationsTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaè è(2’
+:Day01.AdvancedArrayOperations.AdvancedArrayOperations(int)CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaè/ è(F2Ë
+MDay01.AdvancedArrayOperations.main(java.util.String[])?capacity@142.12:142.20CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaèG è(O∞
+KDay01.AdvancedArrayOperations.main(java.util.String[])?choice@166.16:166.22VARIABLEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¶ ¶("
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">choice</mark> = scanner.nextInt()*choice2û
+intTYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¶ ¶(2Á
+LDay01.AdvancedArrayOperations.main(java.util.String[])?scanner@140.16:140.23CALLê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java¶ ¶( Ÿ
+;Day01.AdvancedArrayOperations.main(java.util.String[])!args	PARAMETERê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã% ã()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2≠
+java.util.String[]TYPEê
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.javaã ã($ø
+-Day01.AdvancedArrayOperations?array@5.18:5.23VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("
+isFinalfalse"
+typeint"Ö
+declarationStringp<mark class="modifier">private </mark><mark class="modifier">int</mark>[] <mark class="class-field">array</mark>"
+isStaticfalse"
+accessprivate*array2û
+int[]TYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (∏
+,Day01.AdvancedArrayOperations?size@6.16:6.20VARIABLEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java ("
+isFinalfalse"
+typeint"Ç
+declarationStringm<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark>"
+isStaticfalse"
+accessprivate*size2ú
+intTYPEé
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day01\AdvancedArrayOperations.java (

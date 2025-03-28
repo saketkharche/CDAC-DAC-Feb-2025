@@ -1,0 +1,148 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java‚
+Day02.Assignment1.Q5CLASS„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+packageDay02.Assignment1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q5"
+accesspublic*Q52Â
+,Day02.Assignment1.Q5.reverseNumber(int, int)DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ã
+-Day02.Assignment1.Q5.main(java.lang.String[])DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (‘
+,Day02.Assignment1.Q5.reverseNumber(int, int)METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+isFinalfalse"®
+declarationString˜<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">reverseNumber</mark>(<mark class="modifier">int</mark> n<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> temp)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*reverseNumber2»
+,Day02.Assignment1.Q5.reverseNumber(int, int)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2½
+.Day02.Assignment1.Q5.reverseNumber(int, int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2À
+1Day02.Assignment1.Q5.reverseNumber(int, int)!tempCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2À
+1Day02.Assignment1.Q5.reverseNumber(int, int)!tempCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java
+ 
+(2À
+1Day02.Assignment1.Q5.reverseNumber(int, int)!tempCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java
+ 
+(2½
+.Day02.Assignment1.Q5.reverseNumber(int, int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java
+ 
+(2½
+.Day02.Assignment1.Q5.reverseNumber(int, int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2À
+1Day02.Assignment1.Q5.reverseNumber(int, int)!tempCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java% ()2Â
+.Day02.Assignment1.Q5.reverseNumber(int, int)!n	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java! ("2Å
+1Day02.Assignment1.Q5.reverseNumber(int, int)!temp	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java( (,2™
+intRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (³
+.Day02.Assignment1.Q5.reverseNumber(int, int)!n	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java! (""
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ( ¼
+1Day02.Assignment1.Q5.reverseNumber(int, int)!temp	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java( (,"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> temp*temp2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java$ ('×
+-Day02.Assignment1.Q5.main(java.lang.String[])METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2º
++java.io.PrintStream.print(java.lang.String)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2ª
+java.util.Scanner.nextInt()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2¨
+java.util.Scanner.close()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2»
+,Day02.Assignment1.Q5.reverseNumber(int, int)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ($2¼
+-java.io.PrintStream.println(java.lang.String)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2¼
+-java.io.PrintStream.println(java.lang.String)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2½
+.java.util.Scanner.Scanner(java.io.InputStream)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ( 2Ë
+<Day02.Assignment1.Q5.main(java.lang.String[])?sc@15.16:15.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ë
+<Day02.Assignment1.Q5.main(java.lang.String[])?sc@15.16:15.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (
+2Ê
+;Day02.Assignment1.Q5.main(java.lang.String[])?n@17.12:17.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java% (&2Ñ
+BDay02.Assignment1.Q5.main(java.lang.String[])?reversed@20.12:20.20CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ê
+;Day02.Assignment1.Q5.main(java.lang.String[])?n@17.12:17.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Æ
+2Day02.Assignment1.Q5.main(java.lang.String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java% ()2Ò
+<Day02.Assignment1.Q5.main(java.lang.String[])?sc@15.16:15.18DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ñ
+;Day02.Assignment1.Q5.main(java.lang.String[])?n@17.12:17.13DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ø
+BDay02.Assignment1.Q5.main(java.lang.String[])?reversed@20.12:20.20DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2š
+voidRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (Ó
+<Day02.Assignment1.Q5.main(java.lang.String[])?sc@15.16:15.18VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2 
+java.util.ScannerTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2½
+.java.util.Scanner.Scanner(java.io.InputStream)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ( Š
+;Day02.Assignment1.Q5.main(java.lang.String[])?n@17.12:17.13VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2ª
+java.util.Scanner.nextInt()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2Ë
+<Day02.Assignment1.Q5.main(java.lang.String[])?sc@15.16:15.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (·
+BDay02.Assignment1.Q5.main(java.lang.String[])?reversed@20.12:20.20VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ("
+typeint"
+isFinalfalse"–
+declarationString€<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">reversed</mark> = reverseNumber(n, 0)*reversed2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java (2»
+,Day02.Assignment1.Q5.reverseNumber(int, int)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ($2Ê
+;Day02.Assignment1.Q5.main(java.lang.String[])?n@17.12:17.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java% (&¸
+2Day02.Assignment1.Q5.main(java.lang.String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¡
+java.lang.String[]TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q5.java ($
