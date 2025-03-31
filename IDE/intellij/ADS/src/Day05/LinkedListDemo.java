@@ -1,3 +1,5 @@
+package Day05;
+
 // Single file implementation of Singly Linked List in Java
 class LinkedList {
     Node head; // Head node (first node in the list)
