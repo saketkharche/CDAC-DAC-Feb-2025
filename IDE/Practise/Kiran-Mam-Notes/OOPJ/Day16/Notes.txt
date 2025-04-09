@@ -1,0 +1,187 @@
+-----------------------------------------
+Day 16: Object Oriented Programming Concepts of Java
+Date : 21-March-2025
+-----------------------------------------
+
+Topics: 
+	- Multithreading
+
+Multithreading:
+-----------------
+-It is a programming technique in Java that allows multiple threads to run concurrently within a single program.
+-Each thread is a separate path of execution.
+-Multithreading is useful for tasks like:
+-Performing background calculations
+-Handling multiple user requests in a web server
+
+Key Benefits:
+--------------
+1. Better CPU utilization
+2. Faster response time
+3. Improved application performance
+4. Useful in parallel processing and asynchronous tasks
+
+Main Thread:
+--------------
+- A thread is the smallest unit of execution in a program.
+- Java is multithreaded: multiple parts (threads) can run concurrently.
+- When any Java application starts, a Main Thread is automatically created by the JVM (Java Virtual Machine).
+- This thread starts execution from the `main()` method.
+
+Properties of Main Thread:
+-----------------------------
+- It is the first thread created when the program begins.
+- Child threads can be spawned from the Main thread.
+- Typically, it is the last to finish, ensuring proper shutdown.
+- The default priority of the main thread is 5 (NORM_PRIORITY).
+- Priority is inherited: child threads inherit priority from the main thread.
+
+
+	
+Main Thread:
+--------------
+- A thread is the smallest unit of execution in a program.
+- Java is multithreaded: multiple parts (threads) can run concurrently.
+- When any Java application starts, a Main Thread is automatically created by the JVM (Java Virtual Machine).
+- This thread starts execution from the `main()` method.
+
+Properties of Main Thread:
+-----------------------------
+- It is the first thread created when the program begins.
+- Child threads can be spawned from the Main thread.
+- Typically, it is the last to finish, ensuring proper shutdown.
+- The default priority of the main thread is 5 (NORM_PRIORITY).
+- Priority is inherited: child threads inherit priority from the main thread.
+	
+	
+Lifecycle and States of a Thread in Java:
+-------------------------------------------
+-A thread in Java goes through multiple states during its lifecycle.
+-At any given time, a thread is in one of six states.
+-Thread States in Java:
+	-New
+	-Runnable
+	-Blocked
+	-Waiting
+	-Timed Waiting
+	-Terminated
+	
+-New → Created but not started (NEW).
+-Runnable → Ready to run but waiting for CPU (RUNNABLE).
+-Blocked → Waiting for another thread to release a lock (BLOCKED).
+-Waiting → Waiting indefinitely (WAITING).
+-Timed Waiting → Waiting for a fixed time (TIMED_WAITING).
+-Terminated → Thread has finished execution (TERMINATED).	
+
+ Single Thread:
+ ------------------
+public class SingleThreadExample {
+    public static void main(String[] args) {
+        System.out.println("T1");
+        System.out.println("T2");
+    }
+}
+
+Multithreading:
+------------------
+class Task extends Thread {
+    public void run() {
+        System.out.println("Running thread: " + Thread.currentThread().getName());
+    }
+
+    public static void main(String[] args) {
+        Task t1 = new Task();
+        Task t2 = new Task();
+        t1.start();
+        t2.start();
+    }
+}
+
+sleep(), join(), yield(), setPriority(), getPriority():
+--------------------------------------------------------
+1. sleep(milliseconds) – pauses current thread:
+		Thread.sleep(1000); // 1 second
+2. join() – waits for another thread to finish:
+		t1.join(); // Main thread waits until t1 finishes
+3. yield() – pauses current thread to let others execute:
+		Thread.yield(); // Hint to scheduler
+4. setPriority() and getPriority():
+		t1.setPriority(Thread.MAX_PRIORITY);
+		System.out.println(t1.getPriority());
+		
+Synchronization:
+-----------------
+-Synchronization is a mechanism to control access to shared resources by multiple threads.
+-When multiple threads try to access a common object (shared resource), race conditions may occur.
+-To prevent this, Java provides the synchronized keyword, which ensures that only one thread can access the critical section of code at a time.
+
+Synchronization need:
+---------------------
+-Two threads try to increment the same counter.
+-Without synchronization, both threads may read the same value, increment it, and --write it back — overwriting each other’s changes.
+-This results in incorrect or inconsistent data.
+
+Synchronization Works:
+-------------------------
+-You mark a method or block as synchronized
+-A lock (monitor) is associated with the object.
+-When a thread enters a synchronized method/block:
+-It acquires the lock.
+-Other threads are blocked until the lock is released.
+
+ Types of Synchronization:
+ -------------------------
+1️. Synchronized Method
+	synchronized void methodName() {
+		// critical section
+	}
+	
+2️. Synchronized Block
+	void method() {
+		synchronized(this) {
+			// critical section
+		}
+	}
+	
+3️. Static Synchronization
+	synchronized static void staticMethod() {
+		// critical section
+	}
+	
+LocK:
+-----
+-Every object has a built-in monitor lock (also called an intrinsic lock).
+-When a thread enters a synchronized method or block, it acquires the lock associated with the object.
+-Only one thread can hold the lock at a time. All other threads must wait until the lock is released.
+
+Racing Condition:
+-----------------
+-A Race Condition happens when two or more threads try to read and write shared data at the same time, and the final result depends on the timing of thread execution.
+
+		
+Types of Synchronization:
+--------------------------
+1. Method-level synchronization (Synchronized Methods)
+
+	-Use synchronized keyword to make the entire method synchronized.
+	-If one thread is executing a synchronized method, other threads are blocked from entering any synchronized method on the same object.
+
+2. Block-level synchronization (Synchronized Blocks)
+
+	-synchronize only specific code blocks within a method, rather than the whole method.
+	-This allows for finer control over the synchronization process.
+
+3. Static Synchronization (Synchronized Static Methods)
+
+	-Use synchronized static methods for synchronization across all instances of the class, as static methods belong to the class, not the instance.
+	-This ensures that no two threads can execute a static synchronized method at the same time.
+
+4. Object-level Synchronization (Synchronized on this)
+
+	-Synchronize code on a particular object instance (i.e., synchronized(this)).
+	-Useful when you want to synchronize methods within a particular instance of the class but allow other instances to proceed concurrently.
+
+5. Class-level Synchronization (Synchronized on Class Object)
+
+	-Synchronize code on the class-level lock object (i.e., synchronized(SomeClass.class)).
+	-This is useful when we need to synchronize static resources.

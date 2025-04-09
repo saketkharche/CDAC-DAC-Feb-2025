@@ -1,0 +1,80 @@
+-----------------------------------------
+Day 2: Algorithms and Data Structures
+Date : 26-March-2025
+-----------------------------------------
+
+Topics: 
+	- Recursion
+
+	Recursion	:
+------------
+1	Terminates when the base case becomes true.	
+2	Logic is built by solving smaller subproblems.	
+3	Each call uses extra stack memory.	
+4	Results in shorter, cleaner code.	
+
+Iteration:
+----------
+1 Terminates when the loop condition becomes false.
+2 Logic is built by repeating operations over data.
+3 No additional memory usage for each step.
+4 Often leads to longer, more verbose code.
+
+
+
+2 ways to implement the program:
+----------------------------------
+1.Iterative 
+2.Recursive
+
+class A{
+abc(){
+	
+	abc();
+}
+
+main(){
+	
+	abc();
+}
+}
+
+Recursion work:
+--------------
+
+Base condition:
+-The base condition provides the termination condition for the recursion
+
+Recursive case:
+-The recursive case moves towards the base condition by reducing the problem size at each step.
+
+Recursion Type:
+---------------
+1.Tail recursion:
+-----------------
+-when the call is given to the recursive method and it is the last statement executed insidethe recursive method is called as tail recursion.
+
+	tail(3);
+	void tail(int n){
+		if(n == 0)
+			return n;
+		else
+			SOP("Tail");
+			tail(n-1);//Recursive call:last
+	}
+	
+2.Head recursion:
+-------------------
+-when the call is given to the recursive method and it is the first statement executed insidethe recursive method is called as head recursion.
+
+	head(3);
+	
+	void head(int n){
+		if(n == 1)
+			return n;
+		else{
+			head(n-1);//Recursive call: first
+			SOP("Head");
+		}
+			
+	}

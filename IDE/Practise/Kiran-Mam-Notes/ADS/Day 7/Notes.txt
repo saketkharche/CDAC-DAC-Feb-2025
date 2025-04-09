@@ -1,0 +1,158 @@
+-----------------------------------------
+Day 7: Algorithms and Data Structures
+Date : 31-March-2025
+-----------------------------------------
+
+Topics: 
+	- Doubly Linked List
+	- Tree
+	
+	
+	
+	class DLL{
+		
+		static class Node{
+			int data;
+			Node prev;
+			Node next;
+			
+			Node(int d){
+				data = d;
+				prev = next = null;
+			}
+			
+			
+		}
+	}
+	
+	DLL Operations:
+	-----------------
+	1. Insertion
+		-Insertion at the begining
+		-Insertion in between
+		-Insertion at the end
+	2. Deletion
+		-Deletion at the begining
+		-Deletion in between
+		-Deletion at the end
+	3. Traverse
+		-Forward traversal
+		-Backward traversal
+	
+	-Insertion at the begining:
+	----------------------------
+	
+	
+	
+	void insert(int new_data){
+		Node new_node = new Node(new_data);
+		new_node.next = head;
+		new_node.prev = null;
+		if(head != null) 
+			head.prev = new_node;
+		
+		head = new_node;
+	}
+	
+	-Forward traversal : n nodes
+	-Backward traversal : n nodes=> trf last node then travers n node
+	
+	void display(Node n){
+		Node p = null;
+		
+		System.out.println("Forward traversal:");
+		while( n != null)
+		{
+			System.out.println(n.data="-->");
+			p=n;//jne se pehle p is assigned: to keep the track of last last
+			n=n.next;//forward excution
+		}
+		System.out.println();
+		System.out.println("Backward traversal:");
+		while( p != null)
+		{
+			System.out.println(p.data="-->");
+			p = p.prev;//backward execution
+		}
+		
+	}
+	
+	-Insertion in between:
+	--------------------------
+	
+	void insertAfter(Node prev, int new_data){
+		
+		if(prev == null)
+		{
+			return;
+		}
+		Node new_node = new Node(new_data);
+		new_node.next = prev.next;//Important
+		prev.next = new_node;
+		new_node.prev = prev;
+		new_node.next.prev = new_node;
+		
+	
+	}
+	
+	
+	
+	-Insertion at the end:
+	-----------------------
+	
+	void append(int new_data){
+		
+		
+		Node new_node = new Node(new_data);
+		Node n = head;
+		new_node.next = null;
+		
+		//Empty DLL next
+		if(head == null){
+			new_node.prev = null;
+			head = new_node;
+			return;
+		}
+		while(n.next != null){
+			n=n.next;
+		}
+		n.next = new_node;
+		new_node.prev = n;
+		
+		
+		
+		
+		
+	}
+	
+	Deletion:
+	---------
+	
+	void deleteNode(Node del)
+	{
+		//case 1 :Empty DLL & del node empty
+		if(head == null || del == null)
+			return;
+		
+		//case 2 : First node/Head to be deleted
+		if(head == del){
+			head = del.next;
+			head.prev = null;
+		}
+		
+		//Case3: In between node del
+		if(del.next != null)
+			del.next.prev = del.prev;
+		
+		//Case3: In between node del
+		//Case 4: Last node delete
+		if(del.prev != null)
+			del.prev.next = del.next;
+		
+		return;
+			
+		
+		
+		
+		
+	}
