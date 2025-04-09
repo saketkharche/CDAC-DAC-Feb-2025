@@ -1,0 +1,311 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\saket> mysql -u root -p
+Enter password: ****
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+PS C:\Users\saket> mysql -u root -p
+Enter password: ****
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+PS C:\Users\saket> mysql -u root -p
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 13
+Server version: 9.0.1 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2024, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> CREATE USER dac1@localhost IDENTIFIED BY 'cdac';
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> CREATE DATABASE classwork;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| cdac               |
+| classicmodels      |
+| classwork          |
+| information_schema |
+| mysql              |
+| performance_schema |
+| practices          |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+10 rows in set (0.00 sec)
+
+mysql> GRANT ALL PRIVILEGES ON classwork.* TO dac1@localhost;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> mysql -u dac1 -p
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysql -u dac1 -p' at line 1
+mysql> exit
+Bye
+PS C:\Users\saket> mysql -u dac1 -p;
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 14
+Server version: 9.0.1 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2024, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> CREATE TABLE SEMP (
+    ->   EMPNO CHAR(4),
+    ->   EMPNAME CHAR(20),
+    ->   BASIC FLOAT,
+    ->   DEPTNO CHAR(2),
+    ->   DEPTHEAD CHAR(4)
+    -> );
+ERROR 1046 (3D000): No database selected
+mysql> use classwork;
+Database changed
+mysql> CREATE TABLE SEMP (
+    ->   EMPNO CHAR(4),
+    ->   EMPNAME CHAR(20),
+    ->   BASIC FLOAT,
+    ->   DEPTNO CHAR(2),
+    ->   DEPTHEAD CHAR(4)
+    -> );
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> CREATE TABLE SDEPT (
+    ->   DEPTNO CHAR(2),
+    ->   DEPTNAME CHAR(15)
+    -> );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> INSERT INTO SDEPT VALUES ('10', 'Development');
+Query OK, 1 row affected (0.01 sec)
+
+mysql> INSERT INTO SDEPT VALUES ('20', 'Training');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO SEMP (EMPNO, EMPNAME, BASIC, DEPTNO, DEPTHEAD)
+    -> VALUES
+    -> ('0001', 'SUNIL', 6000, '10', NULL),
+    -> ('0002', 'HIREN', 8000, '20', NULL),
+    -> ('0003', 'ALI', 4000, '10', '0001'),
+    -> ('0004', 'GEORGE', 6000, '20', '0002');
+Query OK, 4 rows affected (0.00 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> CREATE TABLE S (
+    ->   `S#` CHAR(4),
+    ->   SNAME VARCHAR(20),
+    ->   STATUS INT,
+    ->   CITY VARCHAR(20)
+    -> );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> CREATE TABLE P (
+    ->   `P#` CHAR(4),
+    ->   PNAME VARCHAR(20),
+    ->   COLOR VARCHAR(10),
+    ->   WEIGHT FLOAT,
+    ->   CITY VARCHAR(20)
+    -> );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> CREATE TABLE J (
+    ->   `J#` CHAR(4),
+    ->   JNAME VARCHAR(20),
+    ->   CITY VARCHAR(20)
+    -> );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> CREATE TABLE SPJ (
+    ->   `S#` CHAR(4),
+    ->   `P#` CHAR(4),
+    ->   `J#` CHAR(4),
+    ->   QTY INT
+    -> );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> INSERT INTO S VALUES ('S1', 'Supplier1', 20, 'London');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO S VALUES ('S2', 'Supplier2', 10, 'Paris');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO S VALUES ('S3', 'Supplier3', 30, 'Athens');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO P VALUES ('P1', 'Bolt', 'Red', 13.0, 'London');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO P VALUES ('P2', 'Nut', 'Blue', 15.0, 'Paris');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO P VALUES ('P3', 'Screw', 'Green', 12.5, 'Athens');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO J VALUES ('J1', 'Project1', 'London');
+Query OK, 1 row affected (0.01 sec)
+
+mysql> INSERT INTO J VALUES ('J2', 'Project2', 'Athens');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO J VALUES ('J3', 'Project3', 'Paris');
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO SPJ VALUES ('S1', 'P1', 'J1', 100);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> INSERT INTO SPJ VALUES ('S2', 'P2', 'J3', 200);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> INSERT INTO SPJ VALUES ('S3', 'P3', 'J2', 150);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SELECT * FROM S;
++------+-----------+--------+--------+
+| S#   | SNAME     | STATUS | CITY   |
++------+-----------+--------+--------+
+| S1   | Supplier1 |     20 | London |
+| S2   | Supplier2 |     10 | Paris  |
+| S3   | Supplier3 |     30 | Athens |
++------+-----------+--------+--------+
+3 rows in set (0.00 sec)
+
+mysql> SELECT `S#`, SNAME FROM S;
++------+-----------+
+| S#   | SNAME     |
++------+-----------+
+| S1   | Supplier1 |
+| S2   | Supplier2 |
+| S3   | Supplier3 |
++------+-----------+
+3 rows in set (0.00 sec)
+
+mysql> SELECT PNAME, COLOR FROM P WHERE CITY = 'London';
++-------+-------+
+| PNAME | COLOR |
++-------+-------+
+| Bolt  | Red   |
++-------+-------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM S WHERE CITY = 'London';
++------+-----------+--------+--------+
+| S#   | SNAME     | STATUS | CITY   |
++------+-----------+--------+--------+
+| S1   | Supplier1 |     20 | London |
++------+-----------+--------+--------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM S WHERE CITY IN ('Paris', 'Athens');
++------+-----------+--------+--------+
+| S#   | SNAME     | STATUS | CITY   |
++------+-----------+--------+--------+
+| S2   | Supplier2 |     10 | Paris  |
+| S3   | Supplier3 |     30 | Athens |
++------+-----------+--------+--------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT * FROM J WHERE CITY = 'Athens';
++------+----------+--------+
+| J#   | JNAME    | CITY   |
++------+----------+--------+
+| J2   | Project2 | Athens |
++------+----------+--------+
+1 row in set (0.00 sec)
+
+mysql> SELECT PNAME FROM P WHERE WEIGHT BETWEEN 12 AND 14;
++-------+
+| PNAME |
++-------+
+| Bolt  |
+| Screw |
++-------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT * FROM S WHERE STATUS >= 20;
++------+-----------+--------+--------+
+| S#   | SNAME     | STATUS | CITY   |
++------+-----------+--------+--------+
+| S1   | Supplier1 |     20 | London |
+| S3   | Supplier3 |     30 | Athens |
++------+-----------+--------+--------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT * FROM S WHERE CITY <> 'London';
++------+-----------+--------+--------+
+| S#   | SNAME     | STATUS | CITY   |
++------+-----------+--------+--------+
+| S2   | Supplier2 |     10 | Paris  |
+| S3   | Supplier3 |     30 | Athens |
++------+-----------+--------+--------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT DISTINCT CITY FROM S;
++--------+
+| CITY   |
++--------+
+| London |
+| Paris  |
+| Athens |
++--------+
+3 rows in set (0.00 sec)
+
+mysql> SELECT
+    ->   PNAME,
+    ->   WEIGHT AS GRAMS,
+    ->   WEIGHT * 1000 AS MILLIGRAMS,
+    ->   WEIGHT / 1000 AS KILOGRAMS
+    -> FROM P;
++-------+-------+------------+-----------+
+| PNAME | GRAMS | MILLIGRAMS | KILOGRAMS |
++-------+-------+------------+-----------+
+| Bolt  |    13 |      13000 |     0.013 |
+| Nut   |    15 |      15000 |     0.015 |
+| Screw |  12.5 |      12500 |    0.0125 |
++-------+-------+------------+-----------+
+3 rows in set (0.01 sec)
+
+mysql> freeze semp_output.txt -o semp_image.png
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'freeze semp_output.txt -o semp_image.png' at line 1
+mysql> ^C
+mysql> exit
+Bye
+PS C:\Users\saket> freeze semp_output.txt -o semp_image.png
+freeze : The term 'freeze' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a
+path was included, verify that the path is correct and try again.
+At line:1 char:1
++ freeze semp_output.txt -o semp_image.png
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (freeze:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\saket> go install github.com/charmbracelet/freeze@latest
+go : The term 'go' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was
+included, verify that the path is correct and try again.
+At line:1 char:1
++ go install github.com/charmbracelet/freeze@latest
++ ~~
+    + CategoryInfo          : ObjectNotFound: (go:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\saket>

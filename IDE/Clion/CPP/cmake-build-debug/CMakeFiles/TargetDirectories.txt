@@ -1,0 +1,3 @@
+C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/Clion/CPP/cmake-build-debug/CMakeFiles/CPP.dir
+C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/Clion/CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/Clion/CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
