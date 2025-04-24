@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML and CSS Basics</title>
+
+    <!-- External CSS File Link (filepath) -->
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        /* Inline CSS Initialization */
+        body {
+            font-family: Arial, sans-serif; /* Setting the default font */
+            background-color: #f4f4f4; /* Background color for the body */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333; /* Header background color */
+            color: white; /* Text color in the header */
+            padding: 10px 0; /* Padding for the header */
+            text-align: center; /* Centering the text */
+        }
+
+        h1 {
+            font-size: 2em; /* Increasing the font size of the header */
+        }
+
+        /* Block-Level Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto; /* Centering the content */
+            padding: 20px;
+        }
+
+        /* Responsive Form Layout */
+        form {
+            display: flex;
+            flex-direction: column; /* Stack elements vertically */
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto; /* Centering the form */
+        }
+
+        label {
+            font-size: 1.1em; /* Increasing label text size */
+            margin-bottom: 5px; /* Space below labels */
+        }
+
+        input, textarea {
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: #5cb85c; /* Green background for the button */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer; /* Changes cursor to pointer */
+        }
+
+        button:hover {
+            background-color: #4cae4c; /* Darker green on hover */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header: Block-level element -->
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <!-- Main content section (Block element) -->
+    <div class="container">
+        
+        <!-- Form Section (Block element with class) -->
+        <form action="#" method="POST">
+            <!-- Form Elements with Labels and Input Types -->
+
+            <!-- Name Field (Input Type: text) -->
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+            <!-- Email Field (Input Type: email) -->
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <!-- Message Field (Textarea element) -->
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Write your message" rows="4" required></textarea>
+
+            <!-- Submit Button (Input Type: submit) -->
+            <button type="submit">Submit</button>
+        </form>
+
+        <!-- Iframe Example: Embedded content (block element) -->
+        <h2>Embedded YouTube Video</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+
+    <!-- Semantics: Section with article -->
+    <section>
+        <article>
+            <h2>HTML Basics</h2>
+            <p>HTML is the standard markup language used to create web pages and web applications. It structures the content and provides a framework for building interactive and dynamic web pages.</p>
+        </article>
+    </section>
+
+    <!-- Footer Section: Block element -->
+    <footer>
+        <p>© 2025 Your Website</p>
+    </footer>
+
+    <!-- External JS File (filepath) -->
+    <script src="script.js"></script>
+</body>
+</html>

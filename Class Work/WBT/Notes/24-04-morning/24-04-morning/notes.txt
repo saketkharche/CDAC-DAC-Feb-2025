@@ -1,0 +1,81 @@
+padding & margin
+padding: internal spaces
+margin: spaces outside of any element
+
+margin-top: 40px;
+margin-left: 15px;
+margin-bottom
+margin-right
+margin: 
+
+ways to represent color value:
+1. name of the color
+2. hexadecimal code #3b5598
+https://materialui.co/colors
+3. rgb function rgb(r 0-255,0-255,0-255)
+
+element-selector:event-name{
+
+}
+
+h1:hover{
+	color: red
+}
+
+
+border-style
+border-width
+
+
+border-bottom-width
+
+id>class>tag>*
+
+
+types of css:
+
+1. internal css: css code written inside the style tag within html
+
+home.html
+about.html
+contact.html
+service.html
+.
+.
+.
+100 html files
+
+2. external css: css code written into separate .css file
+                 we manually have to link external css with html file 
+ <link rel="stylesheet" type="text/css" href="loginstyle.css">
+
+3. inline css: css code written directly inside of any tag
+<p style="font-size: 20px;color: red;">Need Account? <a href="#">Sign Up</a></p>
+
+inline css is never recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
