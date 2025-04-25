@@ -1,0 +1,233 @@
+number
+string
+Boolean
+
+js is not type safe
+
+operators
+Arithmetic : + - * / %
+a = 6;
+        b = 2;
+        c = a+b;
+        console.log("sum is "+c);
+
+"" -> +
+'' -> +
+``
+
+a = 6;
+        b = 2;
+        c = a+b;
+        console.log("sum of "+a+" and "+b+" is "+c);
+        console.log(`sum of ${a} and ${b} is ${c}`);
+
+
+relational operators:
+< > <= >= == != === !==
+
+
+a = 2;
+        b = "2";
+        console.log(a==b); true
+
+
+a = 2;
+        b = "2";
+        console.log(a===b); false
+
+logical operators:
+&& || !
+
+assignment operator: =, += -= *= /= %=
+
+a=5;
+a=a+2; a+=2;
+
+
+conditional operator/ternary operator:
+a=6;
+b=13;
+
+assign a value to a variable conditionally
+
+v3 = condition ? v1:v2;
+
+c=a>b?a:b
+
+
+Control structures:
+decides the way of execution of the statements
+
+1. sequential -> all the statements will be executed in a sequence i.e. line by line 
+
+2. conditional -> to execute statements conditionally we will use conditional control structure
+if, if else, if else if, nested if, switch case
+
+3. looping -> to execute statements repeatedly loops are used 
+while, for, do while, foreach
+
+
+num = -2;
+        if(num>0){
+            console.log("number is positive");
+        }
+        else{
+            console.log("number is negative");
+        }
+
+roll 101 -> Gappu
+roll 102 -> Tappu
+roll 103 -> Pappu
+not found
+
+https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php#google_vignette
+
+any number is between 1 to 10 or not
+
+a=4;
+
+if(a>=1 && a<=10){
+	
+}
+else{
+
+}
+
+91-100 A+
+81-90 A
+71-80 B
+<=70 Fail
+
+m=84;
+
+
+m = 77;
+
+        if(m>=91 && m<=100){
+            console.log("A+");
+        }
+        else if(m>=81){
+            console.log("A");
+        }
+        else if(m>=71){
+            console.log("B");
+        }
+        else{
+            console.log("Fail");
+        }
+
+
+Nested if 
+
+// c1 is true and c2 is true
+        // c1 is true but c2 is false
+        // c1 is false but c2 is true
+        if(c1){
+            if(c2){
+                s1
+            }
+            else{
+                s2
+            }
+        }
+        else{
+            s3
+        }
+
+
+Switch case : 
+
+switch(variable){
+	case value1:stmt1;
+	case value2:stmt2;
+	case value3:stmt3;
+.
+.
+.
+
+}
+
+
+roll = 102;
+
+        switch (roll) {
+            case 101:console.log("gappu"); break;
+            case 102:console.log("tappu"); break;
+            case 103:console.log("pappu"); break;
+            default: console.log("not found");
+        }
+
+
+quantity
+rate
+total price 
+
+total 1000 - 2999 5%
+      3000 - 6999 8%
+      >7000  12%
+
+Total Price before discount:
+Discount given:
+Net Payable amount: 
+
+
+
+Loops:
+while, for, do while
+
+while(condition){
+	body
+}
+
+ a=1;
+        while(a<=5){
+            console.log("hello");
+            a++;
+        }
+
+a=5;
+        while(a>=1){
+            console.log(a);
+            a--;
+        }
+for(x=1;x<=5;x++){
+            console.log(x);
+        }
+
+
+nested loops
+
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+.
+.
+.
+100 rows 
+
+
+ for (a = 1; a <= 10; a++) {
+            for (b = 1; b <= 5; b++) {
+                document.write("*");
+            }
+            document.write("<br>");
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
