@@ -11,7 +11,7 @@ function fetchData(url, callback) {
   }, 2000);
 }
 
-fetchData("https://http.cat/404", function (error, response) {
+fetchData("http.cat/404", function (error, response) {
   if (error) {
     console.error("Error:", error);
   } else {

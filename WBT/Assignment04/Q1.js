@@ -5,7 +5,7 @@ function toUpperCase(str) {
 
 function processData(str, callback) {
   const result = callback(str);
-  console.log("Uppercased:", result);
+  console.log("Uppercase:", result);
 }
 
 processData("saket m kharche pgdac", toUpperCase);
