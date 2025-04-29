@@ -1,0 +1,238 @@
+sync-> blocking
+async-> non blocking
+
+
+setTimeout-> async 
+
+setTimeout(() => {
+            console.log("hello")
+        }, 2000);
+
+        console.log("bye");
+result:
+
+bye
+hello
+
+callback functions never executes immediately 
+they wait for a particular event to occur then a callback will be called
+with the help of callback functions we can make a process async 
+such that the callback function should not block the execution of rest of the program
+
+
+setTimeout(() => {
+            console.log("hello")
+        }, 3000);
+
+        setTimeout(() => {
+            console.log("hii")
+        }, 1000);
+
+        setTimeout(() => {
+            console.log("bye")
+        }, 2000);
+
+
+
+
+console.log("calculating sum....");
+        setTimeout(() => {
+            var x=2;
+            var y=7;
+            var z =x+y;
+            console.log("sum is ",z);
+        }, 1000);
+
+        console.log("calculating factorial...");
+        setTimeout(() => {
+            var num = 5;
+            var f=1;
+            for(var i=1;i<=num;i++){
+                f=f*i;
+            }
+            console.log("factorial is",f);
+        }, 3000);
+
+        console.log("calculating square...");
+        setTimeout(() => {
+            var n=6;
+            var sq =  n*n;
+            console.log("square is ",sq);
+        }, 2000);
+
+
+if already multiple async operations are there and we want to execute them synchronously then we have to go into nesting of callback functions
+
+
+setTimeout(() => {
+            console.log("hello")
+            
+        }, 3000);
+
+setTimeout(() => {
+                console.log("hii");
+                
+            }, 1000);
+
+setTimeout(() => {
+                    console.log("bye")
+                }, 2000);
+
+fetch ids from server async non blocking
+based on id fetch data async non blocking
+based on data check for voting eligibility async
+
+
+fetchIds(()=>{
+	fetchData(()=>{
+	   checkEligibility();
+        })
+});
+
+
+ console.log("calculating sum....");
+        setTimeout(() => {
+            var x = 2;
+            var y = 3;
+            var z = x + y;
+            console.log("sum is ", z);
+            console.log("calculating factorial...");
+            setTimeout(() => {
+                var f = 1;
+                for (var i = 1; i <= z; i++) {
+                    f = f * i;
+                }
+                console.log("factorial is", f);
+                console.log("calculating square...");
+                setTimeout(() => {
+                    var sq = f * f;
+                    console.log("square is ", sq);
+                }, 2000);
+            }, 3000);
+        }, 1000);
+
+
+note: when we go into nesting of callback functions then code readability gets affected and difficult to maintain 
+
+nesting of callback functions is known as callback hell
+
+we should always avoid callback hell
+
+To avoid callback hell, Promise is used
+
+Promise:
+
+For any task first create a promise
+Now Promise will have 3 states:
+1. Pending: the promise task is not executed yet
+
+now if the task has been executed then 
+2. Fullfill: in case of successful execution
+3. Rejected : in case of any failure
+
+
+Now on the basis of promise state, we have to take suitable actions
+
+
+In JS:
+
+1. create a promise object:
+
+	var myPromise = new Promise((resolve,reject)=>{
+
+	// promise executor function 
+        // logic for the task
+       if(){
+	resolve();	
+}
+else{
+reject();
+}
+
+	});
+	
+   it is the responsibility of a developer to change the state of promise either to resolve/fulfill or rejected
+
+resolve & reject are the two arguments inside the promise executor callback function, they will be initialized automatically by the Promise object
+resolve() : will mark the promise as fulfill
+reject(): will mark the promise as rejected
+
+if we haven't called none of them then even after execution of the promised task, state of promise will remain as pending only
+
+now we can take actions on the basis of promise state i.e. promise handling 
+To handle the promise, two predefined functions are there
+1. then()
+2. catch()
+
+myPromise.then(()=>{
+	s1
+	s2
+}).catch(()=>{
+	s3
+	s4
+});
+
+
+var evenPromise = new Promise((resolve,reject)=>{
+            var num = 9;
+            if(num%2==0){
+                resolve();
+            }
+            else{
+                reject();
+            }
+        });
+
+        evenPromise.then(()=>{
+            console.log("promise resolved and number is even");
+        }).catch(()=>{
+            console.log("promise rejected and number is not even");
+        });
+
+var evenPromise = new Promise((resolve,reject)=>{
+            var num = 8;
+            if(num%2==0){
+                resolve("promise resolved and number is even");
+            }
+            else{
+                reject("Error: promise rejected and number is not even");
+            }
+        });
+
+        evenPromise.then((result)=>{
+            console.log(result);
+        }).catch((error)=>{
+            console.log(error);
+        });
+
+
+
+function getPromiseObject(num) {
+            var evenPromise = new Promise((resolve, reject) => {
+                if (num % 2 == 0) {
+                    resolve("promise resolved and number is even");
+                }
+                else {
+                    reject("Error: promise rejected and number is not even");
+                }
+            });
+            return evenPromise;
+        }
+
+        getPromiseObject(7).then((result)=>{
+            console.log(result);
+        }).catch((error)=>{
+            console.log(error);
+        });
+
+
+
+
+
+
+
+
+
+
+
+

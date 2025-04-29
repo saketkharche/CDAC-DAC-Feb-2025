@@ -1,0 +1,215 @@
+functions/json object -> prototypes
+
+
+class Name {
+	functions/properties
+}
+
+class Student{
+  constructor(){
+
+  }
+}
+
+
+class Student{
+            constructor(){
+                console.log("in cons");
+            }
+        }
+
+        var s1 = new Student();
+        var s2 = new Student();
+
+
+class Student{
+            
+            constructor(){
+                this.id=101;
+                this.name="Suresh";
+            }
+        }
+
+        var s1 = new Student();
+        console.log(s1.id, s1.name);
+
+
+
+class Student{
+            
+            constructor(id,name){
+                this.id=id;
+                this.name=name;
+            }
+        }
+
+        var s1 = new Student(101,"Rohan");
+        console.log(s1.id, s1.name);
+
+        var s2 = new Student(102,"Manoj");
+        console.log(s2.id, s2.name);
+
+class Student{
+var phone;
+            
+            constructor(id,name){
+                this.id=id;
+                this.name=name;
+            }
+            display(){
+                console.log(this.id,this.name);
+            }
+        }
+
+        var s1 = new Student(101,"Rohan");
+        s1.display();
+
+        var s2 = new Student(102,"Manoj");
+        s2.display();
+
+        class Rectangle{
+            constructor(l,b){
+                this.l=l;
+                this.b=b;
+            }
+            getArea(){
+                return this.l*this.b;
+            }
+            getPerimeter(){
+                return 2*(this.l+this.b)
+            }
+        }
+
+
+        var r1 = new Rectangle(4,2);
+        const area = r1.getArea();
+        const perimeter = r1.getPerimeter();
+        console.log("area=",area);
+        console.log("perimeter=",perimeter);
+
+
+Inheritance: acquire the properties of a class into another class
+
+Parent and child
+
+child always acquire the properties of parent class 
+
+class A{
+
+
+}
+
+class B extends A{
+
+
+}
+
+
+class A{
+            show(){
+                console.log("hello in A");
+            }
+        }
+
+        class B extends A {
+
+        }
+
+        var bObj = new B();
+        bObj.show();
+
+
+
+
+        class A{
+            constructor(){
+                this.x=18;
+                this.y=20;
+            }
+            show(){
+                console.log("hello in A");
+            }
+        }
+
+        class B extends A {
+
+        }
+
+        var bObj = new B();
+        bObj.show();
+        console.log(bObj.x,bObj.y);
+
+class A{
+            constructor(){
+                this.x=18;
+                this.y=20;
+            }
+            show(){
+                console.log("hello in A");
+            }
+        }
+
+        class B extends A {
+            constructor(){
+                super();
+                this.z=30;
+            }
+        }
+
+        var bObj = new B();
+        bObj.show();
+        console.log(bObj.x,bObj.y, bObj.z);
+
+var obj = {
+            x:5,
+            y:function(){
+                console.log(this);
+            }
+        }
+
+        obj.y();
+
+if a function is inside a json object then this keyword will point towards the current/same json object
+
+
+var obj = {
+            x:5,
+            y:()=>{
+                console.log(this.x);
+            }
+        }
+
+        obj.y()
+
+with arrow function, this keyword will now point to window object even if it is inside the json
+
+function keyword-> it will have its own this keyword context and that will refer to same object/current object
+
+arrow function -> it is not having its own context of this keyword, always it will be referring to window object
+
+
+
+types of process in js:
+
+1. synchronous : blocking nature, when tasks are dependent on each other
+2. asynchronous : non-blocking nature, when tasks are independent from each other
+
+
+setTimeout(task,timeout);
+
+setTimeout(()=>{
+	console.log("hello);
+},2000);
+
+
+
+
+
+
+
+
+
+
+
+
+
