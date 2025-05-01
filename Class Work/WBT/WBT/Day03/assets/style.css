@@ -1,32 +1,38 @@
-*{
+* {
     font-family: "Segoe Ui Light";
 }
-#navbar{
+
+#navbar {
     width: 100%;
     height: 90px;
 }
-#logo{
+
+#logo {
     width: 80px;
     height: 80px;
 }
-#nav-links{
+
+#nav-links {
     float: right;
     margin-top: 30px;
 }
-a{
+
+a {
     margin-right: 25px;
     text-decoration: none;
 }
 
-#description-section{
+#description-section {
     text-align: center;
     margin-left: 20px;
     margin-right: 20px;
 }
-#description-text{
+
+#description-text {
     text-align: justify;
 }
-.green-button{
+
+.green-button {
     border-color: #4CAF50;
     border-width: 1px;
     border-style: solid;
@@ -38,27 +44,32 @@ a{
     transition: background 0.5s;
     background: white;
 }
-.green-button:hover{
+
+.green-button:hover {
     background: #4CAF50;
     color: white;
 }
-#box-container{
+
+#box-container {
     width: 100%;
     height: 450px;
     text-align: center;
 }
-#box-1{
-    width:33.33%;
+
+#box-1 {
+    width: 33.33%;
     height: inherit;
     float: left;
 }
-#box-2{
-    width:33.33%;
+
+#box-2 {
+    width: 33.33%;
     height: inherit;
     float: left;
 }
-#box-3{
-    width:33.33%;
+
+#box-3 {
+    width: 33.33%;
     height: inherit;
     float: right;
 }

@@ -18,7 +18,7 @@ function processData(data) {
 }
 
 // nested callbacks
-fetchData("https://www.google,com", function (error, response) {
+fetchData("https://www.google.com", function (error, response) {
   if (error) {
     console.error("Error:", error);
   } else {
