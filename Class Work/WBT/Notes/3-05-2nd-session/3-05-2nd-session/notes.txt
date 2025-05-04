@@ -1,0 +1,6 @@
+database MySQL, mongo db, sqlserver
+
+
+user -> app ->  database
+
+user -> frontend -> backend server -> database 

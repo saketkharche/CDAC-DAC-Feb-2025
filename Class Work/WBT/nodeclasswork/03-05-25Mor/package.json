@@ -1,15 +1,14 @@
 {
-  "name": "untitled",
+  "name": "03-05-25mor",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "post method",
   "dependencies": {
-    "untitled": "file:"
+    "express": "^5.1.0"
   }
 }

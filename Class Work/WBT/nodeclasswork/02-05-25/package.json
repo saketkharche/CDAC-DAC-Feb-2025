@@ -1,0 +1,19 @@
+{
+  "name": "02-05-25",
+  "version": "1.0.0",
+  "description": "practise of node on 02 may 25",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "saket",
+  "license": "ISC",
+  "dependencies": {
+    "02-05-25": "file:"
+  }
+}

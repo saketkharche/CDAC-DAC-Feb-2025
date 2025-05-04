@@ -1,15 +1,16 @@
 {
-  "name": "untitled",
+  "name": "server",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "untitled": "file:"
+    "express": "^5.1.0",
+    "server": "file:"
   }
 }

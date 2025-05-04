@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Wedding Ceremony",
+      "venue": "Taj Hotel",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "157b",
+      "title": "death anniversary ",
+      "venue": "Dubai",
+      "date": "2023-11-30"
+    }
+  ]
+}
