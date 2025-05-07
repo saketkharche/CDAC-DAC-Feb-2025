@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.5",
+    "react": "^19.1.0",
     "WBT": "file:"
   }
 }

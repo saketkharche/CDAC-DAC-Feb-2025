@@ -1,15 +1,18 @@
 {
-  "name": "03-05-25mor",
+  "name": "crudapp1ex",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "post method",
+  "description": "",
   "dependencies": {
-    "03-05-25mor": "file:",
-    "express": "^5.1.0"
+    "body-parser": "^2.2.0",
+    "crudapp1ex": "file:",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
   }
 }
