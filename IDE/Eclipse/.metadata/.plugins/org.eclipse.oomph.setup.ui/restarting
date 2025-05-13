@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base:Annotation
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:base="http://www.eclipse.org/oomph/base/1.0"
+    source="MANUAL">
+  <reference
+      href="../../../../../../../../../../eclipse/java-2024-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#//@setupTasks.1"/>
+</base:Annotation>
