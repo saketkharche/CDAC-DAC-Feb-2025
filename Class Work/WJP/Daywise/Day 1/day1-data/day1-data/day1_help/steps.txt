@@ -1,0 +1,68 @@
+1. DB connectivity.
+Dev Steps
+
+1. Create DBUtils class to provide DB connection
+Methods
+ - openConnection
+   (singleton pattern)
+
+ - getConnection
+ - closeConnection
+
+2. Understand different type of JDBC Drivers
+ - Type IV JDBC Driver
+
+3. Table - users
+Display all users details
+
+Dev Steps
+
+1. get DB connection (openCn , getCn)
+2. Create statement from Connection
+3. Execute Query n get ResultSet
+4. Process Result n display data
+5. Close DB connection
+
+
+4. User Login 
+i/p - email n password
+o/p - Valid login with the details or err mesg 
+
+1. get DB connection (openCn , getCn)
+sql - select * form users where email=? and password=?
+2. Create Preparedstatement from Connection 
+3. Execute Query n get ResultSet
+4. Process Result n display data
+5. Close DB connection
+
+--------------------------------------
+Enter Layered architecture
+- separation of concerns
+- reusability
+
+Tester(main class) - UI
+- DAO (data access object layer - JDBC | Hibernate)
+ DAO i/f
+ implementation class
+- DBUtils
+ open , get , close cn
+- POJO (Plain old java object | Model | Entity)
+ - ORM (Object to Relational Mapping)
+ POJO class  - Table
+ POJO properties  - Columns
+ POJOs- rows
+ 
+- DB
+
+
+
+
+
+
+
+
+
+
+
+
+

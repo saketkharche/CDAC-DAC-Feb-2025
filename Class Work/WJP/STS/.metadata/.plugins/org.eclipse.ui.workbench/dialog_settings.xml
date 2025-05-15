@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="592"/>
-		<item key="DIALOG_Y_ORIGIN" value="108"/>
-		<item key="DIALOG_WIDTH" value="754"/>
-		<item key="DIALOG_HEIGHT" value="813"/>
+		<item key="DIALOG_X_ORIGIN" value="722"/>
+		<item key="DIALOG_Y_ORIGIN" value="32"/>
+		<item key="DIALOG_WIDTH" value="891"/>
+		<item key="DIALOG_HEIGHT" value="997"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="532"/>
+			<item key="DIALOG_Y_ORIGIN" value="109"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\saket\Downloads\Day 1-20250515T091124Z-1-001.zip"/>
+		</list>
+		<section name="ZipFileImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="532"/>
+			<item key="DIALOG_Y_ORIGIN" value="109"/>
+			<item key="DIALOG_WIDTH" value="991"/>
+			<item key="DIALOG_HEIGHT" value="669"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
 	</section>
 </section>
