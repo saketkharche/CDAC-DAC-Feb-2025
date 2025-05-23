@@ -1,0 +1,270 @@
+
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.javaª	
+AddressCLASSö
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java("
+packageAddress"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Address"
+accesspackage_private*Address2◊
+'Address.Address(String, String, String)DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2≈
+Address?city@1.8:1.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2«
+Address?state@1.14:1.19DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2…
+Address?country@1.21:1.28DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (à
+'Address.Address(String, String, String)CONSTRUCTORû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("˚
+declarationStringÂ<mark class="modifier"> </mark><mark class="method">Address</mark>(String city<mark class="modifier"><mark class="modifier">,</mark></mark> String state<mark class="modifier"><mark class="modifier">,</mark></mark> String country)*Address2’
+,Address.Address(String, String, String)!cityCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2÷
+-Address.Address(String, String, String)!stateCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2ÿ
+/Address.Address(String, String, String)!countryCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2æ
+Address?city@1.8:1.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2¿
+Address?state@1.14:1.19CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2¬
+Address?country@1.21:1.28CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2⁄
+,Address.Address(String, String, String)!city	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2€
+-Address.Address(String, String, String)!state	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("2›
+/Address.Address(String, String, String)!country	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java+ (22∑
+AddressRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (÷
+,Address.Address(String, String, String)!city	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+typeString"
+isFinalfalse" 
+declarationStringString city*city2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java	 (Ÿ
+-Address.Address(String, String, String)!state	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (""
+typeString"
+isFinalfalse"!
+declarationStringString state*state2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (ﬂ
+/Address.Address(String, String, String)!country	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java+ (2"
+typeString"
+isFinalfalse"#
+declarationStringString country*country2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java$ (*¨
+Address?city@1.8:1.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">city</mark>"
+isStaticfalse"
+accesspackage_private*city2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (∞
+Address?state@1.14:1.19VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"
+typeString"a
+declarationStringL<mark class="modifier"> </mark>String <mark class="class-field">state</mark>"
+isStaticfalse"
+accesspackage_private*state2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (∂
+Address?country@1.21:1.28VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"
+typeString"c
+declarationStringN<mark class="modifier"> </mark>String <mark class="class-field">country</mark>"
+isStaticfalse"
+accesspackage_private*country2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (Ö
+EmployeeCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java	 	("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Employee"
+accesspackage_private*Employee2◊
+'Employee.Employee(int, String, Address)DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	2¬
+Employee.display()DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2≈
+Employee?id@10.5:10.7DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ 
+(2»
+Employee?name@11.8:11.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2≈
+Employee?a@12.9:12.10DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java	 (
+â
+'Employee.Employee(int, String, Address)CONSTRUCTORû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	"è
+declarationString˘<mark class="modifier"> </mark><mark class="method">Employee</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> Address a)*Employee2”
+*Employee.Employee(int, String, Address)!idCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2’
+,Employee.Employee(int, String, Address)!nameCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2“
+)Employee.Employee(int, String, Address)!aCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2æ
+Employee?id@10.5:10.7CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	2¡
+Employee?name@11.8:11.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2æ
+Employee?a@12.9:12.10CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2ÿ
+*Employee.Employee(int, String, Address)!id	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2⁄
+,Employee.Employee(int, String, Address)!name	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2◊
+)Employee.Employee(int, String, Address)!a	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java' ((2∏
+EmployeeRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	Â
+*Employee.Employee(int, String, Address)!id	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2¨
+intTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ (÷
+,Employee.Employee(int, String, Address)!name	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (–
+)Employee.Employee(int, String, Address)!a	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java' (("
+typeAddress"
+isFinalfalse"
+declarationString	Address a*a2∞
+AddressTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (&ﬁ
+Employee.display()METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (Ω
+Employee?id@10.5:10.7VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ 
+("
+isFinalfalse"
+typeint"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark>"
+isStaticfalse"
+accesspackage_private*id2¨
+intTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ 
+(Ø
+Employee?name@11.8:11.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (©
+Employee?a@12.9:12.10VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java	 (
+"
+isFinalfalse"
+typeAddress"^
+declarationStringI<mark class="modifier"> </mark>Address <mark class="class-field">a</mark>"
+isStaticfalse"
+accesspackage_private*a2∞
+AddressTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (¯
+AggregationDemoCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+packageAggregationDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>AggregationDemo"
+accesspackage_private*AggregationDemo2Œ
+AggregationDemo.main(String[])DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (ì
+AggregationDemo.main(String[])METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2÷
+-AggregationDemo.main(String[])?t1@28.10:28.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (2÷
+-AggregationDemo.main(String[])?s1@29.10:29.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java! (#2÷
+-AggregationDemo.main(String[])?s2@30.10:30.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java- (/2—
+#AggregationDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java  (&2›
+-AggregationDemo.main(String[])?t1@28.10:28.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ (2›
+-AggregationDemo.main(String[])?s1@29.10:29.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ (2›
+-AggregationDemo.main(String[])?s2@30.10:30.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ (2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (∞
+-AggregationDemo.main(String[])?t1@28.10:28.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ ("
+typeTeacher"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>Teacher <mark class="class-field">t1</mark> = new Teacher("Vipul sir")*t12∞
+TeacherTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	Æ
+-AggregationDemo.main(String[])?s1@29.10:29.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ ("
+typeStudent"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Student <mark class="class-field">s1</mark> = new Student("Raviraj")*s12∞
+StudentTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	™
+-AggregationDemo.main(String[])?s2@30.10:30.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java
+ ("
+typeStudent"
+isFinalfalse"t
+declarationString_<mark class="modifier"> </mark>Student <mark class="class-field">s2</mark> = new Student("Jay")*s22∞
+StudentTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (	”
+#AggregationDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\AggregationDemo.java (&

@@ -1,0 +1,266 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java≤
+Q21RowColumnSumCLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java("
+packageQ21RowColumnSum"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q21RowColumnSum"
+accesspublic*Q21RowColumnSum2±
+Q21RowColumnSum.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ø
+,Q21RowColumnSum.findRowAndColumnSum(int[][])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (*2∑
+$Q21RowColumnSum.printMatrix(int[][])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1 1("¿
+Q21RowColumnSum.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∞
+$Q21RowColumnSum.printMatrix(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2∏
+,Q21RowColumnSum.findRowAndColumnSum(int[][])CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ª
+/Q21RowColumnSum.main(String[])?matrix@3.16:3.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ª
+/Q21RowColumnSum.main(String[])?matrix@3.16:3.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("2¥
+#Q21RowColumnSum.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java% ()2¬
+/Q21RowColumnSum.main(String[])?matrix@3.16:3.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (È
+/Q21RowColumnSum.main(String[])?matrix@3.16:3.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"Í
+declarationString‘<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (ô
+#Q21RowColumnSum.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ($Ó?
+,Q21RowColumnSum.findRowAndColumnSum(int[][])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (*"
+isFinalfalse"‡
+declarationString <mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findRowAndColumnSum</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findRowAndColumnSum2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ($2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2…
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?rows@24.12:24.16CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ( 2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java" (#2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2…
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?cols@25.12:25.16CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java  ($2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java& ('2À
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?rowSum@30.16:30.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java   (2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java   ( 2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java !  ("2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@31.21:31.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java $  (%2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java") "(*2À
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?rowSum@30.16:30.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java"7 "(=2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java' '(2…
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?cols@25.12:25.16CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java' '( 2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java'" '(#2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@41.21:41.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java) )(2…
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?rows@24.12:24.16CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java)  )($2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@41.21:41.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java)& )('2À
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?colSum@40.16:40.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java* *(2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java* *( 2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@41.21:41.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java*! *("2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java*$ *(%2∆
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java,, ,(-2À
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?colSum@40.16:40.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java,: ,(@2ƒ
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java3 (92–
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?rows@24.12:24.16DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2–
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?cols@25.12:25.16DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2Õ
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2“
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?rowSum@30.16:30.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2Õ
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@31.21:31.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2Õ
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java' '(2“
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?colSum@40.16:40.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java( ((2Õ
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@41.21:41.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java) )(2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (‘
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?rows@24.12:24.16VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = matrix.length*rows2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (◊
+=Q21RowColumnSum.findRowAndColumnSum(int[][])?cols@25.12:25.16VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = matrix[0].length*cols2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (2ø
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (¸
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@29.17:29.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (å
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?rowSum@30.16:30.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rowSum</mark> = 0*rowSum2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (¸
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@31.21:31.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java (¸
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?j@39.17:39.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java' '("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java' '(å
+?Q21RowColumnSum.findRowAndColumnSum(int[][])?colSum@40.16:40.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java( (("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">colSum</mark> = 0*colSum2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java( ((¸
+:Q21RowColumnSum.findRowAndColumnSum(int[][])?i@41.21:41.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java) )("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java) )(»
+3Q21RowColumnSum.findRowAndColumnSum(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java3 (9"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java+ (0ã
+$Q21RowColumnSum.printMatrix(int[][])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1 1(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2∑
++Q21RowColumnSum.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java2 2(2æ
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7 7(2∑
++Q21RowColumnSum.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7 7("2æ
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7+ 7(,2æ
+2Q21RowColumnSum.printMatrix(int[][])?j@56.21:56.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8 8(2∑
++Q21RowColumnSum.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8  8(&2æ
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8' 8((2æ
+2Q21RowColumnSum.printMatrix(int[][])?j@56.21:56.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java82 8(32∑
++Q21RowColumnSum.printMatrix(int[][])!matrixCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java9! 9('2æ
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java9( 9()2æ
+2Q21RowColumnSum.printMatrix(int[][])?j@56.21:56.22CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java9+ 9(,2º
++Q21RowColumnSum.printMatrix(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1+ 1(12≈
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7 7(2≈
+2Q21RowColumnSum.printMatrix(int[][])?j@56.21:56.22DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8 8(2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1 1(Ù
+2Q21RowColumnSum.printMatrix(int[][])?i@55.17:55.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7 7("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java7 7(Ù
+2Q21RowColumnSum.printMatrix(int[][])?j@56.21:56.22VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8 8("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java8 8(¿
++Q21RowColumnSum.printMatrix(int[][])!matrix	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1+ 1(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ì
+int[][]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q21RowColumnSum.java1# 1((

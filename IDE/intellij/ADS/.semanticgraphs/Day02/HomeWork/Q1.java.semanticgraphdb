@@ -1,0 +1,146 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java‚
+Day02.HomeWork.Q1CLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ("
+packageDay02.HomeWork"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1"
+accesspublic*Q12±
+Day02.HomeWork.Q1.findSum(int)DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ( 2Ω
+*Day02.HomeWork.Q1.main(java.lang.String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java („
+Day02.HomeWork.Q1.findSum(int)METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ( "
+isFinalfalse"Õ
+declarationString∑<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">double</mark> <mark class="method">findSum</mark>(<mark class="modifier">int</mark> N)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typedouble*findSum2™
+Day02.HomeWork.Q1.findSum(int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ($2¨
+ Day02.HomeWork.Q1.findSum(int)!NCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java	 	(2¨
+ Day02.HomeWork.Q1.findSum(int)!NCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2¬
+6Day02.HomeWork.Q1.findSum(int)?currentTerm@13.15:13.26CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2¨
+ Day02.HomeWork.Q1.findSum(int)!NCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! ("2¬
+6Day02.HomeWork.Q1.findSum(int)?currentTerm@13.15:13.26CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2¨
+ Day02.HomeWork.Q1.findSum(int)!NCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java  (!2¬
+6Day02.HomeWork.Q1.findSum(int)?currentTerm@13.15:13.26CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2¨
+ Day02.HomeWork.Q1.findSum(int)!NCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java% (&2±
+ Day02.HomeWork.Q1.findSum(int)!N	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java% (&2…
+6Day02.HomeWork.Q1.findSum(int)?currentTerm@13.15:13.26DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2ô
+doubleRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (í
+6Day02.HomeWork.Q1.findSum(int)?currentTerm@13.15:13.26VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ("
+typedouble"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">currentTerm</mark>*currentTerm2í
+doubleTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (ü
+ Day02.HomeWork.Q1.findSum(int)!N	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java% (&"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> N*N2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! ($Ã
+*Day02.HomeWork.Q1.main(java.lang.String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∑
++java.io.PrintStream.print(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java   (2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(2•
+java.util.Scanner.close()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java$ $(2π
+-java.io.PrintStream.println(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java( ((2™
+Day02.HomeWork.Q1.findSum(int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java- -(2Õ
+Ajava.io.PrintStream.printf(java.lang.String, java.lang.Object...)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java. .(2∫
+.java.util.Scanner.Scanner(java.io.InputStream)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ( 2≈
+9Day02.HomeWork.Q1.main(java.lang.String[])?sc@29.16:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(2≈
+9Day02.HomeWork.Q1.main(java.lang.String[])?sc@29.16:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java$ $(
+2ƒ
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java' '(2ƒ
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java-  -(!2ƒ
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java.F .(G2…
+=Day02.HomeWork.Q1.main(java.lang.String[])?result@45.15:45.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java.I .(O2¿
+/Day02.HomeWork.Q1.main(java.lang.String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java% ()2Ã
+9Day02.HomeWork.Q1.main(java.lang.String[])?sc@29.16:29.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2À
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(2–
+=Day02.HomeWork.Q1.main(java.lang.String[])?result@45.15:45.21DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java- -(2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java («
+9Day02.HomeWork.Q1.main(java.lang.String[])?sc@29.16:29.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ù
+java.util.ScannerTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java (2∫
+.java.util.Scanner.Scanner(java.io.InputStream)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ( ¯
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = sc.nextInt()*N2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(2≈
+9Day02.HomeWork.Q1.main(java.lang.String[])?sc@29.16:29.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java! !(ê
+=Day02.HomeWork.Q1.main(java.lang.String[])?result@45.15:45.21VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java- -("
+typedouble"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">result</mark> = findSum(N)*result2í
+doubleTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java- -(2™
+Day02.HomeWork.Q1.findSum(int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java- -(2ƒ
+8Day02.HomeWork.Q1.main(java.lang.String[])?N@33.12:33.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java-  -(!Ø
+/Day02.HomeWork.Q1.main(java.lang.String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2û
+java.lang.String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q1.java ($

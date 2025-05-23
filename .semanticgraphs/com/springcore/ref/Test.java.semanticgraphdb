@@ -1,0 +1,79 @@
+
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.javaæ
+com.springcore.ref.TestCLASSø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java ("
+packagecom.springcore.ref"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Test"
+accesspublic*Test2Å
+0com.springcore.ref.Test.main(java.lang.String[])DECLARATIONø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (–
+0com.springcore.ref.Test.main(java.lang.String[])METHODø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Í
+ java.io.PrintStream.println(int)CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java
+ 
+(2Â
+com.springcore.ref.A.getX()CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java
+ 
+(2Í
+ java.io.PrintStream.println(int)CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (2Â
+com.springcore.ref.B.getY()CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java# ('2Ê
+com.springcore.ref.A.getOb()CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java ( 2˜
+-java.io.PrintStream.println(java.lang.Object)CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (2å
+Bcom.springcore.ref.Test.main(java.lang.String[])?context@8.22:8.29CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java	 	(2á
+=com.springcore.ref.Test.main(java.lang.String[])?temp@9.5:9.9CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java
+ 
+(2á
+=com.springcore.ref.Test.main(java.lang.String[])?temp@9.5:9.9CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (2á
+=com.springcore.ref.Test.main(java.lang.String[])?temp@9.5:9.9CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (2Ñ
+5com.springcore.ref.Test.main(java.lang.String[])!args	PARAMETERø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java" (&2ì
+Bcom.springcore.ref.Test.main(java.lang.String[])?context@8.22:8.29DECLARATIONø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (2é
+=com.springcore.ref.Test.main(java.lang.String[])?temp@9.5:9.9DECLARATIONø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java	 	(	2’
+voidRETURN_TYPEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (˛
+Bcom.springcore.ref.Test.main(java.lang.String[])?context@8.22:8.29VARIABLEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java ("
+typeApplicationContext"
+isFinalfalse"π
+declarationString£<mark class="modifier"> </mark>ApplicationContext <mark class="class-field">context</mark> = new ClassPathXmlApplicationContext("com/springcore/ref/refconfig.xml")*context2¯
+.org.springframework.context.ApplicationContextTYPEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (ô
+=com.springcore.ref.Test.main(java.lang.String[])?temp@9.5:9.9VARIABLEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java	 	(	"	
+typeA"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark>A <mark class="class-field">temp</mark> = (A) context.getBean("aref")*temp2ﬁ
+com.springcore.ref.ATYPEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java	 	(2å
+Bcom.springcore.ref.Test.main(java.lang.String[])?context@8.22:8.29CALLø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java	 	(±
+5com.springcore.ref.Test.main(java.lang.String[])!args	PARAMETERø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2‹
+java.lang.String[]TYPEø
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\Test.java (!

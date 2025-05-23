@@ -1,0 +1,151 @@
+
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java¿
+NestedforloopCLASSÖ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java("
+packageNestedforloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>Nestedforloop"
+accesspackage_private*Nestedforloop2∑
+Nestedforloop.main(String[])DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (è/
+Nestedforloop.main(String[])METHODâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java4 (52æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.javaC (D2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java> (?2À
+7Nestedforloop.main(String[])?postIncrementB@19.12:19.26CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.javaZ (h2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java= (>2 
+6Nestedforloop.main(String[])?preDecrementB@23.12:23.25CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.javaX (e2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.javaD (E2Ã
+8Nestedforloop.main(String[])?postIncrementA1@27.12:27.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.javaa (p2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java E  (F2Ã
+8Nestedforloop.main(String[])?postIncrementA2@31.12:31.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java b  (q2À
+7Nestedforloop.main(String[])?postIncrementB@19.12:19.26CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# #(2 
+6Nestedforloop.main(String[])?preDecrementB@23.12:23.25CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#! #(.2Ã
+8Nestedforloop.main(String[])?postIncrementA1@27.12:27.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#1 #(@2Ã
+8Nestedforloop.main(String[])?postIncrementA2@31.12:31.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#C #(R2æ
+*Nestedforloop.main(String[])?c@35.12:35.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java$2 $(32∫
+!Nestedforloop.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# ('2≈
+*Nestedforloop.main(String[])?a@13.12:13.13DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2≈
+*Nestedforloop.main(String[])?b@14.12:14.13DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2“
+7Nestedforloop.main(String[])?postIncrementB@19.12:19.26DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2—
+6Nestedforloop.main(String[])?preDecrementB@23.12:23.25DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2”
+8Nestedforloop.main(String[])?postIncrementA1@27.12:27.27DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2”
+8Nestedforloop.main(String[])?postIncrementA2@31.12:31.27DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2≈
+*Nestedforloop.main(String[])?c@35.12:35.13DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# #(2ü
+voidRETURN_TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (˝
+*Nestedforloop.main(String[])?a@13.12:13.13VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (˝
+*Nestedforloop.main(String[])?b@14.12:14.13VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 20*b2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (Á
+7Nestedforloop.main(String[])?postIncrementB@19.12:19.26VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">postIncrementB</mark> = b++*postIncrementB2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (‰
+6Nestedforloop.main(String[])?preDecrementB@23.12:23.25VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">preDecrementB</mark> = --b*preDecrementB2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?b@14.12:14.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (Í
+8Nestedforloop.main(String[])?postIncrementA1@27.12:27.27VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">postIncrementA1</mark> = a++*postIncrementA12ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (Í
+8Nestedforloop.main(String[])?postIncrementA2@31.12:31.27VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">postIncrementA2</mark> = a++*postIncrementA22ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (2æ
+*Nestedforloop.main(String[])?a@13.12:13.13CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java (¯
+
+*Nestedforloop.main(String[])?c@35.12:35.13VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# #("
+typeint"
+isFinalfalse"æ
+declarationString®<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = postIncrementB + preDecrementB + postIncrementA1 - postIncrementA2*c2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# #(2À
+7Nestedforloop.main(String[])?postIncrementB@19.12:19.26CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# #(2 
+6Nestedforloop.main(String[])?preDecrementB@23.12:23.25CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#! #(.2Ã
+8Nestedforloop.main(String[])?postIncrementA1@27.12:27.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#1 #(@2Ã
+8Nestedforloop.main(String[])?postIncrementA2@31.12:31.27CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java#C #(Rß
+!Nestedforloop.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ú
+String[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\Nestedforloop.java ("

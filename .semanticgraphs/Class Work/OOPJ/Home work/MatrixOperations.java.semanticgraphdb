@@ -1,0 +1,756 @@
+
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaΩ
+MatrixOperationsCLASSÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+packageMatrixOperations"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>MatrixOperations"
+accesspublic*MatrixOperations2œ
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ($2æ
+'MatrixOperations.displayMatrix(int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ($2≈
+.MatrixOperations.addMatrices(int[][], int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (%2 
+3MatrixOperations.subtractMatrices(int[][], int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java( ((*2 
+3MatrixOperations.multiplyMatrices(int[][], int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5 5(*2∂
+MatrixOperations.main(String[])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE E(¬&
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ($"
+isFinalfalse"Ä
+declarationStringÍ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">readMatrix</mark>(<mark class="modifier">int</mark> rows<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> cols<mark class="modifier"><mark class="modifier">,</mark></mark> Scanner sc)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*
+readMatrix2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!rowsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! (%2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!colsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java' (+2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?i@8.17:8.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!rowsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ( 2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?i@8.17:8.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java" (#2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?j@9.21:9.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	 	(2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!colsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	  	($2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?j@9.21:9.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	& 	('2Ÿ
+IMatrixOperations.readMatrix(int, int, java.util.Scanner)?matrix@6.16:6.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java
+ 
+(2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?i@8.17:8.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java
+ 
+(2‘
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?j@9.21:9.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java
+ 
+(2À
+;MatrixOperations.readMatrix(int, int, java.util.Scanner)!scCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java
+ 
+(!2Ÿ
+IMatrixOperations.readMatrix(int, int, java.util.Scanner)?matrix@6.16:6.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2“
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!rows	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) (-2“
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!cols	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java3 (72–
+;MatrixOperations.readMatrix(int, int, java.util.Scanner)!sc	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaA (C2‡
+IMatrixOperations.readMatrix(int, int, java.util.Scanner)?matrix@6.16:6.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2€
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?i@8.17:8.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2€
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?j@9.21:9.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	 	(2û
+int[][]RETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (˜
+IMatrixOperations.readMatrix(int, int, java.util.Scanner)?matrix@6.16:6.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = new <mark class="modifier">int</mark>[rows][cols]*matrix2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!rowsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! (%2Õ
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!colsCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java' (+é
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?i@8.17:8.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (é
+DMatrixOperations.readMatrix(int, int, java.util.Scanner)?j@9.21:9.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java	 	( 
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!rows	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) (-"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> rows*rows2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java% (( 
+=MatrixOperations.readMatrix(int, int, java.util.Scanner)!cols	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java3 (7"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> cols*cols2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java/ (2º
+;MatrixOperations.readMatrix(int, int, java.util.Scanner)!sc	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaA (C"
+typeScanner"
+isFinalfalse"
+declarationString
+Scanner sc*sc2°
+java.util.ScannerTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9 (@€
+'MatrixOperations.displayMatrix(int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ($"
+isFinalfalse"⁄
+declarationStringƒ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displayMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayMatrix2æ
+.MatrixOperations.displayMatrix(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2«
+7MatrixOperations.displayMatrix(int[][])?row@18.19:18.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2»
+8MatrixOperations.displayMatrix(int[][])?elem@19.21:19.25CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! (%2√
+.MatrixOperations.displayMatrix(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- (32Œ
+7MatrixOperations.displayMatrix(int[][])?row@18.19:18.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2œ
+8MatrixOperations.displayMatrix(int[][])?elem@19.21:19.25DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (Ö
+7MatrixOperations.displayMatrix(int[][])?row@18.19:18.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">row</mark>*row2ï
+int[]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (Ñ
+8MatrixOperations.displayMatrix(int[][])?elem@19.21:19.25VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">elem</mark>*elem2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (À
+.MatrixOperations.displayMatrix(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- (3"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java% (*˚1
+.MatrixOperations.addMatrices(int[][], int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (%"
+isFinalfalse"¡
+declarationString´<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">addMatrices</mark>(<mark class="modifier">int</mark>[][] mat1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] mat2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*addMatrices2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2œ
+?MatrixOperations.addMatrices(int[][], int[][])?rows@28.12:28.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! (%2œ
+?MatrixOperations.addMatrices(int[][], int[][])?cols@29.12:29.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java' (+2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2œ
+?MatrixOperations.addMatrices(int[][], int[][])?rows@28.12:28.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ( 2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java" (#2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java   (2œ
+?MatrixOperations.addMatrices(int[][], int[][])?cols@29.12:29.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java    ($2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java &  ('2—
+AMatrixOperations.addMatrices(int[][], int[][])?result@30.16:30.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! !(2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! !(2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! !(2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! !(#2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java!$ !(%2Ã
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java!' !((2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat2CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java!, !(02Ã
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java!1 !(22Ã
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java!4 !(52—
+AMatrixOperations.addMatrices(int[][], int[][])?result@30.16:30.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java$ $(2»
+3MatrixOperations.addMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. (22»
+3MatrixOperations.addMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< (@2÷
+?MatrixOperations.addMatrices(int[][], int[][])?rows@28.12:28.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2÷
+?MatrixOperations.addMatrices(int[][], int[][])?cols@29.12:29.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2ÿ
+AMatrixOperations.addMatrices(int[][], int[][])?result@30.16:30.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2”
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2”
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java   (2û
+int[][]RETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (‡
+?MatrixOperations.addMatrices(int[][], int[][])?rows@28.12:28.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = mat1.length*rows2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java („
+?MatrixOperations.addMatrices(int[][], int[][])?cols@29.12:29.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = mat1[0].length*cols2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2√
+3MatrixOperations.addMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (Û
+AMatrixOperations.addMatrices(int[][], int[][])?result@30.16:30.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[rows][cols]*result2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (2œ
+?MatrixOperations.addMatrices(int[][], int[][])?rows@28.12:28.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java! (%2œ
+?MatrixOperations.addMatrices(int[][], int[][])?cols@29.12:29.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java' (+Ü
+<MatrixOperations.addMatrices(int[][], int[][])?i@31.17:31.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java (Ü
+<MatrixOperations.addMatrices(int[][], int[][])?j@32.21:32.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java   ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java   (Ã
+3MatrixOperations.addMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. (2"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat1*mat12ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java& (+Ã
+3MatrixOperations.addMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< (@"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat2*mat22ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java4 (9ë3
+3MatrixOperations.subtractMatrices(int[][], int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java( ((*"
+isFinalfalse"∆
+declarationString∞<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">subtractMatrices</mark>(<mark class="modifier">int</mark>[][] mat1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] mat2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*subtractMatrices2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) )(2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java* *(2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?rows@41.12:41.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+! +(%2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?cols@42.12:42.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+' +(+2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java, ,(2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?rows@41.12:41.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java, ,( 2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java," ,(#2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- -(2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?cols@42.12:42.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java-  -($2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java-& -('2÷
+FMatrixOperations.subtractMatrices(int[][], int[][])?result@43.16:43.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. .(2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. .(2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. .(2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java. .(#2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java.$ .(%2—
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java.' .((2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat2CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java., .(02—
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java.1 .(22—
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java.4 .(52÷
+FMatrixOperations.subtractMatrices(int[][], int[][])?result@43.16:43.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java1 1(2Õ
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(3 ((72Õ
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(A ((E2€
+DMatrixOperations.subtractMatrices(int[][], int[][])?rows@41.12:41.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) )(2€
+DMatrixOperations.subtractMatrices(int[][], int[][])?cols@42.12:42.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java* *(2›
+FMatrixOperations.subtractMatrices(int[][], int[][])?result@43.16:43.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+ +(2ÿ
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java, ,(2ÿ
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- -(2û
+int[][]RETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java( ((Í
+DMatrixOperations.subtractMatrices(int[][], int[][])?rows@41.12:41.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) )("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = mat1.length*rows2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) )(2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java) )(Ì
+DMatrixOperations.subtractMatrices(int[][], int[][])?cols@42.12:42.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java* *("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = mat1[0].length*cols2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java* *(2»
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java* *(Ç
+FMatrixOperations.subtractMatrices(int[][], int[][])?result@43.16:43.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+ +("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[rows][cols]*result2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+ +(2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?rows@41.12:41.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+! +(%2‘
+DMatrixOperations.subtractMatrices(int[][], int[][])?cols@42.12:42.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java+' +(+ã
+AMatrixOperations.subtractMatrices(int[][], int[][])?i@44.17:44.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java, ,("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java, ,(ã
+AMatrixOperations.subtractMatrices(int[][], int[][])?j@45.21:45.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- -("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java- -(—
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(3 ((7"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat1*mat12ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(+ ((0—
+8MatrixOperations.subtractMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(A ((E"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat2*mat22ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java(9 ((>ú=
+3MatrixOperations.multiplyMatrices(int[][], int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5 5(*"
+isFinalfalse"∆
+declarationString∞<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">multiplyMatrices</mark>(<mark class="modifier">int</mark>[][] mat1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] mat2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*multiplyMatrices2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java6 6(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java7 7(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat2CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java8 8(2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?rows1@54.12:54.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9! 9(&2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols2@56.12:56.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9( 9(-2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java; ;(2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?rows1@54.12:54.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java; ;(!2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java;# ;($2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< <(2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols2@56.12:56.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java<  <(%2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java<' <((2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java=  =(!2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols1@55.12:55.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java=$ =()2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java=+ =(,2÷
+FMatrixOperations.multiplyMatrices(int[][], int[][])?result@57.16:57.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java> >(2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java> >(2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java> >(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>$ >((2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>) >(*2—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>, >(-2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat2CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>1 >(52—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>6 >(72—
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java>9 >(:2÷
+FMatrixOperations.multiplyMatrices(int[][], int[][])?result@57.16:57.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaB B(2Õ
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java53 5(72Õ
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5A 5(E2‹
+EMatrixOperations.multiplyMatrices(int[][], int[][])?rows1@54.12:54.17DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java6 6(2‹
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols1@55.12:55.17DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java7 7(2‹
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols2@56.12:56.17DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java8 8(2›
+FMatrixOperations.multiplyMatrices(int[][], int[][])?result@57.16:57.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9 9(2ÿ
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java; ;(2ÿ
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< <(2ÿ
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java= =(2û
+int[][]RETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5 5(Ì
+EMatrixOperations.multiplyMatrices(int[][], int[][])?rows1@54.12:54.17VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java6 6("
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows1</mark> = mat1.length*rows12ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java6 6(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java6 6(
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols1@55.12:55.17VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java7 7("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols1</mark> = mat1[0].length*cols12ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java7 7(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java7 7(
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols2@56.12:56.17VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java8 8("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols2</mark> = mat2[0].length*cols22ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java8 8(2»
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat2CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java8 8(Ü
+FMatrixOperations.multiplyMatrices(int[][], int[][])?result@57.16:57.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9 9("
+typeint"
+isFinalfalse"∏
+declarationString¢<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[rows1][cols2]*result2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9 9(2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?rows1@54.12:54.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9! 9(&2’
+EMatrixOperations.multiplyMatrices(int[][], int[][])?cols2@56.12:56.17CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java9( 9(-ã
+AMatrixOperations.multiplyMatrices(int[][], int[][])?i@59.17:59.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java; ;("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java; ;(ã
+AMatrixOperations.multiplyMatrices(int[][], int[][])?j@60.21:60.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< <("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java< <(ã
+AMatrixOperations.multiplyMatrices(int[][], int[][])?k@61.25:61.26VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java= =("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 0*k2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java= =(—
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat1	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java53 5(7"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat1*mat12ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5+ 5(0—
+8MatrixOperations.multiplyMatrices(int[][], int[][])!mat2	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java5A 5(E"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] mat2*mat22ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java59 5(>ﬁ=
+MatrixOperations.main(String[])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE E("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2»
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO O($2»
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS S($2æ
+.MatrixOperations.addMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW W(!2∑
+'MatrixOperations.displayMatrix(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaX X(2√
+3MatrixOperations.subtractMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\ \(-2∑
+'MatrixOperations.displayMatrix(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java] ](2√
+3MatrixOperations.multiplyMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab b(.2∑
+'MatrixOperations.displayMatrix(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javac c(2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaJ J(2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaK K(2¿
+0MatrixOperations.main(String[])?rows@74.12:74.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO% O()2¿
+0MatrixOperations.main(String[])?cols@75.12:75.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO+ O(/2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO1 O(32¿
+0MatrixOperations.main(String[])?rows@74.12:74.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS% S()2¿
+0MatrixOperations.main(String[])?cols@75.12:75.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS+ S(/2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS1 S(32√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW" W()2√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW+ W(22ø
+/MatrixOperations.main(String[])?sum@87.16:87.19CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaX X(2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\. \(52√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\7 \(>2∆
+6MatrixOperations.main(String[])?difference@92.16:92.26CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java] ]( 2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java` `(2√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java`! `((2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab/ b(62√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab8 b(?2√
+3MatrixOperations.main(String[])?product@98.20:98.27CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javac c(!2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javah h(
+2π
+$MatrixOperations.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE% E()2≈
+.MatrixOperations.main(String[])?sc@70.16:70.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaF F(2«
+0MatrixOperations.main(String[])?rows@74.12:74.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaJ J(2«
+0MatrixOperations.main(String[])?cols@75.12:75.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaK K(2 
+3MatrixOperations.main(String[])?matrixA@79.16:79.23DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO O(2 
+3MatrixOperations.main(String[])?matrixB@83.16:83.23DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS S(2∆
+/MatrixOperations.main(String[])?sum@87.16:87.19DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW W(2Õ
+6MatrixOperations.main(String[])?difference@92.16:92.26DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\ \(2 
+3MatrixOperations.main(String[])?product@98.20:98.27DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab b(2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE E(á
+.MatrixOperations.main(String[])?sc@70.16:70.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaF F("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2°
+java.util.ScannerTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaF F(Õ
+0MatrixOperations.main(String[])?rows@74.12:74.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaJ J("
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = sc.nextInt()*rows2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaJ J(2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaJ J(Õ
+0MatrixOperations.main(String[])?cols@75.12:75.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaK K("
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = sc.nextInt()*cols2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaK K(2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaK K(æ
+
+3MatrixOperations.main(String[])?matrixA@79.16:79.23VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO O("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrixA</mark> = readMatrix(rows, cols, sc)*matrixA2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO O(2»
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO O($2¿
+0MatrixOperations.main(String[])?rows@74.12:74.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO% O()2¿
+0MatrixOperations.main(String[])?cols@75.12:75.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO+ O(/2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaO1 O(3æ
+
+3MatrixOperations.main(String[])?matrixB@83.16:83.23VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS S("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrixB</mark> = readMatrix(rows, cols, sc)*matrixB2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS S(2»
+8MatrixOperations.readMatrix(int, int, java.util.Scanner)CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS S($2¿
+0MatrixOperations.main(String[])?rows@74.12:74.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS% S()2¿
+0MatrixOperations.main(String[])?cols@75.12:75.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS+ S(/2æ
+.MatrixOperations.main(String[])?sc@70.16:70.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaS1 S(3
+/MatrixOperations.main(String[])?sum@87.16:87.19VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW W("
+typeint"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">sum</mark> = addMatrices(matrixA, matrixB)*sum2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW W(2æ
+.MatrixOperations.addMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW W(!2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW" W()2√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaW+ W(2è	
+6MatrixOperations.main(String[])?difference@92.16:92.26VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\ \("
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">difference</mark> = subtractMatrices(matrixA, matrixB)*
+difference2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\ \(2√
+3MatrixOperations.subtractMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\ \(-2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\. \(52√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.java\7 \(>Ü	
+3MatrixOperations.main(String[])?product@98.20:98.27VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab b("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">product</mark> = multiplyMatrices(matrixA, matrixB)*product2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab b(2√
+3MatrixOperations.multiplyMatrices(int[][], int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab b(.2√
+3MatrixOperations.main(String[])?matrixA@79.16:79.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab/ b(62√
+3MatrixOperations.main(String[])?matrixB@83.16:83.23CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javab8 b(?¢
+$MatrixOperations.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE% E()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ò
+String[]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\MatrixOperations.javaE E($

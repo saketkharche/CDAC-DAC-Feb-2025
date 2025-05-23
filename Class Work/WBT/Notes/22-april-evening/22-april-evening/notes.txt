@@ -1,0 +1,49 @@
+HTML: Hyper Text Markup Language
+XML: Xtensible Markup Language
+
+Programming lang : c, c++, java
+Scripting lang : python, php, js
+
+Markup lang : display the data (HTML), represent the data (XML)
+
+In order to write syntax for markup langs we need tags 
+<body> <BODY> <bOdY>
+in HTML all the tags are predefined 
+HTML is case insensitive 
+HTML is error free
+
+HTML will provide a predefined tag to display any UI element
+
+types of tags:
+1. Container tag: <body> </body>
+2. Empty tag: <br> <img>
+
+create a .html .htm file
+
+<html>
+	<head>
+		<title>My first web page</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+<h1>
+<h2>...h6
+
+display a link:
+<a></a> anchor 
+text & link
+<a href="https://www.google.com">Visit google page</a>
+
+<a href="https://www.google.com">Visit google page</a>
+        <a href="https://www.flipkart.com" target="_blank">Open flipkart</a>
+
+
+
+
+
+
+
+
+

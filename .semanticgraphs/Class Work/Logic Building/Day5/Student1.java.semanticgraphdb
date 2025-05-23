@@ -1,0 +1,254 @@
+
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java≥
+Student1CLASS~
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java("
+packageStudent1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Student1"
+accesspackage_private*Student12ß
+Student1.Student1()DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	2∏
+$Student1.Student1(int, String, long)DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	2©
+Student1.display(int)DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2¶
+Student1.display()DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2©
+Student1.getStudent()DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java
+ (2´
+Student1.main(String[])DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java! !(2ß
+Student1?id@1.5:1.7DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2™
+Student1?name@2.8:2.12DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2´
+Student1?mobNo@3.6:3.11DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2≠
+Student1?course@4.15:4.21DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (ú
+Student1.Student1()CONSTRUCTORÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	"Z
+declarationStringE<mark class="modifier"> </mark><mark class="method">Student1</mark>()*Student12†
+Student1?id@1.5:1.7CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2£
+Student1?name@2.8:2.12CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2§
+Student1?mobNo@3.6:3.11CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java	 	(2ú
+Student1RETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	Â
+$Student1.Student1(int, String, long)CONSTRUCTORÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="method">Student1</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">long</mark> mobNo)*Student12¥
+'Student1.Student1(int, String, long)!idCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2∂
+)Student1.Student1(int, String, long)!nameCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2∑
+*Student1.Student1(int, String, long)!mobNoCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2†
+Student1?id@1.5:1.7CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	2£
+Student1?name@2.8:2.12CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2§
+Student1?mobNo@3.6:3.11CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2π
+'Student1.Student1(int, String, long)!id	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2ª
+)Student1.Student1(int, String, long)!name	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2º
+*Student1.Student1(int, String, long)!mobNo	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java$ ()2ú
+Student1RETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	™
+'Student1.Student1(int, String, long)!id	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java
+ (õ
+)Student1.Student1(int, String, long)!name	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2ì
+StringTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (∂
+*Student1.Student1(int, String, long)!mobNo	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java$ ()"
+typelong"
+isFinalfalse"=
+declarationString(<mark class="modifier">long</mark> mobNo*mobNo2ë
+longTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (#	
+Student1.display(int)METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(<mark class="modifier">int</mark> id)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2¶
+Student1?course@4.15:4.21CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java! ('2•
+Student1.display(int)!idCALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java- (/2†
+Student1?id@1.5:1.7CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2™
+Student1.display(int)!id	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (õ
+Student1.display(int)!id	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (ñ
+Student1.display()METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2†
+Student1?id@1.5:1.7CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (2£
+Student1?name@2.8:2.12CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ( 2§
+Student1?mobNo@3.6:3.11CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java% (*2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (ù
+Student1.getStudent()METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java
+ ("
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Student1 <mark class="method">getStudent</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeStudent1*
+getStudent2ú
+Student1RETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (	Ù
+Student1.main(String[])METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java! !("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2†
+Student1.Student1()CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java# #(2≥
+&Student1.main(String[])?s2@37.11:37.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java/ /(2≥
+&Student1.main(String[])?s3@47.11:47.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java0 0(2≥
+&Student1.main(String[])?s2@37.11:37.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java2 2(2≥
+&Student1.main(String[])?s3@47.11:47.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java3 3(2Æ
+Student1.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java!  !(&2π
+%Student1.main(String[])?s@35.11:35.12DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java# #(2∫
+&Student1.main(String[])?s1@36.11:36.13DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java$ $(2∫
+&Student1.main(String[])?s2@37.11:37.13DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java% %(2∫
+&Student1.main(String[])?s3@47.11:47.13DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java/ /(2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java! !(ä
+%Student1.main(String[])?s@35.11:35.12VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java# #("
+typeStudent1"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Student1 <mark class="class-field">s</mark> = new Student1()*s2ï
+Student1TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java# #(
+2†
+Student1.Student1()CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java# #(î
+&Student1.main(String[])?s1@36.11:36.13VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java$ $("
+typeStudent1"
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier"> </mark>Student1 <mark class="class-field">s1</mark> = new Student1(2, "a"<mark class="modifier">,</mark> 9L)*s12ï
+Student1TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java$ $(
+î
+&Student1.main(String[])?s2@37.11:37.13VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java% %("
+typeStudent1"
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier"> </mark>Student1 <mark class="class-field">s2</mark> = new Student1(3, "a"<mark class="modifier">,</mark> 9L)*s22ï
+Student1TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java% %(
+°
+&Student1.main(String[])?s3@47.11:47.13VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java/ /("
+typeStudent1"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Student1 <mark class="class-field">s3</mark> = s2.getStudent()*s32ï
+Student1TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java/ /(
+2≥
+&Student1.main(String[])?s2@37.11:37.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java/ /(î
+Student1.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java!  !(&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+String[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java! !(&É
+Student1?id@1.5:1.7VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"
+typeint"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark>"
+isStaticfalse"
+accesspackage_private*id2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (ı
+Student1?name@2.8:2.12VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2ì
+StringTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (ê
+Student1?mobNo@3.6:3.11VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"
+typelong"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">mobNo</mark>"
+isStaticfalse"
+accesspackage_private*mobNo2ë
+longTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (≠
+Student1?course@4.15:4.21VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java ("
+isFinalfalse"
+typeString"ì
+declarationString~<mark class="modifier"> </mark><mark class="modifier">static </mark>String <mark class="class-field">course</mark> = "PG-DAC";"
+isStatictrue"
+accesspackage_private*course2ì
+StringTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day5\Student1.java (

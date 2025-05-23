@@ -1,0 +1,282 @@
+
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.javaç
+Q20MatrixSumCLASSz
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java("
+packageQ20MatrixSum"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>Q20MatrixSum"
+accesspublic*Q20MatrixSum2™
+Q20MatrixSum.main(String[])DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2∑
+(Q20MatrixSum.matrixSum(int[][], int[][])DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (#2∞
+!Q20MatrixSum.printMatrix(int[][])DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4 4("ì
+Q20MatrixSum.main(String[])METHOD~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2©
+!Q20MatrixSum.printMatrix(int[][])CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2©
+!Q20MatrixSum.printMatrix(int[][])CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2∞
+(Q20MatrixSum.matrixSum(int[][], int[][])CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (%2©
+!Q20MatrixSum.printMatrix(int[][])CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2µ
+-Q20MatrixSum.main(String[])?matrix1@3.16:3.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2µ
+-Q20MatrixSum.main(String[])?matrix2@9.16:9.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2µ
+-Q20MatrixSum.main(String[])?matrix1@3.16:3.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& (-2µ
+-Q20MatrixSum.main(String[])?matrix2@9.16:9.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java/ (62π
+1Q20MatrixSum.main(String[])?sumMatrix@23.16:23.25CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2≠
+ Q20MatrixSum.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java% ()2º
+-Q20MatrixSum.main(String[])?matrix1@3.16:3.23DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2º
+-Q20MatrixSum.main(String[])?matrix2@9.16:9.23DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java	 	(2¿
+1Q20MatrixSum.main(String[])?sumMatrix@23.16:23.25DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2ì
+voidRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (·
+-Q20MatrixSum.main(String[])?matrix1@3.16:3.23VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java ("
+typeint"
+isFinalfalse"Î
+declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix1</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix12è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (·
+-Q20MatrixSum.main(String[])?matrix2@9.16:9.23VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java	 	("
+typeint"
+isFinalfalse"Î
+declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix2</mark> = { { 9, 8, 7 }<mark class="modifier">,</mark> { 6, 5, 4 }<mark class="modifier">,</mark> { 3, 2, 1 } }*matrix22è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java	 	(¬
+1Q20MatrixSum.main(String[])?sumMatrix@23.16:23.25VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java ("
+typeint"
+isFinalfalse"£
+declarationStringç<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">sumMatrix</mark> = matrixSum(matrix1, matrix2)*	sumMatrix2è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2∞
+(Q20MatrixSum.matrixSum(int[][], int[][])CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (%2µ
+-Q20MatrixSum.main(String[])?matrix1@3.16:3.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& (-2µ
+-Q20MatrixSum.main(String[])?matrix2@9.16:9.23CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java/ (6é
+ Q20MatrixSum.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ê
+String[]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java ($·7
+(Q20MatrixSum.matrixSum(int[][], int[][])METHOD~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (#"
+isFinalfalse"≈
+declarationStringØ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">matrixSum</mark>(<mark class="modifier">int</mark>[][] matrix1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] matrix2)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*	matrixSum2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (&2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java   (2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java   (%2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java! !(2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java!! !((2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& &(2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java' '(2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?rows@38.12:38.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java(! ((%2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?cols@39.12:39.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java(' ((+2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java* *(2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?rows@38.12:38.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java* *( 2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java*" *(#2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+ +(2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?cols@39.12:39.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+  +($2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+& +('2√
+;Q20MatrixSum.matrixSum(int[][], int[][])?result@40.16:40.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, ,(2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, ,(2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, ,(2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, ,(&2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java,' ,((2æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java,* ,(+2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java,/ ,(62æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java,7 ,(82æ
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java,: ,(;2√
+;Q20MatrixSum.matrixSum(int[][], int[][])?result@40.16:40.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java0 0(2Ω
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, (32Ω
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java= (D2»
+9Q20MatrixSum.matrixSum(int[][], int[][])?rows@38.12:38.16DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& &(2»
+9Q20MatrixSum.matrixSum(int[][], int[][])?cols@39.12:39.16DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java' '(2 
+;Q20MatrixSum.matrixSum(int[][], int[][])?result@40.16:40.22DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java( ((2≈
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java* *(2≈
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+ +(2ñ
+int[][]RETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java (¬
+9Q20MatrixSum.matrixSum(int[][], int[][])?rows@38.12:38.16VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& &("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = matrix1.length*rows2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& &(2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java& &(≈
+9Q20MatrixSum.matrixSum(int[][], int[][])?cols@39.12:39.16VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java' '("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = matrix1[0].length*cols2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java' '(2∏
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java' '(¡
+;Q20MatrixSum.matrixSum(int[][], int[][])?result@40.16:40.22VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java( (("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[rows][cols]*result2è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java( ((2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?rows@38.12:38.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java(! ((%2¡
+9Q20MatrixSum.matrixSum(int[][], int[][])?cols@39.12:39.16CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java(' ((+
+6Q20MatrixSum.matrixSum(int[][], int[][])?i@42.17:42.18VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java* *("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java* *(
+6Q20MatrixSum.matrixSum(int[][], int[][])?j@43.21:43.22VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+ +("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java+ +(ø
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix1	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java, (3"
+typeint[][]"
+isFinalfalse"B
+declarationString-<mark class="modifier">int</mark>[][] matrix1*matrix12è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java$ ()ø
+0Q20MatrixSum.matrixSum(int[][], int[][])!matrix2	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java= (D"
+typeint[][]"
+isFinalfalse"B
+declarationString-<mark class="modifier">int</mark>[][] matrix2*matrix22è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java5 (:û
+!Q20MatrixSum.printMatrix(int[][])METHOD~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4 4(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2∞
+(Q20MatrixSum.printMatrix(int[][])!matrixCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java5 5(2∑
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java: :(2∞
+(Q20MatrixSum.printMatrix(int[][])!matrixCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java: :("2∑
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java:+ :(,2∑
+/Q20MatrixSum.printMatrix(int[][])?j@59.21:59.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java; ;(2∞
+(Q20MatrixSum.printMatrix(int[][])!matrixCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java;  ;(&2∑
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java;' ;((2∑
+/Q20MatrixSum.printMatrix(int[][])?j@59.21:59.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java;2 ;(32∞
+(Q20MatrixSum.printMatrix(int[][])!matrixCALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java<! <('2∑
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java<( <()2∑
+/Q20MatrixSum.printMatrix(int[][])?j@59.21:59.22CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java<+ <(,2µ
+(Q20MatrixSum.printMatrix(int[][])!matrix	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4+ 4(12æ
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java: :(2æ
+/Q20MatrixSum.printMatrix(int[][])?j@59.21:59.22DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java; ;(2ì
+voidRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4 4(È
+/Q20MatrixSum.printMatrix(int[][])?i@58.17:58.18VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java: :("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java: :(È
+/Q20MatrixSum.printMatrix(int[][])?j@59.21:59.22VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java; ;("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java; ;(µ
+(Q20MatrixSum.printMatrix(int[][])!matrix	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4+ 4(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2è
+int[][]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q20MatrixSum.java4# 4((

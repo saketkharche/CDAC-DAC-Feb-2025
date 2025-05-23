@@ -1,0 +1,119 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.javaâ
+Q15SwapOddEvenBitsCLASSÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("
+packageQ15SwapOddEvenBits"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>Q15SwapOddEvenBits"
+accesspublic*Q15SwapOddEvenBits2∂
+ Q15SwapOddEvenBits.swapBits(int)DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2∑
+!Q15SwapOddEvenBits.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	 	(æ
+ Q15SwapOddEvenBits.swapBits(int)METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("
+isFinalfalse"À
+declarationStringµ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">swapBits</mark>(<mark class="modifier">int</mark> x)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*swapBits2±
+"Q15SwapOddEvenBits.swapBits(int)!xCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2±
+"Q15SwapOddEvenBits.swapBits(int)!xCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2¬
+3Q15SwapOddEvenBits.swapBits(int)?evenBits@4.12:4.20CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2¡
+2Q15SwapOddEvenBits.swapBits(int)?oddBits@5.12:5.19CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java" ()2∂
+"Q15SwapOddEvenBits.swapBits(int)!x	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java# ($2…
+3Q15SwapOddEvenBits.swapBits(int)?evenBits@4.12:4.20DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2»
+2Q15SwapOddEvenBits.swapBits(int)?oddBits@5.12:5.19DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2ô
+intRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (À
+3Q15SwapOddEvenBits.swapBits(int)?evenBits@4.12:4.20VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("
+typeint"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">evenBits</mark> = x & 0xAAAAAAAA*evenBits2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2±
+"Q15SwapOddEvenBits.swapBits(int)!xCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (»
+2Q15SwapOddEvenBits.swapBits(int)?oddBits@5.12:5.19VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">oddBits</mark> = x & 0x55555555*oddBits2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2±
+"Q15SwapOddEvenBits.swapBits(int)!xCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (ß
+"Q15SwapOddEvenBits.swapBits(int)!x	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java# ($"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("∑
+!Q15SwapOddEvenBits.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ø
+ Q15SwapOddEvenBits.swapBits(int)CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.javaI (Q2ƒ
+5Q15SwapOddEvenBits.main(String[])?scanner@10.16:10.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2ƒ
+5Q15SwapOddEvenBits.main(String[])?scanner@10.16:10.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2æ
+/Q15SwapOddEvenBits.main(String[])?x@12.12:12.13CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.javaR (S2∫
+&Q15SwapOddEvenBits.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	% 	()2À
+5Q15SwapOddEvenBits.main(String[])?scanner@10.16:10.23DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java
+ 
+(2≈
+/Q15SwapOddEvenBits.main(String[])?x@12.12:12.13DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	 	(ñ
+5Q15SwapOddEvenBits.main(String[])?scanner@10.16:10.23VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java
+ 
+("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2†
+java.util.ScannerTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java
+ 
+(œ
+/Q15SwapOddEvenBits.main(String[])?x@12.12:12.13VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = scanner.nextInt()*x2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (2ƒ
+5Q15SwapOddEvenBits.main(String[])?scanner@10.16:10.23CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java (¢
+&Q15SwapOddEvenBits.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q15SwapOddEvenBits.java	 	($

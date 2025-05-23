@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+    <!-- Welcome File -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- Servlet for Adding Faculty -->
+    <servlet>
+        <servlet-name>AddFacultyServlet</servlet-name>
+        <servlet-class>com.cdac.controller.AddFacultyServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddFacultyServlet</servlet-name>
+        <url-pattern>/addFaculty</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for Viewing Faculty -->
+    <servlet>
+        <servlet-name>ViewFacultyServlet</servlet-name>
+        <servlet-class>com.cdac.controller.ViewFacultyServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewFacultyServlet</servlet-name>
+        <url-pattern>/viewFaculty</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for Editing Faculty -->
+    <servlet>
+        <servlet-name>EditFacultyServlet</servlet-name>
+        <servlet-class>com.cdac.controller.EditFacultyServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditFacultyServlet</servlet-name>
+        <url-pattern>/editFaculty</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for Deleting Faculty -->
+    <servlet>
+        <servlet-name>DeleteFacultyServlet</servlet-name>
+        <servlet-class>com.cdac.controller.DeleteFacultyServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteFacultyServlet</servlet-name>
+        <url-pattern>/deleteFaculty</url-pattern>
+    </servlet-mapping>
+
+</web-app>

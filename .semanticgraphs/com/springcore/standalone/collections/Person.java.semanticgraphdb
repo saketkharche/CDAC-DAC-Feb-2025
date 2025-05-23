@@ -1,0 +1,217 @@
+
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.javaÜ
+,com.springcore.standalone.collections.PersonCLASSÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("0
+package%com.springcore.standalone.collections"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>Person"
+accesspublic*Person2Ÿ
+9com.springcore.standalone.collections.Person.getFriends()DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2¿
+Ycom.springcore.standalone.collections.Person.setFriends(java.util.List<java.lang.String>)DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2¤
+>com.springcore.standalone.collections.Person.getFeestructure()DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (,2Ö
+pcom.springcore.standalone.collections.Person.setFeestructure(java.util.Map<java.lang.String, java.lang.Integer>)DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2¢
+<com.springcore.standalone.collections.Person.getProperties()DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java   ( 2¶
+Pcom.springcore.standalone.collections.Person.setProperties(java.util.Properties)DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$ $(2
+7com.springcore.standalone.collections.Person.toString()DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java) )(2¤
+>com.springcore.standalone.collections.Person?friends@8.22:8.29DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2©
+Ccom.springcore.standalone.collections.Person?feestructure@9.30:9.42DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 	(*2©
+Ccom.springcore.standalone.collections.Person?properties@10.20:10.30DECLARATIONÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java
+ 
+(˜
+
+9com.springcore.standalone.collections.Person.getFriends()METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("
+isFinalfalse"u
+declarationString`<mark class="modifier">public </mark>List&lt;String&gt; <mark class="method">getFriends</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeList<String>*
+getFriends2
+>com.springcore.standalone.collections.Person?friends@8.22:8.29CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 (2ô
+java.util.ListRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2ÿ
+java.lang.StringRETURN_TYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (Û
+Ycom.springcore.standalone.collections.Person.setFriends(java.util.List<java.lang.String>)METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("
+isFinalfalse" 
+declarationStringŠ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setFriends</mark>(List&lt;String&gt; friends)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setFriends2À
+acom.springcore.standalone.collections.Person.setFriends(java.util.List<java.lang.String>)!friendsCALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2
+>com.springcore.standalone.collections.Person?friends@8.22:8.29CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2Å
+acom.springcore.standalone.collections.Person.setFriends(java.util.List<java.lang.String>)!friends	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java% (,2ê
+voidRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (Œ
+acom.springcore.standalone.collections.Person.setFriends(java.util.List<java.lang.String>)!friends	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java% (,"
+typeList<String>"
+isFinalfalse")
+declarationStringList<String> friends*friends2í
+java.util.ListTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2ø
+java.lang.StringTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (#û
+>com.springcore.standalone.collections.Person.getFeestructure()METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (,"
+isFinalfalse"¾
+declarationString¨<mark class="modifier">public </mark>Map&lt;String<mark class="modifier"><mark class="modifier">,</mark></mark>Integer&gt; <mark class="method">getFeestructure</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeMap<String, Integer>*getFeestructure2¢
+Ccom.springcore.standalone.collections.Person?feestructure@9.30:9.42CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 (2ó
+java.util.MapRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2ÿ
+java.lang.StringRETURN_TYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2€
+java.lang.IntegerRETURN_TYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (‚
+pcom.springcore.standalone.collections.Person.setFeestructure(java.util.Map<java.lang.String, java.lang.Integer>)METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("
+isFinalfalse"î
+declarationStringØ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setFeestructure</mark>(Map&lt;String<mark class="modifier"><mark class="modifier">,</mark></mark> Integer&gt; feestructure)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setFeestructure2Ü
+}com.springcore.standalone.collections.Person.setFeestructure(java.util.Map<java.lang.String, java.lang.Integer>)!feestructureCALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("2¢
+Ccom.springcore.standalone.collections.Person?feestructure@9.30:9.42CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (2á
+}com.springcore.standalone.collections.Person.setFeestructure(java.util.Map<java.lang.String, java.lang.Integer>)!feestructure	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java2 (>2ê
+voidRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (½	
+}com.springcore.standalone.collections.Person.setFeestructure(java.util.Map<java.lang.String, java.lang.Integer>)!feestructure	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java2 (>"
+typeMap<String, Integer>"
+isFinalfalse"6
+declarationString!Map<String, Integer> feestructure*feestructure2ì
+java.util.MapTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ( 2ø
+java.lang.StringTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java! ('2ù
+java.lang.IntegerTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java) (0 
+<com.springcore.standalone.collections.Person.getProperties()METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java   ( "
+isFinalfalse"p
+declarationString[<mark class="modifier">public </mark>Properties <mark class="method">getProperties</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+type
+Properties*getProperties2¢
+Ccom.springcore.standalone.collections.Person?properties@10.20:10.30CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java!	 !(2ú
+java.util.PropertiesRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java   (Ì
+Pcom.springcore.standalone.collections.Person.setProperties(java.util.Properties)METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$ $("
+isFinalfalse"ž
+declarationStringˆ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setProperties</mark>(Properties properties)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setProperties2º
+[com.springcore.standalone.collections.Person.setProperties(java.util.Properties)!propertiesCALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java% %(2¢
+Ccom.springcore.standalone.collections.Person?properties@10.20:10.30CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java% %(2¿
+[com.springcore.standalone.collections.Person.setProperties(java.util.Properties)!properties	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$& $(02ê
+voidRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$ $(“
+[com.springcore.standalone.collections.Person.setProperties(java.util.Properties)!properties	PARAMETERÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$& $(0"
+type
+Properties"
+isFinalfalse"*
+declarationStringProperties properties*
+properties2ó
+java.util.PropertiesTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java$ $(%Õ
+
+7com.springcore.standalone.collections.Person.toString()METHODÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java) )("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2
+>com.springcore.standalone.collections.Person?friends@8.22:8.29CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java* *(%2¢
+Ccom.springcore.standalone.collections.Person?feestructure@9.30:9.42CALLÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java*< *(H2ö
+java.lang.StringRETURN_TYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java) )(Õ
+>com.springcore.standalone.collections.Person?friends@8.22:8.29VARIABLEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java ("
+isFinalfalse"
+typeList<String>"p
+declarationString[<mark class="modifier">private </mark>List<String> <mark class="class-field">friends</mark>"
+isStaticfalse"
+accessprivate*friends2í
+java.util.ListTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 (2ø
+java.lang.StringTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java (ï	
+Ccom.springcore.standalone.collections.Person?feestructure@9.30:9.42VARIABLEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 	(*"
+isFinalfalse"
+typeMap<String, Integer>"}
+declarationStringh<mark class="modifier">private </mark>Map<String, Integer> <mark class="class-field">feestructure</mark>"
+isStaticfalse"
+accessprivate*feestructure2ì
+java.util.MapTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java		 	(2ø
+java.lang.StringTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 	(2ù
+java.lang.IntegerTYPE_ARGUMENTÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java	 	(ç
+Ccom.springcore.standalone.collections.Person?properties@10.20:10.30VARIABLEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java
+ 
+("
+isFinalfalse"
+type
+Properties"q
+declarationString\<mark class="modifier">private </mark>Properties <mark class="class-field">properties</mark>"
+isStaticfalse"
+accessprivate*
+properties2ó
+java.util.PropertiesTYPEÔ
+ÉC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Person.java
+	 
+(

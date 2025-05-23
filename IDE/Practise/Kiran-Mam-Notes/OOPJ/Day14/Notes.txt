@@ -1,0 +1,149 @@
+-----------------------------------------
+Day 14: Object Oriented Programming Concepts of Java
+Date : 19-March-2025
+-----------------------------------------
+
+Topics: 
+	- Collection Framework
+	
+	
+	Collection:
+	-----------
+	-Any group of individual objects which are represented as a single units is known as the colletion of the objects.
+	Ex: C1 
+	
+	Framework:
+	----------
+	-A framework is a set of classes and interfaces which provide a readymade architecture.
+	
+	Collection Framework:
+	---------------------
+	-Collection Framework is Java API(Application Programming Interface) which provides architecture to store and manipulate group of object.
+	
+	-Package: java.util.*;
+	
+	Difference between: Arrays vs Collection
+	Difference between: Collection and Collections
+
+	List in Java:
+	-------------
+	-A list in Java is an ordered collection (sequence collection) that allows duplicate values.
+	-Collection interface
+	
+	Key Pointers:
+	--------------
+	-Ordered Collection
+	-Allows duplicated
+	-Indexed collection
+	-Dynamic in size
+	-Implement the Collection interface
+	
+	ArrayList:
+	----------
+	-Dynamic implementation of array.(Dynamic array)
+	-Fast Random acess : Time Complexity O(1)
+	-Slow Insertion or deletion : Time Complexity O(n)
+	-Not thread safe (Not synchronized)
+	
+	LinkedList:
+	-----------
+	-Doubly Linkedlist is implemented
+	-Slow Random acess : Time Complexity O(n)
+	-Fast Insertion or deletion : Time Complexity O(1)
+	
+	Vector:
+	--------
+	-Legacy class, Thread safe
+	-Similar to ArrayList, but synchronized
+	-Used in multithreading environments
+	
+	Set:
+	----
+	-A set is a collection interface that does not allow duplicates.
+	-interface
+	-Duplicates not allowed
+	-Unordered collection
+	-No indexing is follwed
+	
+	HashSet: (Most popular)
+	--------
+	-Uses Hash Table for storage
+	-Unorderd collection
+	-No insertion order is follwed
+	-Fast insertion, deletion and search(lookup):: Time Complexity O(1)
+	-Allows only one null value.
+	
+	LinkedHashSet:
+	--------------
+	-Maintains insertion order
+	-Slightly slower than Hashset
+	-USe when uniquesness and insertion order are required
+	
+	TreeSet:
+	--------
+	-Store elements in sorted order
+	-Implement BST,AVL trees, Red and Black tree/main
+	-Slightly slower than Hashset: due to sorting
+	-Sorting:  Time Complexity O(log n)
+	-Null values are not stored in tree
+	
+	Map:
+	----
+	-A Map is a collection that stores key-value pairs. 
+	-Each key is unique, but values can be duplicated
+	
+	-<Key, Value> ,(K-V)
+	-No direct indexing
+	-Fast insertion, deletion and search(lookup):: Time Complexity O(1)
+	
+	HashMap:
+	--------
+	-Unordered <key, value>
+	-Fast insertion, deletion and search(lookup):: Time Complexity O(1)
+	-Allows one null key, multiple null values
+	-Not thread safe(not synchronized)
+	
+	
+	Comparable: comparing of objects
+	------------
+	- Interface
+	-used to define ordering of objects : (sorting)
+	-Collection.sort()
+	-Arrays.sort()
+	
+	-Sorting in ascending order
+	-compareTo(): used to do the comparision
+	
+	syntax:
+	class Employee implements Comparable<Employee>{
+		int id;
+		String name;
+		
+		public int compareTo(Employee o){
+			
+		}
+		
+	}
+	
+	Comparator: Comparision with more occur
+	-----------
+	-It is used to define custum sorting logic for objects.
+	-Natural ordering: sorting
+	
+	-compare(T o1, T o2) method is used for comparison
+	-allows ,ultiple sorting strategies for the same class
+	-does not modify the class itself(external sorting logic is not required)
+	
+	Syntax:
+	
+	class Employee{
+	}
+	
+	class EmpSal implements Comparator<Employee>{
+		@Override
+		public int compare(Employee e1, Employee e2){
+			//Logic
+		}
+	}
+	
+	

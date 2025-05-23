@@ -1,0 +1,302 @@
+
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.javaá
+q17MaximumProductPairCLASSá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("" 
+packageq17MaximumProductPair"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">class </mark>q17MaximumProductPair"
+accesspublic*q17MaximumProductPair2Ω
+$q17MaximumProductPair.main(String[])DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2»
+/q17MaximumProductPair.findMaxProductPair(int[])DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ()2‘
+;q17MaximumProductPair.findMaxProductPairUsingSorting(int[])DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java) )(5ä
+$q17MaximumProductPair.main(String[])METHODá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¡
+/q17MaximumProductPair.findMaxProductPair(int[])CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2≈
+3q17MaximumProductPair.main(String[])?nums@5.14:5.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2¿
+)q17MaximumProductPair.main(String[])!args	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java% ()2Ã
+3q17MaximumProductPair.main(String[])?nums@5.14:5.18DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2ù
+voidRETURN_TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (®
+3q17MaximumProductPair.main(String[])?nums@5.14:5.18VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">nums</mark> = { 2, 3, 5, 7, -7, 5, 8, -5 }*nums2ó
+int[]TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (´
+)q17MaximumProductPair.main(String[])!args	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ö
+String[]TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ($„@
+/q17MaximumProductPair.findMaxProductPair(int[])METHODá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ()"
+isFinalfalse"€
+declarationString≈<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findMaxProductPair</mark>(<mark class="modifier">int</mark>[] nums)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findMaxProductPair2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ( 2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?n@17.12:17.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java# ($2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java  (!2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?n@17.12:17.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java$ (%2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java' ((2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java# ($2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java( (,2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java- (.2’
+Cq17MaximumProductPair.findMaxProductPair(int[])?product@24.20:24.27CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2ÿ
+Fq17MaximumProductPair.findMaxProductPair(int[])?maxProduct@18.12:18.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ((2ÿ
+Fq17MaximumProductPair.findMaxProductPair(int[])?maxProduct@18.12:18.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2’
+Cq17MaximumProductPair.findMaxProductPair(int[])?product@24.20:24.27CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java! ((2“
+@q17MaximumProductPair.findMaxProductPair(int[])?maxI@19.12:19.16CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2“
+@q17MaximumProductPair.findMaxProductPair(int[])?maxJ@19.22:19.26CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java!) !(-2“
+@q17MaximumProductPair.findMaxProductPair(int[])?maxI@19.12:19.16CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java!. !(22∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java!= !(A2“
+@q17MaximumProductPair.findMaxProductPair(int[])?maxJ@19.22:19.26CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java!B !(F2ÿ
+Fq17MaximumProductPair.findMaxProductPair(int[])?maxProduct@18.12:18.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java!c !(m2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java&' &(+2À
+4q17MaximumProductPair.findMaxProductPair(int[])!nums	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java0 (42÷
+=q17MaximumProductPair.findMaxProductPair(int[])?n@17.12:17.13DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2ﬂ
+Fq17MaximumProductPair.findMaxProductPair(int[])?maxProduct@18.12:18.22DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2Ÿ
+@q17MaximumProductPair.findMaxProductPair(int[])?maxI@19.12:19.16DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2Ÿ
+@q17MaximumProductPair.findMaxProductPair(int[])?maxJ@19.22:19.26DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2÷
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2÷
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2‹
+Cq17MaximumProductPair.findMaxProductPair(int[])?product@24.20:24.27DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2ù
+voidRETURN_TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (ﬂ
+=q17MaximumProductPair.findMaxProductPair(int[])?n@17.12:17.13VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = nums.length*n2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (∏
+Fq17MaximumProductPair.findMaxProductPair(int[])?maxProduct@18.12:18.22VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxProduct</mark> = Integer.MIN_VALUE*
+maxProduct2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (ü
+@q17MaximumProductPair.findMaxProductPair(int[])?maxI@19.12:19.16VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxI</mark> = 0, maxJ = 0*maxI2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (ü
+@q17MaximumProductPair.findMaxProductPair(int[])?maxJ@19.22:19.26VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxJ</mark> = 0, maxJ = 0*maxJ2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (ã
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (‚
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i + 1*j2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (‰
+
+Cq17MaximumProductPair.findMaxProductPair(int[])?product@24.20:24.27VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("
+typeint"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">product</mark> = nums[i] * nums[j]*product2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java (2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java ("2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?i@22.17:22.18CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java# ($2∆
+4q17MaximumProductPair.findMaxProductPair(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java( (,2œ
+=q17MaximumProductPair.findMaxProductPair(int[])?j@23.21:23.22CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java- (.À
+4q17MaximumProductPair.findMaxProductPair(int[])!nums	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java0 (4"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] nums*nums2ó
+int[]TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* (/¯,
+;q17MaximumProductPair.findMaxProductPairUsingSorting(int[])METHODá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java) )(5"
+isFinalfalse"Á
+declarationString—<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findMaxProductPairUsingSorting</mark>(<mark class="modifier">int</mark>[] nums)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*findMaxProductPairUsingSorting2Æ
+java.util.Arrays.sort(int[])CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java- -(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* *(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java- -(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2# 2('2€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2( 2()2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3 3(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3! 3(%2‚
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product1@50.12:50.20CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java5 5(2‚
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product2@51.12:51.20CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java5 5(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java6- 6(12€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java62 6(32“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java6@ 6(D2€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java6E 6(F2‚
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product1@50.12:50.20CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java6e 6(m2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java8- 8(12“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java8> 8(B2‚
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product2@51.12:51.20CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java8a 8(i2◊
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!nums	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java)< )(@2‚
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* *(2È
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product1@50.12:50.20DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2È
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product2@51.12:51.20DECLARATIONá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3 3(2ù
+voidRETURN_TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java) )(˜
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* *("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = nums.length*n2ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* *(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java* *(¨
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product1@50.12:50.20VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2("
+typeint"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">product1</mark> = nums[n - 1] * nums[n - 2]*product12ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2 2(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2# 2('2€
+Iq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?n@42.12:42.13CALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java2( 2()Á
+Pq17MaximumProductPair.findMaxProductPairUsingSorting(int[])?product2@51.12:51.20VARIABLEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3 3("
+typeint"
+isFinalfalse"ì
+declarationString~<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">product2</mark> = nums[0] * nums[1]*product22ï
+intTYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3 3(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3 3(2“
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!numsCALLá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java3! 3(%◊
+@q17MaximumProductPair.findMaxProductPairUsingSorting(int[])!nums	PARAMETERá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java)< )(@"
+typeint[]"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark>[] nums*nums2ó
+int[]TYPEá
+}C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\q17MaximumProductPair.java)6 )(;

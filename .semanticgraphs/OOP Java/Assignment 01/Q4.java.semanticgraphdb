@@ -1,0 +1,81 @@
+
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java⁄
+Q4CLASSp
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java("
+packageQ4"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4"
+accesspublic*Q42ñ
+Q4.main(String[])DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (ç
+Q4.main(String[])METHODt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2†
+"Q4.main(String[])?intObj@2.16:2.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (!2£
+%Q4.main(String[])?doubleObj@3.15:3.24CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java3 (<2£
+%Q4.main(String[])?doubleVal@6.15:6.24CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("2†
+"Q4.main(String[])?intVal@7.16:7.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java3 (92ô
+Q4.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java% ()2ß
+"Q4.main(String[])?intObj@2.16:2.22DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2™
+%Q4.main(String[])?doubleObj@3.15:3.24DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2™
+%Q4.main(String[])?doubleVal@6.15:6.24DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2ß
+"Q4.main(String[])?intVal@7.16:7.22DECLARATIONt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2â
+voidRETURN_TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (¡
+"Q4.main(String[])?intObj@2.16:2.22VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+typeInteger"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>Integer <mark class="class-field">intObj</mark> = 50*intObj2Ö
+IntegerTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (¸
+%Q4.main(String[])?doubleObj@3.15:3.24VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+typeDouble"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>Double <mark class="class-field">doubleObj</mark> = intObj.doubleValue()*	doubleObj2Ñ
+DoubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2†
+"Q4.main(String[])?intObj@2.16:2.22CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (!…
+%Q4.main(String[])?doubleVal@6.15:6.24VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+typeDouble"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Double <mark class="class-field">doubleVal</mark> = 75.5*	doubleVal2Ñ
+DoubleTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (˘
+"Q4.main(String[])?intVal@7.16:7.22VARIABLEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+typeInteger"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>Integer <mark class="class-field">intVal</mark> = doubleVal.intValue()*intVal2Ö
+IntegerTYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java (2£
+%Q4.main(String[])?doubleVal@6.15:6.24CALLt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ("
+Q4.main(String[])!args	PARAMETERt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ü
+String[]TYPEt
+jC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 01\Q4.java ($

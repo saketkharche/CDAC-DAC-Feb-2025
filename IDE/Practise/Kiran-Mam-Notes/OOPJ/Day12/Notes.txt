@@ -1,0 +1,125 @@
+-----------------------------------------
+Day 12: Object Oriented Programming Concepts of Java
+Date : 17-March-2025
+-----------------------------------------
+
+Topics: 
+	- Exception Handling
+Exception Handling:
+--------------------
+-Exception Handling in Java is a mechanism to handle runtime errors and maintain the normal flow of the application.
+-Exceptions occur when the normal execution flow is disrupted, such as invalid user input, file not found, division by zero, etc.
+-Java provides a robust exception-handling mechanism using try, catch, finally, throw, and throws.
+
+Exception:
+------------
+-An exception is an event that occurs during the execution of a program and disrupts the normal flow of instructions.
+-Exceptions are represented as objects in Java and belong to the java.lang.Exception class hierarchy.
+
+Ex: Exception Occurrence
+
+public class ExceptionExample {
+    public static void main(String[] args) {
+        int result = 10 / 0; // Throws ArithmeticException
+    }
+}
+
+
+O/P : Exception in thread "main" java.lang.ArithmeticException: / by zero
+
+Types of Exceptions:
+---------------------
+1. Checked Exceptions (Compile-time exceptions):
+
+	-Must be handled using try-catch or declared using throws.
+	-Examples: IOException, SQLException, FileNotFoundException.
+
+2. Unchecked Exceptions (Runtime exceptions)
+
+	-Do not require mandatory handling.
+	-Examples: NullPointerException, ArithmeticException, ArrayIndexOutOfBoundsException.
+
+Try-Catch Block:
+-----------------
+-Used to handle exceptions gracefully.
+Syntax:
+try {
+    // Code that may cause an exception
+} catch (ExceptionType e) {
+    // Handling code
+}
+
+Keywords in Exception Handling:
+-------------------------------
+try: Encloses code that might throw an exception.
+
+Syntax:
+	try {
+		// code that may throw an exception
+	}
+	
+catch:Catches and handles exceptions thrown in the try block.
+
+Syntax:
+	catch(ExceptionType e) {
+		// exception handling code
+	}
+	
+	
+finally:Executes code regardless of whether an exception was thrown or not; useful for cleanup.
+
+Syntax:
+finally {
+    // code that always executes
+}
+
+throw:Explicitly throws an exception.
+
+Syntax:
+	throw new ExceptionType("error message");	
+	
+throws:Declares that a method may throw one or more exceptions.
+
+Syntax:
+	public void myMethod() throws ExceptionType {
+		// method code
+	}
+
+try-with-resources:Automatically manages resource closing, introduced in Java 7.
+
+Syntax:
+	try (ResourceType resource = new ResourceType()) {
+		// work with resource
+	} catch(ExceptionType e) {
+		// handle exception
+	}
+	
+Finally Block:
+--------------
+The finally block always executes whether an exception occurs or not.
+Used for cleanup operations like closing files, database connections, etc.
+
+Ex: Using Finally Block
+
+public class FinallyExample {
+    public static void main(String[] args) {
+        try {
+            int data = 10 / 0;
+        } catch (ArithmeticException e) {
+            System.out.println("Exception caught");
+        } finally {
+            System.out.println("Finally block executed");
+        }
+    }
+	
+Use of finally Block:
+---------------------
+-The finally block in Java is used for cleanup operations, such as closing a file, releasing database connections, or printing important messages. It executes regardless of whether an exception occurs or not.
+
+Remember:
+---------
+1. No Exception Occurs -> finally block executes after try.
+2. Exception Occurs, Not Handled ->	finally executes, then program crashes.
+3. Exception Occurs, Handled ->	catch handles the exception, finally executes, and program continues.
+4. System.exit(0) is Used -> finally does not execute.
+5. Used for Resource Cleanup->	Ensures resources (files, DB connections) are closed properly.

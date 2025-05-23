@@ -1,0 +1,148 @@
+
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java¬
+	Day02.TOHCLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (	"
+packageDay02"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>TOH"
+accesspackage_private*TOH2∑
+-Day02.TOH.towerOfHanoi(int, char, char, char)DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2¨
+"Day02.TOH.main(java.lang.String[])DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (ù"
+-Day02.TOH.towerOfHanoi(int, char, char, char)METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ("
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">towerOfHanoi</mark>(<mark class="modifier">int</mark> n<mark class="modifier"><mark class="modifier">,</mark></mark> char from_rod<mark class="modifier"><mark class="modifier">,</mark></mark> char to_rod<mark class="modifier"><mark class="modifier">,</mark></mark> char aux_rod)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*towerOfHanoi2∞
+-Day02.TOH.towerOfHanoi(int, char, char, char)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∞
+-java.io.PrintStream.println(java.lang.String)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∞
+-Day02.TOH.towerOfHanoi(int, char, char, char)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2≤
+/Day02.TOH.towerOfHanoi(int, char, char, char)!nCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2≤
+/Day02.TOH.towerOfHanoi(int, char, char, char)!nCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2π
+6Day02.TOH.towerOfHanoi(int, char, char, char)!from_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ($2∏
+5Day02.TOH.towerOfHanoi(int, char, char, char)!aux_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java& (-2∑
+4Day02.TOH.towerOfHanoi(int, char, char, char)!to_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java/ (52≤
+/Day02.TOH.towerOfHanoi(int, char, char, char)!nCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java* (+2π
+6Day02.TOH.towerOfHanoi(int, char, char, char)!from_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∑
+4Day02.TOH.towerOfHanoi(int, char, char, char)!to_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2≤
+/Day02.TOH.towerOfHanoi(int, char, char, char)!nCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∏
+5Day02.TOH.towerOfHanoi(int, char, char, char)!aux_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (#2∑
+4Day02.TOH.towerOfHanoi(int, char, char, char)!to_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java% (+2π
+6Day02.TOH.towerOfHanoi(int, char, char, char)!from_rodCALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java- (52∑
+/Day02.TOH.towerOfHanoi(int, char, char, char)!n	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java! ("2æ
+6Day02.TOH.towerOfHanoi(int, char, char, char)!from_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java) (12º
+4Day02.TOH.towerOfHanoi(int, char, char, char)!to_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java8 (>2Ω
+5Day02.TOH.towerOfHanoi(int, char, char, char)!aux_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.javaE (L2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (ú
+/Day02.TOH.towerOfHanoi(int, char, char, char)!n	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java! (""
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2Ü
+intTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ( ñ
+6Day02.TOH.towerOfHanoi(int, char, char, char)!from_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java) (1"
+typechar"
+isFinalfalse""
+declarationStringchar from_rod*from_rod2á
+charTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java$ ((ê
+4Day02.TOH.towerOfHanoi(int, char, char, char)!to_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java8 (>"
+typechar"
+isFinalfalse" 
+declarationStringchar to_rod*to_rod2á
+charTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java3 (7ì
+5Day02.TOH.towerOfHanoi(int, char, char, char)!aux_rod	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.javaE (L"
+typechar"
+isFinalfalse"!
+declarationStringchar aux_rod*aux_rod2á
+charTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java@ (D°
+"Day02.TOH.main(java.lang.String[])METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∞
+-java.io.PrintStream.println(java.lang.String)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2û
+java.util.Scanner.nextInt()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∞
+-Day02.TOH.towerOfHanoi(int, char, char, char)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2±
+.java.util.Scanner.Scanner(java.io.InputStream)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ( 2¥
+1Day02.TOH.main(java.lang.String[])?sc@22.16:22.18CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2≥
+0Day02.TOH.main(java.lang.String[])?N@23.12:23.13CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2Ø
+'Day02.TOH.main(java.lang.String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java# ()2ª
+1Day02.TOH.main(java.lang.String[])?sc@22.16:22.18DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2∫
+0Day02.TOH.main(java.lang.String[])?N@23.12:23.13DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (§
+1Day02.TOH.main(java.lang.String[])?sc@22.16:22.18VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2î
+java.util.ScannerTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2±
+.java.util.Scanner.Scanner(java.io.InputStream)CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ( ƒ
+0Day02.TOH.main(java.lang.String[])?N@23.12:23.13VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = sc.nextInt()*N2Ü
+intTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2û
+java.util.Scanner.nextInt()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (2¥
+1Day02.TOH.main(java.lang.String[])?sc@22.16:22.18CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java (ï
+'Day02.TOH.main(java.lang.String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+java.lang.String[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\TOH.java ()

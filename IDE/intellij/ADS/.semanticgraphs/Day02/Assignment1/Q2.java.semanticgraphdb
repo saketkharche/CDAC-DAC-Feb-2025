@@ -1,0 +1,129 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.javaû
+Day02.Assignment1.Q2CLASS„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ("
+packageDay02.Assignment1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q2"
+accesspublic*Q22»
+%Day02.Assignment1.Q2.sumOfSeries(int)DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Ã
+-Day02.Assignment1.Q2.main(java.lang.String[])DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (Í
+%Day02.Assignment1.Q2.sumOfSeries(int)METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ("
+isFinalfalse"Ë
+declarationStringµ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">double</mark> <mark class="method">sumOfSeries</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typedouble*sumOfSeries2´
+%Day02.Assignment1.Q2.sumOfSeries(int)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (!2¶
+'Day02.Assignment1.Q2.sumOfSeries(int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2¶
+'Day02.Assignment1.Q2.sumOfSeries(int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Å
+6Day02.Assignment1.Q2.sumOfSeries(int)?term@10.15:10.19CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2¶
+'Day02.Assignment1.Q2.sumOfSeries(int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Å
+6Day02.Assignment1.Q2.sumOfSeries(int)?term@10.15:10.19CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2¶
+'Day02.Assignment1.Q2.sumOfSeries(int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Å
+6Day02.Assignment1.Q2.sumOfSeries(int)?term@10.15:10.19CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2¶
+'Day02.Assignment1.Q2.sumOfSeries(int)!nCALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java" (#2»
+'Day02.Assignment1.Q2.sumOfSeries(int)!n	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java" (#2Ì
+6Day02.Assignment1.Q2.sumOfSeries(int)?term@10.15:10.19DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java
+ 
+(2œ
+doubleRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (‰
+6Day02.Assignment1.Q2.sumOfSeries(int)?term@10.15:10.19VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java
+ 
+("
+typedouble"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">term</mark>*term2•
+doubleTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java
+ 
+(¬
+'Day02.Assignment1.Q2.sumOfSeries(int)!n	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java" (#"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (!ì
+-Day02.Assignment1.Q2.main(java.lang.String[])METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ª
+java.util.Scanner.nextInt()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2¨
+java.util.Scanner.close()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Ð
+Ajava.io.PrintStream.printf(java.lang.String, java.lang.Object...)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2´
+%Day02.Assignment1.Q2.sumOfSeries(int)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java$ (/2½
+.java.util.Scanner.Scanner(java.io.InputStream)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ( 2Ë
+<Day02.Assignment1.Q2.main(java.lang.String[])?sc@20.16:20.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Ë
+<Day02.Assignment1.Q2.main(java.lang.String[])?sc@20.16:20.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (
+2Ê
+;Day02.Assignment1.Q2.main(java.lang.String[])?n@21.12:21.13CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java0 (12Æ
+2Day02.Assignment1.Q2.main(java.lang.String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java% ()2Ò
+<Day02.Assignment1.Q2.main(java.lang.String[])?sc@20.16:20.18DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Ñ
+;Day02.Assignment1.Q2.main(java.lang.String[])?n@21.12:21.13DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2š
+voidRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (Ó
+<Day02.Assignment1.Q2.main(java.lang.String[])?sc@20.16:20.18VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2 
+java.util.ScannerTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2½
+.java.util.Scanner.Scanner(java.io.InputStream)CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ( Š
+;Day02.Assignment1.Q2.main(java.lang.String[])?n@21.12:21.13VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ("
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2’
+intTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2ª
+java.util.Scanner.nextInt()CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (2Ë
+<Day02.Assignment1.Q2.main(java.lang.String[])?sc@20.16:20.18CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java (¸
+2Day02.Assignment1.Q2.main(java.lang.String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¡
+java.lang.String[]TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\Assignment1\Q2.java ($

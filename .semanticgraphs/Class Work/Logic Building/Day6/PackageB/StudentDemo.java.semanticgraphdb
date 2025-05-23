@@ -1,0 +1,52 @@
+
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.javaﬂ
+PackageB.StudentDemoCLASSè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java ("
+packagePackageB"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>StudentDemo"
+accesspackage_private*StudentDemo2Œ
+-PackageB.StudentDemo.main(java.lang.String[])DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (˝
+-PackageB.StudentDemo.main(java.lang.String[])METHODè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∑
+PackageA.Student.display(int)CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (2¥
+PackageA.Student.Student()CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (2”
+9PackageB.StudentDemo.main(java.lang.String[])?s@5.10:5.11CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (2—
+2PackageB.StudentDemo.main(java.lang.String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java  (&2⁄
+9PackageB.StudentDemo.main(java.lang.String[])?s@5.10:5.11DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java
+ (2•
+voidRETURN_TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (—
+9PackageB.StudentDemo.main(java.lang.String[])?s@5.10:5.11VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java
+ ("
+typeStudent"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>Student <mark class="class-field">s</mark> = new Student()*s2™
+PackageA.StudentTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (	2¥
+PackageA.Student.Student()CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (Œ
+2PackageB.StudentDemo.main(java.lang.String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+java.lang.String[]TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageB\StudentDemo.java (&

@@ -1,0 +1,343 @@
+
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java∏$
+com.springcore.collections.EmpCLASS∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("%
+packagecom.springcore.collections"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Emp"
+accesspublic*Emp2É
+™com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )(2¸
+$com.springcore.collections.Emp.Emp()DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java1 1(2Ä
+(com.springcore.collections.Emp.getName()DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2ê
+8com.springcore.collections.Emp.setName(java.lang.String)DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ç
+*com.springcore.collections.Emp.getPhones()DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2¢
+Jcom.springcore.collections.Emp.setPhones(java.util.List<java.lang.String>)DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ö
+-com.springcore.collections.Emp.getAddresses()DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ( 2§
+Lcom.springcore.collections.Emp.setAddresses(java.util.Set<java.lang.String>)DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2É
++com.springcore.collections.Emp.getCourses()DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java! !(&2¥
+\com.springcore.collections.Emp.setCourses(java.util.Map<java.lang.String, java.lang.String>)DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ $(2Ö
+-com.springcore.collections.Emp?name@8.16:8.20DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2á
+/com.springcore.collections.Emp?phones@9.22:9.28DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 	(2å
+4com.springcore.collections.Emp?addresses@10.21:10.30DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java
+ 
+(2ä
+2com.springcore.collections.Emp?courses@11.29:11.36DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ($2à
+0com.springcore.collections.Emp?props@12.20:12.25DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (˝*
+™com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)CONSTRUCTOR∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )("≤
+declarationStringú<mark class="modifier">public </mark><mark class="method">Emp</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;String&gt; phones<mark class="modifier"><mark class="modifier">,</mark></mark> Set&lt;String&gt; addresses<mark class="modifier"><mark class="modifier">,</mark></mark> Map&lt;String<mark class="modifier"><mark class="modifier">,</mark></mark> String&gt; courses)*Emp2Í
+java.lang.Object.Object()CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java* *(2Å
+Øcom.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!nameCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java+ +(2É
+±com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!phonesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java, ,(2Ü
+¥com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!addressesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java- -(2Ñ
+≤com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!coursesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java. .(2˛
+-com.springcore.collections.Emp?name@8.16:8.20CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java+ +(2Ä
+/com.springcore.collections.Emp?phones@9.22:9.28CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java, ,(2Ö
+4com.springcore.collections.Emp?addresses@10.21:10.30CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java- -(2É
+2com.springcore.collections.Emp?courses@11.29:11.36CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java. .(2Ü
+Øcom.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!name	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )(2à
+±com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!phones	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)& )(,2ã
+¥com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!addresses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java): )(C2â
+≤com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!courses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)Y )(`2ˆ
+com.springcore.collections.EmpRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )(¥
+Øcom.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!name	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2·
+java.lang.StringTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )(±
+±com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!phones	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)& )(,"
+typeList<String>"
+isFinalfalse"(
+declarationStringList<String> phones*phones2ﬂ
+java.util.ListTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )(2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java) )($∑
+¥com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!addresses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java): )(C"
+typeSet<String>"
+isFinalfalse"*
+declarationStringSet<String> addresses*	addresses2ﬁ
+java.util.SetTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java). )(12Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)2 )(8Æ	
+≤com.springcore.collections.Emp.Emp(java.lang.String, java.util.List<java.lang.String>, java.util.Set<java.lang.String>, java.util.Map<java.lang.String, java.lang.String>)!courses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)Y )(`"
+typeMap<String, String>"
+isFinalfalse"0
+declarationStringMap<String, String> courses*courses2ﬁ
+java.util.MapTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)E )(H2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)I )(O2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java)Q )(Wƒ
+$com.springcore.collections.Emp.Emp()CONSTRUCTOR∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java1 1("[
+declarationStringF<mark class="modifier">public </mark><mark class="method">Emp</mark>()*Emp2Í
+java.lang.Object.Object()CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java2 2(2ˆ
+com.springcore.collections.EmpRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java1 1(¥
+(com.springcore.collections.Emp.getName()METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getName2˛
+-com.springcore.collections.Emp?name@8.16:8.20CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (2Ë
+java.lang.StringRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (Ö
+8com.springcore.collections.Emp.setName(java.lang.String)METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"ç
+declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setName</mark>(String name)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setName2é
+=com.springcore.collections.Emp.setName(java.lang.String)!nameCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2˛
+-com.springcore.collections.Emp?name@8.16:8.20CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2ì
+=com.springcore.collections.Emp.setName(java.lang.String)!name	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ( 2‹
+voidRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (¡
+=com.springcore.collections.Emp.setName(java.lang.String)!name	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ( "
+typeString"
+isFinalfalse" 
+declarationStringString name*name2·
+java.lang.StringTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (¿	
+*com.springcore.collections.Emp.getPhones()METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"t
+declarationString_<mark class="modifier">public </mark>List&lt;String&gt; <mark class="method">getPhones</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeList<String>*	getPhones2Ä
+/com.springcore.collections.Emp?phones@9.22:9.28CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (2Ê
+java.util.ListRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ò
+java.lang.StringRETURN_TYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (‘
+Jcom.springcore.collections.Emp.setPhones(java.util.List<java.lang.String>)METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"û
+declarationStringà<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setPhones</mark>(List&lt;String&gt; phones)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	setPhones2¢
+Qcom.springcore.collections.Emp.setPhones(java.util.List<java.lang.String>)!phonesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ä
+/com.springcore.collections.Emp?phones@9.22:9.28CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2ß
+Qcom.springcore.collections.Emp.setPhones(java.util.List<java.lang.String>)!phones	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ (*2‹
+voidRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (–
+Qcom.springcore.collections.Emp.setPhones(java.util.List<java.lang.String>)!phones	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ (*"
+typeList<String>"
+isFinalfalse"(
+declarationStringList<String> phones*phones2ﬂ
+java.util.ListTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("À	
+-com.springcore.collections.Emp.getAddresses()METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ( "
+isFinalfalse"v
+declarationStringa<mark class="modifier">public </mark>Set&lt;String&gt; <mark class="method">getAddresses</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeSet<String>*getAddresses2Ö
+4com.springcore.collections.Emp?addresses@10.21:10.30CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (2Â
+java.util.SetRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ò
+java.lang.StringRETURN_TYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (Ì
+Lcom.springcore.collections.Emp.setAddresses(java.util.Set<java.lang.String>)METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setAddresses</mark>(Set&lt;String&gt; addresses)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setAddresses2ß
+Vcom.springcore.collections.Emp.setAddresses(java.util.Set<java.lang.String>)!addressesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Ö
+4com.springcore.collections.Emp?addresses@10.21:10.30CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2¨
+Vcom.springcore.collections.Emp.setAddresses(java.util.Set<java.lang.String>)!addresses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java& (/2‹
+voidRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (ÿ
+Vcom.springcore.collections.Emp.setAddresses(java.util.Set<java.lang.String>)!addresses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java& (/"
+typeSet<String>"
+isFinalfalse"*
+declarationStringSet<String> addresses*	addresses2ﬁ
+java.util.SetTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ($Ñ
++com.springcore.collections.Emp.getCourses()METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java! !(&"
+isFinalfalse"∏
+declarationString¢<mark class="modifier">public </mark>Map&lt;String<mark class="modifier"><mark class="modifier">,</mark></mark>String&gt; <mark class="method">getCourses</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeMap<String, String>*
+getCourses2É
+2com.springcore.collections.Emp?courses@11.29:11.36CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java"	 "(2Â
+java.util.MapRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java! !(2Ò
+java.lang.StringRETURN_TYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java! !(2Ò
+java.lang.StringRETURN_TYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java! !(’
+\com.springcore.collections.Emp.setCourses(java.util.Map<java.lang.String, java.lang.String>)METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ $("
+isFinalfalse"„
+declarationStringÕ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setCourses</mark>(Map&lt;String<mark class="modifier"><mark class="modifier">,</mark></mark> String&gt; courses)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setCourses2µ
+dcom.springcore.collections.Emp.setCourses(java.util.Map<java.lang.String, java.lang.String>)!coursesCALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java% %(2É
+2com.springcore.collections.Emp?courses@11.29:11.36CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java% %(2∫
+dcom.springcore.collections.Emp.setCourses(java.util.Map<java.lang.String, java.lang.String>)!courses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$, $(32‹
+voidRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ $(ﬂ
+dcom.springcore.collections.Emp.setCourses(java.util.Map<java.lang.String, java.lang.String>)!courses	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$, $(3"
+typeMap<String, String>"
+isFinalfalse"0
+declarationStringMap<String, String> courses*courses2ﬁ
+java.util.MapTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ $(2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$ $("2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java$$ $(*ù
+-com.springcore.collections.Emp?name@8.16:8.20VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accessprivate*name2·
+java.lang.StringTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (ö
+/com.springcore.collections.Emp?phones@9.22:9.28VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 	("
+isFinalfalse"
+typeList<String>"o
+declarationStringZ<mark class="modifier">private </mark>List<String> <mark class="class-field">phones</mark>"
+isStaticfalse"
+accessprivate*phones2ﬂ
+java.util.ListTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java		 	(2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 	(¢
+4com.springcore.collections.Emp?addresses@10.21:10.30VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java
+ 
+("
+isFinalfalse"
+typeSet<String>"q
+declarationString\<mark class="modifier">private </mark>Set<String> <mark class="class-field">addresses</mark>"
+isStaticfalse"
+accessprivate*	addresses2ﬁ
+java.util.SetTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java
+	 
+(2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java
+ 
+(ô	
+2com.springcore.collections.Emp?courses@11.29:11.36VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ($"
+isFinalfalse"
+typeMap<String, String>"w
+declarationStringb<mark class="modifier">private </mark>Map<String, String> <mark class="class-field">courses</mark>"
+isStaticfalse"
+accessprivate*courses2ﬁ
+java.util.MapTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (2Í
+java.lang.StringTYPE_ARGUMENT∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java (Æ
+0com.springcore.collections.Emp?props@12.20:12.25VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java ("
+isFinalfalse"
+type
+Properties"l
+declarationStringW<mark class="modifier">private </mark>Properties <mark class="class-field">props</mark>"
+isStaticfalse"
+accessprivate*props2Â
+java.util.PropertiesTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\collections\Emp.java	 (

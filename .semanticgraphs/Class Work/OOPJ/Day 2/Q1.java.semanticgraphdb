@@ -1,0 +1,256 @@
+
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java–
+Q1CLASSo
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java("
+packageQ1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1"
+accesspublic*Q12õ
+Q1.printDefaultValues()DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ("2ï
+Q1.main(String[])DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (2ó
+Q1?byteVar@2.9:2.16DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 (2ô
+Q1?shortVar@3.10:3.18DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java
+ (2ñ
+Q1?intVar@4.8:4.14DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (2ó
+Q1?longVar@5.9:5.16DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 (2ô
+Q1?floatVar@6.10:6.18DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java
+ (2ö
+Q1?doubleVar@7.11:7.20DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (2ó
+Q1?charVar@8.9:8.16DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 (2õ
+Q1?booleanVar@9.12:9.22DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 	(¡
+Q1.printDefaultValues()METHODs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (""
+isFinalfalse"ç
+declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">printDefaultValues</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printDefaultValues2ê
+Q1?byteVar@2.9:2.16CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java4 (;2í
+Q1?shortVar@3.10:3.18CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java5 (=2è
+Q1?intVar@4.8:4.14CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java3 (92ê
+Q1?longVar@5.9:5.16CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java4 (;2í
+Q1?floatVar@6.10:6.18CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java5 (=2ì
+Q1?doubleVar@7.11:7.20CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java6 (?2ê
+Q1?charVar@8.9:8.16CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java: (A2î
+Q1?booleanVar@9.12:9.22CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java7 (A2à
+voidRETURN_TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (±
+Q1.main(String[])METHODs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2£
+&Q1.main(String[])?instance@25.27:25.35CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (2¢
+%Q1.main(String[])?byteVar@31.13:31.20CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java)5 )(<2£
+&Q1.main(String[])?shortVar@32.14:32.22CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java*6 *(>2°
+$Q1.main(String[])?intVar@33.12:33.18CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java+4 +(:2¢
+%Q1.main(String[])?longVar@34.13:34.20CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java,5 ,(<2£
+&Q1.main(String[])?floatVar@35.14:35.22CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java-6 -(>2§
+'Q1.main(String[])?doubleVar@36.15:36.24CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java.7 .(@2¢
+%Q1.main(String[])?charVar@37.13:37.20CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java/5 /(<2•
+(Q1.main(String[])?booleanVar@38.16:38.26CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java08 0(B2ò
+Q1.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java% ()2™
+&Q1.main(String[])?instance@25.27:25.35DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (#2©
+%Q1.main(String[])?byteVar@31.13:31.20DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (2™
+&Q1.main(String[])?shortVar@32.14:32.22DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java   (2®
+$Q1.main(String[])?intVar@33.12:33.18DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java! !(2©
+%Q1.main(String[])?longVar@34.13:34.20DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java" "(2™
+&Q1.main(String[])?floatVar@35.14:35.22DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java# #(2´
+'Q1.main(String[])?doubleVar@36.15:36.24DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java$ $(2©
+%Q1.main(String[])?charVar@37.13:37.20DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java% %(2¨
+(Q1.main(String[])?booleanVar@38.16:38.26DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java& &(2à
+voidRETURN_TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (ˇ
+&Q1.main(String[])?instance@25.27:25.35VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (#"
+typePrimitiveDataTypes"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark>PrimitiveDataTypes <mark class="class-field">instance</mark> = new PrimitiveDataTypes()*instance2è
+PrimitiveDataTypesTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (ª
+%Q1.main(String[])?byteVar@31.13:31.20VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ("
+typebyte"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>byte <mark class="class-field">byteVar</mark> = 10*byteVar2Å
+byteTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (‡
+&Q1.main(String[])?shortVar@32.14:32.22VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java   ("
+typeshort"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">short</mark> <mark class="class-field">shortVar</mark> = 20*shortVar2Ç
+shortTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java   (‘
+$Q1.main(String[])?intVar@33.12:33.18VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java! !("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">intVar</mark> = 30*intVar2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java! !(€
+%Q1.main(String[])?longVar@34.13:34.20VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java" "("
+typelong"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">longVar</mark> = 40L*longVar2Å
+longTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java" "(„
+&Q1.main(String[])?floatVar@35.14:35.22VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java# #("
+typefloat"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">floatVar</mark> = 50.5f*floatVar2Ç
+floatTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java# #(Ë
+'Q1.main(String[])?doubleVar@36.15:36.24VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java$ $("
+typedouble"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">doubleVar</mark> = 60.5*	doubleVar2É
+doubleTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java$ $(º
+%Q1.main(String[])?charVar@37.13:37.20VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java% %("
+typechar"
+isFinalfalse"g
+declarationStringR<mark class="modifier"> </mark>char <mark class="class-field">charVar</mark> = 'A'*charVar2Å
+charTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java% %(Ó
+(Q1.main(String[])?booleanVar@38.16:38.26VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java& &("
+typeboolean"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">booleanVar</mark> = true*
+booleanVar2Ñ
+booleanTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java& &(Ó
+Q1.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ö
+String[]TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ($“
+Q1?byteVar@2.9:2.16VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 ("
+isFinalfalse"
+typebyte"a
+declarationStringL<mark class="modifier"> </mark>byte <mark class="class-field">byteVar</mark>"
+isStaticfalse"
+accesspackage_private*byteVar2Å
+byteTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (¯
+Q1?shortVar@3.10:3.18VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java
+ ("
+isFinalfalse"
+typeshort"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">short</mark> <mark class="class-field">shortVar</mark>"
+isStaticfalse"
+accesspackage_private*shortVar2Ç
+shortTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (	Í
+Q1?intVar@4.8:4.14VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ("
+isFinalfalse"
+typeint"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">intVar</mark>"
+isStaticfalse"
+accesspackage_private*intVar2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (
+Q1?longVar@5.9:5.16VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 ("
+isFinalfalse"
+typelong"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">longVar</mark>"
+isStaticfalse"
+accesspackage_private*longVar2Å
+longTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (¯
+Q1?floatVar@6.10:6.18VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java
+ ("
+isFinalfalse"
+typefloat"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">floatVar</mark>"
+isStaticfalse"
+accesspackage_private*floatVar2Ç
+floatTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (	˛
+Q1?doubleVar@7.11:7.20VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java ("
+isFinalfalse"
+typedouble"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">doubleVar</mark>"
+isStaticfalse"
+accesspackage_private*	doubleVar2É
+doubleTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (
+“
+Q1?charVar@8.9:8.16VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 ("
+isFinalfalse"
+typechar"a
+declarationStringL<mark class="modifier"> </mark>char <mark class="class-field">charVar</mark>"
+isStaticfalse"
+accesspackage_private*charVar2Å
+charTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java (Ñ
+Q1?booleanVar@9.12:9.22VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 	("
+isFinalfalse"
+typeboolean"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">booleanVar</mark>"
+isStaticfalse"
+accesspackage_private*
+booleanVar2Ñ
+booleanTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q1.java	 	(

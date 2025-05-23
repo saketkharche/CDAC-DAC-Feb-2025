@@ -1,0 +1,529 @@
+DAY_4
+
+EXERCISE 1,2,3
+ASSIGNMENT 1-6
+PDF's 
+
+--------------------------------HW-------------------------------
+	* Write a select statement
+	  to implement INITCAP of ename in MySQL
+	* Write a select statement
+	  Display the Ename centre- justified 
+	  Assume Screen is 80 characters
+	  
+	  OUTPUT:
+	  38*AMIT38*
+	  37*DIPESH37*
+	  37*NIDHI38*
+
+	* LATERAL THINKING ---BOOK NAME:(-----) by Ayn Rand
+
+	* Write a select statement
+	  Display the enames with the vowels removed(a,e,i,o,u,y())
+
+	* Write a select statement
+	  Spell out Sal coloumn (upto 5 million, ignore paise)
+
+
+	* Write a select statement
+	  0.75 days -> convert to hours, minute, and seconds
+	  0.5->12 hours, 0 minutes, 0 second
+-------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------
+			EMP
+		     1		
+		     2		
+		     .
+		     . _____________________
+	-------------.			    |
+		     100		    |
+Select-->100Rows			Select--->100R
+
+
+with the help of grant and revoke we can share the table.
+* In a multi user env. when we select from a table we can see view only the committed data of         	all users plus/union the changes made by you.
+
+*  ;;
+
+A-->atomicity
+*	the entire tractions takes place at once or it doesn't happen at all.
+	(e.g., you withdraw Rs. 500/- from your Bank account)
+C-->consistency
+*	the data base must be consistent before and after the transaction
+	(e.g., same as above, Deposits/withdrawals and balances tables)
+I-->Isolation
+*	multiple transaction occur independently without interference.
+	
+D-->Durability
+*	the changes of a successful transaction are permanently, even if later the system 	 	 failure the system occurs.
+
+mysql> set sqlprompt ">user1"
+
+		    EMP
+		     1		
+		     2		
+		     .
+		     . 
+		     .			    
+		     100
+
+after delete it will remains in the old table
+old table will drop after commit
+
+OPTIMISTIC LOCKING:---->
+* the automatic row locking mechanism in MySQL
+	when u update or delete a row, that row is automatically "locked" for other users
+	ROW LOCKING IN MYSQL IS AUTOMATIC
+	when u update or delete a row, that row becomes READ_ONLY for other users
+	Other users can select from that table; they will view the old data "before " your 	 changes
+	Other users can insert rows into that table
+	Other users can UPDATE or DELETE "Other" rows from that table 
+	No Other users can update or delete your locked row till u have issued a Rollback
+	 or commit
+	LOCKS ARE AUTOMATICALLY RELEASED WHEN YOU ROLLBACK OR COMMIT
+
+PESSIMISTIC LOCKING:----->
+* 	Lock the rows manually in advance "BEFORE" issuing update or delete
+	To lock the row manually:-
+		You have to  use select statement with the for update clause.
+		eg: Select * from for update;
+
+		*  Locks are automatically released when you Rollback or commit
+		   Don't lock the whole table else use:
+				Select * from emp
+				where  empno=101;
+				for update;			<-----Bydefault it will 								wait in the request queue 								till the row becomes available
+				
+				Select * from emp
+				where deptno=101;
+				for update;
+
+
+				ERROR 1205 (HY000): Lock wait timeout exceeded; try restarting 					  transaction
+
+				Select * from emp		
+				where  empno=101;
+				for update nowait;		<--if row is available, then 									lock it; else abort 										 the operation 
+
+								Select * from emp						Select * from emp
+				where  empno=101;
+				for update wait 60;		<---can give a time in 										seconds 
+				
+
+				if row is available, then lock it; wait in the request for 					the specified time period; if row is still 						  unavailable, then abort the operation
+				
+				ORA-00054 ERROR : can be used in future for user friendly 					message.
+
+
+--------------------------------------------
+MYSQL FOR FUNTIONS:---
+	Character functions:--
+		this is applicable for char
+	
+		    		 EMP TABLE
+	FNAME(varchar(20))			LNAME(varchar(20))
+	
+		Arun					Purun
+		Tarun					Arun 
+		Sirun					Kirun
+		Nutan					Puran 
+
+concat-> to join
+	USES:- a. for presentation/reporting purposes
+	       b. no change in table 		
+	Select concat(fname,lname) from emp;		<-----concat is a function
+		
+	OUTPUT:
+		ArunPurun
+		TarunArun
+		SirunKirun
+		NutanPurun
+
+	Select concat(concat(fname,' '),lname) from emp;
+	
+	OUTPUT:
+		Arun Purun
+		Tarun Arun
+		Sirun Kirun
+		Nutan Purun
+
+	* max upto 255 levels for function within function
+	(this limit of SQL can be exceeded with the help of views)
+
+	Select upper(fname) from emp;
+	
+	OUTPUT:
+		ARUN 
+		TARUN 
+		SIRUN 
+		NUTAN 
+	Update emp Set fname=upper(fname);
+	Update emp Set fname=upper(fname) where .....;
+
+	Select lower(fname) from emp;
+	
+	Update emp Set fname=lower(fname);
+	Update emp Set fname=lower(fname) where .....;
+
+	we can use these lower and upper in any command
+	
+	
+
+PADDING:-
+	 	    		EMP
+		       	ENAME(varchar(20))		
+	
+		Arun		Blank space		Purun
+		Tarun		Blank space		Arun
+		Sirun		Blank space		Kirun
+		Nutan		Blank space		Puran
+
+
+	Select lpad(ename, 25, ' ') from emp;		<---lpad is left pad
+	
+	Uses:-
+	a. Right Justification
+	b. cheque printing, demand draft printing
+	c. 
+
+	Select rpad(ename, 25, ' ') from emp;
+
+	Uses:-
+	a. left justification of numeric data
+	b. convert varchar to char (convert variable length to fixed-length)
+	c. cheque printing
+	d. centre justification
+
+	Select lpad(rpad(ename,25,'*'),30,' ') from emp;  <---	*****ARUN************;
+
+TRIM:	
+	Select ltrim(ename) from emp
+	Input:
+	Arun Puran
+	   Tarun Arun
+	Sirun Kirun
+		Nutan Purun
+	
+	Output:
+	Arun Puran
+	Tarun Arun
+	Sirun Kirun
+	Nutan Purun
+
+	Uses:-
+	a. Convert char to varchar(convert fixed length to variable length)
+	b. Right justification of char data 
+		lpad(rtrim(.....).....)
+	
+	Select trim(ename) from emp;		<-- remove blank spaces from both the sides 						     in Mysql 
+SUBSTRING:
+	Select substr(ename,3) form emp;	<----	3-> starting position
+	
+	OUTPUT:
+	un Purun
+	run Arun
+	run Kiran
+	tan Purun
+ 
+					
+	Select substr(ename,3,2) form emp;		2->number of characters
+
+	Select substr('Mumbai',3) ---> O/p-->Mumbai
+	Select substr('New Mumbai',1,3) --> O/P-->New 
+	Select substr(ename,-3) from emp;  
+
+	
+	Select substr(ename,-3,2) from emp; //O/p: ru
+						   ru
+						   ru
+						   ru
+	USES:
+	used to extract a part of the string
+
+REPLACE:	
+	Select replace(ename, 'un','xy') form emp;
+	un -> xy
+	
+	Select replace(ename, 'un','xyz') form emp;
+	un -> xyz
+
+	Select replace(ename, 'un', '') form emp;
+	un -> nothing
+
+	USES:
+	a. 1--->One
+	b. 2--->two
+	c. Encryption/Decryption
+
+INSTRING:
+	Select instr(ename,'un') from emp;		<--- return starting position if 								string is not found then it 								 returns 0
+	
+	3
+	4
+	4
+	10	
+	0  		<-----if no string is present
+
+
+-------------------------------------------------------------------
+
+	    EMP
+
+	   ENAME
+	   Arun
+	   Bannerjee
+	   Charlie
+
+	Select length(ename) from emp;
+	4  <---for Arun
+	9  <---for Bannerjee
+	7  <---for Charlie
+ASCII:
+	
+	Select ascii(ename) from emp;
+	65	<---ascii for A 
+	66	<---ascii for B
+	67
+	
+	Select ascii(substr(ename)) from emp;
+	
+
+	Select ascii('z') from emp;		<----here 'z' is not a column it is a 							     computed column(it is like Sal*12---->							computed column)
+	122	<----ascii value of 1 times
+	122	<----ascii value of 2 times
+	122	<----ascii value of 3 times   
+
+	Select distinct ascii('z') from emp;
+	O/P: 122			<------only one time as distinct 
+	
+	
+DUAL:
+	dual is a system table.
+	dual is automatically created when we install MySql
+	common for all RDBMS
+	DUAL contains only 1 row and 1 column
+	DUAL is a dummy
+	DUAL is present is all databases
+
+
+	select sustr('New Mumbai',1,3) from dual;
+	select 3*12 from dual;
+	select 'Welcome to CDAC Mumbai' as "MESSAGE" from dual;
+
+
+CHAR:  ----------------------------------->command==> select character set;
+	select char(65 using utf8) from dual;
+	O/P: A
+	-------->>where utf8 is the given character set for U.S. English, else, default 		   is binary character set
+
+	select soundex()=soundex('Aruun');
+
+-------------------------------------------------------------------------------------------
+MySQL ---->Number function:
+	
+		EMP table
+		  SAL	
+		1234.567
+		1875.019
+		1352.615
+		1748.156
+
+
+select round(sal) from emp;
+1234+1		if decimal is equal to .5 or greater than .5 it will add 1 with non decimal
+1875
+1352+1
+1748
+
+select round(sal,1) from emp;
+1234.567
+1875.019
+1352.615
+1748.156
+
+select round(sal,-2) from emp;
+	if the no. is greater than 50 it will round of to 
+
+select round(sal,-3) from emp;
+
+
+TRUNCATE:
+--------
+USES:-
+	a. Age calculation
+	b. Time calculation
+
+select truncate(sal,0) from emp;
+
+		
+select truncate(sal,1) from emp;
+
+select truncate (sal,-2) from emp;
+
+1200
+1800
+1300
+1700
+
+CEIL:
+-----
+select ceil(sal) from emp;
+
+1235
+1876
+1353
+1749
+
+Uses:-
+	a. Bill payments
+	b. Interest payment
+	c. EMI payments
+
+select floor(sal) from emp;
+
+1234
+1875
+1352
+1748
+
+select truncate(3.6,0),floor(3.6),truncate(-3.6,0),floor(-3.6)
+from dual; //O/Ps: 3         3               -3           -4
+
+SIGN:
+
+select sign(-15) from dual;  		<--if no. is negative it will return -1, if no. is 						positive no. is +ve it will return +1 and 							if zero it will return 0 
+
+Uses:
+	a. check if number is positive or negative
+	b. sign(temperature)
+	c. sign(blood_group)
+	d. sign(sensex)
+	e. sign(time1-time2)
+	f. sign(qty_in_stock)
+	g. sign(dist1-dist2)
+	h. sign(acceleration)
+	I. sign(customertraffic)
+	j. sign(velocity1 - velocity2)
+	k. sign(SP-CP)
+	l. to find the greater or lesser no. between two nos.
+
+	select mod(9,5) from dual;
+	4
+	
+	select mod(8.22,2.2) from dual;
+	1.62
+	
+	select mod(81) from dual;
+	9
+
+	select power(10,3) from dual;
+	1000
+
+	select power(10,1/3) from dual;		<---- cube root
+
+	select abs(-10) from dual;
+
+TRIGNOMETRIC FUNCTIONS:
+	sin(x);				<-----------x should be radian
+	cos(x);
+	tan(x);
+
+LOGARITHMIC FUNCTION:
+	ln(y);
+	log(n,m);------> 		log base n (m)
+
+MYSQL ---------> DATE AND TIME FUNCTIONS AND FORMATS------------------
+
+	EMP table
+
+	HIRE DATE COLUMN
+	2023-10-15
+	2023-12-31
+	2024-01-15
+	
+	1. Date, Time, Datetime, Year
+	2. 1st Jan 1000 AD to 31st Dec 9999 AD
+	3. No problem of Y2K
+	4. '-838:59:59' to '838:59:59'
+	5. 'YYYY-MM-DD' is the default date format in MySQL
+	6. 'YYYY-MM-DD' or 'YY-MM-DD'
+	7. 1970 is the year of the Epoch
+	8. 00:00:00 (12 am midnight is the default value for time)
+	9. date1-date2,time1-time2,datetime1-datetime2;
+	10. internally date is stored as a fixed-length number and it occupies 7 bytes of 	   storage.	
+	
+select sysdate() from dual;		<----- returns DB server machine date and time when 						 the statement get executed
+2024-10-11 20:11:41
+
+select now() from dual;			<------returns DB server machine date and time when 						 the statement began to execute
+
+
+select sysdate(), now(), sleep(10), sysdate(), now() from dual;
+
+sysdate()
+USES:
+a. date and time displays
+
+now()
+a. maintain logs of user actions/operations
+
+select adddate(sysdate(),1) from dual;	-->tommorows date[(current date and time) + 24 hours]
+
+select adddate(sysdate(),2) from dual;
+
+select adddate(sysdate(),7) from dual;
+
+select adddate(sysdate(),-1) from dual;----->yesterdays date
+
+select datediff(sysdate(),hiredate) from dual;	----->returs no. of calendar days between the two
+375.1------------		
+295		|
+282	        |
+		|
+*	decimal above is the remainder hr, min, sec as a fraction of day
+
+						
+deliverydate-ordedate
+
+select date_add(hiredate, interval 2 month) from emp;		
+
+2023-12-15
+2024-02-29
+2024-03-15
+
+select date_add(hiredate, interval -2 month) from emp;
+
+select date_add(hiredate, interval 1 year) from emp;
+	
+select date_add(hiredate, interval -1 year) from emp;
+
+select adddate(sysdate(),1/24*60*60) from dual;
+
+uses of below function:
+a. Attendance_calc
+b. Interest_calc
+
+select last_day(hiredate) from dual;		<-------this function is only in MySQL
+
+select dayname(sysdate()) from dual;
+
+select upper(sysdate()) from dual;
+
+select substr(dayname(sysdate()),1,3) from dual;
+				
+select addtime('2010-01-15 10:00:00','1') from dual;		------------------>here '1' is 1 second
+
+	O/P:
+	2010-01-15 10:00:01
+	
+	///EXTENDED VERSION/////
+
+select addtime('2010-01-15 10:00:00','1:30:45') from dual;
+	O/P:
+	2010-01-15 11:30:45
+
+select addtime('2010-01-15 10:00:00.00000','1:30:45.000001') from dual;

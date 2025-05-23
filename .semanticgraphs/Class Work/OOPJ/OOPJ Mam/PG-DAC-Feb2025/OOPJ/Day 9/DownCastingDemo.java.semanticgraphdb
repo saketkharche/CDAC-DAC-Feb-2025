@@ -1,0 +1,140 @@
+
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java™
+ACLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("
+packageA"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"Y
+declarationStringD<mark class="modifier"> </mark><mark class="modifier">class </mark>A"
+accesspackage_private*A2∏
+A.show()DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (
+Œ
+A.show()METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">show</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (Ç
+BCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("
+packageB"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">class </mark>B<mark class="modifier"> extends </mark>A"
+accesspackage_private*B2∏
+B.show()DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java	 	(
+2¨
+AEXTENDû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (Ü
+B.show()METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java	 	(
+"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">show</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show2µ
+A.show()OVERRIDEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java	 	(
+2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java	 	(¯
+DownCastingDemoCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("
+packageDownCastingDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>DownCastingDemo"
+accesspackage_private*DownCastingDemo2Œ
+DownCastingDemo.main(String[])DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (°
+DownCastingDemo.main(String[])METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Æ
+A.A()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2Æ
+B.B()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2Æ
+B.B()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2‘
++DownCastingDemo.main(String[])?a2@19.5:19.7CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2‘
++DownCastingDemo.main(String[])?b2@21.5:21.7CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2—
+#DownCastingDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java  (&2€
++DownCastingDemo.main(String[])?a1@17.5:17.7DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2€
++DownCastingDemo.main(String[])?b1@18.5:18.7DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2€
++DownCastingDemo.main(String[])?a2@19.5:19.7DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2€
++DownCastingDemo.main(String[])?b2@21.5:21.7DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (º
++DownCastingDemo.main(String[])?a1@17.5:17.7VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("	
+typeA"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>A <mark class="class-field">a1</mark> = new A()*a12™
+ATYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2Æ
+A.A()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (º
++DownCastingDemo.main(String[])?b1@18.5:18.7VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("	
+typeB"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>B <mark class="class-field">b1</mark> = new B()*b12™
+BTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2Æ
+B.B()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (º
++DownCastingDemo.main(String[])?a2@19.5:19.7VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("	
+typeA"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>A <mark class="class-field">a2</mark> = new B()*a22™
+ATYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2Æ
+B.B()CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (·
++DownCastingDemo.main(String[])?b2@21.5:21.7VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java ("	
+typeB"
+isFinalfalse"b
+declarationStringM<mark class="modifier"> </mark>B <mark class="class-field">b2</mark> = (B) a2*b22™
+BTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (2‘
++DownCastingDemo.main(String[])?a2@19.5:19.7CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (”
+#DownCastingDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\DownCastingDemo.java (&

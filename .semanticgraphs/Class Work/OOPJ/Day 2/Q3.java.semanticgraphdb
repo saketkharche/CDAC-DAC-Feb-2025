@@ -1,0 +1,59 @@
+
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.javaÿ
+Q3CLASSo
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java("
+packageQ3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q3"
+accesspublic*Q32ï
+Q3.main(String[])DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (ï
+Q3.main(String[])METHODs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2§
+'Q3.main(String[])?doubleValue@2.15:2.26CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ((2§
+'Q3.main(String[])?doubleValue@2.15:2.26CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java. (92°
+$Q3.main(String[])?intValue@3.12:3.20CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java/ (72ò
+Q3.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java% ()2´
+'Q3.main(String[])?doubleValue@2.15:2.26DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (2®
+$Q3.main(String[])?intValue@3.12:3.20DECLARATIONs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (2à
+voidRETURN_TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (Ì
+'Q3.main(String[])?doubleValue@2.15:2.26VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ("
+typedouble"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">doubleValue</mark> = 42.99*doubleValue2É
+doubleTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (≠
+$Q3.main(String[])?intValue@3.12:3.20VARIABLEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ("
+typeint"
+isFinalfalse"≤
+declarationStringú<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">intValue</mark> = (<mark class="modifier">int</mark>) doubleValue*intValue2Ä
+intTYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java (2§
+'Q3.main(String[])?doubleValue@2.15:2.26CALLs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ((Ó
+Q3.main(String[])!args	PARAMETERs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ö
+String[]TYPEs
+iC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 2\Q3.java ($

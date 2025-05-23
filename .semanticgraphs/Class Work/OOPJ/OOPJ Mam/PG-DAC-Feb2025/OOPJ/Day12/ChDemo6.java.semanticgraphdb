@@ -1,0 +1,66 @@
+
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.javaÀ
+ChDemo6CLASS–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ("
+packageChDemo6"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>ChDemo6"
+accesspackage_private*ChDemo62¾
+ChDemo6.main(String[])DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (ê
+ChDemo6.main(String[])METHOD–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Á
+ ChDemo6.main(String[])?f@4.7:4.8CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java! ("2Á
+ChDemo6.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java# ('2È
+ ChDemo6.main(String[])?f@4.7:4.8DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (2Ë
+#ChDemo6.main(String[])?fr@6.13:6.15DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (2Ê
+"ChDemo6.main(String[])?e@7.31:7.32DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ( 2¬
+voidRETURN_TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (ƒ
+ ChDemo6.main(String[])?f@4.7:4.8VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ("
+typeFile"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>File <mark class="class-field">f</mark> = new File("abc.txt")*f2¥
+FileTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (Ü
+#ChDemo6.main(String[])?fr@6.13:6.15VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ("
+type
+FileReader"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>FileReader <mark class="class-field">fr</mark> = new FileReader(f)*fr2«
+
+FileReaderTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java (2Á
+ ChDemo6.main(String[])?f@4.7:4.8CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java! ("»
+ChDemo6.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2©
+String[]TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ("â
+"ChDemo6.main(String[])?e@7.31:7.32VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java ( "
+typeFileNotFoundException"
+isFinalfalse",
+declarationStringFileNotFoundException e*e2¶
+FileNotFoundExceptionTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo6.java	 (

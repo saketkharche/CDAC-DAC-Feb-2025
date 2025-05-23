@@ -1,0 +1,100 @@
+
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.javaö
+TernaryDemoCLASSx
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java("
+packageTernaryDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>TernaryDemo"
+accesspackage_private*TernaryDemo2ß
+TernaryDemo.main(String[])DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (≤
+TernaryDemo.main(String[])METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java) (*2´
+%TernaryDemo.main(String[])?s@4.9:4.10CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java! ("2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java	! 	("2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java
+ 
+(2Æ
+(TernaryDemo.main(String[])?b@10.10:10.11CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+TernaryDemo.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java% ()2±
+$TernaryDemo.main(String[])?i@3.6:3.7DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2≤
+%TernaryDemo.main(String[])?s@4.9:4.10DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java	 (
+2µ
+(TernaryDemo.main(String[])?b@10.10:10.11DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java
+
+ 
+(2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (‹
+$TernaryDemo.main(String[])?i@3.6:3.7VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 121*i2â
+intTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (˘
+%TernaryDemo.main(String[])?s@4.9:4.10VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java	 (
+"
+typeString"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = (i % 2 == 0) ? i + " is even" : i + "is odd"*s2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java (2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java) (*—
+(TernaryDemo.main(String[])?b@10.10:10.11VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java
+
+ 
+("
+typeboolean"
+isFinalfalse"π
+declarationString£<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">b</mark> = (i % 2 == 0) ? true : <mark class="modifier">false</mark>*b2ç
+booleanTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java
+ 
+(	2™
+$TernaryDemo.main(String[])?i@3.6:3.7CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java
+ 
+(â
+TernaryDemo.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2é
+String[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\TernaryDemo.java ($

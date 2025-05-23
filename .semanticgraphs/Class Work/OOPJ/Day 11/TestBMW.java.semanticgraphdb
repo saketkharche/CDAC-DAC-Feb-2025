@@ -1,0 +1,236 @@
+
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.javaä
+BMWCLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (	"
+packageBMW"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>BMW"
+accesspackage_private*BMW2õ
+BMW.showDetails()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2ò
+BMW.maxSpeed()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (ö
+BMW.showDetails()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 ("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">showDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*showDetails2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (ê
+BMW.maxSpeed()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 ("
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">maxSpeed</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*maxSpeed2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (Í
+
+BMWSeries3CLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java ("
+package
+BMWSeries3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">class </mark>BMWSeries3<mark class="modifier"> extends </mark>BMW"
+accesspackage_private*
+BMWSeries32¢
+BMWSeries3.showDetails()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2ü
+BMWSeries3.maxSpeed()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2à
+BMWEXTENDy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (Î
+BMWSeries3.showDetails()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 ("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">showDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*showDetails2ò
+BMW.showDetails()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (ﬂ
+BMWSeries3.maxSpeed()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 ("
+isFinalfalse"¨
+declarationStringñ<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">maxSpeed</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*maxSpeed2ï
+BMW.maxSpeed()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (Í
+
+BMWSeries5CLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java ("
+package
+BMWSeries5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">class </mark>BMWSeries5<mark class="modifier"> extends </mark>BMW"
+accesspackage_private*
+BMWSeries52¢
+BMWSeries5.showDetails()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2ü
+BMWSeries5.maxSpeed()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java 	  (2à
+BMWEXTENDy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (Î
+BMWSeries5.showDetails()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 ("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">showDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*showDetails2ò
+BMW.showDetails()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java	 (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java (ﬂ
+BMWSeries5.maxSpeed()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java 	  ("
+isFinalfalse"¨
+declarationStringñ<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">maxSpeed</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*maxSpeed2ï
+BMW.maxSpeed()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java 	  (2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java   (Í
+
+BMWSeries7CLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java& &("
+package
+BMWSeries7"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">class </mark>BMWSeries7<mark class="modifier"> extends </mark>BMW"
+accesspackage_private*
+BMWSeries72¢
+BMWSeries7.showDetails()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java(	 ((2ü
+BMWSeries7.maxSpeed()DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java-	 -(2à
+BMWEXTENDy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java& &(Î
+BMWSeries7.showDetails()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java(	 (("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">showDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*showDetails2ò
+BMW.showDetails()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java(	 ((2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java( ((ﬂ
+BMWSeries7.maxSpeed()METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java-	 -("
+isFinalfalse"¨
+declarationStringñ<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">maxSpeed</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*maxSpeed2ï
+BMW.maxSpeed()OVERRIDEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java-	 -(2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java- -(Å
+TestBMWCLASSy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java3 3("
+packageTestBMW"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>TestBMW"
+accesspublic*TestBMW2†
+TestBMW.main(String[])DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4 4(©
+TestBMW.main(String[])METHODy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4 4("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+BMWSeries3.BMWSeries3()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java7 7(2ö
+BMWSeries5.BMWSeries5()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java8 8(2ö
+BMWSeries7.BMWSeries7()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java9 9(2™
+'TestBMW.main(String[])?cars@54.14:54.18CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java< <(2©
+&TestBMW.main(String[])?car@60.17:60.20CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java= =(2©
+&TestBMW.main(String[])?car@60.17:60.20CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java> >(2£
+TestBMW.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4% 4()2±
+'TestBMW.main(String[])?cars@54.14:54.18DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java6 6(2∞
+&TestBMW.main(String[])?car@60.17:60.20DECLARATIONy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java< <(2é
+voidRETURN_TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4 4(è
+'TestBMW.main(String[])?cars@54.14:54.18VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java6 6("
+typeBMW"
+isFinalfalse"◊
+declarationString¡<mark class="modifier"> </mark>BMW[] <mark class="class-field">cars</mark> = { new BMWSeries3()<mark class="modifier">,</mark> new BMWSeries5()<mark class="modifier">,</mark> new BMWSeries7() }*cars2à
+BMW[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java6 6(2ö
+BMWSeries3.BMWSeries3()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java7 7(2ö
+BMWSeries5.BMWSeries5()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java8 8(2ö
+BMWSeries7.BMWSeries7()CALLy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java9 9(∏
+&TestBMW.main(String[])?car@60.17:60.20VARIABLEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java< <("
+typeBMW"
+isFinalfalse"\
+declarationStringG<mark class="modifier"> </mark>BMW <mark class="class-field">car</mark>*car2Ü
+BMWTYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java< <(ˇ
+TestBMW.main(String[])!args	PARAMETERy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4% 4()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ã
+String[]TYPEy
+oC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestBMW.java4 4($

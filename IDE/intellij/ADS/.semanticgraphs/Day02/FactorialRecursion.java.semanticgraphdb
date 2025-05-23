@@ -1,0 +1,82 @@
+
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java•
+Day02.FactorialRecursionCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java ("
+packageDay02"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>FactorialRecursion"
+accesspublic*FactorialRecursion2¡
+'Day02.FactorialRecursion.factorial(int)DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2À
+1Day02.FactorialRecursion.main(java.lang.String[])DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (ã
+'Day02.FactorialRecursion.factorial(int)METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">factorial</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*	factorial2∫
+'Day02.FactorialRecursion.factorial(int)CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2º
+)Day02.FactorialRecursion.factorial(int)!nCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2º
+)Day02.FactorialRecursion.factorial(int)!nCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2º
+)Day02.FactorialRecursion.factorial(int)!nCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2º
+)Day02.FactorialRecursion.factorial(int)!nCALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2¡
+)Day02.FactorialRecursion.factorial(int)!n	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java$ (%2ù
+intRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (∂
+)Day02.FactorialRecursion.factorial(int)!n	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java$ (%"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2ñ
+intTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java  (#·
+1Day02.FactorialRecursion.main(java.lang.String[])METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¿
+-java.io.PrintStream.println(java.lang.String)CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2∫
+'Day02.FactorialRecursion.factorial(int)CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java@ (I2◊
+DDay02.FactorialRecursion.main(java.lang.String[])?number@12.12:12.18CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java- (32◊
+DDay02.FactorialRecursion.main(java.lang.String[])?number@12.12:12.18CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.javaJ (P2Œ
+6Day02.FactorialRecursion.main(java.lang.String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java% ()2ﬁ
+DDay02.FactorialRecursion.main(java.lang.String[])?number@12.12:12.18DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (ü
+DDay02.FactorialRecursion.main(java.lang.String[])?number@12.12:12.18VARIABLEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 5*number2ñ
+intTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java (ƒ
+6Day02.FactorialRecursion.main(java.lang.String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2•
+java.lang.String[]TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\FactorialRecursion.java ($

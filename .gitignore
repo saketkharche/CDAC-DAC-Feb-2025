@@ -1,0 +1,120 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+
+# VS Code
+.vscode/
+
+.qodo/
+
+.obsidian/
+.qodo
+
+terminalcontext.txt
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build directories
+dist/
+build/
+out/
+.next/
+.nuxt/
+.gatsby-context-cache.json
+
+# Cache
+.cache/
+.turbo/
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Debug
+*.pid
+*.seed
+
+# Package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Temp files
+*.tmp
+*.bak
+
+# System Files
+*.swp
+
+# Editor configs
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Sass/SCSS
+.sass-cache/
+
+# Ruby
+*.gem
+.bundle
+vendor/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Local development
+*.local
+
+# Misc
+*.zip

@@ -1,0 +1,72 @@
+
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.javaù
+"com.springcore.javaconfig.DemoMainCLASSÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java ("$
+packagecom.springcore.javaconfig"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>DemoMain"
+accesspublic*DemoMain2—
+;com.springcore.javaconfig.DemoMain.main(java.lang.String[])DECLARATIONÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (ý
+;com.springcore.javaconfig.DemoMain.main(java.lang.String[])METHODÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‚
+-java.io.PrintStream.println(java.lang.Object)CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (2þ
+)com.springcore.javaconfig.Student.study()CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ (2¤
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?context@10.21:10.28CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (2¤
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?student@11.10:11.17CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (2¤
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?student@11.10:11.17CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (	2š
+@com.springcore.javaconfig.DemoMain.main(java.lang.String[])!args	PARAMETERÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java" (&2«
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?context@10.21:10.28DECLARATIONÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ 
+(2«
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?student@11.10:11.17DECLARATIONÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ (2à
+voidRETURN_TYPEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (“
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?context@10.21:10.28VARIABLEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ 
+("
+typeApplicationContext"
+isFinalfalse"«
+declarationString•<mark class="modifier"> </mark>ApplicationContext <mark class="class-field">context</mark> = new AnnotationConfigApplicationContext(JavaConfig.class)*context2ƒ
+.org.springframework.context.ApplicationContextTYPEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ 
+(¤
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?student@11.10:11.17VARIABLEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java
+ ("
+typeStudent"
+isFinalfalse"­
+declarationString—<mark class="modifier"> </mark>Student <mark class="class-field">student</mark> = context.getBean("temp2"<mark class="modifier">,</mark> Student.class)*student2ö
+!com.springcore.javaconfig.StudentTYPEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (	2¤
+Ocom.springcore.javaconfig.DemoMain.main(java.lang.String[])?context@10.21:10.28CALLÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (Ò
+@com.springcore.javaconfig.DemoMain.main(java.lang.String[])!args	PARAMETERÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ç
+java.lang.String[]TYPEÊ
+¿C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\javaconfig\DemoMain.java (!

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remove Items from Dropdown</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            background: url('https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-lmxwdl.jpg') no-repeat center center fixed;
+            
+            background-size: cover;
+        }
+
+        .container {
+            max-width: 400px;
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            opacity: 80%;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 1rem;
+            color: white;
+            background: #FF5733; 
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s ease-in-out, transform 0.3s ease-in-out;
+
+            
+        }
+
+        button:hover {
+            background: #e64a2b;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Remove Items from Dropdown</h1>
+
+        <select id="dropdown">
+            <option value="1">Apple</option>
+            <option value="2">Banana</option>
+            <option value="3">Cherry</option>
+            <option value="4">Date</option>
+            <option value="5">Elderberry</option>
+        </select>
+
+        <button onclick="removeSelectedItem()">Remove Selected Item</button>
+    </div>
+
+    <script>
+        function removeSelectedItem() {
+            const dropdown = document.getElementById("dropdown");
+
+            if (dropdown.selectedIndex === -1) {
+                alert("No item selected to remove!");
+                return;
+            }
+
+            dropdown.remove(dropdown.selectedIndex);
+
+            alert("Selected item removed successfully!");
+        }
+    </script>
+
+</body>
+</html>

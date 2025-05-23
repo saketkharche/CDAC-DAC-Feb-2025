@@ -1,0 +1,76 @@
+
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.javaþ
+Q12Reverse_NumberCLASSš
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java("
+packageQ12Reverse_Number"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">class </mark>Q12Reverse_Number"
+accesspackage_private*Q12Reverse_Number2Ð
+ Q12Reverse_Number.main(String[])DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (©
+ Q12Reverse_Number.main(String[])METHODž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ú
+1Q12Reverse_Number.main(String[])?number@3.12:3.18CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2Ú
+1Q12Reverse_Number.main(String[])?number@3.12:3.18CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2Ü
+3Q12Reverse_Number.main(String[])?reversed@4.12:4.20CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2Ü
+3Q12Reverse_Number.main(String[])?reversed@4.12:4.20CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2Ù
+0Q12Reverse_Number.main(String[])?digit@7.16:7.21CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java' (,2Ú
+1Q12Reverse_Number.main(String[])?number@3.12:3.18CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java	 	(2Ü
+3Q12Reverse_Number.main(String[])?reversed@4.12:4.20CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java1 (92Ó
+%Q12Reverse_Number.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java! (%2á
+1Q12Reverse_Number.main(String[])?number@3.12:3.18DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2ã
+3Q12Reverse_Number.main(String[])?reversed@4.12:4.20DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2à
+0Q12Reverse_Number.main(String[])?digit@7.16:7.21DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2´
+voidRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (¼
+1Q12Reverse_Number.main(String[])?number@3.12:3.18VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 12345*number2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (¾
+3Q12Reverse_Number.main(String[])?reversed@4.12:4.20VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java ("
+typeint"
+isFinalfalse"ƒ
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">reversed</mark> = 0*reversed2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (œ
+0Q12Reverse_Number.main(String[])?digit@7.16:7.21VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java ("
+typeint"
+isFinalfalse"Š
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">digit</mark> = number % 10*digit2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (2Ú
+1Q12Reverse_Number.main(String[])?number@3.12:3.18CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java (Õ
+%Q12Reverse_Number.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java! (%"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q12Reverse_Number.java ( 

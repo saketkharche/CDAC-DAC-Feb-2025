@@ -1,0 +1,101 @@
+
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.javaÉ
+Q11CLASSu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java ("
+packageQ11"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Q11"
+accesspublic*Q112õ
+Q11.isPowerOfTwo(int)DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (&2ò
+Q11.main(String[])DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (œ	
+Q11.isPowerOfTwo(int)METHODu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (&"
+isFinalfalse"”
+declarationStringΩ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isPowerOfTwo</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*isPowerOfTwo2ñ
+Q11.isPowerOfTwo(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (2ñ
+Q11.isPowerOfTwo(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (2ñ
+Q11.isPowerOfTwo(int)!nCALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java! ("2õ
+Q11.isPowerOfTwo(int)!n	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java+ (,2ç
+booleanRETURN_TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (¸
+Q11.isPowerOfTwo(int)!n	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java+ (,"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2Ç
+intTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java' (*œ
+Q11.main(String[])METHODu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2î
+Q11.isPowerOfTwo(int)CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java6 (B2£
+$Q11.main(String[])?scanner@8.16:8.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java
+ 
+(2£
+$Q11.main(String[])?scanner@8.16:8.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (2ü
+ Q11.main(String[])?n@10.12:10.13CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (2ü
+ Q11.main(String[])?n@10.12:10.13CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.javaC (D2õ
+Q11.main(String[])!args	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java% ()2™
+$Q11.main(String[])?scanner@8.16:8.23DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (2¶
+ Q11.main(String[])?n@10.12:10.13DECLARATIONu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java
+ 
+(2ä
+voidRETURN_TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (Â
+$Q11.main(String[])?scanner@8.16:8.23VARIABLEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ê
+java.util.ScannerTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java (ˇ
+ Q11.main(String[])?n@10.12:10.13VARIABLEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java
+ 
+("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2Ç
+intTYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java
+ 
+(2£
+$Q11.main(String[])?scanner@8.16:8.23CALLu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java
+ 
+(Û
+Q11.main(String[])!args	PARAMETERu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2á
+String[]TYPEu
+kC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q11.java ($

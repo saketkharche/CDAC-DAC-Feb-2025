@@ -1,0 +1,85 @@
+
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.javaÄ
+ArrayDemo11CLASS|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java ("
+packageArrayDemo11"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrayDemo11"
+accesspackage_private*ArrayDemo112£
+ArrayDemo11.getArray()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (2§
+ArrayDemo11.main(String[])DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (Ç
+ArrayDemo11.getArray()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java ("
+isFinalfalse"¤
+declarationStringŽ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">getArray</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint[]*getArray2’
+int[]RETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ (ä
+ArrayDemo11.main(String[])METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2œ
+ArrayDemo11.getArray()CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ 
+(2¬
+&ArrayDemo11.main(String[])?a@10.8:10.9CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (2®
+(ArrayDemo11.main(String[])?x@12.10:12.11CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (2ª
+ArrayDemo11.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java  (&2³
+&ArrayDemo11.main(String[])?a@10.8:10.9DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ 
+(	2µ
+(ArrayDemo11.main(String[])?x@12.10:12.11DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ (2‘
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (‰
+&ArrayDemo11.main(String[])?a@10.8:10.9VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ 
+(	"
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = getArray()*a2‹
+int[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ 
+(2œ
+ArrayDemo11.getArray()CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ 
+(Ú
+(ArrayDemo11.main(String[])?x@12.10:12.11VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java
+ ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark>*x2‰
+intTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (	‰
+ArrayDemo11.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ž
+String[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 5\ArrayDemo11.java (&

@@ -1,0 +1,206 @@
+
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java§
+Q17MinOfFourCLASS~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+packageQ17MinOfFour"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>Q17MinOfFour"
+accesspublic*Q17MinOfFour2™
+Q17MinOfFour.main(String[])DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (˚5
+Q17MinOfFour.main(String[])METHOD~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java	 	(2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java
+ 
+(2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java" (#2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java& ('2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java+ (,2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java/ (02±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java6 (72±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java: (;2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java? (@2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.javaC (D2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java! ("2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java% (&2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java* (+2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java. (/2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java5 (62±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java9 (:2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java> (?2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.javaB (C2≥
++Q17MinOfFour.main(String[])?min@14.12:14.15CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java7 (:2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (
+2≠
+ Q17MinOfFour.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java% ()2∑
+(Q17MinOfFour.main(String[])?sc@4.16:4.18DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∂
+'Q17MinOfFour.main(String[])?a@8.12:8.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∂
+'Q17MinOfFour.main(String[])?b@9.12:9.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java	 	(2∏
+)Q17MinOfFour.main(String[])?c@10.12:10.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java
+ 
+(2∏
+)Q17MinOfFour.main(String[])?d@11.12:11.13DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∫
++Q17MinOfFour.main(String[])?min@14.12:14.15DECLARATION~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2ì
+voidRETURN_TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (Ò
+(Q17MinOfFour.main(String[])?sc@4.16:4.18VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ô
+java.util.ScannerTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (†
+'Q17MinOfFour.main(String[])?a@8.12:8.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = sc.nextInt()*a2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (†
+'Q17MinOfFour.main(String[])?b@9.12:9.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java	 	("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = sc.nextInt()*b2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java	 	(2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java	 	(¢
+)Q17MinOfFour.main(String[])?c@10.12:10.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java
+ 
+("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = sc.nextInt()*c2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java
+ 
+(2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java
+ 
+(¢
+)Q17MinOfFour.main(String[])?d@11.12:11.13VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">d</mark> = sc.nextInt()*d2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2∞
+(Q17MinOfFour.main(String[])?sc@4.16:4.18CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (¡#
++Q17MinOfFour.main(String[])?min@14.12:14.15VARIABLE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ("
+typeint"
+isFinalfalse"Ì
+declarationString◊<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">min</mark> = (a < b) ? ((a < c) ? ((a < d) ? a : d) : ((c < d) ? c : d)) : ((b < c) ? ((b < d) ? b : d) : ((c < d) ? c : d))*min2ã
+intTYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java" (#2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java& ('2Ø
+'Q17MinOfFour.main(String[])?a@8.12:8.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java+ (,2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java/ (02±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java6 (72±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java: (;2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java? (@2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.javaC (D2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java (2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java! ("2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java% (&2Ø
+'Q17MinOfFour.main(String[])?b@9.12:9.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java* (+2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java. (/2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java5 (62±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java9 (:2±
+)Q17MinOfFour.main(String[])?c@10.12:10.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java> (?2±
+)Q17MinOfFour.main(String[])?d@11.12:11.13CALL~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.javaB (Cé
+ Q17MinOfFour.main(String[])!args	PARAMETER~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ê
+String[]TYPE~
+tC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q17MinOfFour.java ($

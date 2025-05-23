@@ -1,0 +1,122 @@
+
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java´
+Q17UpsidedownPyramidPatternCLASSœ
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java(!"&
+packageQ17UpsidedownPyramidPattern"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier"> </mark><mark class="modifier">class </mark>Q17UpsidedownPyramidPattern"
+accesspackage_private*Q17UpsidedownPyramidPattern2Ü
+*Q17UpsidedownPyramidPattern.main(String[])DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (Ò'
+*Q17UpsidedownPyramidPattern.main(String[])METHOD 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java# ($2ä
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java  (!2ã
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+ 
+(2æ
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+! 
+('2ã
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+) 
+(*2ã
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java! ("2ã
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java$ (%2ã
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2ß
+/Q17UpsidedownPyramidPattern.main(String[])!args	PARAMETER 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java% ()2ë
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2è
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2í
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2ê
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+ 
+(2ê
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22DECLARATION 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2¶
+voidRETURN_TYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (¿
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16VARIABLE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = 5*rows2®
+intTYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ( 
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18VARIABLE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = rows*i2®
+intTYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2ä
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (˜
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22VARIABLE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">spaces</mark> = rows - i*spaces2®
+intTYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2ä
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (2á
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALL 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java  (!¸
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22VARIABLE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2®
+intTYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java
+ 
+(¸
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22VARIABLE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 1*k2®
+intTYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java (ã
+/Q17UpsidedownPyramidPattern.main(String[])!args	PARAMETER 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2³
+String[]TYPE 
+•C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q17UpsidedownPyramidPattern.java ($

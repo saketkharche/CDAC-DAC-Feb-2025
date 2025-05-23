@@ -1,0 +1,59 @@
+
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java¹
+ChDemoCLASS•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java ("
+packageChDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>ChDemo"
+accesspackage_private*ChDemo2¼
+ChDemo.main(String[])DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java (—
+ChDemo.main(String[])METHOD•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ã
+#ChDemo.main(String[])?e@10.21:10.22CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java (2¿
+ChDemo.main(String[])!args	PARAMETER•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java# ('2Æ
+ChDemo.main(String[])?j@9.7:9.8DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java	 	(2Ê
+#ChDemo.main(String[])?e@10.21:10.22DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java
+ 
+(2«
+voidRETURN_TYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java (™
+ChDemo.main(String[])?j@9.7:9.8VARIABLE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java	 	("
+typeint"
+isFinalfalse"‹
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = System.in.read()*j2£
+intTYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java	 	(¸
+ChDemo.main(String[])!args	PARAMETER•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+String[]TYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java ("Ã
+#ChDemo.main(String[])?e@10.21:10.22VARIABLE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java
+ 
+("
+typeIOException"
+isFinalfalse""
+declarationStringIOException e*e2«
+IOExceptionTYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo.java
+	 
+(

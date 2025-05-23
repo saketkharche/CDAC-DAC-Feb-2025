@@ -1,0 +1,151 @@
+-----------------------------------------
+Day 1: Algorithms and Data Structures
+Date : 25-March-2025
+-----------------------------------------
+
+Topics: 
+	- Introduction to Algorithms and Data Structures 
+	- Problem solving with critical thinking
+	- Data Structures
+	- Types of Data Structures
+	- Recursion
+	
+Data: Collection of raw facts.
+
+Algorithm: Outline , the essence of computational procedure with step by step instructions.
+
+Program:An implementation of an algorithm in some programming language.
+
+Data Structure: Data organizationa required to solve any real life problem
+
+Algorithm:
+-An algorithm is a sequence of unambiguous instructions/operations for solving a prblem for obtaining a required output for any input in a finite amount of time.
+
+-step by step process to solve the problem 
+
+-algorithm must be well defined, step by step computation procedure that takes a set of inputs and produces a desired output.
+
+Chracteristics of algorithm:
+----------------------------
+1. Finite: Must terminate after finite number of steps.
+2. Definite/Unambiguity: Each step must be precisely definite.
+3. Input: Takes zero or more inputs.
+4. Output: Produces at least one output.
+5. Effective: Each step must be basic and achievable towards output.
+6. Language independent: Algorithm can be implemented in any programming language
+
+Need of Algorithm:
+------------------
+1.Scalability
+2.Performance
+
+Algorithm Strategies:
+----------------------
+1. Greedy: Makes the locally optimal choice at each step with the hope of finding a global optimum. (eg. Dijkstra' algorithm)
+
+2. Divide and Conquer: Breaks the problem into smaller subproblems, solves them recursively and combines the result.(e.g, Merge sort, Quick sort)
+
+3. Dynamic Programming: Solves complex problems by breaking them down into simpler subproblems and solving each one. (e.g. Knapsack problem, Fibonacci)
+
+4. Backtracking : Tries all possible solutions, ignoring those that fail to satisfy the give condition/contraints,( until the correct one is found). (e.g String permutation, sudoku)
+
+5. Brute force: Tries all possible solutions, until the correct one is found.(e.g String matching)
+
+6. Recursive:Solves a problem by solving smaller instances of the same problem.(e.g Bubble sor, Binary search)
+
+7. Searching Algorithms: Finds an element in a data structure(e.g Linear search, Binary search)
+
+8. Sorting Algorithm: Order elements in aparticular sequence(e.g Bubble sort)
+
+Analysis of Algorithms:
+---------------------------
+-An analysis of algorithm is said to be efficient and fast, if it takes less time to execute and consumes less memory space.
+-The performance can be measured on the basis of:
+	1. Time complexity
+	2. Space complexity
+	
+Data Structures:
+----------------
+-A data structure is a data organization, management and storage format that enables efficient access and modification.
+
+-way in which data is stored on a computer.
+-Program  = Algorithm and Data strucutre
+
+Types of Data structures:
+---------------------------
+1. Linear Data Structure:
+---------------------------
+	-Elements are arranged in sequence, one dimension, known as linear data structure
+	-Eg. Array, Stack, Queue etc.
+	-Array : A collection of elements stored at contiguous memory locations.
+		-Static:
+		-Dynamic: ArrayList : ADT
+		
+	-Linked List: A linear collection of data elements where each element points to the next element.
+		-Circular Linkedlist
+		-Doubly Linkedlist
+	-Stack: LIFO: Last-In-First-Out principle.
+	-Queue: FIFO: First-I-First-Ot principle.
+		-Circular Queue
+		-Dequeue: 
+		-Deque: Doubly ended queue
+	-Hash Table: Store key-value pairs, offering fast lookup (search operation)
+	
+2. Non linear data structure:
+-------------------------------
+	-Elements are in non sequential order, one-many , many-one and many-many dimensions, known as non linear data structure
+	-Eg . Trees, Graph, heap, etc
+	-Tree: A hierarchical structure with root, nodes and edges. (BT, BST,AVL trees)
+	-Graph: Consist of nodes(Vertices) and connected by edges. (Directed and undirected graph)
+	-Heap: CBT: Complete Binary Tree: It maintains a specific order od elements. (Minheap, max heap)
+	
+Abstract Data Type: ADT
+-------------------------
+-ADT are a data structures used for data organization, management and storage format that enables efficient access and modification.
+-ADT is atype for objects whose behaviour is defined by set of value and the set of operations.
+
+Recursion:
+-----------
+-Any function which calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function.
+-A recursive method solves a problem by calling a copy of itself to work on smaller problem.
+-Important to add termination condition in recursion.
+Ex:
+
+//recursion
+void rescue(){
+	....
+	....
+	rescue();//Recursive call
+	.....
+	.....
+}
+
+int main()
+{
+	rescue();
+}
+
+Types of REcursion:
+---------------------
+1. Direct recursion
+void fun1(){
+	
+	fun1();// recursive call
+}
+
+void fun2(){
+	
+	fun2()// recursive call
+}
+
+
+2. Indirect Recursion
+void fun1(){
+	
+	fun2();// recursive call
+}
+
+void fun2(){
+	
+	fun1();// recursive call
+}

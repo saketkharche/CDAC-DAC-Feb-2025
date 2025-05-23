@@ -1,0 +1,199 @@
+
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java˘
+Q6RemoveDuplicatesSortedArrayCLASSê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (*"(
+packageQ6RemoveDuplicatesSortedArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"{
+declarationStringf<mark class="modifier">public </mark><mark class="modifier">class </mark>Q6RemoveDuplicatesSortedArray"
+accesspublic*Q6RemoveDuplicatesSortedArray2◊
+5Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (&2Œ
+,Q6RemoveDuplicatesSortedArray.main(String[])DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (Ë"
+5Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])METHODê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (&"
+isFinalfalse"◊
+declarationString¡<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">removeDuplicates</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*removeDuplicates2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java( ()2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java	 	(2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java	 	(2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java	 	(2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java	 	(2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java
+ 
+(2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‘
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arrCALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2Ÿ
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arr	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java- (02„
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2„
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2•
+intRETURN_TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (°
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?i@6.12:6.13VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (°
+AQ6RemoveDuplicatesSortedArray.removeDuplicates(int[])?j@8.17:8.18VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (‡
+9Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])!arr	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java- (0"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2†
+int[]TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java' (,ó.
+,Q6RemoveDuplicatesSortedArray.main(String[])METHODê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2–
+5Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java" "((2€
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& ('2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@29.17:29.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@29.17:29.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ( 2◊
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@29.17:29.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2€
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2◊
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java") "(,2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@38.17:38.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& &(2›
+BQ6RemoveDuplicatesSortedArray.main(String[])?newLength@34.12:34.21CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& &(%2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@38.17:38.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java&' &((2◊
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java' '( 2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@38.17:38.18CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java'! '("2€
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java* *(2—
+1Q6RemoveDuplicatesSortedArray.main(String[])!args	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java% ()2‚
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2ﬁ
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‹
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@29.17:29.18DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2‰
+BQ6RemoveDuplicatesSortedArray.main(String[])?newLength@34.12:34.21DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java" "(2‹
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@38.17:38.18DECLARATIONê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& &(2¶
+voidRETURN_TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (π
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2¨
+java.util.ScannerTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (â
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2€
+@Q6RemoveDuplicatesSortedArray.main(String[])?scanner@19.16:19.23CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (•
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2†
+int[]TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (2’
+:Q6RemoveDuplicatesSortedArray.main(String[])?n@23.12:23.13CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (ö
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@29.17:29.18VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java (ı
+BQ6RemoveDuplicatesSortedArray.main(String[])?newLength@34.12:34.21VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java" "("
+typeint"
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">newLength</mark> = removeDuplicates(arr)*	newLength2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java" "(2–
+5Q6RemoveDuplicatesSortedArray.removeDuplicates(int[])CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java" "((2◊
+<Q6RemoveDuplicatesSortedArray.main(String[])?arr@25.14:25.17CALLê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java") "(,ö
+:Q6RemoveDuplicatesSortedArray.main(String[])?i@38.17:38.18VARIABLEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& &("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2û
+intTYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java& &(≈
+1Q6RemoveDuplicatesSortedArray.main(String[])!args	PARAMETERê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2£
+String[]TYPEê
+ÖC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q6RemoveDuplicatesSortedArray.java ($

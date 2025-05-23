@@ -1,0 +1,174 @@
+
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.javaé
+EngineCLASSö
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java("
+packageEngine"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Engine"
+accesspackage_private*Engine2≈
+Engine.Engine(String)DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2ƒ
+Engine?type@1.8:1.12DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (º
+Engine.Engine(String)CONSTRUCTORû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("c
+declarationStringN<mark class="modifier"> </mark><mark class="method">Engine</mark>(String type)*Engine2√
+Engine.Engine(String)!typeCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2Ω
+Engine?type@1.8:1.12CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2»
+Engine.Engine(String)!type	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2∂
+EngineRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (ƒ
+Engine.Engine(String)!type	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+typeString"
+isFinalfalse" 
+declarationStringString type*type2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (´
+Engine?type@1.8:1.12VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">type</mark>"
+isStaticfalse"
+accesspackage_private*type2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (à	
+CarCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (	"
+packageCar"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>Car"
+accesspackage_private*Car2«
+Car.Car(String, String)DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2Ω
+Car.display()DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2¬
+Car?model@9.8:9.13DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java	 	(2ø
+Car?e@10.8:10.9DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java
+ 
+(	ñ
+Car.Car(String, String)CONSTRUCTORû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("´
+declarationStringï<mark class="modifier"> </mark><mark class="method">Car</mark>(String model<mark class="modifier"><mark class="modifier">,</mark></mark> String type)*Car2æ
+Engine.Engine(String)CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2∆
+Car.Car(String, String)!modelCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2≈
+Car.Car(String, String)!typeCALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2ª
+Car?model@9.8:9.13CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2∏
+Car?e@10.8:10.9CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2À
+Car.Car(String, String)!model	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2 
+Car.Car(String, String)!type	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2≥
+CarRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (…
+Car.Car(String, String)!model	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+typeString"
+isFinalfalse"!
+declarationStringString model*model2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (∆
+Car.Car(String, String)!type	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+typeString"
+isFinalfalse" 
+declarationStringString type*type2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (“
+Car.display()METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ª
+Car?model@9.8:9.13CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2∏
+Car?e@10.8:10.9CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ( 2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (´
+Car?model@9.8:9.13VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java	 	("
+isFinalfalse"
+typeString"a
+declarationStringL<mark class="modifier"> </mark>String <mark class="class-field">model</mark>"
+isStaticfalse"
+accesspackage_private*model2Ø
+StringTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java	 	(†
+Car?e@10.8:10.9VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java
+ 
+(	"
+isFinalfalse"
+typeEngine"]
+declarationStringH<mark class="modifier"> </mark>Engine <mark class="class-field">e</mark>"
+isStaticfalse"
+accesspackage_private*e2Ø
+EngineTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java
+ 
+(¯
+CompositionDemoCLASSû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+packageCompositionDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>CompositionDemo"
+accesspackage_private*CompositionDemo2Œ
+CompositionDemo.main(String[])DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (ù
+
+CompositionDemo.main(String[])METHODû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‘
++CompositionDemo.main(String[])?c1@27.6:27.8CALLû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2—
+#CompositionDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java  (&2€
++CompositionDemo.main(String[])?c1@27.6:27.8DECLARATIONû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (2¥
+voidRETURN_TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (Ω
++CompositionDemo.main(String[])?c1@27.6:27.8VARIABLEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java ("
+typeCar"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark>Car <mark class="class-field">c1</mark> = new Car("BMW"<mark class="modifier">,</mark> "X6")*c12¨
+CarTYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (”
+#CompositionDemo.main(String[])!args	PARAMETERû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEû
+ìC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 8\CompositionDemo.java (&

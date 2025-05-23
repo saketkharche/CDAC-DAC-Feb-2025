@@ -1,0 +1,45 @@
+
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java¿
+ChDemo1CLASSñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java ("
+packageChDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>ChDemo1"
+accesspackage_private*ChDemo12æ
+ChDemo1.main(String[])DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java (û
+
+ChDemo1.main(String[])METHODñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java ("
+isFinalfalse"Å
+declarationStringÎ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>IOException"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¡
+ ChDemo1.main(String[])?j@5.6:5.7CALLñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java, (-2¡
+ChDemo1.main(String[])!args	PARAMETERñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java# ('2»
+ ChDemo1.main(String[])?j@5.6:5.7DECLARATIONñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java (2¨
+voidRETURN_TYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java (ú
+ ChDemo1.main(String[])?j@5.6:5.7VARIABLEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = System.in.read()*j2§
+intTYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java (ª
+ChDemo1.main(String[])!args	PARAMETERñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2©
+String[]TYPEñ
+ãC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo1.java ("

@@ -1,0 +1,129 @@
+
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.javaﬁ
+EmployeeCLASS†
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Employee"
+accesspackage_private*Employee2Œ
+Employee?salary@1.7:1.13DECLARATION§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (‰
+Employee?salary@1.7:1.13VARIABLE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java ("
+isFinalfalse"
+typefloat"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">salary</mark> = 40000;"
+isStaticfalse"
+accesspackage_private*salary2¥
+floatTYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (◊
+
+ProgrammerCLASS§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java ("
+package
+Programmer"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">class </mark>Programmer<mark class="modifier"> extends </mark>Employee"
+accesspackage_private*
+Programmer2œ
+Programmer?bonus@6.5:6.10DECLARATION§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (
+2π
+EmployeeEXTEND§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (!›
+Programmer?bonus@6.5:6.10VARIABLE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (
+"
+isFinalfalse"
+typeint"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">bonus</mark> = 10000;"
+isStaticfalse"
+accesspackage_private*bonus2≤
+intTYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (¢
+SingleInheritanceDemoCLASS§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java	 	(" 
+packageSingleInheritanceDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>SingleInheritanceDemo"
+accesspackage_private*SingleInheritanceDemo2⁄
+$SingleInheritanceDemo.main(String[])DECLARATION§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+ 
+(Å
+$SingleInheritanceDemo.main(String[])METHOD§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+ 
+("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∆
+Programmer.Programmer()CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2∆
+Programmer.Programmer()CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2·
+2SingleInheritanceDemo.main(String[])?e@12.11:12.12CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2·
+2SingleInheritanceDemo.main(String[])?e@12.11:12.12CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java  (!2‚
+3SingleInheritanceDemo.main(String[])?e1@16.13:16.15CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java ( 2‚
+3SingleInheritanceDemo.main(String[])?e1@16.13:16.15CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java  ("2›
+)SingleInheritanceDemo.main(String[])!args	PARAMETER§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+  
+(&2Ë
+2SingleInheritanceDemo.main(String[])?e@12.11:12.12DECLARATION§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2È
+3SingleInheritanceDemo.main(String[])?e1@16.13:16.15DECLARATION§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2∫
+voidRETURN_TYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+ 
+(É
+2SingleInheritanceDemo.main(String[])?e@12.11:12.12VARIABLE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java ("
+typeEmployee"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Employee <mark class="class-field">e</mark> = new Programmer()*e2∑
+EmployeeTYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (
+2∆
+Programmer.Programmer()CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (å
+3SingleInheritanceDemo.main(String[])?e1@16.13:16.15VARIABLE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java ("
+type
+Programmer"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>Programmer <mark class="class-field">e1</mark> = new Programmer()*e12π
+
+ProgrammerTYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (2∆
+Programmer.Programmer()CALL§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java (Â
+)SingleInheritanceDemo.main(String[])!args	PARAMETER§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+  
+(&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2∑
+String[]TYPE§
+ôC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 7\SingleInheritanceDemo.java
+ 
+(&

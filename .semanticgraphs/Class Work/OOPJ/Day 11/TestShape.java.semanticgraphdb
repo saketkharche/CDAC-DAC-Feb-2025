@@ -1,0 +1,289 @@
+
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.javaì
+ShapeCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+packageShape"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Shape"
+accesspackage_private*Shape2ü
+Shape.Shape(String)DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2†
+Shape.getShapeName()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java
+ 
+(2°
+Shape.calculateArea()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (!2•
+Shape?shapeName@2.21:2.30DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (ô
+Shape.Shape(String)CONSTRUCTOR{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("m
+declarationStringX<mark class="modifier">public </mark><mark class="method">Shape</mark>(String shapeName)*Shape2¢
+Shape.Shape(String)!shapeNameCALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("2û
+Shape?shapeName@2.21:2.30CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2ß
+Shape.Shape(String)!shapeName	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (!2ë
+ShapeRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (â
+Shape.Shape(String)!shapeName	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (!"
+typeString"
+isFinalfalse"%
+declarationStringString shapeName*	shapeName2ã
+StringTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (®
+Shape.getShapeName()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java
+ 
+("
+isFinalfalse"k
+declarationStringV<mark class="modifier">public </mark>String <mark class="method">getShapeName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getShapeName2û
+Shape?shapeName@2.21:2.30CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2í
+StringRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java
+ 
+(”
+Shape.calculateArea()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (!"
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">double</mark> <mark class="method">calculateArea</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstracttrue"
+typedouble*calculateArea2í
+doubleRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (ı
+Shape?shapeName@2.21:2.30VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+isFinalfalse"
+typeString"n
+declarationStringY<mark class="modifier">protected </mark>String <mark class="class-field">shapeName</mark>"
+isStaticfalse"
+access	protected*	shapeName2ã
+StringTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (å
+CircleCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+packageCircle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Circle<mark class="modifier"> extends </mark>Shape"
+accesspackage_private*Circle2°
+Circle.Circle(double)DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2¢
+Circle.calculateArea()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2•
+Circle?radius@20.19:20.25DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2å
+ShapeEXTEND{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (∏
+Circle.Circle(double)CONSTRUCTOR{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("â
+declarationStringt<mark class="modifier">public </mark><mark class="method">Circle</mark>(<mark class="modifier">double</mark> radius)*Circle2°
+Circle.Circle(double)!radiusCALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2û
+Circle?radius@20.19:20.25CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2¶
+Circle.Circle(double)!radius	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2í
+CircleRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (†
+Circle.Circle(double)!radius	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> radius*radius2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (ø
+Circle.calculateArea()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+isFinalfalse"≥
+declarationStringù<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="method">calculateArea</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typedouble*calculateArea2û
+Circle?radius@20.19:20.25CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2û
+Circle?radius@20.19:20.25CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java" ((2û
+Shape.calculateArea()OVERRIDE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (2í
+doubleRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (
+ä
+Circle?radius@20.19:20.25VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java ("
+isFinalfalse"
+typedouble"á
+declarationStringr<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">radius</mark>"
+isStaticfalse"
+accessprivate*radius2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java (÷	
+	RectangleCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java" "("
+package	Rectangle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">class </mark>Rectangle<mark class="modifier"> extends </mark>Shape"
+accesspackage_private*	Rectangle2Ø
+#Rectangle.Rectangle(double, double)DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &(2•
+Rectangle.calculateArea()DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java- -(2®
+Rectangle?length@35.19:35.25DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java# #(2ß
+Rectangle?width@36.19:36.24DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java$ $(2å
+ShapeEXTEND{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java" "(·
+#Rectangle.Rectangle(double, double)CONSTRUCTOR{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &("ı
+declarationStringﬂ<mark class="modifier">public </mark><mark class="method">Rectangle</mark>(<mark class="modifier">double</mark> length<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> width)*	Rectangle2Ø
+*Rectangle.Rectangle(double, double)!lengthCALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java( ((2Æ
+)Rectangle.Rectangle(double, double)!widthCALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java) )(2°
+Rectangle?length@35.19:35.25CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java( ((2†
+Rectangle?width@36.19:36.24CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java) )(2¥
+*Rectangle.Rectangle(double, double)!length	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &("2≥
+)Rectangle.Rectangle(double, double)!width	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java&+ &(02ï
+	RectangleRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &(Æ
+*Rectangle.Rectangle(double, double)!length	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &(""
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> length*length2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java& &(´
+)Rectangle.Rectangle(double, double)!width	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java&+ &(0"
+typedouble"
+isFinalfalse"?
+declarationString*<mark class="modifier">double</mark> width*width2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java&$ &(*«
+Rectangle.calculateArea()METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java- -("
+isFinalfalse"≥
+declarationStringù<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="method">calculateArea</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typedouble*calculateArea2°
+Rectangle?length@35.19:35.25CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java. .(2†
+Rectangle?width@36.19:36.24CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java. .(2û
+Shape.calculateArea()OVERRIDE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java- -(2í
+doubleRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java- -(
+ç
+Rectangle?length@35.19:35.25VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java# #("
+isFinalfalse"
+typedouble"á
+declarationStringr<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">length</mark>"
+isStaticfalse"
+accessprivate*length2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java# #(ä
+Rectangle?width@36.19:36.24VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java$ $("
+isFinalfalse"
+typedouble"Ü
+declarationStringq<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">width</mark>"
+isStaticfalse"
+accessprivate*width2ã
+doubleTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java$ $(è
+	TestShapeCLASS{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java3 3("
+package	TestShape"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>TestShape"
+accesspublic*	TestShape2§
+TestShape.main(String[])DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4 4(Å
+TestShape.main(String[])METHOD{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4 4("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+Circle.Circle(double)CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java6 6(!2®
+#Rectangle.Rectangle(double, double)CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java: :('2∞
++TestShape.main(String[])?circle@54.14:54.20CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java7' 7(-2∞
++TestShape.main(String[])?circle@54.14:54.20CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java8& 8(,2≥
+.TestShape.main(String[])?rectangle@58.14:58.23CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java;) ;(22≥
+.TestShape.main(String[])?rectangle@58.14:58.23CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java<& <(/2ß
+TestShape.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4% 4()2∑
++TestShape.main(String[])?circle@54.14:54.20DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java6 6(2∫
+.TestShape.main(String[])?rectangle@58.14:58.23DECLARATION{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java: :(2ê
+voidRETURN_TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4 4(¸
++TestShape.main(String[])?circle@54.14:54.20VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java6 6("
+typeShape"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Shape <mark class="class-field">circle</mark> = new Circle(5.0)*circle2ä
+ShapeTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java6 6(2ö
+Circle.Circle(double)CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java6 6(!õ
+.TestShape.main(String[])?rectangle@58.14:58.23VARIABLE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java: :("
+typeShape"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Shape <mark class="class-field">rectangle</mark> = new Rectangle(4.0, 6.0)*	rectangle2ä
+ShapeTYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java: :(2®
+#Rectangle.Rectangle(double, double)CALL{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java: :('Ö
+TestShape.main(String[])!args	PARAMETER{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4% 4()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ç
+String[]TYPE{
+qC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 11\TestShape.java4 4($

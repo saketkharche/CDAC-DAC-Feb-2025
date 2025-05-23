@@ -1,0 +1,229 @@
+
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java≠
+Day03.Homework.Q1DuplicatesArrCLASSè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("
+packageDay03.Homework"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1DuplicatesArr"
+accesspublic*Q1DuplicatesArr2’
+4Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (&2‘
+3Day03.Homework.Q1DuplicatesArr.contains(int[], int)DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (#2ÿ
+7Day03.Homework.Q1DuplicatesArr.main(java.lang.String[])DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (È5
+4Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])METHODè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (&"
+isFinalfalse"◊
+declarationString¡<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">findDuplicates</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[]*findDuplicates2Õ
+3Day03.Homework.Q1DuplicatesArr.contains(int[], int)CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java) (12“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	 	(2“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	 	(2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	( 	()2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+ 
+(2‹
+BDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?j@10.21:10.22CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+  
+(!2“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+$ 
+('2‹
+BDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?j@10.21:10.22CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+0 
+(12“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (!2‹
+BDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?j@10.21:10.22CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java" (#2ﬂ
+EDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?result@5.14:5.20CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java2 (82“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java: (=2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java> (?2ﬂ
+EDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?result@5.14:5.20CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2ﬁ
+DDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?index@6.12:6.17CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ( 2“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java& ()2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java* (+2ﬁ
+DDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?index@6.12:6.17CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2ﬂ
+EDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?result@5.14:5.20CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.javaD (J2ﬁ
+DDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?index@6.12:6.17CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.javaL (Q2◊
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arr	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java- (02Ê
+EDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?result@5.14:5.20DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2Â
+DDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?index@6.12:6.17DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2·
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	 	(2„
+BDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?j@10.21:10.22DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+ 
+(2¶
+int[]RETURN_TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (∏
+EDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?result@5.14:5.20VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("
+typeint"
+isFinalfalse"¥
+declarationStringû<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">result</mark> = new <mark class="modifier">int</mark>[arr.length]*result2ü
+int[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2“
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("´
+DDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?index@6.12:6.17VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">index</mark> = 0*index2ù
+intTYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (û
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ù
+intTYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java	 	(Ç
+BDay03.Homework.Q1DuplicatesArr.findDuplicates(int[])?j@10.21:10.22VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+ 
+("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i + 1*j2ù
+intTYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+ 
+(2⁄
+@Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])?i@9.17:9.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java
+ 
+(›
+8Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])!arr	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java- (0"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2ü
+int[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java' (,¬
+3Day03.Homework.Q1DuplicatesArr.contains(int[], int)METHODè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (#"
+isFinalfalse"π
+declarationString£<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">contains</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> value)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeboolean*contains2—
+7Day03.Homework.Q1DuplicatesArr.contains(int[], int)!arrCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2›
+CDay03.Homework.Q1DuplicatesArr.contains(int[], int)?num@24.17:24.20CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2”
+9Day03.Homework.Q1DuplicatesArr.contains(int[], int)!valueCALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2÷
+7Day03.Homework.Q1DuplicatesArr.contains(int[], int)!arr	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java* (-2ÿ
+9Day03.Homework.Q1DuplicatesArr.contains(int[], int)!value	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java3 (82‰
+CDay03.Homework.Q1DuplicatesArr.contains(int[], int)?num@24.17:24.20DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (2®
+booleanRETURN_TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (°
+CDay03.Homework.Q1DuplicatesArr.contains(int[], int)?num@24.17:24.20VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2ù
+intTYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (‹
+7Day03.Homework.Q1DuplicatesArr.contains(int[], int)!arr	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java* (-"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2ü
+int[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java$ ()‹
+9Day03.Homework.Q1DuplicatesArr.contains(int[], int)!value	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java3 (8"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2ù
+intTYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java/ (2±
+7Day03.Homework.Q1DuplicatesArr.main(java.lang.String[])METHODè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Œ
+4Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java!I !(W2Œ
+4Day03.Homework.Q1DuplicatesArr.findDuplicates(int[])CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java$K $(Y2‚
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr1@32.14:32.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java!X !(\2‚
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr2@35.14:35.18CALLè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java$Z $(^2€
+<Day03.Homework.Q1DuplicatesArr.main(java.lang.String[])!args	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java% ()2È
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr1@32.14:32.18DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java   (2È
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr2@35.14:35.18DECLARATIONè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java# #(2•
+voidRETURN_TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java (æ
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr1@32.14:32.18VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java   ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr1</mark> = { 0, 1, 2, 3 }*arr12ü
+int[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java   (ƒ
+HDay03.Homework.Q1DuplicatesArr.main(java.lang.String[])?arr2@35.14:35.18VARIABLEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java# #("
+typeint"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr2</mark> = { 0, 3, 1, 2, 2, 3 }*arr22ü
+int[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java# #(ÿ
+<Day03.Homework.Q1DuplicatesArr.main(java.lang.String[])!args	PARAMETERè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+java.lang.String[]TYPEè
+ÑC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day03/Homework/Q1DuplicatesArr.java ($

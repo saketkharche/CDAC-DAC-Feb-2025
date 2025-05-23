@@ -1,0 +1,71 @@
+
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.javaç
+ArithmeticOperatorsCLASSû
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java( "
+packageArithmeticOperators"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>ArithmeticOperators"
+accesspublic*ArithmeticOperators2÷
+"ArithmeticOperators.main(String[])DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (Ú
+"ArithmeticOperators.main(String[])METHOD¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2€
+.ArithmeticOperators.main(String[])?a@2.12:2.13CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java+ (,2€
+.ArithmeticOperators.main(String[])?b@2.20:2.21CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java/ (02€
+.ArithmeticOperators.main(String[])?a@2.12:2.13CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java. (/2€
+.ArithmeticOperators.main(String[])?b@2.20:2.21CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java2 (32€
+.ArithmeticOperators.main(String[])?a@2.12:2.13CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java1 (22€
+.ArithmeticOperators.main(String[])?b@2.20:2.21CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java5 (62€
+.ArithmeticOperators.main(String[])?a@2.12:2.13CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java+ (,2€
+.ArithmeticOperators.main(String[])?b@2.20:2.21CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java/ (02€
+.ArithmeticOperators.main(String[])?a@2.12:2.13CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java* (+2€
+.ArithmeticOperators.main(String[])?b@2.20:2.21CALL¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java. (/2Ÿ
+'ArithmeticOperators.main(String[])!args	PARAMETER¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java% ()2‚
+.ArithmeticOperators.main(String[])?a@2.12:2.13DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (2‚
+.ArithmeticOperators.main(String[])?b@2.20:2.21DECLARATION¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (2∏
+voidRETURN_TYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (ª
+.ArithmeticOperators.main(String[])?a@2.12:2.13VARIABLE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10, b = 5*a2∞
+intTYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (ª
+.ArithmeticOperators.main(String[])?b@2.20:2.21VARIABLE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10, b = 5*b2∞
+intTYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java (ﬂ
+'ArithmeticOperators.main(String[])!args	PARAMETER¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2µ
+String[]TYPE¢
+óC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 3\ArithmeticOperators.java ($

@@ -1,0 +1,48 @@
+How to Protect a JDBC Application Against SQL Injection?
+
+What is SQL Injection ?
+ -  One of the top 10 security attacks as per OWASP (Open Web Application Security Project)
+
+ - It is a type of cybersecurity vulnerability that allows an attacker to interfere with the queries an application sends to its database.
+
+How It Works
+
+If a web application improperly handles user input, an attacker can inject malicious SQL code into a query. This can allow them to:
+
+View confidential data
+Modify or delete data
+Bypass login authentication
+etc.
+
+
+How it can happen in real world  ?
+
+One of the ideal situations is when an application asks the user for input such as username or user id. The application opened up a vulnerable spot there. The SQL statement can be run unknowingly. An attacker takes advantage by injecting a payload that to be used as a part of the SQL query and processed by the database. 
+eg in JDBC - 
+String sql= select * FROM users where
+   user_name = '" + uname + "' and password= '" + pass + "'";
+
+Statement st=cn.createStatement();
+stmt.executeQuery(sql);
+
+This code is vulnerable to SQL injection attack because the input given to the SQL statement through the variable 'uname' and 'pass' can be manipulated 
+
+
+String sql= select * from users where
+   user_name = '" + uname + "' and password= '" + pass + "' OR 1;
+
+
+
+This results in modifying the original SQL statement to a degree that enables one to bypasses authentication. This is a serious vulnerability and must be prevented from within the code.
+
+Defence Against an SQL Injection Attack
+
+
+Use PreparedStatement instead of a Statement. It sends a pre-compiled SQL statement to the database, rather than a string. This means that query and data are separately sent to the database. 
+
+This prevents the root cause of the SQL injection attack, because in SQL injection, the idea is to mix code and data wherein the data is actually a part of the code faked as  data. 
+
+In PreparedStatement, there are multiple setType() methods, such as setString(). These methods are used to filter special characters such as a quotation contained within the SQL statements.
+
+
+

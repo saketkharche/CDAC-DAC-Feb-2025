@@ -1,0 +1,87 @@
+
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.javaˆ
+Q5StudentPassFailCLASSŸ
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java("
+packageQ5StudentPassFail"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5StudentPassFail"
+accesspackage_private*Q5StudentPassFail2Õ
+ Q5StudentPassFail.main(String[])DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (Í
+ Q5StudentPassFail.main(String[])METHOD£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2á
+3Q5StudentPassFail.main(String[])?subject1@2.12:2.20CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2â
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java	 	(2á
+3Q5StudentPassFail.main(String[])?subject2@3.12:3.20CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java
+ 
+(2â
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2á
+3Q5StudentPassFail.main(String[])?subject3@4.12:4.20CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2â
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2â
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2â
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java5 (>2Ø
+%Q5StudentPassFail.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java% ()2è
+3Q5StudentPassFail.main(String[])?subject1@2.12:2.20DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2è
+3Q5StudentPassFail.main(String[])?subject2@3.12:3.20DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2è
+3Q5StudentPassFail.main(String[])?subject3@4.12:4.20DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2é
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (2¹
+voidRETURN_TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (É
+3Q5StudentPassFail.main(String[])?subject1@2.12:2.20VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">subject1</mark> = 50*subject12±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (É
+3Q5StudentPassFail.main(String[])?subject2@3.12:3.20VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">subject2</mark> = 30*subject22±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (É
+3Q5StudentPassFail.main(String[])?subject3@4.12:4.20VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">subject3</mark> = 45*subject32±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (Ë
+4Q5StudentPassFail.main(String[])?failCount@6.12:6.21VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ("
+typeint"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">failCount</mark> = 0*	failCount2±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java (ß
+%Q5StudentPassFail.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¶
+String[]TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q5StudentPassFail.java ($

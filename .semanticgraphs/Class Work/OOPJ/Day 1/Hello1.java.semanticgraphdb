@@ -1,0 +1,95 @@
+
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java˚
+Hello1CLASSw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java ("
+packageHello1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Hello1"
+accesspackage_private*Hello12ù
+Hello1.main(String[])DECLARATIONw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (ﬁ
+Hello1.main(String[])METHODw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2†
+Hello1.main(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java  (&2å
+voidRETURN_TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (˙
+Hello1.main(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2â
+String[]TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (&Ì
+AbcCLASSw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (	"
+packageAbc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>Abc"
+accesspackage_private*Abc2õ
+Abc.main1(String[])DECLARATIONw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	 	(‹
+Abc.main1(String[])METHODw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	 	("
+isFinalfalse"≥
+declarationStringù<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main1</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main12û
+Abc.main1(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	! 	('2å
+voidRETURN_TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	 	(¯
+Abc.main1(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	! 	('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2â
+String[]TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java	 	('ï
+GoodMorningCLASSw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java ("
+packageGoodMorning"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>GoodMorning"
+accesspackage_private*GoodMorning2£
+GoodMorning.main2(String[])DECLARATIONw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (Ï
+GoodMorning.main2(String[])METHODw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java ("
+isFinalfalse"≥
+declarationStringù<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main2</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main22¶
+ GoodMorning.main2(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java! ('2å
+voidRETURN_TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java (Ä
+ GoodMorning.main2(String[])!args	PARAMETERw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java! ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2â
+String[]TYPEw
+mC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 1\Hello1.java ('

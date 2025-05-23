@@ -1,0 +1,523 @@
+DAY_2_NOTES:
+MySQL:---> common for all RDBMS
+
+Sub divisions of SQL:
+1} DDL-> data definition language (create, Drop, Alter)
+2} DML-> data manipulation language (Insert, Update, Delete)
+3} DCL-> data control language (grant or Revoke permissions)
+4} DQL-> data Query language (select)
+
+
+# Extra in MySQL and oracle:-
+  Not an ANSI standard:- 
+# 5th component:--->
+DTL/TCL-> data transaction language / transaction control language (commit, Rollback, 									   savepoint)  
+DDL (rename, Truncate(delete and recommit))
+
+# Extra in oracle RDBMS only:-
+DML (Merge, Upsert(update+insert))
+
+
+IMP: ---------> TABLE IS NOT A FILE EVERY ROW IS A FILE -----------------
+
+Rules for table names. column names and Variable Names:-->
+	-max 30 character
+	-A-Z, a-z, 0-9 allowed
+	-Table name is Case Insensitive for MySQL and windows for MySQL DB under 	  		window(like emp, Emp, EMp etc)
+	-Table name is case sensitive for MySQL DB under Unix/Linux.
+	-Special character $, #, _ allowed.
+	-In MySQL, to use reserved characters such as # in tablename and column name, 		  enclose it in ` ` backquotes
+	  eg: `EMP#`    "Select" is allowed
+	-Reserved words not allowed in table name.
+	-total 134 reserved words not allowed in tablename (more details in MYSQL doc)
+	-Column could be of any type
+	
+	1| EMP2024 is allowed but 2024EMP is not allowed.
+	2| EMP$
+
+MySQL-DATATYPES:
+	1 char:
+		allows any character
+		could be alpha numeric
+		max 255 characters
+		fixed length thus searching and retrieval will be fast 
+		wastage of HD space
+		searching and retrieval will be fast 
+		eg when we store ROLL_NO, EMPNO, PANNO, AADHAR_CARD_NO, etc.
+		default width of 1, eg. GENDER char 
+
+
+	2 VarChar:
+		allows any character 
+		could be alpha numeric also
+		max 65,535 characters *(64kb - 1)
+		variable length thus searching and retrieval will be slow
+		conserve on HD space
+		eg. ENAME, ADDRESS, CITY, etc
+		no default width; width has to be specified.
+	
+	3 Longtext:
+		allows any character
+		could be alpha-numeric also
+		Max 4,294,967,295 characters (4GB-1)
+		eg. FEEDBACK, COMMENTS, REMARKS, POST, DESCRIPTION, PRODUCT_DETAILS, RESUME
+		Stored outside the table
+		Stored outside the row
+		Stored away from the table
+		Stored away from the row 
+		MySQL maintains a LOCATOR (Hard disk Pointer) from the longtext column to the longText data
+		Performance of other columns in the table is not affected
+		Not used for the coloumns that would be use for searching used for those 		 columns  that are only for storage and display purposes.
+		Width does not have to be specified
+		E.g FEEDBACK longtext(4 gb)
+		Variable length.(varchar)
+
+	4 Binary:
+		Fixed length binary string.
+		Max upto 255 bytes of Binary Data.
+		eg.: small images
+		e.g. BARCODES, QR_CODES, PICTURE_CODES, SIGNATURES, FINGERPRINTS
+		Width need not be specified
+		
+	5 Varbinary:
+		variable length binary string
+		Max upto 65,535 bytes of Binary data.
+		ICONS, GIFs with audio, THUMBNAIL, FAVICON, etc.
+		No default width; width has to be specified
+
+	BOTH OF THE ABOVE(4 and 5) ARE STORED AS CHARACTER STRINGS OF 1's AND 0's
+
+	6 BLOB- > Binary large object
+	   Longblob:
+		 max upto 4,294,967,295(4GB-1) bytes of binary data
+		 E.g. PHOTOGRAPHS, CHARTS, GRAPHS, MAPS, SOUND, MUSIC, VIDEOS, etc.
+		E.g. PHOTOGRAPH LONGBLOB
+		    Stored outside the table
+		    stored outside the row
+		    stored away from the table
+		    stored away from the row
+		MySQL maitainance of locator(hard disc pointer) by this processing speed of other columns will not be affected.
+
+	7 Integer Types(Exact value):
+		Signed or Unsigned
+		by default it is signed
+	   
+	  a} TinyInt(1 Byte)
+	  b} SmallInt(2 Byte)
+	  c} MediumInt(3 Byte)
+	  d} Int(4 bytes)
+	  e} BigInt(8 bytes)
+
+	8 Floating point types(approx. value)
+	  Float:
+		upto 7 decimals
+	  Double:
+		upto 15 decimals
+	  Fixed Point Types (Exact Value):
+	  Decimal:
+		stores double as a string 
+		e.g. "653.7"
+		max number of digits is 65
+		used when it is important to preserve the exact precision, for example  with, monetary data.
+   	
+---------------------------------------------------		   
+Delloite is a auditor of Bombay stock exchange
+----------------------------------------------------
+	
+	9 Boolean:
+		logical datatypes
+		true or false evaluate to 1 and 0, respectively
+		can insert true, false, 1 or 0
+		output will diplay 1 or 0
+		e.g., MARITAL_STATUS.
+
+	10 Date and time datatypes:
+		a} Date: 1st jan 1000 AD to 31st Dec 9999 AD
+			 No problem of Y2k in MySQL
+			 'YYYY-MM-DD' is the default data format in MySQL
+			 eg. '2024-10-09'
+			 'YY-MM-DD' is also supported
+			 Year Values in the range 70-99 are converted to 1970-1999
+			 Year values in the range 00-69 are converted to 2000-2069
+			 '2024-10-09' or '24-10-09' //OK
+			 '1947-08-15'
+			 '47-08-15'
+			 1970(cut off year)(the year when unix was launched)is known as the year of Epoch.
+			 DATE1-DATE2 -> returns the number of days between the 2 dates
+			   
+			1st jan 1000 AD -> 1
+			2nd jan 1000 AD -> 2
+			3rd jan 1000 AD -> 3
+			….
+			…
+			..
+			9th Oct 2024 AD-> 1657218
+			
+			In oracle  it store in big int (1st jan 471 BC) (Mahabharat 			   ka data can be stored)
+			Internally date is stored as a number and it occupies 7 (4bytes + 3 bytes(for time in medium int))bytes of storage. 
+			Date is stored as fixed length no. and occupies 7bytes of storage
+			 
+		b} Time: 
+			'hh:mm:ss' or 'HHH:MM:SS'
+			time values may range from '-839:59:59' to '838:59:59'
+				why 839--->1600 hr ka adha adha liya
+			TIME1-TIME2. ---->no. of hr min and sec between two
+				
+		
+		c} DateTime:
+			date and time is stored together(example attendance feature (go and  out time form one point))
+			'YYYY-MM-DD hh:mm:ss' is the default datetime format in MySQL.
+			'1000-01-01 00:00:00(12 hr fromat)' to '9999-12-31 23:59:59(24 hr format)'
+			datetime1-datetime2 -> returns number of days remainder hours, 	minute and second between the two
+	
+	11} Year: for storing year of retirement or reqruitment
+		 1901 to 2155
+	
+In MySQL:- you can have max 4096 columns per table provided 
+	   the row size <= 65,535 bytes
+	   No limit on the number of the rows per table, provided the table size <= 64 TB
+	   Largest table in the world ->
+	   ORDERS table of amazon.com -> 100's of terabytes daily
+	   In oracle there is no limit for table size.	
+
+
+PRACTICAL TIME::
+-----------------------
+
+Create table EMP
+(
+Empno char(4), Ename varchar(25),
+sal float, city varchar(15),
+Dob date
+);
+
+///////////////////////////////////
+float range -3.4 E+38 to -1.2 E38
+///////////////////////////////////
+
+output : Table created. (but in local machine)
+
+; is known as delimiter (also known as terminator)
+it indicates end of command
+
+KEY POINTS TO KNOW:
+	1 table name and column can be case sensitive in different os.
+	2 during insert order is matter
+	3 be careful during the insertion as it is case insensitive
+	4 for char for varchar date time datetime use single quotes.
+	5 'YYYY-MM-DD' is the default date format in MySQL
+	   '1995-01-15' or '95-01-15' 
+	6 78 formats of date
+	7 check there should not be any duplicates while inserting. 		
+
+
+Insert:
+------------
+insert into table_name
+values ('1', 'Amit', 5000, 'Mumbai', '1995-01-15');
+
+Recommended below one:-
+	1} Flexible
+	2} Readable
+	3} in future if we alter the table and add column, then this insert statement will continue to work.
+
+insert into emp (empno, sal, ename, city, dob)
+values ('2', 5000, 'Amit' 'Mumbai', '1995-01-15');
+
+insert into emp (empno, sal)
+values ('2', 7000);  and remaining values of columns would be null.
+
+insert into emp
+values ('3', 'Atul');      <- ERROR (not enough values)
+
+insert into emp
+values ('4', 'Atul', null, null, null);
+
+insert into emp
+values ('5', null, 5000, null ,null);    <-- last 2 values space would be zero 
+
+Null values:
+
+-null means nothing
+-null values is having ASCII value 0
+-0 is ascii value 48
+-special treatment given to null value in all RDBMS
+-null is not the same thing as blank space , null value is nothing but zero is something
+-null value is independent of data types(work with all data types)(it occupies only one byte of space/storage but null value for last 2 columns they won't occupy any space) 
+
+-those column which are likely to have a large no. of nulls it is recommended that preferably they should be specified at the end of the table structure, to conserve on HD space.	
+
+
+How to insert multiple rows in single insert statement:
+	insert into emp values
+	('1','Amit',5000,'Mumbai','1995-01-15'),
+	('2','Rohit',6000,'delhi','1990-04-20'),
+	('3','Rahul',7000,'Mumbai','1995-01-15'),
+	('4',null,8000,'null','1995-01-15');	
+
+	insert into emp(empno ,sal) values
+	('1',5000),
+	('2',6000),
+	('3',7000),
+	('4',8000);
+
+
+SELECT:
+----------
+
+select * from emp;
+select * from dept;
+
+-----> here * is meta character means all col.
+------> if I want to see only some col. we will right:--->
+select empno, ename from emp; 		<----------------|
+
+select deptno, job, ename, sal, hiredate from emp;
+
+How select works internally:
+	with the select statement, the select statement will go to server end, and some thing will happen at server RAM:1 Read --->
+		   		2 compile
+		   		3 plan --->how to execute in the server RAM
+		   		4 execute ---> output on client screen (searching)
+	and after that with the help of network the output will come on my machine(client)
+
+	Searching takes place in Data base server hard disk.
+
+select empno, ename from emp; 		<----------------|
+
+select deptno, job, ename, sal, hiredate from emp;
+
+	* the position of column in select statement will determine the position of col. in 	  the output.
+	* this you will write as per client requirements
+
+To restrict the rows:-
+	where clause:
+		select * from emp
+		where deptno = 10;
+	
+	WHERE or where clause is used for searching
+	searching takes place in DB server HD
+	WHERE clause is used to restrict the rows
+	WHERE clause is used to retrieve the rows from DB server HD to server RAM.
+
+		select * from emp
+		where sal > 2000;
+
+	RELATIONAL OPERATORS IN MYSQL:
+	      precedence      Operators
+		1. 		>
+		2. 		>=
+		3. 		<
+		4. 		<=
+		5. 		!=     or     <>
+		6. 		=      
+
+		
+		select * from emp
+		where sal > 2000 and sal < 3000;
+
+	LOGICAL OPRATORS:
+	     precendence   operator
+		1         NOT or not    
+		2         AND or and
+		3         OR or or
+
+	
+	    # any thing inside the ( ) will have higher priority
+
+		select * from emp
+		where job = 'MANAGER';    ----> here MANAGER is character column
+
+	IN MYSQL:
+	when you are searching, queries are case insensitive 
+
+	IN OTHER RDBMS:
+	When you are searching, queries are case sensitive.
+	More secure.
+
+		select * from emp
+		where job = 'MANAGER' or job ='CLERK';
+
+
+		select * from emp
+		where job = 'MANAGER' and job ='CLERK';
+
+
+		select ename, sal, sal*12 from emp;
+
+			sal*12 ---> aka computed column, virtual column, calculated column,
+					fake column, pseudo column;
+
+			working:--->1 ename , sal brought in the ram--|_____in array form
+				    2 sal*12 calculate in the RAM   --|
+				    3 Output on client screen
+
+			computed columns, e.g., yearly sal, are not saved in the table 				  because that would be a wastage of HD space as and when required u can select sal*12 nd see the yearly sal.
+
+		working: 1. ename, sal	//both the statement will be on server RAM
+			 2. sal*12
+					
+
+
+	ARITHMETIC OPERATORS:
+	    precedence	     operators
+		1.		()
+		2. 		/
+		3. 		*
+		4. 		+
+		5.		-
+		
+
+		
+	ALIAS(pronounced as elies):
+		select ename, sal, sal*12 as "ANNUAL"
+		from emp;	
+
+		# double quotes is optional 
+
+		select ename, sal , sal*12 "ANNUAL SALARY in $"
+		from emp
+	
+		#it's recommended that you should always use double quotes, the SELECT	 statement becomes a more Readable
+
+		# "as" is optional
+
+		Working for alias---> 1. ename, sal
+			    	      2. sal*12
+			              3. alias generated.
+
+		IMP:-- We cant use alias with where clause.
+			select ename, sal , sal*12 annual
+			from emp
+			where annual > 3000;   			<---ERROR
+
+
+		we can specify alias for column of table also.
+			select ename "EMPNAME",
+			 sal "SALARY",
+			 sal*12 "ANNUAL",
+			from emp;
+			  
+
+		we can't use alias as an expression.
+			select ename "EMPNAME",
+			 sal "SALARY",
+			 sal*12 "ANNUAL",
+			 sal*12*0.4 "HRA",
+			 sal*12*0.2 "DA",
+			 sal*12* + sal*12*0.4 + sal*12*0.2
+			from emp
+			
+				
+	NOTHING IS HAPPENING ON MY MACHINE EVERYTHING IS GONNA BE DONE IN SERVER.
+
+
+DONT 
+
+---->system cls to clear
+
+1} LOGIN WITH "root" USER
+2} show databases;
+3} to connect to a database
+     use <dBname>;
+4} when u install MySQL, few users are automatically created:-
+	a} root: it has DBA privileges ()
+		 create database, drop DB, alter DB, configure DB, create users, assign 		  privileges, take backups, performance monitoring, performance tuning, 		   performance planning, performance management, etc.
+	
+	b} MySQL.sys:  
+		it is over the root
+		most imp user
+		owner of database and system tables
+		job of sys user:-->startup database, shutdown database, perform recovery
+
+5} to see which users are created
+	after command: use MySQL;
+	select user from user;    ------>here user is a system table and I am  
+
+6} create new user:-
+	create user <username> identified by <password>;
+	create user amit@localhost identified by 'student'; ---->localhost is applicable 				for only in his own computer
+7} create database for new user:
+	create database <dbname>;
+	OR
+	create schema <schemaname>;
+
+	create database cdacmumbai;
+	or
+	create schema cdacmumbai;
+8} give all the permission to the new user on the databases:-
+
+	grant all privileges on cdacmumbai.* to amit@loacalhost;
+
+	//after granting permissions granting:
+
+	flush privileges;		<- will apply the privelges instantly; else it 						   reqires a database restart
+
+	//after that do exit
+	exit;
+
+9} create a short cut and login with new user and password
+
+	;;
+
+show databases;
+use cdacmumbai;
+create table emp;
+exit              <------ very important after every thing...
+
+
+
+#}
+output and commands(important) in note pad 
+
+in exercise 2----> 10 rows in each table
+
+
+	
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		::JUST FOR REFERENCE::
+
+CREATE TABLE dummyemp (
+  empno decimal(4,0) NOT NULL,
+  ename varchar(10) default NULL,
+  job varchar(9) default NULL,
+  mgr decimal(4,0) default NULL,
+  hiredate date default NULL,
+  sal decimal(7,2) default NULL,
+  comm decimal(7,2) default NULL,
+  deptno decimal(2,0) default NULL
+);
+
+DROP TABLE IF EXISTS dept;
+
+CREATE TABLE dept (
+  deptno decimal(2,0) default NULL,
+  dname varchar(14) default NULL,
+  loc varchar(13) default NULL
+);
+
+INSERT INTO dummyemp VALUES ('7369','SMITH','CLERK','7902','1980-12-17','800.00',NULL,'20');
+INSERT INTO dummyemp VALUES ('7499','ALLEN','SALESMAN','7698','1981-02-20','1600.00','300.00','30');
+INSERT INTO dummyemp VALUES ('7521','WARD','SALESMAN','7698','1981-02-22','1250.00','500.00','30');
+INSERT INTO dummyemp VALUES ('7566','JONES','MANAGER','7839','1981-04-02','2975.00',NULL,'20');
+INSERT INTO dummyemp VALUES ('7654','MARTIN','SALESMAN','7698','1981-09-28','1250.00','1400.00','30');
+INSERT INTO dummyemp VALUES ('7698','BLAKE','MANAGER','7839','1981-05-01','2850.00',NULL,'30');
+INSERT INTO dummyemp VALUES ('7782','CLARK','MANAGER','7839','1981-06-09','2450.00',NULL,'10');
+INSERT INTO dummyemp VALUES ('7788','SCOTT','ANALYST','7566','1982-12-09','3000.00',NULL,'20');
+INSERT INTO dummyemp VALUES ('7839','KING','PRESIDENT',NULL,'1981-11-17','5000.00',NULL,'10');
+INSERT INTO dummyemp VALUES ('7844','TURNER','SALESMAN','7698','1981-09-08','1500.00','0.00','30');
+INSERT INTO dummyemp VALUES ('7876','ADAMS','CLERK','7788','1983-01-12','1100.00',NULL,'20');
+INSERT INTO dummyemp VALUES ('7900','JAMES','CLERK','7698','1981-12-03','950.00',NULL,'30');
+INSERT INTO dummyemp VALUES ('7902','FORD','ANALYST','7566','1981-12-03','3000.00',NULL,'20');
+INSERT INTO dummyemp VALUES ('7934','MILLER','CLERK','7782','1982-01-23','1300.00',NULL,'10');
+
+INSERT INTO dept VALUES ('10','ACCOUNTING','NEW YORK');
+INSERT INTO dept VALUES ('20','RESEARCH','DALLAS');
+INSERT INTO dept VALUES ('30','SALES','CHICAGO');
+INSERT INTO dept VALUES ('40','OPERATIONS','BOSTON');
+
+?///////////?????????////////////????????????????????????????///////////////////////

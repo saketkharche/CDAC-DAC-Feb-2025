@@ -1,0 +1,82 @@
+JavaScript: JS is for providing functionality to the web page at the client side 
+
+Client side scripting 
+logics that are executed at the client side (browser)
+
+For JS we don't have compiler
+
+For js only the interpreter is there i.e. JS Engine
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        
+    </script>
+</body>
+</html>
+
+
+for JS everything is an object
+web page is an object
+image is an object
+every tag is also an object
+browser window is an object
+
+some of the predefined objects:
+
+document -> this object represents the entire web page
+window -> this object represents the browser's window 
+console -> this object represents the inspect window console
+with the help of this object we can log some messages on the console
+
+as a developer we don't need to declare these objects, as they are already defined 
+
+
+document.write("Hello World");
+window.alert("Hello Alert");
+
+alert();
+
+note: the properties of window object can be accessed directly without window. (without calling them on window object with member access operator)
+
+console.log("hello developers");
+
+document.write("Hello World");
+        alert("Hello Alert");
+        console.log("hello developers");
+
+variables
+
+x=6;
+developer can't decide the data type for variables 
+data types do exists but they are assigned at the runtime by looking at the value assigned
+
+in JS we only have a single type for numeric values i.e "number"
+
+in JS variables can change their type as well:
+x = 6;
+console.log(typeof x);
+x = "hello";
+console.log(typeof x);
+
+js is not a type safe lang
+
+TS -> compiler -> js 
+
+in js we don't have a separate type for character as we have in java and c c++
+
+
+
+
+
+
+
+

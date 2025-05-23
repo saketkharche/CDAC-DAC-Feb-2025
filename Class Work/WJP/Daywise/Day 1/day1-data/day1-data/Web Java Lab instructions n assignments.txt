@@ -1,0 +1,27 @@
+Day 1
+0. day1.1 project does not use any layers , it was just created for JDBC introduction.
+
+1. import day1.2 in your new (web java workspace) .
+Edit DB password from DBUtils.
+Edit mysql connector(JDBC driver) path.
+
+2. We will walk through the code together n solve your queries
+
+3. Discuss n solve
+3.1 Voter registration
+i/p - fn,ln,email,pwd,dob (can add optional validation : age > 21) 
+o/p - mesg (success|failed)
+
+3.2 Change password
+i/p - email , old password , new password
+o/p - message (success|failed)
+
+3.3 Delete user details
+i/p - voter id
+o/p - message
+
+
+
+4. Reading H.W
+Go through daily sequence n revise JDBC concepts , API n implementation.
+ 

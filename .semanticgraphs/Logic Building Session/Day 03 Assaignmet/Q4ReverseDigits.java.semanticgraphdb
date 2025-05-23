@@ -1,0 +1,76 @@
+
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java‡
+Q4ReverseDigitsCLASSê
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java("
+packageQ4ReverseDigits"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>Q4ReverseDigits"
+accesspackage_private*Q4ReverseDigits2ƒ
+Q4ReverseDigits.main(String[])DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (è
+Q4ReverseDigits.main(String[])METHODî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+,Q4ReverseDigits.main(String[])?num@2.12:2.15CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2À
+,Q4ReverseDigits.main(String[])?num@2.12:2.15CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2”
+4Q4ReverseDigits.main(String[])?reversedNum@3.12:3.23CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2”
+4Q4ReverseDigits.main(String[])?reversedNum@3.12:3.23CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (%2Õ
+.Q4ReverseDigits.main(String[])?digit@6.16:6.21CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java- (22À
+,Q4ReverseDigits.main(String[])?num@2.12:2.15CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2”
+4Q4ReverseDigits.main(String[])?reversedNum@3.12:3.23CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java1 (<2«
+#Q4ReverseDigits.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java% ()2“
+,Q4ReverseDigits.main(String[])?num@2.12:2.15DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2⁄
+4Q4ReverseDigits.main(String[])?reversedNum@3.12:3.23DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2‘
+.Q4ReverseDigits.main(String[])?digit@6.16:6.21DECLARATIONî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2™
+voidRETURN_TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (ú
+,Q4ReverseDigits.main(String[])?num@2.12:2.15VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 1234*num2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (±
+4Q4ReverseDigits.main(String[])?reversedNum@3.12:3.23VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">reversedNum</mark> = 0*reversedNum2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (Ù
+.Q4ReverseDigits.main(String[])?digit@6.16:6.21VARIABLEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">digit</mark> = num % 10*digit2¢
+intTYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (2À
+,Q4ReverseDigits.main(String[])?num@2.12:2.15CALLî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java (ø
+#Q4ReverseDigits.main(String[])!args	PARAMETERî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ß
+String[]TYPEî
+âC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q4ReverseDigits.java ($

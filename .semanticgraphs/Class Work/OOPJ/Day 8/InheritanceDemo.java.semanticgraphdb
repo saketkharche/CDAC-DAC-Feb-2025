@@ -1,0 +1,138 @@
+
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.javaÖ
+ParentCLASS|
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java("
+packageParent"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Parent"
+accesspackage_private*Parent2¢
+Parent?x@1.5:1.6DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (Ä
+Parent?x@1.5:1.6VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = 10;"
+isStaticfalse"
+accesspackage_private*x2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (…
+ChildCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java ("
+packageChild"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Child<mark class="modifier"> extends </mark>Parent"
+accesspackage_private*Child2°
+Child?y@5.5:5.6DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ì
+ParentEXTENDÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (ˇ
+Child?y@5.5:5.6VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark> = 20;"
+isStaticfalse"
+accesspackage_private*y2é
+intTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (º
+InheritanceDemoCLASSÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java	 	("
+packageInheritanceDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>InheritanceDemo"
+accesspackage_private*InheritanceDemo2∞
+InheritanceDemo.main(String[])DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+ 
+(Ω
+InheritanceDemo.main(String[])METHODÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+ 
+("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+Parent.Parent()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ò
+Child.Child()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ò
+Child.Child()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2∑
+,InheritanceDemo.main(String[])?p1@12.9:12.11CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2µ
+*InheritanceDemo.main(String[])?c@16.8:16.9CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2µ
+*InheritanceDemo.main(String[])?c@16.8:16.9CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2∂
++InheritanceDemo.main(String[])?p@21.9:21.10CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2∂
++InheritanceDemo.main(String[])?p@21.9:21.10CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2≥
+#InheritanceDemo.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+  
+(&2æ
+,InheritanceDemo.main(String[])?p1@12.9:12.11DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java	 (2º
+*InheritanceDemo.main(String[])?c@16.8:16.9DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (	2Ω
++InheritanceDemo.main(String[])?p@21.9:21.10DECLARATIONÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java	 (
+2ñ
+voidRETURN_TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+ 
+(Å
+,InheritanceDemo.main(String[])?p1@12.9:12.11VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java	 ("
+typeParent"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>Parent <mark class="class-field">p1</mark> = new Parent()*p12ë
+ParentTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ö
+Parent.Parent()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (˜
+*InheritanceDemo.main(String[])?c@16.8:16.9VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (	"
+typeChild"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Child <mark class="class-field">c</mark> = new Child()*c2ê
+ChildTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ò
+Child.Child()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (˚
++InheritanceDemo.main(String[])?p@21.9:21.10VARIABLEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java	 (
+"
+typeParent"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Parent <mark class="class-field">p</mark> = new Child()*p2ë
+ParentTYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (2ò
+Child.Child()CALLÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java (ó
+#InheritanceDemo.main(String[])!args	PARAMETERÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+  
+(&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ì
+String[]TYPEÄ
+vC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo.java
+ 
+(&

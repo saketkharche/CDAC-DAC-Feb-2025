@@ -1,0 +1,85 @@
+
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.javaÉ
+Q25ReverseIntegerCLASSƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ("
+packageQ25ReverseInteger"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>Q25ReverseInteger"
+accesspublic*Q25ReverseInteger2µ
+ Q25ReverseInteger.main(String[])DECLARATIONƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (ê
+ Q25ReverseInteger.main(String[])METHODƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2»
+-Q25ReverseInteger.main(String[])?sc@4.16:4.18CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2¼
+.Q25ReverseInteger.main(String[])?num@8.12:8.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2¾
+0Q25ReverseInteger.main(String[])?rev@10.12:10.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2¾
+0Q25ReverseInteger.main(String[])?rev@10.12:10.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2¼
+.Q25ReverseInteger.main(String[])?num@8.12:8.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ( 2¼
+.Q25ReverseInteger.main(String[])?num@8.12:8.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2¾
+0Q25ReverseInteger.main(String[])?rev@10.12:10.15CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java1 (42»
+-Q25ReverseInteger.main(String[])?sc@4.16:4.18CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (
+2¸
+%Q25ReverseInteger.main(String[])!args	PARAMETERƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java% ()2Â
+-Q25ReverseInteger.main(String[])?sc@4.16:4.18DECLARATIONƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2Ã
+.Q25ReverseInteger.main(String[])?num@8.12:8.15DECLARATIONƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2Å
+0Q25ReverseInteger.main(String[])?rev@10.12:10.15DECLARATIONƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java
+ 
+(2™
+voidRETURN_TYPEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (‚
+-Q25ReverseInteger.main(String[])?sc@4.16:4.18VARIABLEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2Ÿ
+java.util.ScannerTYPEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (Â
+.Q25ReverseInteger.main(String[])?num@8.12:8.15VARIABLEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ("
+typeint"
+isFinalfalse"‰
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = sc.nextInt()*num2‘
+intTYPEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (2»
+-Q25ReverseInteger.main(String[])?sc@4.16:4.18CALLƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java (ú
+0Q25ReverseInteger.main(String[])?rev@10.12:10.15VARIABLEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java
+ 
+("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rev</mark> = 0*rev2‘
+intTYPEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java
+ 
+(Ÿ
+%Q25ReverseInteger.main(String[])!args	PARAMETERƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2–
+String[]TYPEƒ
+yC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q25ReverseInteger.java ($

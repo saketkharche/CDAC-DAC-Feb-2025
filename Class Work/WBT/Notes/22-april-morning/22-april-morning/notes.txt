@@ -1,0 +1,136 @@
+Application/Software:
+
+Types:
+Desktop apps: notepad, ms office, code editor
+Web apps: flipkart, amazon, myntra, fb, youtube 
+mobile apps
+
+
+Web apps development
+
+How web app works
+
+1. Client
+2. Server
+
+Noodles
+
+Restaurant-> Server 
+Customer -> client
+
+
+Web app-> live 
+
+ip address : unique address of a device on a network
+
+192.168.10.13.1
+
+
+host a web app
+domain name : flipkart.com, amazon.in
+
+Server & client
+
+Server is just another computer system
+
+Its the server on which a web app will be executing
+Server will be containing your entire application
+
+
+Browser send a request to server (client)
+Server -> will accept and process the request, once processing is done then 
+it will send a response 
+
+development on local machine -> host the app on server 
+
+end users -> browser -> server 
+
+Development:
+Two aspects are there for web development:
+1. Frontend: UI -> display 
+   
+   HTML: structure a web page 
+	HTML is used to display data into web page 
+	
+   CSS : will style a web page
+   JS:  to perform operations onto the client side/browser 
+   livescript
+
+   React, Angular, Vue, 
+  
+
+2. Backend : Database -> store the data 
+	     Processing of the data 
+
+   Database: MySQL, mongodb, postgre, sql server, Cassandra, etc
+   Process the data: JavaScript
+   Node js is an interpreter 
+   Express 
+
+
+Registration form:
+
+
+Frontend: write logic to display form with input fields, and one submit button
+Backend: process the data -> store into database -> send a response to the client 
+
+Login Form:
+
+Frontend: to display the fields for username password and button
+Backend: validation of the received username and password 
+from request with the db username and password 
+
+
+
+
+Eery browser is having one component that executes the js code: JS Engine
+
+interpreter executes the code 
+
+google chrome: v8 engine
+firefox: spydermonkey
+
+
+MongoDb/MySQL -> M
+Express -> E
+React -> R/A
+Node Js -> N
+
+MERN 
+MEAN
+
+
+Technical Specifications of Request and Response:
+
+Regardless of the technology we are using to develop backend, the specification is going to
+remain the same 
+W3C has designed all the specs for request and response 
+
+Specs for request:
+
+1. We need a url to send a request (endpoint)
+2. mention the purpose for sending the request
+   w3c has created certain request methods : GET POST PUT DELETE PATCH 
+   if we haven't specified any request method explicitly then GET will be considered by default
+   
+ip address
+
+myapp.com -> translated into ip address DNS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

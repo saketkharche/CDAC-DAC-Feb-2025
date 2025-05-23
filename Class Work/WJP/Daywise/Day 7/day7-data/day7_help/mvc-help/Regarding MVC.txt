@@ -1,0 +1,25 @@
+What is MVC ?
+Model-View-Controller 
+
+It is a standard industry grade design pattern , meant for clear cut (pre defined) separation of concerns(=tasks=responsibilities)
+
+In Custom implementation(done by programmer) of the MVC pattern : 
+
+Model -- Business logic layer (service layer) java bean & POJOs
+View layer --JSP , Thymeleaf/Velocity/Angular/React/Vue/Next JS
+Represents UI / presentation logic  (processing requests & generating response)
+
+Controller -- Typically a servlet(used in Spring MVC ) or a filter(used in Struts 2 framework)
+Manages navigation(routing)  & beans.
+
+Front Controller - 
+It's an additional design pattern , along with MVC .
+
+Job -
+To intercept  ANY request coming from ANY client , 
+
+Works as = common gate keeper(or a centralized dispatcher or entry point of  MVC)
+It will dispatch client requests to further components , based upon nature of the request
+MVC flow 
+
+Understand with a diagram.

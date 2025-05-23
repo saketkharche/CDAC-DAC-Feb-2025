@@ -1,0 +1,799 @@
+
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÌ
+
+LinkedListCLASSÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+package
+LinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>LinkedList"
+accesspackage_private*
+LinkedList2∑
+!LinkedList.insertAtBeginning(int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (!2±
+LinkedList.insertAtEnd(int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ª
+%LinkedList.insertAtPosition(int, int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java& &( 2≥
+LinkedList.deleteByValue(int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6 6(2∂
+ LinkedList.deleteFromBeginning()DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaE E(#2∞
+LinkedList.deleteFromEnd()DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaJ J(2™
+LinkedList.display()DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaW W(2¨
+LinkedList.search(int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a(2™
+LinkedList.reverse()DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javak k(2©
+LinkedList.length()DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaw w(2Ø
+LinkedList.findMiddle()DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÇ Ç(2Ø
+LinkedList.detectLoop()DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaå å(2±
+LinkedList.main(String[])DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó ó(2Æ
+LinkedList?head@2.9:2.13DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java	 (2•
+LinkedList.NodeDECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ (¬
+!LinkedList.insertAtBeginning(int)METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (!"
+isFinalfalse"≥
+declarationStringù<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">insertAtBeginning</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*insertAtBeginning2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2µ
+&LinkedList.insertAtBeginning(int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($2ƒ
+5LinkedList.insertAtBeginning(int)?newNode@18.13:18.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ƒ
+5LinkedList.insertAtBeginning(int)?newNode@18.13:18.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2∫
+&LinkedList.insertAtBeginning(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java& (*2À
+5LinkedList.insertAtBeginning(int)?newNode@18.13:18.20DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (È
+5LinkedList.insertAtBeginning(int)?newNode@18.13:18.20VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">newNode</mark> = new Node(data)*newNode2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2µ
+&LinkedList.insertAtBeginning(int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($±
+&LinkedList.insertAtBeginning(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java& (*"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java" (%˘
+LinkedList.insertAtEnd(int)METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+isFinalfalse"≠
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">insertAtEnd</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*insertAtEnd2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2Ø
+ LinkedList.insertAtEnd(int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2æ
+/LinkedList.insertAtEnd(int)?newNode@25.13:25.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ª
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ª
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java   (2ª
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java   (2ª
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java" "(2æ
+/LinkedList.insertAtEnd(int)?newNode@25.13:25.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java" "(2¥
+ LinkedList.insertAtEnd(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($2≈
+/LinkedList.insertAtEnd(int)?newNode@25.13:25.20DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2¬
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (›
+/LinkedList.insertAtEnd(int)?newNode@25.13:25.20VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">newNode</mark> = new Node(data)*newNode2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2Ø
+ LinkedList.insertAtEnd(int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($ó
+,LinkedList.insertAtEnd(int)?temp@30.13:30.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (´
+ LinkedList.insertAtEnd(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java  ($"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (ü'
+%LinkedList.insertAtPosition(int, int)METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java& &( "
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">insertAtPosition</mark>(<mark class="modifier">int</mark> data<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> position)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*insertAtPosition2∞
+!LinkedList.insertAtBeginning(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java( ((2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+ +(2Ω
+.LinkedList.insertAtPosition(int, int)!positionCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java' '(2π
+*LinkedList.insertAtPosition(int, int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java( (("2π
+*LinkedList.insertAtPosition(int, int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+  +($2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java, ,(2¬
+3LinkedList.insertAtPosition(int, int)?i@45.17:45.18CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java- -(2Ω
+.LinkedList.insertAtPosition(int, int)!positionCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java- -($2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java-, -(02¬
+3LinkedList.insertAtPosition(int, int)?i@45.17:45.18CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java-: -(;2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java. .(2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java. .(2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java0 0(2»
+9LinkedList.insertAtPosition(int, int)?newNode@43.13:43.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java1 1(2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java1 1(2≈
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java2 2(2»
+9LinkedList.insertAtPosition(int, int)?newNode@43.13:43.20CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java2 2(2æ
+*LinkedList.insertAtPosition(int, int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&% &()2¬
+.LinkedList.insertAtPosition(int, int)!position	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&/ &(72œ
+9LinkedList.insertAtPosition(int, int)?newNode@43.13:43.20DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+ +(2Ã
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java, ,(2…
+3LinkedList.insertAtPosition(int, int)?i@45.17:45.18DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java- -(2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java& &(Ò
+9LinkedList.insertAtPosition(int, int)?newNode@43.13:43.20VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+ +("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">newNode</mark> = new Node(data)*newNode2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+ +(2®
+LinkedList.Node.Node(int)CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+ +(2π
+*LinkedList.insertAtPosition(int, int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java+  +($°
+6LinkedList.insertAtPosition(int, int)?temp@44.13:44.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java, ,("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java, ,(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java, ,(˚
+3LinkedList.insertAtPosition(int, int)?i@45.17:45.18VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java- -("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java- -(µ
+*LinkedList.insertAtPosition(int, int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&% &()"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&! &($¡
+.LinkedList.insertAtPosition(int, int)!position	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&/ &(7"
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> position*position2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java&+ &(.‹
+LinkedList.deleteByValue(int)METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6 6("
+isFinalfalse"Æ
+declarationStringò<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deleteByValue</mark>(<mark class="modifier">int</mark> key)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deleteByValue2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java7 7(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java8 8(2∞
+!LinkedList.deleteByValue(int)!keyCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java8 8(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java9 9(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java9 9(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java< <(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java= =(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java=$ =((2∞
+!LinkedList.deleteByValue(int)!keyCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java=6 =(92Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java> >(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java> >(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java@ @(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaA A(2Ω
+.LinkedList.deleteByValue(int)?temp@60.13:60.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaA A(2µ
+!LinkedList.deleteByValue(int)!key	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6" 6(%2ƒ
+.LinkedList.deleteByValue(int)?temp@60.13:60.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java< <(2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6 6(ô
+.LinkedList.deleteByValue(int)?temp@60.13:60.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java< <("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java< <(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java< <(™
+!LinkedList.deleteByValue(int)!key	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6" 6(%"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> key*key2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java6 6(!Ã
+ LinkedList.deleteFromBeginning()METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaE E(#"
+isFinalfalse"é
+declarationStringy<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deleteFromBeginning</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deleteFromBeginning2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaF F(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaF F(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaF! F(%2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaE E(ú
+LinkedList.deleteFromEnd()METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaJ J("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deleteFromEnd</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deleteFromEnd2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaK K(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaK K( 2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaL L(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaO O(2∫
++LinkedList.deleteFromEnd()?temp@79.13:79.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaP P(2∫
++LinkedList.deleteFromEnd()?temp@79.13:79.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaQ Q(2∫
++LinkedList.deleteFromEnd()?temp@79.13:79.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaQ Q(2∫
++LinkedList.deleteFromEnd()?temp@79.13:79.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaS S(2¡
++LinkedList.deleteFromEnd()?temp@79.13:79.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaO O(2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaJ J(ñ
++LinkedList.deleteFromEnd()?temp@79.13:79.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaO O("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaO O(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaO O(Ó
+LinkedList.display()METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaW W("
+isFinalfalse"Ç
+declarationStringm<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*display2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaX X(2¥
+%LinkedList.display()?temp@88.13:88.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaY Y(2¥
+%LinkedList.display()?temp@88.13:88.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaZ Z(!2¥
+%LinkedList.display()?temp@88.13:88.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java[ [(2¥
+%LinkedList.display()?temp@88.13:88.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java[ [(2ª
+%LinkedList.display()?temp@88.13:88.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaX X(2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaW W(ê
+%LinkedList.display()?temp@88.13:88.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaX X("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaX X(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaX X(Ñ
+LinkedList.search(int)METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a("
+isFinalfalse"™
+declarationStringî<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">search</mark>(<mark class="modifier">int</mark> key)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*search2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javab b(2∂
+'LinkedList.search(int)?temp@98.13:98.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javac c(2∂
+'LinkedList.search(int)?temp@98.13:98.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javad d(2©
+LinkedList.search(int)!keyCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javad d( 2∂
+'LinkedList.search(int)?temp@98.13:98.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javae e(2∂
+'LinkedList.search(int)?temp@98.13:98.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javae e(2Æ
+LinkedList.search(int)!key	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a(!2Ω
+'LinkedList.search(int)?temp@98.13:98.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javab b(2ù
+booleanRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a(í
+'LinkedList.search(int)?temp@98.13:98.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javab b("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javab b(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javab b(£
+LinkedList.search(int)!key	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a(!"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> key*key2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaa a(¯
+LinkedList.reverse()METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javak k("
+isFinalfalse"Ç
+declarationStringm<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">reverse</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*reverse2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal! l(%2∂
+'LinkedList.reverse()?curr@108.26:108.30CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javam m(2∂
+'LinkedList.reverse()?next@108.39:108.43CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javan n(2∂
+'LinkedList.reverse()?curr@108.26:108.30CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javan n(2∂
+'LinkedList.reverse()?curr@108.26:108.30CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javao o(2∂
+'LinkedList.reverse()?prev@108.13:108.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javao o(2∂
+'LinkedList.reverse()?prev@108.13:108.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javap p(2∂
+'LinkedList.reverse()?curr@108.26:108.30CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javap p(2∂
+'LinkedList.reverse()?curr@108.26:108.30CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaq q(2∂
+'LinkedList.reverse()?next@108.39:108.43CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaq q(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javas s(2∂
+'LinkedList.reverse()?prev@108.13:108.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javas s(2Ω
+'LinkedList.reverse()?prev@108.13:108.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l(2Ω
+'LinkedList.reverse()?curr@108.26:108.30DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l(2Ω
+'LinkedList.reverse()?next@108.39:108.43DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal' l(+2ö
+voidRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javak k(π
+'LinkedList.reverse()?prev@108.13:108.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l("
+typeNode"
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark>Node <mark class="class-field">prev</mark> = <mark class="modifier">null</mark><mark class="modifier">,</mark> curr = head, next*prev2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l(„
+'LinkedList.reverse()?curr@108.26:108.30VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l("
+typeNode"
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark>Node <mark class="class-field">curr</mark> = <mark class="modifier">null</mark><mark class="modifier">,</mark> curr = head, next*curr2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal! l(%π
+'LinkedList.reverse()?next@108.39:108.43VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal' l(+"
+typeNode"
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark>Node <mark class="class-field">next</mark> = <mark class="modifier">null</mark><mark class="modifier">,</mark> curr = head, next*next2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javal l(Á
+LinkedList.length()METHODÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaw w("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">length</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*length2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javay y(2µ
+&LinkedList.length()?temp@121.13:121.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaz z(2∂
+'LinkedList.length()?count@120.12:120.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java{ {(2µ
+&LinkedList.length()?temp@121.13:121.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java| |(2µ
+&LinkedList.length()?temp@121.13:121.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java| |(2∂
+'LinkedList.length()?count@120.12:120.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java~ ~(2Ω
+'LinkedList.length()?count@120.12:120.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javax x(2º
+&LinkedList.length()?temp@121.13:121.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javay y(2ô
+intRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaw w(¯
+'LinkedList.length()?count@120.12:120.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javax x("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javax x(ë
+&LinkedList.length()?temp@121.13:121.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javay y("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javay y(2ß
+LinkedList?head@2.9:2.13CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javay y(»
+LinkedList.findMiddle()METHODÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÇ Ç("
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">findMiddle</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*
+findMiddle2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ! É(%2ª
+*LinkedList.findMiddle()?fast@131.26:131.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÑ Ñ(2ª
+*LinkedList.findMiddle()?fast@131.26:131.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÑ Ñ(#2ª
+*LinkedList.findMiddle()?slow@131.13:131.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÖ Ö(2ª
+*LinkedList.findMiddle()?slow@131.13:131.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÖ Ö(2ª
+*LinkedList.findMiddle()?fast@131.26:131.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÜ Ü(2ª
+*LinkedList.findMiddle()?fast@131.26:131.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÜ Ü(2ª
+*LinkedList.findMiddle()?slow@131.13:131.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaà à(2¬
+*LinkedList.findMiddle()?slow@131.13:131.17DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(2¬
+*LinkedList.findMiddle()?fast@131.26:131.30DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(2õ
+intRETURN_TYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÇ Ç(®
+*LinkedList.findMiddle()?slow@131.13:131.17VARIABLEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">slow</mark> = head, fast = head*slow2†
+LinkedList.NodeTYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(®
+*LinkedList.findMiddle()?fast@131.26:131.30VARIABLEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">fast</mark> = head, fast = head*fast2†
+LinkedList.NodeTYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ É(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÉ! É(%í
+LinkedList.detectLoop()METHODÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaå å("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">detectLoop</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*
+detectLoop2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç! ç(%2ª
+*LinkedList.detectLoop()?fast@141.26:141.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaé é(2ª
+*LinkedList.detectLoop()?fast@141.26:141.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaé é(#2ª
+*LinkedList.detectLoop()?slow@141.13:141.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaè è(2ª
+*LinkedList.detectLoop()?slow@141.13:141.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaè è(2ª
+*LinkedList.detectLoop()?fast@141.26:141.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaê ê(2ª
+*LinkedList.detectLoop()?fast@141.26:141.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaê ê(2ª
+*LinkedList.detectLoop()?slow@141.13:141.17CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaë ë(2ª
+*LinkedList.detectLoop()?fast@141.26:141.30CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaë ë(2¬
+*LinkedList.detectLoop()?slow@141.13:141.17DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(2¬
+*LinkedList.detectLoop()?fast@141.26:141.30DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(2ü
+booleanRETURN_TYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaå å(®
+*LinkedList.detectLoop()?slow@141.13:141.17VARIABLEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">slow</mark> = head, fast = head*slow2†
+LinkedList.NodeTYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(®
+*LinkedList.detectLoop()?fast@141.26:141.30VARIABLEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">fast</mark> = head, fast = head*fast2†
+LinkedList.NodeTYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç ç(2©
+LinkedList?head@2.9:2.13CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaç! ç(%»"
+LinkedList.main(String[])METHODÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó ó("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2®
+LinkedList.LinkedList()CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaò ò((2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaõ õ(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaú ú(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaù ù(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaü ü(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java¢ ¢(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java§ §(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaß ß(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java© ©(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java¨ ¨(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaÆ Æ(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java± ±(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java≥ ≥(2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java∂3 ∂(72Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java∑4 ∑(82Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java∫7 ∫(;2Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaΩ0 Ω(42Ω
+,LinkedList.main(String[])?list@152.19:152.23CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java¿/ ¿(32¥
+LinkedList.main(String[])!args	PARAMETERÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó% ó()2ƒ
+,LinkedList.main(String[])?list@152.19:152.23DECLARATIONÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaò ò(2ú
+voidRETURN_TYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó ó(Ø
+,LinkedList.main(String[])?list@152.19:152.23VARIABLEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaò ò("
+type
+LinkedList"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>LinkedList <mark class="class-field">list</mark> = new LinkedList()*list2õ
+
+LinkedListTYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaò ò(2®
+LinkedList.LinkedList()CALLÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaò ò((û
+LinkedList.main(String[])!args	PARAMETERÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó% ó()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ô
+String[]TYPEÜ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.javaó ó($Ä
+LinkedList?head@2.9:2.13VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java	 ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">head</mark>"
+isStaticfalse"
+accesspackage_private*head2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (ë
+LinkedList.NodeCLASSÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ ("
+package
+LinkedList"
+isFinalfalse"
+inner classtrue"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2Ø
+LinkedList.Node.Node(int)DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+(2¥
+LinkedList.Node?data@6.12:6.16DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2¥
+LinkedList.Node?next@7.13:7.17DECLARATIONÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (†	
+LinkedList.Node.Node(int)CONSTRUCTORÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2≠
+LinkedList.Node.Node(int)!dataCALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2≠
+LinkedList.Node?data@6.12:6.16CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2≠
+LinkedList.Node?next@7.13:7.17CALLÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (2≤
+LinkedList.Node.Node(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+(2•
+LinkedList.NodeRETURN_TYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+(©
+LinkedList.Node.Node(int)!data	PARAMETERÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java
+ 
+(ñ
+LinkedList.Node?data@6.12:6.16VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2í
+intTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (Ü
+LinkedList.Node?next@7.13:7.17VARIABLEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2û
+LinkedList.NodeTYPEÑ
+zC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/LinkedListDemo.java (

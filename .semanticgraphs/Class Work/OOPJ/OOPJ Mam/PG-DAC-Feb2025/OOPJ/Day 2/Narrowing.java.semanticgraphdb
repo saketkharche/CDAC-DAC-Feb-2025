@@ -1,0 +1,61 @@
+
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.javaŒ
+	NarrowingCLASSò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java ("
+package	Narrowing"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>Narrowing"
+accesspackage_private*	Narrowing2¬
+Narrowing.main(String[])DECLARATIONò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java («
+Narrowing.main(String[])METHODò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∆
+#Narrowing.main(String[])?d@5.9:5.10CALLò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (2∆
+#Narrowing.main(String[])?d@5.9:5.10CALLò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (2«
+$Narrowing.main(String[])?num@6.6:6.9CALLò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java	 	(2≈
+Narrowing.main(String[])!args	PARAMETERò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java  (&2Õ
+#Narrowing.main(String[])?d@5.9:5.10DECLARATIONò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java	 (
+2Œ
+$Narrowing.main(String[])?num@6.6:6.9DECLARATIONò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (	2Æ
+voidRETURN_TYPEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (£
+#Narrowing.main(String[])?d@5.9:5.10VARIABLEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java	 (
+"
+typedouble"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">d</mark> = 9999.99*d2©
+doubleTYPEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (á
+$Narrowing.main(String[])?num@6.6:6.9VARIABLEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (	"
+typeint"
+isFinalfalse"£
+declarationStringç<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = (<mark class="modifier">int</mark>) d*num2¶
+intTYPEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (2∆
+#Narrowing.main(String[])?d@5.9:5.10CALLò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (¡
+Narrowing.main(String[])!args	PARAMETERò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2´
+String[]TYPEò
+çC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 2\Narrowing.java (&

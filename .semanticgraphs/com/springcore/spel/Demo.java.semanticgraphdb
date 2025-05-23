@@ -1,0 +1,270 @@
+
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.javaÅ!
+com.springcore.spel.DemoCLASS¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+packagecom.springcore.spel"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ë
+declarationString|<mark class="annotation">@Component</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>Demo"
+accesspublic*Demo2Ò
+com.springcore.spel.Demo.getX()DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2Ù
+"com.springcore.spel.Demo.setX(int)DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2Ò
+com.springcore.spel.Demo.getY()DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java! !(2Ù
+"com.springcore.spel.Demo.setY(int)DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $(2Ò
+com.springcore.spel.Demo.getZ()DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java* *(2˜
+%com.springcore.spel.Demo.setZ(double)DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -(2Ò
+com.springcore.spel.Demo.getE()DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java2 2(2˜
+%com.springcore.spel.Demo.setE(double)DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5(2ı
+#com.springcore.spel.Demo.toString()DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java: :(2ˆ
+$com.springcore.spel.Demo?x@9.13:9.14DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 	(2¯
+&com.springcore.spel.Demo?y@12.13:12.14DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2¯
+&com.springcore.spel.Demo?z@15.16:15.17DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2¯
+&com.springcore.spel.Demo?e@18.16:18.17DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2˚
+)com.springcore.spel.Demo?name@22.16:22.20DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2ˇ
+-com.springcore.spel.Demo?isActive@25.17:25.25DECLARATION¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (ï
+com.springcore.spel.Demo.getX()METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getX</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getX2Ô
+$com.springcore.spel.Demo?x@9.13:9.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (
+2’
+intRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (©
+"com.springcore.spel.Demo.setX(int)METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setX</mark>(<mark class="modifier">int</mark> x)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setX2Ô
+$com.springcore.spel.Demo.setX(int)!xCALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2Ô
+$com.springcore.spel.Demo?x@9.13:9.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2Ù
+$com.springcore.spel.Demo.setX(int)!x	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (2÷
+voidRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (°
+$com.springcore.spel.Demo.setX(int)!x	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2Œ
+intTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java (ó
+com.springcore.spel.Demo.getY()METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java! !("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getY</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getY2Ò
+&com.springcore.spel.Demo?y@12.13:12.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java"	 "(
+2’
+intRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java! !(´
+"com.springcore.spel.Demo.setY(int)METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setY</mark>(<mark class="modifier">int</mark> y)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setY2Ô
+$com.springcore.spel.Demo.setY(int)!yCALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java% %(2Ò
+&com.springcore.spel.Demo?y@12.13:12.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java% %(2Ù
+$com.springcore.spel.Demo.setY(int)!y	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $(2÷
+voidRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $(°
+$com.springcore.spel.Demo.setY(int)!y	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2Œ
+intTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java$ $(°
+com.springcore.spel.Demo.getZ()METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java* *("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getZ</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*getZ2Ò
+&com.springcore.spel.Demo?z@15.16:15.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java+	 +(
+2ÿ
+doubleRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java* *(∑
+%com.springcore.spel.Demo.setZ(double)METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -("
+isFinalfalse"¶
+declarationStringê<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setZ</mark>(<mark class="modifier">double</mark> z)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setZ2Ú
+'com.springcore.spel.Demo.setZ(double)!zCALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java. .(2Ò
+&com.springcore.spel.Demo?z@15.16:15.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java. .(2˜
+'com.springcore.spel.Demo.setZ(double)!z	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -(2÷
+voidRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -(≠
+'com.springcore.spel.Demo.setZ(double)!z	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -("
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> z*z2—
+doubleTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java- -(°
+com.springcore.spel.Demo.getE()METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java2 2("
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getE</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*getE2Ò
+&com.springcore.spel.Demo?e@18.16:18.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java3	 3(
+2ÿ
+doubleRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java2 2(∑
+%com.springcore.spel.Demo.setE(double)METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5("
+isFinalfalse"¶
+declarationStringê<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setE</mark>(<mark class="modifier">double</mark> e)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setE2Ú
+'com.springcore.spel.Demo.setE(double)!eCALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java6 6(2Ò
+&com.springcore.spel.Demo?e@18.16:18.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java6 6(2˜
+'com.springcore.spel.Demo.setE(double)!e	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5(2÷
+voidRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5(≠
+'com.springcore.spel.Demo.setE(double)!e	PARAMETER¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5("
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> e*e2—
+doubleTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java5 5(î
+#com.springcore.spel.Demo.toString()METHOD¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java: :("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Ô
+$com.springcore.spel.Demo?x@9.13:9.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java; ;(2Ò
+&com.springcore.spel.Demo?y@12.13:12.14CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java;# ;($2Ò
+&com.springcore.spel.Demo?z@15.16:15.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java;0 ;(12Ò
+&com.springcore.spel.Demo?e@18.16:18.17CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java;= ;(>2Ù
+)com.springcore.spel.Demo?name@22.16:22.20CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java;M ;(Q2¯
+-com.springcore.spel.Demo?isActive@25.17:25.25CALL¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java;d ;(l2‚
+java.lang.StringRETURN_TYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java: :(ç
+$com.springcore.spel.Demo?x@9.13:9.14VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 	("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark>"
+isStaticfalse"
+accessprivate*x2Œ
+intTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java		 	(è
+&com.springcore.spel.Demo?y@12.13:12.14VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark>"
+isStaticfalse"
+accessprivate*y2Œ
+intTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (ô
+&com.springcore.spel.Demo?z@15.16:15.17VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"
+typedouble"Ç
+declarationStringm<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">z</mark>"
+isStaticfalse"
+accessprivate*z2—
+doubleTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (ô
+&com.springcore.spel.Demo?e@18.16:18.17VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"
+typedouble"Ç
+declarationStringm<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">e</mark>"
+isStaticfalse"
+accessprivate*e2—
+doubleTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (ç
+)com.springcore.spel.Demo?name@22.16:22.20VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accessprivate*name2€
+java.lang.StringTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (±
+-com.springcore.spel.Demo?isActive@25.17:25.25VARIABLE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java ("
+isFinalfalse"
+typeboolean"ä
+declarationStringu<mark class="modifier">private </mark><mark class="modifier">boolean</mark> <mark class="class-field">isActive</mark>"
+isStaticfalse"
+accessprivate*isActive2“
+booleanTYPE¿
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\spel\Demo.java	 (

@@ -1,0 +1,63 @@
+
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java°
+Q7Multiplication_TableCLASSü
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java("!
+packageQ7Multiplication_Table"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q7Multiplication_Table"
+accesspackage_private*Q7Multiplication_Table2⁄
+%Q7Multiplication_Table.main(String[])DECLARATION£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (ù
+%Q7Multiplication_Table.main(String[])METHOD£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ﬂ
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (2ﬂ
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (2›
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (2ﬂ
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java% (&2›
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java2 (32ﬂ
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALL£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java6 (72›
+*Q7Multiplication_Table.main(String[])!args	PARAMETER£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java# ('2‰
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9DECLARATION£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (	2Ê
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13DECLARATION£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (2π
+voidRETURN_TYPE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (µ
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9VARIABLE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 8*a2±
+intTYPE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (∑
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13VARIABLE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2±
+intTYPE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java (‰
+*Q7Multiplication_Table.main(String[])!args	PARAMETER£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2∂
+String[]TYPE£
+òC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q7Multiplication_Table.java ("

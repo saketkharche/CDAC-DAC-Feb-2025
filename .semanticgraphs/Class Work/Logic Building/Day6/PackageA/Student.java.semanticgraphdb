@@ -1,0 +1,165 @@
+
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java˛
+PackageA.StudentCLASSã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+packagePackageA"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Student"
+accesspublic*Student2∑
+PackageA.Student.Student()DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java
+ 
+(2“
+5PackageA.Student.Student(int, java.lang.String, long)DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∫
+PackageA.Student.display(int)DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∑
+PackageA.Student.display()DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∫
+PackageA.Student?id@5.12:5.14DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2º
+PackageA.Student?name@6.15:6.19DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2Ω
+ PackageA.Student?mobNo@7.13:7.18DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2æ
+!PackageA.Student?course@8.22:8.28DECLARATIONã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (¯
+PackageA.Student.Student()CONSTRUCTORã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java
+ 
+("_
+declarationStringJ<mark class="modifier">public </mark><mark class="method">Student</mark>()*Student2≥
+PackageA.Student?id@5.12:5.14CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2µ
+PackageA.Student?name@6.15:6.19CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∂
+ PackageA.Student?mobNo@7.13:7.18CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2≠
+PackageA.StudentRETURN_TYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java
+ 
+(Á
+5PackageA.Student.Student(int, java.lang.String, long)CONSTRUCTORã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("≥
+declarationStringù<mark class="modifier">public </mark><mark class="method">Student</mark>(<mark class="modifier">int</mark> id<mark class="modifier"><mark class="modifier">,</mark></mark> String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">long</mark> mobNo)*Student2Œ
+8PackageA.Student.Student(int, java.lang.String, long)!idCALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2–
+:PackageA.Student.Student(int, java.lang.String, long)!nameCALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2—
+;PackageA.Student.Student(int, java.lang.String, long)!mobNoCALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2≥
+PackageA.Student?id@5.12:5.14CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (	2µ
+PackageA.Student?name@6.15:6.19CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∂
+ PackageA.Student?mobNo@7.13:7.18CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2”
+8PackageA.Student.Student(int, java.lang.String, long)!id	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2’
+:PackageA.Student.Student(int, java.lang.String, long)!name	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (#2÷
+;PackageA.Student.Student(int, java.lang.String, long)!mobNo	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java* (/2≠
+PackageA.StudentRETURN_TYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (Õ
+8PackageA.Student.Student(int, java.lang.String, long)!id	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2ô
+intTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (»
+:PackageA.Student.Student(int, java.lang.String, long)!name	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (#"
+typeString"
+isFinalfalse" 
+declarationStringString name*name2¶
+java.lang.StringTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (Ÿ
+;PackageA.Student.Student(int, java.lang.String, long)!mobNo	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java* (/"
+typelong"
+isFinalfalse"=
+declarationString(<mark class="modifier">long</mark> mobNo*mobNo2ö
+longTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java% ()ñ
+PackageA.Student.display(int)METHODã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(<mark class="modifier">int</mark> id)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2√
+-java.io.PrintStream.println(java.lang.String)CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2∑
+!PackageA.Student?course@8.22:8.28CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java! ('2∂
+ PackageA.Student.display(int)!idCALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java- (/2≥
+PackageA.Student?id@5.12:5.14CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2ª
+ PackageA.Student.display(int)!id	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2°
+voidRETURN_TYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (µ
+ PackageA.Student.display(int)!id	PARAMETERã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> id*id2ô
+intTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (¨
+PackageA.Student.display()METHODã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"¢
+declarationStringå<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2√
+-java.io.PrintStream.println(java.lang.String)CALLã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (2°
+voidRETURN_TYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (ú
+PackageA.Student?id@5.12:5.14VARIABLEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="class-field">id</mark>"
+isStaticfalse"
+accesspublic*id2ô
+intTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (ó
+PackageA.Student?name@6.15:6.19VARIABLEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"
+typeString"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspublic*name2¶
+java.lang.StringTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (©
+ PackageA.Student?mobNo@7.13:7.18VARIABLEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"
+typelong"É
+declarationStringn<mark class="modifier">public </mark><mark class="modifier">long</mark> <mark class="class-field">mobNo</mark>"
+isStaticfalse"
+accesspublic*mobNo2ö
+longTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (€
+!PackageA.Student?course@8.22:8.28VARIABLEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java ("
+isFinalfalse"
+typeString"¶
+declarationStringê<mark class="modifier">public </mark><mark class="modifier">static </mark>String <mark class="class-field">course</mark> = "PG-DAC CDAC Mumbai";"
+isStatictrue"
+accesspublic*course2¶
+java.lang.StringTYPEã
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day6\PackageA\Student.java (

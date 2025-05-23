@@ -1,0 +1,153 @@
+What is page navigation?
+2 types 
+ - client pull
+  - client pull I
+   - client (person) + web browser
+  - client pull II (redirect)
+   - web browser
+
+what happens internally 
+ eg - response.sendRedirect("logout");
+  WC - 1. clears resp buffer (PW)
+  2. sends temp redirect resp
+   - SC 302   headers -  Location - logout
+   body - EMPTY
+3. Web browser - auto generates NEXT redirect request
+URL - http://host:port/ctx_path/logout
+Method - GET
+4. WC - invokes 
+lazy -starts servlet life cycle
+ - servlet's class load, singleton instance(def ctor) , init => init sequence
+  - service -> doGet .
+eager  -
+- servlet's class load, singleton instance(def ctor) , init => init sequence
+@ web app start up (dep time)
+ - calls directly -  service -> doGet .
+----------------------------------
+HTTP - stateless
+server side state management 
+clnt side  - thin clnt - web browser
+ to identify clnt across multiple clnts
+ remember the state(clnt info) from login -logout
+session tracking techs
+ - plain cookie based
+steps
+1. create a cookie
+eg - Cookie c1=new Cookie(nm,val);
+ val - string -> toString -> exc - IllegalArgExc
+Tomcat 9 onwards - cookie policy - stricter
+soln -UrlEncoder.encoder 
+
+2. add the cookie to the resp header
+resp.addCookie(c1);
+
+3. send /render the resp
+ - sendRedirect (temp)
+ - close pw (autocloseable)
+
+4. web browser - 
+  - cookies accepted
+  - by def - cache (client side)
+
+5. Next time web browser sends a req to the SAME web app
+- request + cookie/s - req header
+
+6. get cookies - to extract clnt info
+Cookie[] cookies=request.getCookies();
+cookies[0].getValue() -> UrlDecoder.decode -> clnt info
+
+
+Dev steps for the completion of CandidateList page
+1. Table - candidates
+2. POJO - Candidate
+3. DAO
+ CandidateDao i.f
+  List<Candidate> getAllCadidates() throws SqlExc
+ imple class
+ - fields
+   cn ,pst
+ def ctor
+ - get cn
+ clean up
+ - close psts
+ CRUD - R
+ exec query - get RST - List<Candidate>
+
+4. LoginServlet 
+ -init 
+  user dao n candidate dao - instance
+ - destroy
+  user dao n candidate dao - clean up
+ - doPost
+  - how to share these dao instances with other dyn web pages(servlets)?
+  - simply add it under session scope(setAttribute) n then other pages can get it(getAttribute)
+
+5. CandidateList page
+ 
+ doGet - 
+get HttpSession
+get candidate dao instance from Session
+call dao's method - get all candidates - List<Candidate>
+
+dynamic form generation - simply send it using PW
+<form method=   action=>
+iterate over the list
+<input type=radio name value />label
+<input type submit- to vote
+</form>
+
+After form submission , error code - 405
+
+6. In Logout Servlet 
+
+ - doGet 
+  - already done for redirection !
+ - doPost
+  - update voting status of the voter (UserDao)
+  - increment candidates votes (CandidateDao)
+
+7.
+Complete dao layers
+
+---------------------------------------
+New objective 
+Create voting app - DB independent manner
+Dev Steps
+1. Change JDBC connector JAR
+Code changes
+1. DBUtils 
+ - instead of hard coding DB config , 
+   parameterized openConnection
+    - url , username , pwd
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+- server pull
+ - none (only server side)

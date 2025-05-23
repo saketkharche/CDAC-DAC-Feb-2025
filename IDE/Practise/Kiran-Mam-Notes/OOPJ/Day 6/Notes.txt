@@ -1,0 +1,409 @@
+Day 6: Object Oriented Programming Concepts of Java
+Date : 08-March-2025
+-----------------------------------------
+
+Topics: 
+	- Reference Object
+	- Constructor
+	- Constructor chaining
+	- Abstraction
+	
+set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_40\bin;
+set PATH=%JAVA_HOME%\bin;%PATH%
+
+   1. Constructors : Definition :
+   ---------------------------------
+- A  constructor  is a special method used to  initialize objects .
+- It has the  same name as the class  and  no return type .
+- A constructor is automatically called when an object is created.
+
+    Types of Constructors: 
+	------------------------
+1.  Default Constructor  – No parameters, initializes with default values.
+2.  Parameterized Constructor  – Takes arguments to initialize objects.
+3.  Copy Constructor  – Creates a new object by copying an existing one.
+
+    Syntax: 
+ 
+class Example {
+    int num;
+
+    // Constructor
+    Example(int n) { 
+        num = n;
+    }
+
+    void display() {
+        System.out.println("Value: " + num);
+    }
+}
+
+public class ConstructorDemo {
+    public static void main(String[] args) {
+        Example obj = new Example(10); // Constructor initializes 'num'
+        obj.display(); // Output: Value: 10
+    }
+}
+ 
+
+    Real-World Example: 
+	------------------
+-  Bank Account Creation : When a bank account is created, the constructor initializes account details like balance and account number.
+
+   
+---
+    3.  Program: Constructor Overloading 
+
+     Code:
+ 
+class Employee {
+    private int empId;
+    private String empName;
+
+    // Parameterized Constructor
+    Employee(int empId, String empName) {
+        System.out.println("Parameterized Constructor");
+        this.empId = empId;
+        this.empName = empName;
+    }
+
+    void show() {
+        System.out.println(empId + " " + empName);
+    }
+}
+
+class EmployeeDemo2 {
+    public static void main(String args[]) {
+        Employee e1 = new Employee(101, "Ram");
+        e1.show();
+    }
+}
+ 
+
+
+    4.  `this()` Constructor Call :
+	---------------------------------
+
+ class Employee {
+    private int empId;
+    private String empName;
+
+    Employee() {
+        this(100, "ABC");  // Calling parameterized constructor
+        System.out.println("No-arg Constructor");
+    }
+
+    Employee(int empId, String empName) {
+        this.empId = empId;
+        this.empName = empName;
+        System.out.println("Parameterized Constructor");
+    }
+
+    void show() {
+        System.out.println(empId + " " + empName);
+    }
+}
+
+class EmployeeDemo3 {
+    public static void main(String args[]) {
+        Employee e = new Employee();
+    }
+}
+ 
+
+     Points to Remember:
+	 ----------------------
+-  Constructor Chaining:  `this()` invokes another constructor.
+-  No-Arg Constructor:  Default values assigned.
+-  Output Order:  Constructors execute in chain sequence.
+-  Code Reusability:  Reuses parameterized constructor.
+
+---
+
+    5.  Constructor Chaining with Parameters:
+
+     Code:
+ 
+class Employee {
+    private int empId;
+    private String empName;
+
+    Employee(int empId) {
+        this(100, "ABC");  // Constructor Chaining
+        System.out.println("Single Parameter Constructor");
+    }
+
+    Employee(int empId, String empName) {
+        this.empId = empId;
+        this.empName = empName;
+        System.out.println("Parameterized Constructor");
+    }
+
+    void show() {
+        System.out.println(empId + " " + empName);
+    }
+}
+
+class EmployeeDemo4 {
+    public static void main(String args[]) {
+        Employee e = new Employee(123);
+    }
+}
+ 
+
+    6. `this()` Constructor with Default Constructor :
+	--------------------------------------------------
+
+     Code:
+ 
+class Employee {
+    private int empId;
+    private String empName;
+
+    Employee() {
+        System.out.println("No-arg Constructor");
+    }
+
+    Employee(int empId, String empName) {
+        this();  // Calls default constructor
+        this.empId = empId;
+        this.empName = empName;
+        System.out.println("Parameterized Constructor");
+    }
+
+    void show() {
+        System.out.println(empId + " " + empName);
+    }
+}
+
+class EmployeeDemo5 {
+    public static void main(String args[]) {
+        Employee e = new Employee(1, "F");
+    }
+}
+ 
+
+     Points to remember:
+	 -----------------------
+-  Constructor Overloading:  Different constructors for different scenarios.
+-  Chaining with `this()`:  Reuses default constructor.
+-  Execution Order:  Default constructor first, then parameterized.
+-  Output Consistency:  Shows the sequence of constructor calls.
+-  There are the following ways to copy the values of one object into another:
+
+    - By Using Constructor
+    - By Assigning the Values of One Object into Another
+    - By Using clone() Method of the Object Class
+        Syntax: 
+ 
+class Example {
+    int num;
+
+    // Constructor
+    Example(int n) { 
+        num = n;
+    }
+
+    void display() {
+        System.out.println("Value: " + num);
+    }
+}
+
+public class ConstructorDemo {
+    public static void main(String[] args) {
+        Example obj = new Example(10); // Constructor initializes 'num'
+        obj.display(); // Output: Value: 10
+    }
+}
+ 
+   Pass by Value (Java’s Default Behavior) :
+   ---------------------------------------
+- When a  primitive data type  (e.g., `int`, `double`) is passed to a method, Java passes a  copy  of the value.
+- Changes inside the method  do not affect the original variable .
+
+     Example: 
+ 
+class Example {
+    void modify(int num) {
+        num = 20; // Changes local copy only
+    }
+}
+
+public class PassByValueDemo {
+    public static void main(String[] args) {
+        int x = 10;
+        Example obj = new Example();
+        obj.modify(x);
+        System.out.println("After method call: " + x); // Output: 10 (Unchanged)
+    }
+}
+ 
+
+---
+
+    Pass by Reference (Objects) :
+	-----------------------------
+- Java  does not support true pass-by-reference , but it passes  object references by value .
+- Since both references point to the  same object , modifications inside the method reflect in the original object.
+
+     Example: 
+ 
+class Example {
+    void modifyObj(Wrapper w) {
+        w.num = 20; // Changes the actual object's field
+    }
+}
+
+class Wrapper {
+    int num;
+    Wrapper(int num) {
+        this.num = num;
+    }
+}
+
+public class PassByReferenceDemo {
+    public static void main(String[] args) {
+        Wrapper w = new Wrapper(10);
+        Example obj = new Example();
+        obj.modifyObj(w);
+        System.out.println("After method call: " + w.num); // Output: 20 (Changed)
+    }
+}
+ 
+
+
+   Re-assigning a Reference Variable :
+   -----------------------------------
+-  A reference variable can be re-assigned  to point to another object.
+- The previous object becomes  eligible for garbage collection  if no other references exist.
+
+    Example: 
+ 
+class Example {
+    int num;
+    Example(int n) { num = n; }
+}
+
+public class ReassignDemo {
+    public static void main(String[] args) {
+        Example obj1 = new Example(10);
+        Example obj2 = new Example(20);
+        
+        obj1 = obj2; // obj1 now points to obj2's object
+        System.out.println("obj1 value: " + obj1.num); // Output: 20
+    }
+}
+ 
+
+   Passing Reference Variable to a Method :
+   -------------------------------------------------
+- When an  object reference  is passed to a method, changes to its  fields  affect the original object.
+
+    Example: 
+ 
+class Car {
+    String model;
+
+    Car(String model) {
+        this.model = model;
+    }
+
+    void modify(Car c) {
+        c.model = "Tesla"; // Changes original object's state
+    }
+}
+
+public class ReferencePassingDemo {
+    public static void main(String[] args) {
+        Car myCar = new Car("Toyota");
+        System.out.println("Before: " + myCar.model); // Output: Toyota
+
+        myCar.modify(myCar);
+        System.out.println("After: " + myCar.model); // Output: Tesla
+    }
+}
+ 
+
+
+ 
+    Constructors & Initializing Reference Variables :
+	------------------------------------------------------------------------
+ 
+     Example: 
+ 
+class Employee {
+    String name;
+    int id;
+
+    // Default Constructor
+    Employee() {
+        this.name = "Unknown";
+        this.id = 0;
+    }
+
+    // Parameterized Constructor
+    Employee(String name, int id) {
+        this.name = name;
+        this.id = id;
+    }
+
+    void display() {
+        System.out.println("Employee: " + name + ", ID: " + id);
+    }
+}
+
+public class ConstructorOverloadingDemo {
+    public static void main(String[] args) {
+        Employee e1 = new Employee(); // Calls default constructor
+        Employee e2 = new Employee("Alice", 101); // Calls parameterized constructor
+
+        e1.display(); // Output: Employee: Unknown, ID: 0
+        e2.display(); // Output: Employee: Alice, ID: 101
+    }
+}
+ 
+
+    Assigment a Reference Variable :
+	------------------------------------
+    The old object may become eligible for garbage collection.
+
+     Example: 
+ 
+class Car {
+    String model;
+
+    Car(String model) {
+        this.model = model;
+    }
+}
+
+public class ReferenceReassignment {
+    public static void main(String[] args) {
+        Car car1 = new Car("Tesla");
+        Car car2 = new Car("BMW");
+
+        car1 = car2; // car1 now refers to car2's object, Tesla object is eligible for GC
+
+        System.out.println(car1.model); // Output: BMW
+    }
+}
+ 
+ 
+Abstraction:
+------------
+-Abstraction is an OOP principle that hides implementation details and shows only the essential features of an object.
+
+Purpose:
+	-Simplifies the complexity
+	-Reduces the code complexity
+	-Increases the maintainability ans security.
+	
+Ways:
+------
+1. By using abstract class ('abstract' keyword)
+2. Using interfaces('interface' keyword)
+	
+Encapsulation
+Inheritance
+Polymorphism
+ 

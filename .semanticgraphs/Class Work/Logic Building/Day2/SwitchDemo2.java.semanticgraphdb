@@ -1,0 +1,54 @@
+
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.javaÆ
+SwitchDemo2CLASSÅ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java("
+packageSwitchDemo2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>SwitchDemo2"
+accesspackage_private*SwitchDemo22±
+SwitchDemo2.main(String[])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (»
+
+SwitchDemo2.main(String[])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¥
+$SwitchDemo2.main(String[])?a@2.5:2.6CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (	2¥
+SwitchDemo2.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java  (&2ª
+$SwitchDemo2.main(String[])?a@2.5:2.6DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (2ª
+$SwitchDemo2.main(String[])?b@3.6:3.7DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (
+$SwitchDemo2.main(String[])?a@2.5:2.6VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 257*a2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (’
+$SwitchDemo2.main(String[])?b@3.6:3.7VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java ("
+typechar"
+isFinalfalse"a
+declarationStringL<mark class="modifier"> </mark>char <mark class="class-field">b</mark> = 'a'*b2î
+charTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (ù
+SwitchDemo2.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ò
+String[]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\Logic Building\Day2\SwitchDemo2.java (&

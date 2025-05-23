@@ -1,0 +1,515 @@
+
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaÄ
+BankServicesTRAIT|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java
+ ("
+packageBankServices"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">interface </mark>BankServices"
+accesspackage_private*BankServices2©
+BankServices.deposit(double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 (2™
+BankServices.withdraw(double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 (2®
+BankServices.checkBalance()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 (Ä
+BankServices.deposit(double)METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 ("
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">deposit</mark>(<mark class="modifier">double</mark> amount)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*deposit2Æ
+#BankServices.deposit(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (©
+#BankServices.deposit(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> amount*amount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (Ñ
+BankServices.withdraw(double)METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 ("
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">withdraw</mark>(<mark class="modifier">double</mark> amount)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*withdraw2Ø
+$BankServices.withdraw(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (™
+$BankServices.withdraw(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> amount*amount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (¨
+BankServices.checkBalance()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java	 ("
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">checkBalance</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*checkBalance2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (¯
+BankAccountCLASS|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java
+ 
+("
+packageBankAccount"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"ƒ
+declarationStringÆ<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>BankAccount<mark class="modifier"><br>implements </mark>BankServices"
+accesspackage_private*BankAccount2º
+/BankAccount.BankAccount(String, String, double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2∞
+#BankAccount.displayAccountDetails()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ('2®
+BankAccount.deposit(double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2©
+BankAccount.withdraw(double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& &(2ß
+BankAccount.checkBalance()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java3 3(2≤
+%BankAccount?accountHolder@11.11:11.24DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2≤
+%BankAccount?accountNumber@12.11:12.24DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2¨
+BankAccount?balance@13.11:13.18DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2î
+BankServicesEXTEND|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java
+& 
+(2∫
+/BankAccount.BankAccount(String, String, double)CONSTRUCTOR|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("∞
+declarationStringö<mark class="modifier">public </mark><mark class="method">BankAccount</mark>(String holder<mark class="modifier"><mark class="modifier">,</mark></mark> String accNumber<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> initialBalance)*BankAccount2º
+6BankAccount.BankAccount(String, String, double)!holderCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (#2ø
+9BankAccount.BankAccount(String, String, double)!accNumberCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (&2ƒ
+>BankAccount.BankAccount(String, String, double)!initialBalanceCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (%2´
+%BankAccount?accountHolder@11.11:11.24CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2´
+%BankAccount?accountNumber@12.11:12.24CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2¡
+6BankAccount.BankAccount(String, String, double)!holder	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ($2ƒ
+9BankAccount.BankAccount(String, String, double)!accNumber	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java- (62…
+>BankAccount.BankAccount(String, String, double)!initialBalance	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java? (M2ò
+BankAccountRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (û
+6BankAccount.BankAccount(String, String, double)!holder	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ($"
+typeString"
+isFinalfalse""
+declarationStringString holder*holder2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (ß
+9BankAccount.BankAccount(String, String, double)!accNumber	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java- (6"
+typeString"
+isFinalfalse"%
+declarationStringString accNumber*	accNumber2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& (,‘
+>BankAccount.BankAccount(String, String, double)!initialBalance	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java? (M"
+typedouble"
+isFinalfalse"H
+declarationString3<mark class="modifier">double</mark> initialBalance*initialBalance2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java8 (>Ì
+#BankAccount.displayAccountDetails()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ('"
+isFinalfalse"≤
+declarationStringú<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">displayAccountDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstracttrue"
+typevoid*displayAccountDetails2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (˚
+BankAccount.deposit(double)METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+isFinalfalse"‹
+declarationString∆<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">deposit</mark>(<mark class="modifier">double</mark> amount)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*deposit2®
+"BankAccount.deposit(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2®
+"BankAccount.deposit(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2®
+"BankAccount.deposit(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java% (+2¶
+BankServices.deposit(double)OVERRIDE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2≠
+"BankAccount.deposit(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (%2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (®
+"BankAccount.deposit(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (%"
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> amount*amount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (´
+BankAccount.withdraw(double)METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& &("
+isFinalfalse"›
+declarationString«<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">withdraw</mark>(<mark class="modifier">double</mark> amount)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*withdraw2©
+#BankAccount.withdraw(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java' '(2©
+#BankAccount.withdraw(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java' '( 2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java'$ '(+2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java( ((2©
+#BankAccount.withdraw(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java( ((2©
+#BankAccount.withdraw(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java)% )(+2©
+#BankAccount.withdraw(double)!amountCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java* *(2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java* *(#2ß
+BankServices.withdraw(double)OVERRIDE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& &(2Æ
+#BankAccount.withdraw(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java&  &(&2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& &(©
+#BankAccount.withdraw(double)!amount	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java&  &(&"
+typedouble"
+isFinalfalse"@
+declarationString+<mark class="modifier">double</mark> amount*amount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java& &(ß
+BankAccount.checkBalance()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java3 3("
+isFinalfalse"∂
+declarationString†<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">checkBalance</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*checkBalance2•
+BankAccount?balance@13.11:13.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java44 4(;2•
+BankServices.checkBalance()OVERRIDE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java3 3(2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java3 3(à
+%BankAccount?accountHolder@11.11:11.24VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+isFinalfalse"
+typeString"i
+declarationStringT<mark class="modifier"> </mark>String <mark class="class-field">accountHolder</mark>"
+isStaticfalse"
+accesspackage_private*accountHolder2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (
+à
+%BankAccount?accountNumber@12.11:12.24VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+isFinalfalse"
+typeString"i
+declarationStringT<mark class="modifier"> </mark>String <mark class="class-field">accountNumber</mark>"
+isStaticfalse"
+accesspackage_private*accountNumber2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (
+ï
+BankAccount?balance@13.11:13.18VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java ("
+isFinalfalse"
+typedouble"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">balance</mark>"
+isStaticfalse"
+accesspackage_private*balance2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (
+≈
+SavingsAccountCLASS|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java9 9("
+packageSavingsAccount"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ô
+declarationStringÉ<mark class="modifier"> </mark><mark class="modifier">class </mark>SavingsAccount<mark class="modifier"> extends </mark>BankAccount"
+accesspackage_private*SavingsAccount2¬
+5SavingsAccount.SavingsAccount(String, String, double)DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java< <(2≥
+&SavingsAccount.displayAccountDetails()DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaB	 B(2ì
+BankAccountEXTEND|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java9 9((°
+5SavingsAccount.SavingsAccount(String, String, double)CONSTRUCTOR|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java< <("≥
+declarationStringù<mark class="modifier">public </mark><mark class="method">SavingsAccount</mark>(String holder<mark class="modifier"><mark class="modifier">,</mark></mark> String accNumber<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> initialBalance)*SavingsAccount2µ
+/BankAccount.BankAccount(String, String, double)CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java= =(2¬
+<SavingsAccount.SavingsAccount(String, String, double)!holderCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java= =(2≈
+?SavingsAccount.SavingsAccount(String, String, double)!accNumberCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java= =(2 
+DSavingsAccount.SavingsAccount(String, String, double)!initialBalanceCALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java=! =(/2«
+<SavingsAccount.SavingsAccount(String, String, double)!holder	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<! <('2 
+?SavingsAccount.SavingsAccount(String, String, double)!accNumber	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<0 <(92œ
+DSavingsAccount.SavingsAccount(String, String, double)!initialBalance	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<B <(P2õ
+SavingsAccountRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java< <(§
+<SavingsAccount.SavingsAccount(String, String, double)!holder	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<! <('"
+typeString"
+isFinalfalse""
+declarationStringString holder*holder2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java< <( ≠
+?SavingsAccount.SavingsAccount(String, String, double)!accNumber	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<0 <(9"
+typeString"
+isFinalfalse"%
+declarationStringString accNumber*	accNumber2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<) <(/⁄
+DSavingsAccount.SavingsAccount(String, String, double)!initialBalance	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<B <(P"
+typedouble"
+isFinalfalse"H
+declarationString3<mark class="modifier">double</mark> initialBalance*initialBalance2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java<; <(A®
+&SavingsAccount.displayAccountDetails()METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaB	 B("
+isFinalfalse"π
+declarationString£<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">displayAccountDetails</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displayAccountDetails2≠
+#BankAccount.displayAccountDetails()OVERRIDE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaB	 B(2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaB B(á
+BankAppCLASS|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaL L("
+packageBankApp"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>BankApp"
+accesspublic*BankApp2£
+BankApp.main(String[])DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM M(˜8
+BankApp.main(String[])METHOD|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM M("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ª
+5SavingsAccount.SavingsAccount(String, String, double)CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaj& j(42≠
+'BankApp.main(String[])?exit@80.16:80.20CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaR R(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java] ](2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java^ ^(2Ø
+)BankApp.main(String[])?choice@93.16:93.22CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java` `(2∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javab b(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javad( d(*2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaf+ f(-2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javah0 h(22∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaj j(2±
++BankApp.main(String[])?holder@100.31:100.37CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaj5 j(;2¥
+.BankApp.main(String[])?accNumber@102.31:102.40CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaj= j(F2π
+3BankApp.main(String[])?initialBalance@104.31:104.45CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javajH j(V2∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javar r(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javat/ t(12∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javau u(2∏
+2BankApp.main(String[])?depositAmount@116.31:116.44CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javau( u(52∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java| |(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java~0 ~(22∞
+*BankApp.main(String[])?account@79.23:79.30CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java (2π
+3BankApp.main(String[])?withdrawAmount@126.31:126.45CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java) (72≤
+*BankApp.main(String[])?account@79.23:79.30CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaÜ Ü(2≤
+*BankApp.main(String[])?account@79.23:79.30CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaá á(2≤
+*BankApp.main(String[])?account@79.23:79.30CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaé é(2≤
+*BankApp.main(String[])?account@79.23:79.30CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaè è(2Ø
+'BankApp.main(String[])?exit@80.16:80.20CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaó ó(2≠
+%BankApp.main(String[])?sc@78.16:78.18CALL~
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaü ü(
+2¶
+BankApp.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM% M()2≤
+%BankApp.main(String[])?sc@78.16:78.18DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaN N(2∑
+*BankApp.main(String[])?account@79.23:79.30DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaO O(2¥
+'BankApp.main(String[])?exit@80.16:80.20DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaP P(2∂
+)BankApp.main(String[])?choice@93.16:93.22DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java] ](2∏
++BankApp.main(String[])?holder@100.31:100.37DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javad d(%2ª
+.BankApp.main(String[])?accNumber@102.31:102.40DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaf f((2¿
+3BankApp.main(String[])?initialBalance@104.31:104.45DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javah h(-2ø
+2BankApp.main(String[])?depositAmount@116.31:116.44DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javat t(,2¿
+3BankApp.main(String[])?withdrawAmount@126.31:126.45DECLARATION|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java~ ~(-2ë
+voidRETURN_TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM M(Í
+%BankApp.main(String[])?sc@78.16:78.18VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaN N("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ó
+java.util.ScannerTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaN N(ë
+*BankApp.main(String[])?account@79.23:79.30VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaO O("
+typeSavingsAccount"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark>SavingsAccount <mark class="class-field">account</mark> = <mark class="modifier">null</mark>*account2î
+SavingsAccountTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaO O(ì
+'BankApp.main(String[])?exit@80.16:80.20VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaP P("
+typeboolean"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">exit</mark> = <mark class="modifier">false</mark>*exit2ç
+booleanTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaP P(£
+)BankApp.main(String[])?choice@93.16:93.22VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java] ]("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">choice</mark> = sc.nextInt()*choice2â
+intTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java] ](2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java] ](ê
++BankApp.main(String[])?holder@100.31:100.37VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javad d(%"
+typeString"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>String <mark class="class-field">holder</mark> = sc.nextLine()*holder2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javad d(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javad( d(*ô
+.BankApp.main(String[])?accNumber@102.31:102.40VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaf f(("
+typeString"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>String <mark class="class-field">accNumber</mark> = sc.nextLine()*	accNumber2å
+StringTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaf f(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaf+ f(- 
+3BankApp.main(String[])?initialBalance@104.31:104.45VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javah h(-"
+typedouble"
+isFinalfalse"õ
+declarationStringÖ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">initialBalance</mark> = sc.nextDouble()*initialBalance2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javah h(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javah0 h(2«
+2BankApp.main(String[])?depositAmount@116.31:116.44VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javat t(,"
+typedouble"
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">depositAmount</mark> = sc.nextDouble()*depositAmount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javat t(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javat/ t(1 
+3BankApp.main(String[])?withdrawAmount@126.31:126.45VARIABLE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java~ ~(-"
+typedouble"
+isFinalfalse"õ
+declarationStringÖ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">withdrawAmount</mark> = sc.nextDouble()*withdrawAmount2å
+doubleTYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java~ ~(2´
+%BankApp.main(String[])?sc@78.16:78.18CALL|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.java~0 ~(2Ö
+BankApp.main(String[])!args	PARAMETER|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM% M()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2é
+String[]TYPE|
+rC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Home work\BankApp.javaM M($

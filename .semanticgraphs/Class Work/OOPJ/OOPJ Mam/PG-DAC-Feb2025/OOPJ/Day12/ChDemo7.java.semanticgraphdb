@@ -1,0 +1,57 @@
+
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.javaÀ
+ChDemo7CLASS–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java ("
+packageChDemo7"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>ChDemo7"
+accesspackage_private*ChDemo72¾
+ChDemo7.main(String[])DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (ö
+ChDemo7.main(String[])METHOD–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java ("
+isFinalfalse"‹
+declarationStringõ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>FileNotFoundException"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Á
+ ChDemo7.main(String[])?f@4.7:4.8CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java! ("2Á
+ChDemo7.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java# ('2È
+ ChDemo7.main(String[])?f@4.7:4.8DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (2Ë
+#ChDemo7.main(String[])?fr@6.13:6.15DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (2¬
+voidRETURN_TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (ƒ
+ ChDemo7.main(String[])?f@4.7:4.8VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java ("
+typeFile"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>File <mark class="class-field">f</mark> = new File("abc.txt")*f2¥
+FileTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (Ü
+#ChDemo7.main(String[])?fr@6.13:6.15VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java ("
+type
+FileReader"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>FileReader <mark class="class-field">fr</mark> = new FileReader(f)*fr2«
+
+FileReaderTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java (2Á
+ ChDemo7.main(String[])?f@4.7:4.8CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java! ("»
+ChDemo7.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2©
+String[]TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day12\ChDemo7.java ("

@@ -1,0 +1,77 @@
+
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java§
+IllegalArgumentExampleCLASS„
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java(#"!
+packageIllegalArgumentExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier">public </mark><mark class="modifier">class </mark>IllegalArgumentExample"
+accesspublic*IllegalArgumentExample2¼
+"IllegalArgumentExample.setAge(int)DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (2¿
+%IllegalArgumentExample.main(String[])DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (ý
+
+"IllegalArgumentExample.setAge(int)METHODˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java ("
+isFinalfalse"Ì
+declarationString¶<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">setAge</mark>(<mark class="modifier">int</mark> age)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setAge2¹
+&IllegalArgumentExample.setAge(int)!ageCALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (2¹
+&IllegalArgumentExample.setAge(int)!ageCALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (2¹
+&IllegalArgumentExample.setAge(int)!ageCALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java. (12¾
+&IllegalArgumentExample.setAge(int)!age	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java" (%2ž
+voidRETURN_TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (·
+&IllegalArgumentExample.setAge(int)!age	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java" (%"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> age*age2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (!…
+%IllegalArgumentExample.main(String[])METHODˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2µ
+"IllegalArgumentExample.setAge(int)CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java
+ 
+(2Æ
+3IllegalArgumentExample.main(String[])?e@11.42:11.43CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.javaE (F2Â
+*IllegalArgumentExample.main(String[])!args	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java% ()2Í
+3IllegalArgumentExample.main(String[])?e@11.42:11.43DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java* (+2ž
+voidRETURN_TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java (®
+*IllegalArgumentExample.main(String[])!args	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2›
+String[]TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java ($à
+3IllegalArgumentExample.main(String[])?e@11.42:11.43VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java* (+" 
+typeIllegalArgumentException"
+isFinalfalse"/
+declarationStringIllegalArgumentException e*e2«
+IllegalArgumentExceptionTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\IllegalArgumentExample.java ()

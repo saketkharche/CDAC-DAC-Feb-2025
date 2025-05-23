@@ -1,0 +1,112 @@
+
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java¾
+codewithharry.gym.HarryGymCLASS°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+packagecodewithharry.gym"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>HarryGym"
+accesspublic*HarryGym2ä
+"codewithharry.gym.HarryGym.meth1()DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2õ
+3codewithharry.gym.HarryGym.main(java.lang.String[])DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2è
+&codewithharry.gym.HarryGym?x@3.15:3.16DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2è
+&codewithharry.gym.HarryGym?y@4.18:4.19DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2æ
+$codewithharry.gym.HarryGym?z@5.8:5.9DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (	2è
+&codewithharry.gym.HarryGym?a@6.16:6.17DECLARATION°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (’
+"codewithharry.gym.HarryGym.meth1()METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+isFinalfalse"€
+declarationStringk<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">meth1</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*meth12Û
+ java.io.PrintStream.println(int)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2Û
+ java.io.PrintStream.println(int)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java	 	(2Û
+ java.io.PrintStream.println(int)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java
+ 
+(2Û
+ java.io.PrintStream.println(int)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2á
+&codewithharry.gym.HarryGym?x@3.15:3.16CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2á
+&codewithharry.gym.HarryGym?y@4.18:4.19CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java	 	(2ß
+$codewithharry.gym.HarryGym?z@5.8:5.9CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java
+ 
+(2á
+&codewithharry.gym.HarryGym?a@6.16:6.17CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (³	
+3codewithharry.gym.HarryGym.main(java.lang.String[])METHOD°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2è
+-java.io.PrintStream.println(java.lang.String)CALL°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (2ø
+8codewithharry.gym.HarryGym.main(java.lang.String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java% ()2Æ
+voidRETURN_TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (–
+8codewithharry.gym.HarryGym.main(java.lang.String[])!args	PARAMETER°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Í
+java.lang.String[]TYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ($ó
+&codewithharry.gym.HarryGym?x@3.15:3.16VARIABLE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+isFinalfalse"
+typeint"ƒ
+declarationStringn<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = 5;"
+isStaticfalse"
+accesspublic*x2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (ú
+&codewithharry.gym.HarryGym?y@4.18:4.19VARIABLE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+isFinalfalse"
+typeint"‡
+declarationStringr<mark class="modifier">protected </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark> = 45;"
+isStaticfalse"
+access	protected*y2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (ó
+$codewithharry.gym.HarryGym?z@5.8:5.9VARIABLE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (	"
+isFinalfalse"
+typeint"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">z</mark> = 6;"
+isStaticfalse"
+accesspackage_private*z2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (ö
+&codewithharry.gym.HarryGym?a@6.16:6.17VARIABLE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java ("
+isFinalfalse"
+typeint"…
+declarationStringp<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 78;"
+isStaticfalse"
+accessprivate*a2¾
+intTYPE°
+¥C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryGym.java (

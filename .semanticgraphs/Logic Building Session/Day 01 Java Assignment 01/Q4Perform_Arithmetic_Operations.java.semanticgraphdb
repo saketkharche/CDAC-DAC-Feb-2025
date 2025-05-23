@@ -1,0 +1,77 @@
+
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.javaà
+Q4Perform_Arithmetic_OperationsCLASS¨
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java(%"*
+packageQ4Perform_Arithmetic_Operations"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"w
+declarationStringb<mark class="modifier"> </mark><mark class="modifier">class </mark>Q4Perform_Arithmetic_Operations"
+accesspackage_private*Q4Perform_Arithmetic_Operations2ì
+.Q4Perform_Arithmetic_Operations.main(String[])DECLARATION¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (Þ
+.Q4Perform_Arithmetic_Operations.main(String[])METHOD¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ï
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9CALL¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java( ()2ï
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9CALL¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java) (*2ï
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9CALL¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java- (.2ï
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9CALL¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java	3 	(42ï
+3Q4Perform_Arithmetic_Operations.main(String[])!args	PARAMETER¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java# ('2ö
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9DECLARATION¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	2ö
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9DECLARATION¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	2ö
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9DECLARATION¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	2ö
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9DECLARATION¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	2Â
+voidRETURN_TYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (Ú
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9VARIABLE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = -5 + 8 * 6*a2º
+intTYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (Ü
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9VARIABLE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = (55 + 9) % 9*b2º
+intTYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (ß
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9VARIABLE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"Š
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = 20 + -3 * 5 / 8*c2º
+intTYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (æ
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9VARIABLE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"‘
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">d</mark> = 5 + 15 / 3 * 2 - 8 % 3*d2º
+intTYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java (ÿ
+3Q4Perform_Arithmetic_Operations.main(String[])!args	PARAMETER¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¿
+String[]TYPE¬
+¡C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q4Perform_Arithmetic_Operations.java ("

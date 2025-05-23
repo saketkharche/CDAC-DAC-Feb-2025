@@ -1,0 +1,32 @@
+1. Create new dyn web project
+2. Create | copy 
+ - copy mysql 9.3 connector jar -> under <tomcat>/lib
+ Remove earlier my sql connector jar
+ - DBUtils , dao(UserDao - CRUD) , pojos
+
+3. Create FrontController Servlet
+ - routing (centralized navigation)
+ - Request handling 
+ - @WebServlet 
+   - value (url pattern) : global interceptor pattern - /
+    (to intercept ANY incoming request)
+   - load on start up : 1 (eager init)
+ - init 
+   openConnection (ctx params), create dao instance
+ - doGet
+  - routing logic
+  path - / : List of all users (w/o admin) 
+   - add a method(private) - list users functionality
+ - destroy 
+   clean up dao
+   close cn
+
+
+4. View Layer 
+ - JSP
+ - design practice 
+  DO NOT give direct acces to the view layer. It should be rendered via    	FrontController only
+ - store the JSPs under <WEB-INF>/views
+  
+ 
+ 

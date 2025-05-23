@@ -1,0 +1,35 @@
+
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.javaË
+!codewithharry.friends.HarryFriendCLASS³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java (" 
+packagecodewithharry.friends"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>HarryFriend"
+accesspublic*HarryFriend2ÿ
+:codewithharry.friends.HarryFriend.main(java.lang.String[])DECLARATION³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java (Í	
+:codewithharry.friends.HarryFriend.main(java.lang.String[])METHOD³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ë
+-java.io.PrintStream.println(java.lang.String)CALL³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java (2‚
+?codewithharry.friends.HarryFriend.main(java.lang.String[])!args	PARAMETER³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java% ()2É
+voidRETURN_TYPE³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java (£
+?codewithharry.friends.HarryFriend.main(java.lang.String[])!args	PARAMETER³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ð
+java.lang.String[]TYPE³
+¨C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\core java+ oop\notes\Java Notes CWH\Chapter 12\HarryFriend.java ($

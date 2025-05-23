@@ -1,0 +1,114 @@
+
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.javaÇ
+ParentCLASSš
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java("
+packageParent"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Parent"
+accesspackage_private*Parent2Å
+Parent.Parent(String)DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (ü
+Parent.Parent(String)CONSTRUCTORž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java ("c
+declarationStringN<mark class="modifier"> </mark><mark class="method">Parent</mark>(String name)*Parent2Ã
+Parent.Parent(String)!nameCALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java0 (42È
+Parent.Parent(String)!name	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (2¶
+ParentRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (Ä
+Parent.Parent(String)!name	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2¯
+StringTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (§
+ChildCLASSž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java ("
+packageChild"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"Š
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Child<mark class="modifier"> extends </mark>Parent"
+accesspackage_private*Child2Ã
+Child.Child(String)DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	(2±
+ParentEXTENDž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (·
+Child.Child(String)CONSTRUCTORž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	("b
+declarationStringM<mark class="modifier"> </mark><mark class="method">Child</mark>(String name)*Child2Á
+Child.Child(String)!nameCALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java
+ 
+(2Á
+Child.Child(String)!nameCALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java/ (32Æ
+Child.Child(String)!name	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	(2µ
+ChildRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	(Â
+Child.Child(String)!name	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2¯
+StringTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java	 	(ø
+OverridingDemo8CLASSž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java ("
+packageOverridingDemo8"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>OverridingDemo8"
+accesspackage_private*OverridingDemo82Î
+OverridingDemo8.main(String[])DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (¤
+
+OverridingDemo8.main(String[])METHODž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ñ
+#OverridingDemo8.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java  (&2Ú
+*OverridingDemo8.main(String[])?c@21.8:21.9DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (	2Ü
+,OverridingDemo8.main(String[])?c1@22.8:22.10DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (
+2´
+voidRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (˜
+*OverridingDemo8.main(String[])?c@21.8:21.9VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (	"
+typeChild"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Child <mark class="class-field">c</mark> = new Child()*c2®
+ChildTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (¢
+,OverridingDemo8.main(String[])?c1@22.8:22.10VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (
+"
+typeChild"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>Child <mark class="class-field">c1</mark> = new Child("OOPs")*c12®
+ChildTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (Ó
+#OverridingDemo8.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 9\OverridingDemo8.java (&

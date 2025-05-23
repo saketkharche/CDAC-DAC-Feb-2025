@@ -1,0 +1,95 @@
+
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.javaù
+*com.springcore.standalone.collections.TestCLASS“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java ("0
+package%com.springcore.standalone.collections"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Test"
+accesspublic*Test2ß
+Ccom.springcore.standalone.collections.Test.main(java.lang.String[])DECLARATION“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (∂;
+Ccom.springcore.standalone.collections.Test.main(java.lang.String[])METHOD“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+-java.io.PrintStream.println(java.lang.Object)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ä
+-java.io.PrintStream.println(java.lang.String)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ˆ
+java.lang.Class.getName()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java5 (<2¯
+java.lang.Object.getClass()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java* (22ñ
+9com.springcore.standalone.collections.Person.getFriends()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java ('2ä
+-java.io.PrintStream.println(java.lang.String)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ä
+-java.io.PrintStream.println(java.lang.Object)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2õ
+>com.springcore.standalone.collections.Person.getFeestructure()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (,2ä
+-java.io.PrintStream.println(java.lang.String)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ˆ
+java.lang.Class.getName()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java: (A2¯
+java.lang.Object.getClass()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java/ (72õ
+>com.springcore.standalone.collections.Person.getFeestructure()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (,2ä
+-java.io.PrintStream.println(java.lang.String)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ä
+-java.io.PrintStream.println(java.lang.Object)CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2ô
+<com.springcore.standalone.collections.Person.getProperties()CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (*2Æ
+Qcom.springcore.standalone.collections.Test.main(java.lang.String[])?con@8.21:8.24CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2≥
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2≥
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2≥
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2≥
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2≥
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2™
+Hcom.springcore.standalone.collections.Test.main(java.lang.String[])!args	PARAMETER“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java" (&2µ
+Qcom.springcore.standalone.collections.Test.main(java.lang.String[])?con@8.21:8.24DECLARATION“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2∫
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16DECLARATION“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java	 (2Ë
+voidRETURN_TYPE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (¿
+Qcom.springcore.standalone.collections.Test.main(java.lang.String[])?con@8.21:8.24VARIABLE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java ("
+typeApplicationContext"
+isFinalfalse" 
+declarationString¥<mark class="modifier"> </mark>ApplicationContext <mark class="class-field">con</mark> = new ClassPathXmlApplicationContext("com/springcore/standalone/collections/aloneconfig.xml")*con2ã
+.org.springframework.context.ApplicationContextTYPE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (À
+Vcom.springcore.standalone.collections.Test.main(java.lang.String[])?person1@11.9:11.16VARIABLE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java	 ("
+typePerson"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark>Person <mark class="class-field">person1</mark> = con.getBean("person1"<mark class="modifier">,</mark> Person.class)*person12â
+,com.springcore.standalone.collections.PersonTYPE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (2Æ
+Qcom.springcore.standalone.collections.Test.main(java.lang.String[])?con@8.21:8.24CALL“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (Í
+Hcom.springcore.standalone.collections.Test.main(java.lang.String[])!args	PARAMETER“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ô
+java.lang.String[]TYPE“
+«C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\standalone\collections\Test.java (!

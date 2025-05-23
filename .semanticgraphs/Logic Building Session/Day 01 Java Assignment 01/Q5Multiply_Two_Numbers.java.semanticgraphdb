@@ -1,0 +1,76 @@
+
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java¡
+Q5Multiply_Two_NumbersCLASSŸ
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java("!
+packageQ5Multiply_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5Multiply_Two_Numbers"
+accesspackage_private*Q5Multiply_Two_Numbers2Ú
+%Q5Multiply_Two_Numbers.main(String[])DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (š
+%Q5Multiply_Two_Numbers.main(String[])METHOD£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ý
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java
+ (2Ý
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (2Ý
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (2Ý
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java# ($2Ý
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java/ (02Ý
+*Q5Multiply_Two_Numbers.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java# ('2ä
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	2ä
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	2ä
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9DECLARATION£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	2¹
+voidRETURN_TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (¶
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 25*a2±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (µ
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 5*b2±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (ú
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9VARIABLE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = a * b*c2±
+intTYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (2Ý
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java
+ (2Ý
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALL£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java (ä
+*Q5Multiply_Two_Numbers.main(String[])!args	PARAMETER£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¶
+String[]TYPE£
+˜C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q5Multiply_Two_Numbers.java ("

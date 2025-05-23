@@ -1,0 +1,251 @@
+
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java­
+Q16MergeSortedArraysCLASS†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (!"
+packageQ16MergeSortedArrays"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"r
+declarationString]<mark class="modifier">public </mark><mark class="modifier">class </mark>Q16MergeSortedArrays"
+accesspublic*Q16MergeSortedArrays2Ì
+4Q16MergeSortedArrays.mergeSortedArrays(int[], int[])DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ((2»
+#Q16MergeSortedArrays.main(String[])DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (ÔP
+4Q16MergeSortedArrays.mergeSortedArrays(int[], int[])METHOD†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (("
+isFinalfalse"º
+declarationString¤<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">mergeSortedArrays</mark>(<mark class="modifier">int</mark>[] A<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] B)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*mergeSortedArrays2­
+java.util.Arrays.sort(int[])CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!ACALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!BCALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java! ("2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+(2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+(2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+( 2Ô
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!ACALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ( 2Ô
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!BCALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ô
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ( 2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!ACALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ô
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ( 2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!BCALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ô
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ó
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ì
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!A	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java/ (02Ì
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!B	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java8 (92Ø
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ø
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Û
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ú
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+(2Ú
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ú
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ú
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2œ
+voidRETURN_TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (Þ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"ƒ
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">p</mark> = A.length*p2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!ACALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (Þ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"ƒ
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">q</mark> = B.length*q2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ç
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!BCALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (î
+CQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?temp@7.14:7.18VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"­
+declarationString—<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">temp</mark> = new <mark class="modifier">int</mark>[p + q]*temp2–
+int[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?p@5.12:5.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (2Ñ
+@Q16MergeSortedArrays.mergeSortedArrays(int[], int[])?q@6.12:6.13CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java! ("Ž
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@10.17:10.18VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java
+ 
+(Ž
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@13.17:13.18VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (Ž
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@21.17:21.18VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (Ž
+BQ16MergeSortedArrays.mergeSortedArrays(int[], int[])?i@26.17:26.18VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2”
+intTYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (Å
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!A	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java/ (0"
+typeint[]"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark>[] A*A2–
+int[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java) (.Å
+6Q16MergeSortedArrays.mergeSortedArrays(int[], int[])!B	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java8 (9"
+typeint[]"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark>[] B*B2–
+int[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java2 (7†
+#Q16MergeSortedArrays.main(String[])METHOD†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+4Q16MergeSortedArrays.mergeSortedArrays(int[], int[])CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java# #(2±
+ java.util.Arrays.toString(int[])CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java&7 &(?2±
+ java.util.Arrays.toString(int[])CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java'7 '(?2Â
+1Q16MergeSortedArrays.main(String[])?A@32.14:32.15CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java# #(2Â
+1Q16MergeSortedArrays.main(String[])?B@33.14:33.15CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java# #(2Â
+1Q16MergeSortedArrays.main(String[])?A@32.14:32.15CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java&@ &(A2Â
+1Q16MergeSortedArrays.main(String[])?B@33.14:33.15CALL†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java'@ '(A2¾
+(Q16MergeSortedArrays.main(String[])!args	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java% ()2É
+1Q16MergeSortedArrays.main(String[])?A@32.14:32.15DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java   (2É
+1Q16MergeSortedArrays.main(String[])?B@33.14:33.15DECLARATION†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java! !(2œ
+voidRETURN_TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java (–
+1Q16MergeSortedArrays.main(String[])?A@32.14:32.15VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java   ("
+typeint"
+isFinalfalse"’
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">A</mark> = { 1, 5, 6, 7, 8, 10 }*A2–
+int[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java   (Œ
+1Q16MergeSortedArrays.main(String[])?B@33.14:33.15VARIABLE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java! !("
+typeint"
+isFinalfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">B</mark> = { 2, 4, 9 }*B2–
+int[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java! !(¨
+(Q16MergeSortedArrays.main(String[])!args	PARAMETER†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2™
+String[]TYPE†
+|C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q16MergeSortedArrays.java ($

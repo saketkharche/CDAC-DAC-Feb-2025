@@ -1,0 +1,113 @@
+
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.javaÔ
+com.springcore.ci.PersonCLASSÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java ("
+packagecom.springcore.ci"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>Person"
+accesspublic*Person2¡
+Ocom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)DECLARATIONÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	(2õ
+#com.springcore.ci.Person.toString()DECLARATIONÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ù
+'com.springcore.ci.Person?name@5.16:5.20DECLARATIONÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ý
++com.springcore.ci.Person?personId@6.13:6.21DECLARATIONÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ú
+(com.springcore.ci.Person?certi@7.15:7.20DECLARATIONÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (ý
+Ocom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)CONSTRUCTORÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	("›
+declarationString…<mark class="modifier">public </mark><mark class="method">Person</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> personId<mark class="modifier"><mark class="modifier">,</mark></mark> Certi certi)*Person2Ÿ
+Tcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!nameCALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java
+ 
+(2£
+Xcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!personIdCALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2 
+Ucom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!certiCALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ò
+'com.springcore.ci.Person?name@5.16:5.20CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java
+ 
+(2ö
++com.springcore.ci.Person?personId@6.13:6.21CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ó
+(com.springcore.ci.Person?certi@7.15:7.20CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2¤
+Tcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!name	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	(2¨
+Xcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!personId	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	  	((2¥
+Ucom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!certi	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	/ 	(42ê
+com.springcore.ci.PersonRETURN_TYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	(Ì
+Tcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!name	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Û
+java.lang.StringTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	(ã
+Xcom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!personId	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	  	(("
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> personId*personId2Î
+intTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 	(Ô
+Ucom.springcore.ci.Person.Person(java.lang.String, int, com.springcore.ci.Certi)!certi	PARAMETERÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	/ 	(4"
+typeCerti"
+isFinalfalse" 
+declarationStringCerti certi*certi2â
+com.springcore.ci.CertiTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	) 	(.¸
+#com.springcore.ci.Person.toString()METHODÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java ("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2ò
+'com.springcore.ci.Person?name@5.16:5.20CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (2ö
++com.springcore.ci.Person?personId@6.13:6.21CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (&2ó
+(com.springcore.ci.Person?certi@7.15:7.20CALLÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java1 (62â
+java.lang.StringRETURN_TYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java (‹
+'com.springcore.ci.Person?name@5.16:5.20VARIABLEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accessprivate*name2Û
+java.lang.StringTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 (£
++com.springcore.ci.Person?personId@6.13:6.21VARIABLEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java ("
+isFinalfalse"
+typeint"†
+declarationStringq<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">personId</mark>"
+isStaticfalse"
+accessprivate*personId2Î
+intTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 (“
+(com.springcore.ci.Person?certi@7.15:7.20VARIABLEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java ("
+isFinalfalse"
+typeCerti"g
+declarationStringR<mark class="modifier">private </mark>Certi <mark class="class-field">certi</mark>"
+isStaticfalse"
+accessprivate*certi2â
+com.springcore.ci.CertiTYPEÀ
+µC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ci\Person.java	 (

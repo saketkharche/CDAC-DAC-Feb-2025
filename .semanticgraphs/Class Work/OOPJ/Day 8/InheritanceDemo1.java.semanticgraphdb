@@ -1,0 +1,132 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.javaÆ
+ParentCLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java("
+packageParent"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Parent"
+accesspackage_private*Parent2£
+Parent?x@1.5:1.6DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2§
+Parent?a2@2.5:2.7DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (Ç
+Parent?x@1.5:1.6VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark> = 10;"
+isStaticfalse"
+accesspackage_private*x2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (·
+Parent?a2@2.5:2.7VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+isFinalfalse"
+typeAbc"[
+declarationStringF<mark class="modifier"> </mark>Abc <mark class="class-field">a2</mark>"
+isStaticfalse"
+accesspackage_private*a22è
+AbcTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (Ã
+ChildCLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+packageChild"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>Child<mark class="modifier"> extends </mark>Parent"
+accesspackage_private*Child2¢
+Child?y@6.5:6.6DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2î
+ParentEXTENDÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (Å
+Child?y@6.5:6.6VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark> = 20;"
+isStaticfalse"
+accesspackage_private*y2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (⁄
+AbcCLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java
+ 
+(	"
+packageAbc"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>Abc"
+accesspackage_private*Abc√
+InheritanceDemo1CLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+packageInheritanceDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">class </mark>InheritanceDemo1"
+accesspackage_private*InheritanceDemo12≤
+InheritanceDemo1.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (ã
+InheritanceDemo1.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ô
+Child.Child()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2ï
+	Abc.Abc()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2µ
+$InheritanceDemo1.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java  (&2æ
++InheritanceDemo1.main(String[])?c@18.8:18.9DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (	2æ
++InheritanceDemo1.main(String[])?a@19.6:19.7DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2ø
+,InheritanceDemo1.main(String[])?a1@20.6:20.8DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (˚
++InheritanceDemo1.main(String[])?c@18.8:18.9VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (	"
+typeChild"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Child <mark class="class-field">c</mark> = new Child()*c2ë
+ChildTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2ô
+Child.Child()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (Ô
++InheritanceDemo1.main(String[])?a@19.6:19.7VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+typeAbc"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Abc <mark class="class-field">a</mark> = new Abc()*a2è
+AbcTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (2ï
+	Abc.Abc()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (Œ
+,InheritanceDemo1.main(String[])?a1@20.6:20.8VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java ("
+typeAbc"
+isFinalfalse"[
+declarationStringF<mark class="modifier"> </mark>Abc <mark class="class-field">a1</mark>*a12è
+AbcTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (ö
+$InheritanceDemo1.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 8\InheritanceDemo1.java (&

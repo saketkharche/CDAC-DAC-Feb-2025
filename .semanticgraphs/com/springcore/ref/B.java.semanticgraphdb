@@ -1,0 +1,92 @@
+
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java”
+com.springcore.ref.BCLASSº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java ("
+packagecom.springcore.ref"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier">public </mark><mark class="modifier">class </mark>B"
+accesspublic*B2Ê
+com.springcore.ref.B.B()DECLARATIONº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (	2È
+com.springcore.ref.B.getY()DECLARATIONº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (2Ï
+com.springcore.ref.B.setY(int)DECLARATIONº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	(2Ì
+com.springcore.ref.B.toString()DECLARATIONº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (2Ó
+ com.springcore.ref.B?y@3.13:3.14DECLARATIONº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (å
+com.springcore.ref.B.B()CONSTRUCTORº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (	"Y
+declarationStringD<mark class="modifier">public </mark><mark class="method">B</mark>()*B2‡
+java.lang.Object.Object()CALLº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (2‚
+com.springcore.ref.BRETURN_TYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (	Å
+com.springcore.ref.B.getY()METHODº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getY</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getY2Á
+ com.springcore.ref.B?y@3.13:3.14CALLº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 (
+2—
+intRETURN_TYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (Ö
+com.springcore.ref.B.setY(int)METHODº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setY</mark>(<mark class="modifier">int</mark> y)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setY2Á
+ com.springcore.ref.B.setY(int)!yCALLº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java
+ 
+(2Á
+ com.springcore.ref.B?y@3.13:3.14CALLº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java
+ 
+(2Ï
+ com.springcore.ref.B.setY(int)!y	PARAMETERº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	(2“
+voidRETURN_TYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	(ï
+ com.springcore.ref.B.setY(int)!y	PARAMETERº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2 
+intTYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 	(≤
+com.springcore.ref.B.toString()METHODº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Á
+ com.springcore.ref.B?y@3.13:3.14CALLº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (2ﬁ
+java.lang.StringRETURN_TYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java (Å
+ com.springcore.ref.B?y@3.13:3.14VARIABLEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java ("
+isFinalfalse"
+typeint"
+declarationStringj<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark>"
+isStaticfalse"
+accessprivate*y2 
+intTYPEº
+±C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\ref\B.java	 (

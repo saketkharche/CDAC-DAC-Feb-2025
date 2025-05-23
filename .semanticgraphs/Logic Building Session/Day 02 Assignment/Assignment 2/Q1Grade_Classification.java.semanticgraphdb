@@ -1,0 +1,52 @@
+
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java´
+Q1Grade_ClassificationCLASS§
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java("!
+packageQ1Grade_Classification"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q1Grade_Classification"
+accesspackage_private*Q1Grade_Classification2ﬂ
+%Q1Grade_Classification.main(String[])DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (≤
+%Q1Grade_Classification.main(String[])METHOD®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ë
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (2Ë
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (2Ë
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (2Ë
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALL®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java
+ 
+(2‚
+*Q1Grade_Classification.main(String[])!args	PARAMETER®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java% ()2Ô
+5Q1Grade_Classification.main(String[])?score@2.12:2.17DECLARATION®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (2æ
+voidRETURN_TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (œ
+5Q1Grade_Classification.main(String[])?score@2.12:2.17VARIABLE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">score</mark> = 85*score2∂
+intTYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java (Ó
+*Q1Grade_Classification.main(String[])!args	PARAMETER®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ª
+String[]TYPE®
+ùC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q1Grade_Classification.java ($

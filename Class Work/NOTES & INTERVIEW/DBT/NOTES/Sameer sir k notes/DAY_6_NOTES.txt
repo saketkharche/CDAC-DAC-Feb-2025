@@ -1,0 +1,558 @@
+
+DAY_6_NOTES
+
+
+
+MySQL - SQL--JOINS()
+---------------------------------------------
+	      DEPT TABLE		    |
+DEPTNO		DNAME		LOC	    |
+1		Training	Mumbai      |
+2		Exports		Delhi       |
+3		Marketing	Cal         |
+					    |
+---------------------------------------------
+----------------------------------------------------------------------------------------|	
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		3000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+
+select deptno, sum(sal) from emp,dept
+group by deptno;
+
+DNAME	SUM(SAL)
+
+
+
+select dname, sum(sal) from emp,dept
+where dept.deptno =emp.deptno
+group by dname;
+
+DNAME	SUM(SAL)
+
+
+
+
+select upper(dname), sum(sal) from emp,dept
+where dept.deptno =emp.deptno
+group by upper(dname);
+having sum(sal)>10000
+order by 1;
+
+
+5 TYPES OF JOINS(5):---
+________________________
+
+dept--->driving table
+emp---->driven table
+
+select dname, ename from emp,dept			<---FAST(because driving table 									should have with lesser 								  rows)
+where dept.deptno = emp.deptno;
+
+DNAME		ENAME
+-----		-----
+Training	Arun
+Training	Ali
+Training 	Kirun
+Export		Jack
+Export		Thomas
+
+
+1} Equijoin:
+   ---------
+	Join based on equality condition
+	Shows matching rows of both the tables
+	Uses:-
+	a. DNAME, ENAME
+	b. CNAME, SNAME		<---------For customers table and Salespeople table	
+	Most frequently used join( > 90%), hence it's also known as Natural join
+
+select dname, ename from emp, dept
+where dept.deptno = emp.deptno;
+
+
+2} Inequijoin:
+   ---------
+	Join based on inequality condition
+	it shows non-matching rows of both the tables
+	Uses:
+	a. Exeption Reports 
+	   i. who are the employee who don't belong to Training
+	   ii. who are the customers who haven't made the payment
+
+select dname, ename from emp, dept
+where dept.deptno != emp.deptno and dname = "Training";
+
+
+select dname, ename from emp, dept
+where dept.deptno != emp.deptno;
+
+
+DNAME		ENAME
+-----		------
+Training	Jack
+Training	Thomas
+Export		Arun
+Export		Ali
+Export		Kirun
+Marketing 	Arun
+Marketing 	Ali
+Marketing 	Kirun
+Marketing 	Jack
+Marketing 	Thomas
+
+3} Outerjoin:
+   ---------
+
+	# Parent table is known as master table
+	# Child table is known as details table
+
+	join with (+) or if you use the keyword "Outer"
+	show matching rows of both the tables
+	plus
+	non-matching rows of Outer table
+	Outer table-> table which is on Outer side of (+) sign
+
+	select dname, ename from emp, dept
+	where dept.deptno = emp.deptno (+);		<-----------Right OuterJoin
+
+		working: outer loop(dept) will be do while loop
+			 inner loop(emp) will be for loop
+
+	DNAME		ENAME
+	-----		-----
+	Training 	Arun
+	Training 	Ali
+	Training 	Kirun
+	Export		Jack
+	Export		Thomas
+	Marketing	null
+
+	Outer table-> table which is on Opposite side of (+) sign
+	
+	select dname, ename from emp, dept
+	where dept.deptno (+) = emp.deptno;		<-----------Left OuterJoin
+
+		working: outer loop(dept) will be for loop
+			 inner loop(emp) will be do while loop
+
+	DNAME		ENAME
+	-----		-----
+	Training 	Arun
+	Training 	Ali
+	Training 	Kirun
+	Export		Jack
+	Export		Thomas
+	.		Scott
+
+	(+) sign is not supported by MySQL
+	ANSI syntax for Right Outerjoin is supported by MySQL
+	ANSI syntax for Left Outerjoin is supported by MySQL
+	ANSI syntax for Full Outerjoin is not supported by MySQL
+
+	To implement Full outerjoin in MySQL:-
+		//UNION will suppressed the duplicates it will not show duplicates 
+			
+		select dname, ename from emp right outer join dept
+		on (dept.deptno = emp.deptno)		
+			union
+		select dname, ename from emp left outer join dept
+		on (dept.deptno = emp.deptno)
+
+	Two types of outer join:
+		1} Half OuterJoin : ( 1 Do while, 1 for loop)
+			a} Right half outer join or Right OuterJoin
+				select dname, ename from emp right outer join dept
+				on (dept.deptno = emp.deptno)
+				
+			b} Left half outer join or Left OuterJoin
+				select dname, ename from emp left outer join dept
+				on (dept.deptno = emp.deptno)
+				
+		2} Full OuterJoin : ( Nested do-while loop)
+			show matching rows of both the tables
+			plus
+			non-matching rows of both the tables
+			union of right outerjoin and left outerjoin
+
+			select dname, ename from emp, dept
+			where dept.deptno = emp.deptno (+);
+				union
+			select dname, ename from emp, dept
+			where dept.deptno (+) = emp.deptno;
+
+				\\\OR\\\\
+			\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			ANSI SYNTAX FOR FULL OUTERJOIN:
+			\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			select dname, ename from emp full outer join dept
+			on (dept.deptno = emp.deptno)
+
+	
+
+	Inner Join-> by default every join is Inner join; putting a (+) sign or using the 	 keyword "Outer" is what makes it an Outerjoin.
+
+	DO NOT MENTION THIS IN INTERVIEWS UNLESS EXPLICITLY ASKED BY INTERVIERS.
+
+4} Cartesian join
+	Join without a where clause
+	Every row of driving table is combine with each and every row of driven table
+	AKA cross join because it takes cross product of two tables thus it is known as 	 cross join
+	
+	select dname, ename from emp, dept;		<---fast as lesser the I/O between 								DB server HD and server 								RAM, the faster it will be
+
+If we change in this fashion:- 
+	select dname, ename from dept, emp;		<---slow as More the I/O between DB 								server HD and server RAM, 								 the slower it will be
+
+ then the output will  be same.
+
+
+	USES:
+	a. for printing purposes
+	b. e.g. in student table you have all the students names, in subjects table u have
+	   all the subjects names; when you are printing the mark sheets  
+
+
+DNAME		ENAME
+-----		-----
+Training 	Arun	
+Training 	Ali
+Training 	Kirun
+Training 	Jack
+Training 	Thomas
+Export	 	Arun	
+Export  	Ali
+Export  	Kirun
+Export	 	Jack
+Export	 	Thomas
+Marketing	Arun	
+Marketing  	Ali
+Marketing  	Kirun
+Marketing	Jack
+Marketing 	Thomas
+
+
+
+5}Self join:
+  	join a table to itself
+	it is used when parent col and child col, both are present in the same table.
+	slowest join (based on recursion)
+
+	USES:
+	   a. Ename, Managername eg. is shown below 
+	
+	select a.ename, b.ename from emp b, emp a
+	where a.mgr = b.empno;
+
+	a.ename		b.ename
+	-------		-------
+	Arun		Jack
+	Ali		Arun
+	Kirun		Arun
+	Thomas		Jack	
+
+
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+	 
+in background:----
+		      SERVER RAM
+	     a				     b		<--(temporary table)
+  	ename	mgr			ename	empno
+	Arun	4			Arun	1
+	Ali	1			Ali	2
+	Kirun	1			Kirun 	3
+	Jack	null			jack	4
+	Thomas  4			Thomas  5
+
+	# After execution of select statement both these table will get destroy. 
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+
+
+----------------------------------------------------------------------------------------|											|
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		3000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+
+*	CARTESIAN JOIN IS THE FASTEST JOIN, BECAUSE THERE IS NO WHERE CLAUSE, AND THEREFORE 	  THERE IS NO INVOLVED.
+	
+
+	
+-------------------------------------------------------------------------------------
+# 3 OR MORE TABLES SCENARIO:
+
+----------------------------------------------------------------------------------------|											|
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		3000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+
+--------------------------------------------|
+	      DEPT TABLE		    |
+DEPTNO		DNAME		LOC	    |
+1		Training	Mumbai      |
+2		Exports		Delhi       |
+3		Marketing	Cal         |
+					    |
+--------------------------------------------|
+
+-------------------|
+  DEPTHEAD TABLE   |
+		   |
+DEPTNO	     DHEAD |
+1	     Arun  |
+2	     Jack  |
+-------------------|
+
+
+
+
+
+			        (5ROWS) (3ROWS)  (2ROWS)	<--try to wright like in
+select dname, ename, dhead from   emp,   dept,  depthead;		
+where depthead.deptno = dept.deptno
+and dept.deptno = emp.detno;
+
+
+dname		ename		dhead
+Training 	Arun		Arun
+Training 	Ali		Arun
+Training 	Kirun		Arun
+Export		Jack		Jack
+Export		Thomas		Jack
+
+
+Types of Relationships:
+	1} one is to one		eg: (Dept is to Depthead) or (Depthead is to Dept)
+	2} one is to many		eg: (Dept is to Emp) and (Depthead is Emp)
+	3} many is to one		eg: (Emp is to Dept) and (Emp is to Depthead)
+	4} many is to many(below tables) eg: (Projects is to Emp)
+
+
+
+----------------------------------------------------------------------------------------|											|
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		3000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+
+-------------------------------------------------------------|
+	       Projects table				     |
+							     |
+PROJECTNO	 CLIENTNAME	DESCRIPTION_OF_PROJECT	     |
+   p1		  Deloitte		CGS		     |
+   p2		  Morgan stanley	AMS		     |
+   p3		  BNP Paribas		Macros		     |
+   p4		  ICICI Bank		PPS		     |
+   p5 		  AMFI			Website development  |
+-------------------------------------------------------------|
+
+
+Intersection table:
+--------------------------------|
+    Project_emp table		|
+				|
+ProjectNO	empNo		|
+p1		1		|
+p1		2		|
+p1		4		|
+p2		1		|
+p2		5		|
+p3		2		|
+p3		4		|
+--------------------------------|
+# Intersection table is required for many to many relationship.
+
+select clientname, ename from projects_emp, emp, projects
+where project_emp.projectno = projects.projno
+and projects_emp.empno = projects.empno
+order by 1,2; 
+
+
+
+SUB QUERIES:
+	these are nested queries or query within query or select within select.
+
+	PROBLEM:-- Display the ename who is receiving sal = min(sal).
+	
+	select ename from emp		<----main query(parent query)
+	where sal=
+	(select min(sal) from emp);	<----Sub query(inner query) (first to be executed 								     as it is in brackets)
+	-maximum upto 255 levels for sub queries.
+	 (this limit of sql can be exceeded with the help of views)
+
+	-Join is faster than sub_queries because when you write a join you solve the 		  problem using one select statement, whereas with sub-queries you require 2 more   	   select statements.
+	
+	-The more the no. of select statements, the slower it will be.
+
+	PROBLEM:-- Display the second largest.
+
+	 select max(sal) from emp
+	 where sal < (select max(sal) from emp);
+
+	PROBLEM:-- Display all the rows who belong to the same DEPTNO as 'Thomas'.
+
+	select * from emp where dept=
+	 (select deptno from emp
+	 where ename= 'Thomas');
+	
+	PROBLEM:-- display all the rows who belong to the same job as 'Kirun'.
+	select * from emp where job =
+	(select job from emp
+	where ename='Kirun');
+	
+USING SUB QUERY WITH DML COMMANDS:-
+IN OTHER RDBMS:
+	delete from emp
+	where deptno = (select deptno from emp where ename ='Thomas');
+	
+	upadate emp set sal=10000
+	where job = (select job from emp where ename = 'Kirun');
+	
+	* above 2 commands will not work in MySQL
+	* in MySQL you can't update or delete from a table from which u are currently 	  	  selecting.
+
+SOLUTION FOR MYSQL:
+	delete from emp where deptno=(select abcd.deptno from (select deptno from emp where 	 ename='Thomas') as abcd);
+
+	update emp set sal=10000
+	 where job=
+	 (select pqr.job from (select job from emp where ename ='Kirun') as pqr);
+
+Multi - row sub queries (sub-query returns multiple rows):=
+	* PROBLEM: Display all the rows who are receiving a sal = any of the Managers:-
+	
+	select * from emp
+	where sal any=		(8000,9000)
+	(select sal from emp
+	 where job = 'M');
+
+	      //OR//
+
+	select * from emp
+	where sal in
+	(select sal from emp
+	where job = 'M');
+	
+	     OR//FASTEST WAY//
+	
+	select * from emp
+	where sal >=
+	(select min(sal) from emp)
+	where job = 'M';
+
+	* PROBLEM: Display all the rows who receiving a sal > all the managers.
+	ASSUMPTION THE SAL = 13000.
+
+----------------------------------------------------------------------------------------|											|
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		13000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+	select * from emp
+	where sal > all 
+	(select sal from emp
+	where job = 'M');
+
+	select * from emp
+	where sal > 			//fastest way
+	(select max(sal) from emp
+	where job = 'M');
+
+	# ALL -> logical AND
+	# ANY -> logical OR
+	# IN -> logical OR
+
+USING SUB QUERY IN HAVING CLAUSE:---
+	* PROBLEM: Display all the rows who receiving a sal > all the managers.
+	ASSUMPTION THE SAL = 3000.
+----------------------------------------------------------------------------------------|											|
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		13000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|	using sub query in the having clause:-
+	Display the Dname that is having max(sum(sal)):-
+	select deptno, sum(sal) from emp
+	group by deptno;
+
+	deptno	sum(sal)
+	1	18000
+	2	17000
+
+	select sum(sal) from emp
+	group by deptno;
+	
+	sum(sal)
+	18000
+	17000
+
+	select sum(sal) sum_sal from emp
+	group by deptno;
+
+	sum_sal
+	18000
+	17000
+
+	select max(sum_sal) from
+	(select sum(sal) sum_sal from emp group by deptno) abcd);
+	
+	max(sum_sal)
+	18000
+	
+	select deptno, sum(sal) from emp
+	group by deptno
+	having sum(sal)=
+	(select max(sum_sal) from
+	(select sum(sal) sum_sal from emp
+	group by deptno) abcd);
+
+	deptno  sum(sal)
+	1	18000
+
+	select dname, sum(sal) from emp, dept
+	where dept.deptno = emp.deptno
+	group by dname
+	having sum(sal)=
+	(select max(sum_sal) from
+	(select sum(sal) sum_sal from emp
+	group by deptno)abcd);
+
+	dname	sum(sal)
+	TRN	18000
+	
+	INLINE VIEW-> if u have sub query in the from clause, then it's known as inline 	 view.
+	
+	
+	
+	

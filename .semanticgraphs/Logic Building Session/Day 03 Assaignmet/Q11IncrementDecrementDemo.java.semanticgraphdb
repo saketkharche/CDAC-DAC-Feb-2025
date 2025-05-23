@@ -1,0 +1,74 @@
+
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java¦
+Q11IncrementDecrementDemoCLASSš
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java("$
+packageQ11IncrementDecrementDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier"> </mark><mark class="modifier">class </mark>Q11IncrementDecrementDemo"
+accesspackage_private*Q11IncrementDecrementDemo2Ø
+(Q11IncrementDecrementDemo.main(String[])DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (›
+(Q11IncrementDecrementDemo.main(String[])METHODž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ý
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2Ý
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2Ý
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java$ (%2Ý
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java$ (%2â
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java) (/2Û
+-Q11IncrementDecrementDemo.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java% ()2ä
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2ä
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2é
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2´
+voidRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (°
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 5*a2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (±
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10*b2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (ˆ
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"‰
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = ++a + b--*result2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2Ý
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (2Ý
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java (Ý
+-Q11IncrementDecrementDemo.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q11IncrementDecrementDemo.java ($

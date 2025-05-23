@@ -1,0 +1,669 @@
+DAY_5_NOTES
+
+sql exercise1 - sql_exercise5
+sql asig1 - asig10
+sql practice queries
+---------------------------------------------------------------------------------------
+List function: 
+	these func are independent to data type
+	
+	EMP TABLE
+	ENAME      SAL       COMM
+	A	 5000        500
+        B	 6000	     
+	C	     	     700
+
+select * from emp where comm =null;
+// no rows selected
+
+	* any comparison done with null, returns null
+	* this concept is known as pessimistic querying -> if we are searching for null 	   values.
+	if we want to make it run and get output we need to  do
+	    select * from emp where comm is null;
+
+	    select * from emp where comm != null;
+		* any comparison done with null returns null
+		
+		if we want to make it execute
+		 select * from emp where comm is not null;
+
+
+	select 3*12; 			<---works in MySQL, but is not an ANSI standard.
+
+	select sal+comm from emp;
+		//any operation done with null, returns null
+		
+	select sal + ifnull(comm,0) from emp;		<--if comm is null then return 0;
+	5500						   else return comm;
+	6000						   end if;
+	700
+	
+	ifnull is a list function
+
+	select ifnull(sal,0) + ifnull(comm,0) from emp;
+	///////////////////////////////////
+		ifnull(comm,0)
+		ifnull(comm,100)
+		ifnull(city,'Mumbai')
+	///////////////////////////////////
+
+GREATEST:	
+	EMP TABLE
+           SAL	
+    	   1000
+    	   2000 
+    	   3000
+    	   4000
+    	   5000
+
+	select greatest(sal,3000) from emp;	<--it returns the greater of the two
+
+	
+	USES:
+	a. to set lower limit on some value
+	e.g., bonus = 10% of sal, min bonus=300
+	     select greatest(sal*0.1,300) from emp;
+
+	select greatest (sal,3000,4000,5000,10000) from emp;
+
+	greatest(val1,val2,val3.........,val255)	<---can compare any no. of value
+	greatest(col1,col2,col3.........,col255)
+	greatest('str1','str2','str3')
+	greatest('date1','date2','date3')
+	greatest('time1','time2','time3')
+	greatest('datetime1','datetime2','datetime3')
+
+	set x = greatest(a,b,c,d);		<------	can be use in programming
+
+LEAST:
+	select least(sal,3000) from emp;
+
+	USES:
+	a. to set an upper limit on some value
+	e.g., cashback=10% amt, max cashback=300
+		select least(amt*0.1,300) from orders;
+
+	select least(sal,3000,4000,5000,10000) from emp;
+	least(col1,col2,col3,......,col255)
+	least(val1,val2,val3,......,val255)
+	least(num1,num2,num3)
+	least('str1','str2','str3')
+	least('date1','date2','date3')
+	least('time1','time2','time3')
+	least('datetime1','datetime2','datetime1')
+
+	set x=least(a,b,c,d);			<------	can be use in programming
+
+
+MYSQL CASE KEYWORD:
+	      EMP TABLE
+           SAL		deptno
+    	   1000		10
+    	   2000 	10
+    	   3000		20
+    	   4000		30
+    	   5000		40 
+
+	select
+	case
+	when deptno = 10 then 'Training'
+	when deptno =20 then 'Exports'
+	when deptno = 30 then 'Marketing'
+	else 'Others'
+	end "DEPTNUMBER"
+	from emp;
+
+	case is a keyword 
+	if we don't specifies else and if deptno 40 is present in the table, then it 	  		returns a null value
+
+	PROBLEM:
+	  if deptno = 10 then HRA=40% annual
+	  if deptno = 20 then HRA=30% annual
+	  if deptno = 30 then HRA=25% annual
+	  else HRA =20% annual
+
+	select deptno,ename,sal,sal*12 "ANNUAL",
+	case
+	when deptno = 10 then sal*12*0.4
+	when deptno =20 then sal*12*0.3
+	when deptno = 30 then sal*12*0.25
+	else sal*12*0.2
+	end "HRA"
+	from emp
+	order by 1; 
+	
+
+	if sal < 3000, REMARK ='Low Income'
+	if sal = 3000, REMARK ='Middle Income'
+	if sal > 3000, REMARK ='High Income'
+
+	select ename, sal,
+	case
+	when sign(sal-3000) = 1 then 'High Income'
+	when sign(sal-3000) = 1 then 'Low Income'
+	else 'Middle Income'
+	end "REMARKS"
+	from emp
+	order by 2; 
+//////////////////////////////////////////////
+	Show character set;	<---languages 
+/////////////////////////////////////////////
+
+
+GROUP/AGGREGATE FUNCTIONS:
+-------------------------------------------------------------------------------------	
+				EMP TABLE
+
+EMP		ENAME		SAL		DEPNO 		JOB		MGR
+1		Arun		8000		1		M		4
+2		Ali		7000		1		C		1
+3		Kirun		3000		1		C		1
+4		Jack		9000		2		M		
+5		Thomas		8000		2		C		4
+--------------------------------------------------------------------------------------
+								^
+								|
+						(M for Manager and C for Clerk)
+
+	select 
+	case
+	when job='M' then 'Manager'
+	when job='C' then 'Clerk'
+	end "JOB"
+	from emp;
+
+	character, number, date, list, environment functions executes in sever RAM.
+	Single-Row functions:-
+		* operate on 1 row at a time
+		* character, number, date, list, environment functions executes in sever RAM.
+		e.g., upper (ename), round(sal) etc
+
+	Group function Multi Row func:
+		operate on multiple rows at a time
+		Group functions
+		e.g., sum(sal)
+
+	select sum(sal) from emp;		<----o/p:-35000
+		working internally:	1 start: server ram (sal col will be brought into the RAM)
+					2 it will be reside in 1D array
+					3 for loop will apply on that table(sal column)
+					4 after completing everything then only 35000 will be brought 						   from server RAM to client. 
+					5 after that the array will get delete(free)
+				
+		Assumption, 4th row SAL is null:-
+
+-------------------------------------------------------------------------------------	
+				EMP TABLE
+
+EMP		ENAME		SAL		DEPNO 		JOB		MGR
+1		Arun		8000		1		M		4
+2		Ali		7000		1		C		1
+3		Kirun		3000		1		C		1
+4		Jack		null		2		M		null
+5		Thomas		8000		2		C		4
+--------------------------------------------------------------------------------------
+								^
+								|
+						(M for Manager and C for Clerk)
+			
+					
+		NULL VALUES ARE NOT COUNTED BY GROUP FUNCTIONS.	 (VERY IMP)
+		
+		select avg(sal) from emp;	//26000/4 -->6500
+
+		and if I use isnull(sal,0) inside the function the we will get different output
+	AVG:	
+		select avg(ifnull(sal,0) from emp;
+	MIN:
+		select min(sal) from emp;
+		//O/P--> 3000
+		select min(ifnull(sal,0))	from emp;
+		//O/P--> 0
+	MAX:
+		select max(sal) from emp;
+		//O/P--> 8000
+		select max(ifnull(sal))	from emp;
+		//O/P--> 9000
+
+	COUNT:
+		select count(sal) from emp;		<---returns a count of number of rows where SAL 		//O/P:- 4					     is not having null value
+		
+		
+		select count(*) from emp;		<---- ;;;
+		//O/P:- 5
+
+		select count(*) from emp;
+		select count(sal) from emp;
+		select count(*) - count(sal) from emp;
+	
+
+		select max(sal)/min(sal) from emp;
+		8000/3000 ---> 2.76
+		select sum(sal)/count(*) from emp;(faster)   OR    select avg(ifnull(sal,0)) from emp;// it 											will go in for 													loop one 												  time 
+		op: 26000/5							op: 26000/5	
+
+		
+-------------------------------------------------------------------------------------	
+				EMP TABLE
+
+EMP		ENAME		SAL		DEPNO 		JOB		MGR
+1		Arun		8000		1		M		4
+2		Ali		7000		1		C		1
+3		Kirun		3000		1		C		1
+4		Jack		9000		2		M		null
+5		Thomas		8000		2		C		4
+--------------------------------------------------------------------------------------
+								^
+								|
+						(M for Manager and C for Clerk)	
+
+
+		select sum(sal) from emp
+		where deptno  = 1;
+		//OP: 18000
+
+
+		
+		select avg(sal) from emp
+		where job = 'C';
+		//op: 6000
+
+
+		# COUNT-QUERY(counting the number of query hits):-
+		select count(*) from emp
+		where sal>7000;
+		//op: 3
+
+		sum(column)
+		avg(column)
+		min(column)		min(sal) ,min(ename)  ,min(hiredate)
+		max(column)		max(sal) ,max(ename)  ,max(hiredate)
+		count()			count(sal), count(ename), count(hiredate)
+		cout(*)
+		stddev(column)
+		variance(column)
+
+--------------------------------------------
+	SUMMARY REPORT:-
+		select count(*), min(sal), max(sal), sum(sal), avg(sal) from emp;
+
+		* RESTRICTION #1 we cant select col of table alongwith a group function
+
+		select count(ename), max(sal) from emp;		//valid
+		select ename max(sal) from emp;			//invalid as ename is not a grp function	
+		
+			
+		* RESTRICTION #2 we cant select sigle row function alongwith a group function and it same 			      with all RDBMS
+
+		select count(ename), max(sal) from emp;		//valid
+		select upper(ename), max(sal) from emp;		//invalid
+	
+		
+		* RESTRICTION #2 we cant use group function in where clause
+			
+		select * from emp where sal > avg(sal);
+
+-------------------------------------------------------------------------------------------
+
+Mysql -sql GROUP BY CLAUSE:
+	used for grouping
+	
+where clause 
+order by clause
+for update clause
+group by clause
+
+-------------------------------------------------------------------------------------	
+				EMP TABLE
+
+EMP		ENAME		SAL		DEPNO 		JOB		MGR
+1		Arun		8000		1		M		4
+2		Ali		7000		1		C		1
+3		Kirun		3000		1		C		1
+4		Jack		9000		2		M		null
+5		Thomas		8000		2		C		4
+--------------------------------------------------------------------------------------
+
+select sum(sal) from emp;
+where deptno =1;			//only those will be considered where deptno = 1;
+
+but if I want sum(sal) department wise
+output should be like this:
+deptno	sum(sal)
+1	18000
+2	17000
+
+ans:	select deptno, sum(sal) from emp
+	group by deptno;
+		working: step1] the rows are retrieved from DB server HD to server RAM
+			 step2] sorting will be done deptwise 
+			 step3] grouping is done deptwise
+			 step4] summation deptwise	-------->1   18000
+								 2   17000
+select  clause--> select deptno, sum(sal)
+		from  clause ---> from emp
+		group by clause --> group by deptno
+
+	TWO RULES FOR GROUP BY:
+	------------------------
+	RULE1] Besides the group function whichever column is present in select clause, it has to be 			present in group by clause.
+	
+	RULE2] whichever col is present in group by clause, it may or may not be present in select 		 	clause.
+
+	
+
+	select sum(sal) from emp
+	group by deptno;
+
+	select deptno, max(sal) from emp
+	group by deptno;
+
+	select deptno, min(sal) from emp
+	group by deptno;
+
+	select deptno, avg(sal) from emp
+	group by deptno;
+
+	select deptno, count(*) from emp
+	group by deptno;
+
+	* 2D query-> any select statement with a group by clause is known as a 2D query , because you 	  	   can  plot a graph from the output
+	
+	* MS Excel, Oracle graphics, Oracle Apex, etc.
+
+	select deptno, sum(sal) from emp
+	where sal>7000				<----used for searching
+	group by deptno;
+
+	where clause is specified before the group by clause.
+
+	select deptno, sum(sal) from emp
+	where sal>7000 and sal <1000				<----used for searching
+	group by deptno;
+		
+	select deptno, sum(sal) from emp
+	where job='C'						<----used for searching
+	group by deptno;
+		
+	select job, sum(sal) from emp				<======job wise
+	group by deptno;
+
+	select deptno, job, sum(sal) from emp				
+	group by deptno, job;
+	
+	no upper limit on the number of column in group by clause
+	select...……………..
+	group by city, state, city
+	
+	if u have a large no. of rows in the table and if u have a large no. of col. in group by clause, then the select statement will be very slow because that much sorting has to take place in server RAM
+
+	if u have 1 col in group by clause -> 2D query
+	if u have 2 col in group by clause-> 3D query
+	if u have 3 col in group by clause-> 4D query
+	.
+	.
+	.
+	and so on.
+	known as multidimensional query.
+………………………………………………………………………………………………………………………………………………………………………..
+	select job, deptno, sum(sal) from emp				
+	group by  job,deptno;
+
+	select............
+	group by city, country, district, state;	<----slow
+
+	select............
+	group by country, state, district, city;	<----fast
+
+	
+	The position of col in select clause and the postion col in group by clause need not be the same
+	The psition of col in select clause will determine the position of col in the output; this you 	 	  will write as per user requirement
+
+	The position of col in group by clause will determine the sorting order, grouping order, 	summation orde, and hence the speed of processing this u wil write as per 	count(distinct(columname))
+
+	select count(distinct deptno) , count(distinct job) from emp;
+
+
+	select deptno, sum(sal) from emp
+	group by job; 				<-----ERROR
+
+	
+			 step1] the rows are retrieved from DB server HD to server RAM
+			 step2] sorting will be done deptwise 
+			 step3] grouping is done deptwise
+			 step4] summation deptwise
+			 step5] having clause
+
+	select deptno, sum(sal) from emp
+	group by deptno 
+	having sum(sal) > 17000;
+
+	*where clause is used for searching
+	*searching takes place in DB server HD
+	*where clause is used to restrict the rows
+	*where clause ;;
+	*having clause work after summation
+
+	select deptno, sum(sal) from emp
+	where sal> 7000
+	group by deptno;
+
+	select deptno, sum(sal) from emp
+	group by deptno
+	having sal>7000;		<---error
+
+
+	* whichever col is present in clause, it can be used in having clause
+
+	select deptno, sum(sal) from emp
+	group by deptno
+	having deptno = 1;		<---WILL WORK BUT IT IS INEFFICIENT, INSTEAD SHOULD HAVE USED 							WHERE DEPTNO=1
+
+	* its recommended that only the group function should be used in having clause
+
+	select deptno, sum(sal) from emp
+	group by deptno 
+	having sum(sal) > 17000;
+
+	select deptno, sum(sal) from emp
+	group by deptno 
+	having sum(sal) > 17000 and sum(sal) < 25000;
+
+--------------------------------------------------------------
+
+	select deptno, sum(sal) from emp
+	group by deptno;
+	
+
+	select deptno, sum(sal) from emp
+	group by deptno;
+	order by 2; 
+
+	
+	 		 step1] the rows are retrieved from DB server HD to server RAM
+			 step2] sorting will be done deptwise 
+			 step3] grouping is done deptwise
+			 step4] summation deptwise
+			 step5] having clause
+			 step6] order by clause;
+
+	ORDER BY clause is the last clause in select statement
+	
+	{{{{{VERRRRRRYYYYYY IMPPPPPPOOOOORTATANTNATNANT}}}}}}}
+	select........ from .......
+	where......
+	group by ...
+	having ....
+	order by ....;
+
+MATRIX REPORT:
+-----------------------------------------------------------------------
+	select deptno, count(*), min(sal), max(sal), sum(sal) from emp
+	group by deptno
+	order by 1;
+	
++--------+----------+----------+----------+----------+
+| deptno | count(*) | min(sal) | max(sal) | sum(sal) |
++--------+----------+----------+----------+----------+
+|     10 |        3 |  1300.00 |  5000.00 |  8750.00 |
+|     20 |        5 |   800.00 |  3000.00 | 10875.00 |
+|     30 |        6 |   950.00 |  2850.00 |  9400.00 |
++--------+----------+----------+----------+----------+
+
+	
+In Order RDBMS:-
+	select deptno, sum(sal) from emp
+	group by deptno;
+	
+	deptno   sum(sal)
+	1	 18000
+	2	 17000
+
+	select max(sum(sal)) from emp		<------ERROR: Invalid use of group function 								BUT nesting of group 								        functions is supporting by 									oracle
+	group by deptno;
+	
+	O/P: max(sum(sal))
+		18000
+
+	SUB QUERY:
+	select max(sum_sal) from
+    	(select sum(sal) sum_sal from dummyemp group by deptno) abcd;
+	+--------------+
+	| max(sum_sal) |
+	+--------------+
+	|     10875.00 |
+	+--------------+
+
+-----------------------------------------------------------------
+------------------------------------------------------------------
+
+MySQL - SQL--JOINS()
+---------------------------------------------
+	      DEPT TABLE		    |
+DEPTNO		DNAME		LOC	    |
+1		Training	Mumbai      |
+2		Exports		Delhi       |
+3		Marketing	Cal         |
+					    |
+---------------------------------------------
+----------------------------------------------------------------------------------------|	
+				EMP TABLE						|
+											|
+EMP		ENAME		SAL		DEPTNO 		JOB		MGR	|
+1		Arun		8000		1		M		4	|
+2		Ali		7000		1		C		1	|
+3		Kirun		3000		1		C		1	|
+4		Jack		9000		2		M		null	|
+5		Thomas		8000		2		C		4	|
+----------------------------------------------------------------------------------------|
+
+	
+All the data is stored in one table, data is stored in multiple tables.
+If you want to see the col of 2 or more tables, then u will have to write a join.
+
+	
+dept ---> driving table
+emp ----> driven table
+
+full table scan
+
+select dname, ename from emp,dept
+where dept.deptno=emp.deptno;
+
+*		the position of col in select clause will determine the position of col in the output;
+		  this u will write as per client requirements
+
+select ename, ename from emp, dept
+where dept.deptno= emp.deptno;
+
+		where clause can be written in any sequence
+
+select dname, ename from emp, dept
+where dept.deptno= emp.deptno;
+OR
+select dname, ename from emp, dept
+where emp.deptno= dept.deptno;	
+
+
+dept ---> driving table
+emp ----> driven table		
+select dname, ename from emp, dept		<<<----------fast
+where dept.deptno=emp.deptno;
+
+
+
+emp ---> driving table
+dept ----> driven table		
+select dname, ename from dept, emp		<<<----------slow
+where dept.deptno=emp.deptno;
+
+	IN ORDER FOR THE JOIN 
+	
+
+the common col in both the tables is deptno; the common col that is present in both the tables, the column name need not be the same in both the tables, because the same col may have a different meaning in the other table
+ex: export and import, purchase and sale, etc.
+
+select dname, ename from emp, dept
+where dept.x=emp.y;
+
+----------------------------------------------------------------------------------------------------------
+
+*the datatype of common col in both the tables should be the same and there has be some logical reason on which basis u are writing the join 
+
+select dname, ename from emp, dept
+where dept.deptno=emp.empno;				<--meaningless output
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+select dname , ename from emp, dept
+where dept.deptno=emp.deptno;
+
+------------------------------------------------------------------------------------------
+
+*to make the output more presentable:-
+
+select dname , ename from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+
+-------------------------------------------------------------------------------------------
+
+*its good to display lots of col in the output; it becomes richer and more meaningful
+
+select dname, loc, job, ename, sal from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+-----------------------------------------------------------------------------
+* to display all the col from both the tables
+select * from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+--------------------------------------------------------------------------------------------------------
+
+* col ambiguously defined (if the common col had different col names in both the tables, then this problem 	would not have arisen)
+select dname, loc, job, ename, sal from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+
+---------------------------------------------------------------------------------------------
+select dept.deptno, dname, loc, ename, job, sal from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+OR
+select emp.deptno, dname, loc, ename, job, sal from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+
+---------------------------------------------------------------------------------------------------
+
+*its a good programming practice to use tablename.columnname for all the columns, because if makes the select statement more readable
+
+select dept.deptno, dept.dname, dept.loc, emp.ename, emp.job, emp.sal from emp, dept
+where dept.deptno=emp.deptno;
+order by 1;
+
+
+
+

@@ -1,0 +1,48 @@
+
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.javaõ
+Q3MultiplesOfSevenCLASS“
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java("
+packageQ3MultiplesOfSeven"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3MultiplesOfSeven"
+accesspackage_private*Q3MultiplesOfSeven2Ê
+!Q3MultiplesOfSeven.main(String[])DECLARATION—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (¨
+!Q3MultiplesOfSeven.main(String[])METHOD—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ï
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (2Ï
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java" (#2Ï
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALL—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (2Í
+&Q3MultiplesOfSeven.main(String[])!args	PARAMETER—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java% ()2Ö
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18DECLARATION—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (2­
+voidRETURN_TYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (›
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18VARIABLE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 7*i2¥
+intTYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java (È
+&Q3MultiplesOfSeven.main(String[])!args	PARAMETER—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ª
+String[]TYPE—
+ŒC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q3MultiplesOfSeven.java ($

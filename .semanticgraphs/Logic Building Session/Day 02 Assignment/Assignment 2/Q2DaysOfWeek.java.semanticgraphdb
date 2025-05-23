@@ -1,0 +1,63 @@
+
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.javaæ
+Q2DaysOfWeekCLASSž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java ("
+packageQ2DaysOfWeek"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>Q2DaysOfWeek"
+accesspublic*Q2DaysOfWeek2Ë
+Q2DaysOfWeek.main(String[])DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (Ï
+Q2DaysOfWeek.main(String[])METHODž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ö
+-Q2DaysOfWeek.main(String[])?scanner@4.16:4.23CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2Ò
+)Q2DaysOfWeek.main(String[])?day@6.12:6.15CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2Ò
+)Q2DaysOfWeek.main(String[])?day@6.12:6.15CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2Ò
+)Q2DaysOfWeek.main(String[])?day@6.12:6.15CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java$ $(2Ö
+-Q2DaysOfWeek.main(String[])?scanner@4.16:4.23CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java2 2(2Î
+ Q2DaysOfWeek.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java% ()2Ý
+-Q2DaysOfWeek.main(String[])?scanner@4.16:4.23DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2Ù
+)Q2DaysOfWeek.main(String[])?day@6.12:6.15DECLARATIONž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2´
+voidRETURN_TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (Â
+-Q2DaysOfWeek.main(String[])?scanner@4.16:4.23VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2º
+java.util.ScannerTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (“
+)Q2DaysOfWeek.main(String[])?day@6.12:6.15VARIABLEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java ("
+typeint"
+isFinalfalse"Ž
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">day</mark> = scanner.nextInt()*day2¬
+intTYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (2Ö
+-Q2DaysOfWeek.main(String[])?scanner@4.16:4.23CALLž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java (Ð
+ Q2DaysOfWeek.main(String[])!args	PARAMETERž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2±
+String[]TYPEž
+“C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 02 Assignment\Assignment 2\Q2DaysOfWeek.java ($

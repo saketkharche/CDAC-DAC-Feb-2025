@@ -1,0 +1,92 @@
+
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.javaΩ
+
+Q16PatternCLASSã
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java("
+package
+Q16Pattern"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Q16Pattern"
+accesspackage_private*
+Q16Pattern2∫
+Q16Pattern.main(String[])DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (¯
+Q16Pattern.main(String[])METHODè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ø
+%Q16Pattern.main(String[])?i@4.17:4.18CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2¬
+(Q16Pattern.main(String[])?rows@2.12:2.16CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (!2ø
+%Q16Pattern.main(String[])?i@4.17:4.18CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java# ($2ø
+%Q16Pattern.main(String[])?j@6.21:6.22CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2¬
+(Q16Pattern.main(String[])?rows@2.12:2.16CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java! (%2ø
+%Q16Pattern.main(String[])?i@4.17:4.18CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java( ()2ø
+%Q16Pattern.main(String[])?j@6.21:6.22CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java+ (,2¡
+'Q16Pattern.main(String[])?k@11.21:11.22CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2ø
+%Q16Pattern.main(String[])?i@4.17:4.18CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java% (&2¡
+'Q16Pattern.main(String[])?k@11.21:11.22CALLè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java, (-2Ω
+Q16Pattern.main(String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java% ()2…
+(Q16Pattern.main(String[])?rows@2.12:2.16DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2∆
+%Q16Pattern.main(String[])?i@4.17:4.18DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2∆
+%Q16Pattern.main(String[])?j@6.21:6.22DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2»
+'Q16Pattern.main(String[])?k@11.21:11.22DECLARATIONè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (2•
+voidRETURN_TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (å
+(Q16Pattern.main(String[])?rows@2.12:2.16VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = 5*rows2ù
+intTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (É
+%Q16Pattern.main(String[])?i@4.17:4.18VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2ù
+intTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (É
+%Q16Pattern.main(String[])?j@6.21:6.22VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2ù
+intTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (Ö
+'Q16Pattern.main(String[])?k@11.21:11.22VARIABLEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 1*k2ù
+intTYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java (∞
+Q16Pattern.main(String[])!args	PARAMETERè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¢
+String[]TYPEè
+ÑC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q16Pattern.java ($

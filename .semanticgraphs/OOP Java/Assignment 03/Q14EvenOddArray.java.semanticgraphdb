@@ -1,0 +1,178 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.javaª
+Q14EvenOddArrayCLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+packageQ14EvenOddArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q14EvenOddArray"
+accesspublic*Q14EvenOddArray2±
+Q14EvenOddArray.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (ù:
+Q14EvenOddArray.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java  (!2∏
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2º
+0Q14EvenOddArray.main(String[])?scanner@5.16:5.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2π
+-Q14EvenOddArray.main(String[])?even@8.14:8.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2¿
+4Q14EvenOddArray.main(String[])?evenCount@10.12:10.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java$ ('2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java( ()2∏
+,Q14EvenOddArray.main(String[])?odd@9.14:9.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2ø
+3Q14EvenOddArray.main(String[])?oddCount@10.27:10.35CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2∏
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java" (%2∏
+,Q14EvenOddArray.main(String[])?i@14.17:14.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java& ('2∏
+,Q14EvenOddArray.main(String[])?i@26.17:26.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2¿
+4Q14EvenOddArray.main(String[])?evenCount@10.12:10.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (%2∏
+,Q14EvenOddArray.main(String[])?i@26.17:26.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java' ((2π
+-Q14EvenOddArray.main(String[])?even@8.14:8.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (!2∏
+,Q14EvenOddArray.main(String[])?i@26.17:26.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java" (#2∏
+,Q14EvenOddArray.main(String[])?i@33.17:33.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java! !(2ø
+3Q14EvenOddArray.main(String[])?oddCount@10.27:10.35CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java! !($2∏
+,Q14EvenOddArray.main(String[])?i@33.17:33.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java!& !('2∏
+,Q14EvenOddArray.main(String[])?odd@9.14:9.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java" "( 2∏
+,Q14EvenOddArray.main(String[])?i@33.17:33.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java"! "("2º
+0Q14EvenOddArray.main(String[])?scanner@5.16:5.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java& &(2¥
+#Q14EvenOddArray.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java% ()2√
+0Q14EvenOddArray.main(String[])?scanner@5.16:5.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2ø
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2¿
+-Q14EvenOddArray.main(String[])?even@8.14:8.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2ø
+,Q14EvenOddArray.main(String[])?odd@9.14:9.17DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java	 	(2«
+4Q14EvenOddArray.main(String[])?evenCount@10.12:10.21DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+(2∆
+3Q14EvenOddArray.main(String[])?oddCount@10.27:10.35DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+(#2ø
+,Q14EvenOddArray.main(String[])?i@14.17:14.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2ø
+,Q14EvenOddArray.main(String[])?i@26.17:26.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (2ø
+,Q14EvenOddArray.main(String[])?i@33.17:33.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java! !(2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (ã
+0Q14EvenOddArray.main(String[])?scanner@5.16:5.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ù
+java.util.ScannerTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (†
+,Q14EvenOddArray.main(String[])?arr@7.14:7.17VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+typeint"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[20]*arr2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (£
+-Q14EvenOddArray.main(String[])?even@8.14:8.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+typeint"
+isFinalfalse"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">even</mark> = new <mark class="modifier">int</mark>[20]*even2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (†
+,Q14EvenOddArray.main(String[])?odd@9.14:9.17VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java	 	("
+typeint"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">odd</mark> = new <mark class="modifier">int</mark>[20]*odd2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java	 	(ï
+4Q14EvenOddArray.main(String[])?evenCount@10.12:10.21VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+("
+typeint"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">evenCount</mark> = 0, oddCount = 0*	evenCount2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+(í
+3Q14EvenOddArray.main(String[])?oddCount@10.27:10.35VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+(#"
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">oddCount</mark> = 0, oddCount = 0*oddCount2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java
+ 
+(Ó
+,Q14EvenOddArray.main(String[])?i@14.17:14.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (Ó
+,Q14EvenOddArray.main(String[])?i@26.17:26.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java (Ó
+,Q14EvenOddArray.main(String[])?i@33.17:33.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java! !("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java! !(ô
+#Q14EvenOddArray.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q14EvenOddArray.java ($

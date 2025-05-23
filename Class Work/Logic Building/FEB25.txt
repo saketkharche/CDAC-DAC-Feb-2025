@@ -1,0 +1,363 @@
+steps to install java : 
+
+
+
+Author - james gosling
+implementation - c\c++
+
+ext. - .java & .class
+
+
+part of java - 
+1. core java
+2. adv java
+
+
+WebSite Design - client vs server (req & resp)
+-----------------------------------------------
+To run a java file : 
+javac <fileName with ext>
+java <className without ext>
+
+---------------------------------------
+jdk, jre, jvm
+---------------------------------------
+java is WORA - write once run anywhere
+
+Features of java : 
+1. simple 
+2. highlevel 
+3. platform independent lang.
+4. java is OOPs
+5. multithreaded
+6. secure
+
+---------------------------------------
+identifiers : demo, method, variable
+
+tokens : ;, (, ), {, },
+
+keywords : class , public , staic, void , String
+
+-------------------------------------
+class :
+ 1. varibles
+ 2. methods
+ 3. constructors
+ 4. instance block
+ 5. static block	 
+-------------------------------------------
+
+bit - 0 / 1 
+
+
+Data type : 
+byte   - 1 = -128 to 127      -  0
+short  - 2 = -32k             - 0
+int    - 4 = -2B              - 0
+long   - 8 =                  - 0
+
+float  - 4                   - 0.0
+double - 8                   - 0.0
+
+String                       - null 
+   
+char - 1b                   - \u0000 
+
+Boolean -  (Default value = true / false)  - false
+
+
+
+    byte range =  -128 -127 .......-2 -1 0 1 2 3 4...... 126 127
+--------------------------------------------------------------------
+
+Algorithms
+
+is a finite set of instructions to solve a specific problems.....
+---------------
+first algo 
+1. start
+2. take 2 number
+3. add 2 number
+4. print add
+5. stop
+---------------
+1. start
+2. take 3 number
+3. add 3 number
+4. print add
+5. stop
+---------------
+
+FLOWCHART - pictorial presentation of algo......
+
+
+-----------------------------------------
+Day 2 : 
+-----------------------------------------
+operator - 
+
+1. assignment   -   = , ==, +=
+2. arithmetic 	-   + , - , * , / , %
+3. logical      - && , || , ! , ^
+4. bitwise      - & , | ,  ~ , << , >>
+5. unary & ternary -  ++ , -- , ? :
+6. relational - <, >, >=, >= , != , ==
+7. 
+--------
+&& -
+T T = T
+t f = f
+f t = f
+f f = f
+---------
+||  -
+T T = T
+t f = t
+f t = t
+f f = f
+
+---------------------------------
+Statement : 
+
+1. IF
+
+	syntax : if(cond){ }
+2. IF-Else
+	syntax : 
+	A) if(cond){
+		 -----
+		}else{
+		 ----
+		}
+	B) if(cond){
+		 -----
+		}else if(cond){
+		 ----
+		}else{ 
+		
+		}
+
+			
+3. Switch
+	Syntax : 
+		switch (case){
+		case 1:
+			-----
+			-----
+			break;
+		case 2:
+			-----
+			-----
+			break;
+		default :
+			----
+			break;
+
+		}
+
+Loops : 
+1. for 
+	syntax : 
+		for(inti ; cond ; incre/decre){ }
+	
+2. while
+	syntax :
+		while(cond){   }
+
+3. do_while
+	syntax: 
+		do { 
+
+		}while(cond);
+	
+4. foreach
+-------------------------------------
+
+Array :
+
+Collection of similar DTs.
+Syntax : 
+
+	int a[];
+	int[] a;
+
+	
+int a[] = {1,2,3,4};
+int a[] = new int[5];
+-----------2D Array-------------
+syntax 
+	int[][] a;
+	int a[][];
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 4 
+class & object :
+
+its own properties & behavior 
+ex : laptop 
+
+Properties : 
+	ram
+	os
+	cpu
+	processor
+	rom
+	graphicalcard
+	scree
+	color
+	price
+	companyName
+Behavior :
+	excute the code
+	play movie/songs
+	games	
+	camera
+
+	
+	
+Class : 
+
+class Laptop{
+ 	int ram; 
+	String name;
+	double price;
+
+	void accessCamera(){
+
+	}
+	void playMovie(){
+		
+	}
+	void playGame(){
+
+	}
+}
+
+school 
+
+Properties : 
+	name
+	noOfStudents
+	teachers
+	address
+Behavior :
+	teaching()
+	sportsActivity
+	extraSession()
+	exam()
+
+
+car 
+name
+color
+price
+milage
+cc 
+topSpeed
+fuelType
+HP
+driving()
+trasportatio()
+
+
+---------------------------------------
+Day 5 :
+Variable -
+
+1. local var
+
+	var defined of a method
+	
+2. instance var
+	defined in class
+	
+3. static var
+	- defined in class with static keyword
+	- class level var. 
+	- access with classname
+	- static var. will maintain one copy only
+
+
+--------------------------------------------------
+day 6 : The Last day of Logic Building
+--------------------------------------------------
+access modifiers in java : 
+
+1. public 
+2. protected
+3. private
+4. default
+
+
+---------------------------
+discussion:
+bank mgmt. system
+
+
+user 
+properties :
+
+	private name , add , mob, addhar, balance
+
+behaviour :
+	
+	withdrwals(), deposits()
+========
+psvm(String[]) -----
+
+
+m - method name, entry point of your java code,
+	can i overload main ?
+		- main(int)
+v - RT 
+	psim(int )
+
+s - 
+
+p - 
+
+
+String[]
+---------------------------------
+
+String class : obj are stored in heap 
+
+- is class
+- DT
+- ref. var
+- immutable 
+
+
+String constant pool
+
+
+syntax ; 
+	String s = "ABC";
+	String s1 = new String();
+
+
+
+
+---------------------------------------------
+
+
+why array index start with 0 ?
+
+What is Bitwise & operator ?
+
+
+
+

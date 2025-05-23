@@ -1,0 +1,1149 @@
+Assignment 2
+
+  
+
+Snippet 1:
+
+public class Main {
+
+    public void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+  
+
+Error: The main method must be public static void
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 2:  
+
+public class Main {
+
+    static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+Error: The main method must be public static void
+
+  
+
+Fix:
+
+public class Main {
+
+  
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 3:
+
+public class Main {
+
+    public static int main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+        return 0;
+
+    }
+
+}
+
+Error: The main method must be public static void
+
+it indicates that the method does not return any value
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 4:
+
+public class Main {
+
+    public static void main() {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+Error: The main method must have a String[] args parameter.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+  
+
+-----------------------------------------------------------------------------
+
+Snippet 5:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Main method with String[] args");
+
+    }
+
+    public static void main(int[] args) {
+
+        System.out.println("Overloaded main method with int[] args");
+
+    }
+
+}
+
+  
+
+Observation: You can have overloaded main methods, but only the main(String[] args) method will be recognized as the entry point.
+
+-----------------------------------------------------------------------------
+
+Snippet 6:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int x = y + 10;
+
+        System.out.println(x);
+
+    }
+
+}
+
+Error: The variable y may not have been initialized
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int y = 5; // Declare y
+
+        int x = y + 10;
+
+        System.out.println(x);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 7:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int x = "Hello";
+
+        System.out.println(x);
+
+    }
+
+}
+
+Error: Type mismatch: cannot convert from String to int
+
+Variables must be declared to specify the type of data they will hold.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        String x = "Hello";
+
+        System.out.println(x);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 8:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!"
+
+    }
+
+}
+
+  
+
+Error: Missing closing parenthesis ).
+
+The code will not compile due to the syntax error.
+
+Because reserved keywords are already used by the compiler for specific purposes, and using them as identifiers would lead to ambiguity.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 9:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int class = 10;
+
+        System.out.println(class);
+
+    }
+
+}
+
+Error: class is a reserved keyword and cannot be used as an identifier.
+
+Because reserved keywords are already used by the compiler for specific purposes, and using them as identifiers would lead to ambiguity.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int cls = 10; // Change variable name
+
+        System.out.println(cls);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 10:
+
+public class Main {
+
+    public void display() {
+
+        System.out.println("No parameters");
+
+    }
+
+    public void display(int num) {
+
+        System.out.println("With parameter: " + num);
+
+    }
+
+    public static void main(String[] args) {
+
+        display();
+
+        display(5);
+
+    }
+
+}
+
+Error: display() methods are not static, so they cannot be called from a static context.
+
+ Yes, method overloading is allowed in Java.
+
+Fix:
+
+public class Main {
+
+    public void display() {
+
+        System.out.println("No parameters");
+
+    }
+
+    public void display(int num) {
+
+        System.out.println("With parameter: " + num);
+
+    }
+
+    public static void main(String[] args) {
+
+        Main obj = new Main(); // Create an instance of Main
+
+        obj.display();
+
+        obj.display(5);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 11:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int[] arr = {1, 2, 3};
+
+        System.out.println(arr[5]);
+
+    }
+
+}
+
+  
+
+Error: ArrayIndexOutOfBoundsException. The array arr has only 3 elements.
+
+The index 5 is out of bounds for the array arr.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int[] arr = {1, 2, 3};
+
+        if (arr.length > 5) {
+
+            System.out.println(arr[5]);
+
+        } else {
+
+            System.out.println("Index out of bounds");
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 12:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        while (true) {
+
+            System.out.println("Infinite Loop");
+
+        }
+
+    }
+
+}
+
+  
+
+Observation: This code will result in an infinite loop.
+
+By using a condition that will eventually evaluate to false.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int count = 0;
+
+        while (count < 5) {
+
+            System.out.println("Loop iteration: " + count);
+
+            count++;
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 13:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        String str = null;
+
+        System.out.println(str.length());
+
+    }
+
+}
+
+  
+
+Error: NullPointerException because str is null.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        String str = "Hello";
+
+        System.out.println(str.length());
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 14:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        double num = "Hello";
+
+        System.out.println(num);
+
+    }
+
+}
+
+  
+
+Type mismatch. double cannot be assigned a String.
+
+To ensure type safety and prevent errors.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        String str = "Hello";
+
+        System.out.println(str);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 15:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int num1 = 10;
+
+        double num2 = 5.5;
+
+        int result = num1 + num2;
+
+        System.out.println(result);
+
+    }
+
+}
+
+  
+
+Error: Type mismatch. int cannot be assigned the result of an int + double operation.
+
+To handle different data types in operations, ensure compatibility through type coercion or explicit casting, understanding each type's behavior in operations, and validating data before performing operations to avoid errors.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int num1 = 10;
+
+        double num2 = 5.5;
+
+        double result = num1 + num2;
+
+        System.out.println(result);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 16:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int num = 10;
+
+        double result = num / 4;
+
+        System.out.println(result);
+
+    }
+
+}
+
+Error: Type mismatch. int cannot be assigned the result of an int / double operation.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int num = 10;
+
+        double result = num / 4.0; // Use a double literal for division
+
+        System.out.println(result);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 17:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 5;
+
+        int result = a ** b;
+
+        System.out.println(result);
+
+    }
+
+}
+
+Error: Syntax error, invalid operator.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 5;
+
+        int result = (int) Math.pow(a, b); // Use Math.pow for exponentiation
+
+        System.out.println(result);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 18:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 5;
+
+        int result = a + b * 2;
+
+        System.out.println(result);
+
+    }
+
+}
+
+  
+
+Observation: Operator precedence in Java follows the standard mathematical rules.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 5;
+
+        int result = a + (b * 2); // Use parentheses to enforce precedence
+
+        System.out.println(result);
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 19:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 0;
+
+        int result = a / b;
+
+        System.out.println(result);
+
+    }
+
+}
+
+  
+
+Error: java.lang.ArithmeticException: / by zero is thrown because division by zero is undefined.
+
+  
+
+Explanation: Division by zero is not allowed in Java (or mathematics). When you try to divide by zero, Java throws an ArithmeticException at runtime.
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        int b = 0;
+
+        if (b != 0) {
+
+            int result = a / b;
+
+            System.out.println(result);
+
+        } else {
+
+            System.out.println("Division by zero is not allowed.");
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 20:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World")
+
+    }
+
+}
+
+  
+
+Error: Syntax error due to the missing semicolon (;) at the end of the System.out.println statement.
+
+  
+
+Explanation: In Java, every statement must end with a semicolon. The missing semicolon causes the compiler to throw a syntax error.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+  
+
+-----------------------------------------------------------------------------
+
+Snippet 21:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    // Missing closing brace here
+
+}
+
+  
+
+Error: The compiler will complain about a missing closing brace (}).
+
+  
+
+Explanation: The missing closing brace causes the compiler to not recognize the end of the main method, leading to a syntax error.
+
+  
+
+Fix:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello, World!");
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 22:
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        static void displayMessage() {
+
+            System.out.println("Message");
+
+        }
+
+    }
+
+}
+
+  
+
+Error: You cannot declare a method inside another method in Java.
+
+  
+
+Explanation: Methods cannot be nested in Java. The displayMessage method should be declared outside the main method.
+
+  
+
+Fix:    
+
+public class Main {
+
+    static void displayMessage() {
+
+        System.out.println("Message");
+
+    }
+
+    public static void main(String[] args) {
+
+        displayMessage();
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 23:
+
+public class Confusion {
+
+    public static void main(String[] args) {
+
+        int value = 2;
+
+        switch(value) {
+
+            case 1:
+
+                System.out.println("Value is 1");
+
+            case 2:
+
+                System.out.println("Value is 2");
+
+            case 3:
+
+                System.out.println("Value is 3");
+
+            default:
+
+                System.out.println("Default case");
+
+        }
+
+    }
+
+}
+
+  
+
+Error: The default case is printed after "Value is 2" because there are no break statements.
+
+  
+
+Explanation: Without break statements, the execution falls through to subsequent cases, including the default case.
+
+  
+
+Fix:
+
+public class Confusion {
+
+    public static void main(String[] args) {
+
+        int value = 2;
+
+        switch(value) {
+
+            case 1:
+
+                System.out.println("Value is 1");
+
+                break;
+
+            case 2:
+
+                System.out.println("Value is 2");
+
+                break;
+
+            case 3:
+
+                System.out.println("Value is 3");
+
+                break;
+
+            default:
+
+                System.out.println("Default case");
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 24:
+
+public class MissingBreakCase {
+
+    public static void main(String[] args) {
+
+        int level = 1;
+
+        switch(level) {
+
+            case 1:
+
+                System.out.println("Level 1");
+
+            case 2:
+
+                System.out.println("Level 2");
+
+            case 3:
+
+                System.out.println("Level 3");
+
+            default:
+
+                System.out.println("Unknown level");
+
+        }
+
+    }
+
+}
+
+  
+
+Error: The program prints "Level 1", "Level 2", "Level 3", and "Unknown level" because there are no break statements.
+
+  
+
+Explanation: Without break statements, the execution falls through to subsequent cases, including the default case.
+
+  
+
+Fix:
+
+public class MissingBreakCase {
+
+    public static void main(String[] args) {
+
+        int level = 1;
+
+        switch(level) {
+
+            case 1:
+
+                System.out.println("Level 1");
+
+                break;
+
+            case 2:
+
+                System.out.println("Level 2");
+
+                break;
+
+            case 3:
+
+                System.out.println("Level 3");
+
+                break;
+
+            default:
+
+                System.out.println("Unknown level");
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 25:
+
+public class Switch {
+
+    public static void main(String[] args) {
+
+        double score = 85.0;
+
+        switch(score) {
+
+            case 100:
+
+                System.out.println("Perfect score!");
+
+                break;
+
+            case 85:
+
+                System.out.println("Great job!");
+
+                break;
+
+            default:
+
+                System.out.println("Keep trying!");
+
+        }
+
+    }
+
+}
+
+Error: This code does not compile because switch statements cannot be used with double values.
+
+  
+
+Explanation: switch expressions in Java can only be used with char, byte, short, int, String, or enum types.
+
+  
+
+Fix: Use if-else statements instead of a switch statement for double values.
+
+public class Switch {
+
+    public static void main(String[] args) {
+
+        double score = 85.0;
+
+        if (score == 100) {
+
+            System.out.println("Perfect score!");
+
+        } else if (score == 85) {
+
+            System.out.println("Great job!");
+
+        } else {
+
+            System.out.println("Keep trying!");
+
+        }
+
+    }
+
+}
+
+-----------------------------------------------------------------------------
+
+Snippet 26:
+
+public class Switch {
+
+    public static void main(String[] args) {
+
+        int number = 5;
+
+        switch(number) {
+
+            case 5:
+
+                System.out.println("Number is 5");
+
+                break;
+
+            case 5:
+
+                System.out.println("This is another case 5");
+
+                break;
+
+            default:
+
+                System.out.println("This is the default case");
+
+        }
+
+    }
+
+}
+
+Error: The compiler complains about duplicate case labels.
+
+  
+
+Explanation: You cannot have two identical case labels in the same switch block.
+
+  
+
+Fix:public class Switch {
+
+    public static void main(String[] args) {
+
+        int number = 5;
+
+        switch(number) {
+
+            case 5:
+
+                System.out.println("Number is 5");
+
+                break;
+
+            default:
+
+                System.out.println("This is the default case");
+
+        }
+
+    }
+
+}
+
+------------------------------------------------------------------------------

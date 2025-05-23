@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Book CRUD</title>
+  <script>
+    // Fetch book details on blur
+    async function fetchBookDetails() {
+      const bookid = document.getElementById('bookid').value;
+      const response = await fetch(`http://localhost:3000/api/book/${bookid}`);
+      const data = await response.json();
+
+      const msg = document.getElementById('msg');
+      const bookname = document.getElementById('bookname');
+      const price = document.getElementById('price');
+
+      if (data.error) {
+        msg.textContent = "Book ID not found";
+        bookname.value = "";
+        price.value = "";
+      } else {
+        msg.textContent = "Book ID found";
+        bookname.value = data.bookname;
+        price.value = data.price;
+      }
+    }
+
+    // Create Book
+    async function createBook() {
+      const bookid = document.getElementById('new-bookid').value;
+      const bookname = document.getElementById('new-bookname').value;
+      const price = document.getElementById('new-price').value;
+
+      await fetch('http://localhost:3000/api/book', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ bookid, bookname, price })
+      });
+
+      alert('Book created!');
+      loadBooks();
+    }
+
+    // Update Price
+    async function updatePrice() {
+      const bookid = document.getElementById('bookid').value;
+      const bookname = document.getElementById('bookname').value;
+      const price = document.getElementById('price').value;
+
+      await fetch(`http://localhost:3000/api/book/${bookid}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ bookname, price })
+      });
+
+      alert('Price updated!');
+      loadBooks();
+    }
+
+    // Delete Book
+    async function deleteBook(id) {
+      await fetch(`http://localhost:3000/api/book/${id}`, {
+        method: 'DELETE'
+      });
+
+      alert('Book deleted!');
+      loadBooks();
+    }
+
+    // Load All Books
+    async function loadBooks() {
+      const response = await fetch('http://localhost:3000/api/books');
+      const books = await response.json();
+      const list = document.getElementById('book-list');
+      list.innerHTML = "";
+
+      books.forEach(book => {
+        list.innerHTML += `
+          <div>
+            <strong>${book.bookid}</strong>: ${book.bookname} - ₹${book.price}
+            <button onclick="deleteBook(${book.bookid})">Delete</button>
+          </div>
+        `;
+      });
+    }
+
+    // Initial Load
+    window.onload = loadBooks;
+  </script>
+</head>
+<body>
+  <h2>Book Management (CRUD)</h2>
+
+  <!-- Update/Delete Section -->
+  <h3>Update/Delete Book</h3>
+  <label>Book ID:</label>
+  <input type="text" id="bookid" onblur="fetchBookDetails()">
+  <span id="msg"></span><br><br>
+
+  <label>Book Name:</label>
+  <input type="text" id="bookname"><br><br>
+
+  <label>Price:</label>
+  <input type="text" id="price"><br><br>
+
+  <button onclick="updatePrice()">Update Price</button>
+  <hr>
+
+  <!-- Create Section -->
+  <h3>Create Book</h3>
+  <label>New Book ID:</label>
+  <input type="text" id="new-bookid"><br><br>
+
+  <label>New Book Name:</label>
+  <input type="text" id="new-bookname"><br><br>
+
+  <label>New Price:</label>
+  <input type="text" id="new-price"><br><br>
+
+  <button onclick="createBook()">Create Book</button>
+  <hr>
+
+  <!-- List All Books -->
+  <h3>All Books</h3>
+  <div id="book-list"></div>
+</body>
+</html>

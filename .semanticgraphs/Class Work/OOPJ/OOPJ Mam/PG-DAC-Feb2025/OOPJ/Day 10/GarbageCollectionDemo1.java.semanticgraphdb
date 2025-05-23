@@ -1,0 +1,100 @@
+
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java¥
+EmployeeCLASS¢
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Employee"
+accesspackage_private*Employee2—
+Employee.Employee(String)DECLARATION¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (	2Œ
+Employee?name@1.8:1.12DECLARATION¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (¯
+Employee.Employee(String)CONSTRUCTOR¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (	"e
+declarationStringP<mark class="modifier"> </mark><mark class="method">Employee</mark>(String name)*Employee2œ
+Employee.Employee(String)!nameCALL¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2«
+Employee?name@1.8:1.12CALL¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2‘
+Employee.Employee(String)!name	PARAMETER¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2¿
+EmployeeRETURN_TYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (	ÿ
+Employee.Employee(String)!name	PARAMETER¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2∑
+StringTYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java
+ (Ω
+Employee?name@1.8:1.12VARIABLE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2∑
+StringTYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (Å
+GarbageCollectionDemoCLASS¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (" 
+packageGarbageCollectionDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>GarbageCollectionDemo"
+accesspackage_private*GarbageCollectionDemo2ÿ
+ GarbageCollectionDemo.finalize()DECLARATION¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2‹
+$GarbageCollectionDemo.main(String[])DECLARATION¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (Ç
+ GarbageCollectionDemo.finalize()METHOD¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java ("
+isFinalfalse"Ü
+declarationStringq<mark class="modifier">protected </mark><mark class="modifier">void</mark> <mark class="method">finalize</mark>()"
+isStaticfalse"
+access	protected"
+
+isAbstractfalse"
+typevoid*finalize2º
+voidRETURN_TYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (·
+
+$GarbageCollectionDemo.main(String[])METHOD¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‰
+3GarbageCollectionDemo.main(String[])?g1@13.11:13.13CALL¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2ﬂ
+)GarbageCollectionDemo.main(String[])!args	PARAMETER¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java  (&2Î
+3GarbageCollectionDemo.main(String[])?g1@13.11:13.13DECLARATION¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (2º
+voidRETURN_TYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (≈
+3GarbageCollectionDemo.main(String[])?g1@13.11:13.13VARIABLE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java ("
+typeEmployee"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Employee <mark class="class-field">g1</mark> = new Employee("Java")*g12π
+EmployeeTYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (
+È
+)GarbageCollectionDemo.main(String[])!args	PARAMETER¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2π
+String[]TYPE¶
+õC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 10\GarbageCollectionDemo1.java (&

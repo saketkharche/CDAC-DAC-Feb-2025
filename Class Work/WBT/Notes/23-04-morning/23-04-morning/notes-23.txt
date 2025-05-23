@@ -1,0 +1,134 @@
+<img src="">
+
+<h1>Image demo</h1>
+    <img src="download.jpg">
+
+ <h1>Image demo</h1>
+    <img src="images/download.jpg">
+
+
+<h1>Image demo</h1>
+    <img src="../images/download.jpg">
+
+<img src="../images/download.jpg" width="50" height="50">
+
+Lists:
+series of items
+types of list:
+1. ordered list: <ol>
+
+   1. Mumbai <li>
+   2. Delhi
+   3. Chennai
+   4. Jaipur	
+
+<ol>
+        <li>Bahubali</li>
+        <li>Babu Rao</li>
+        <li>Raju</li>
+    </ol>
+<ol start="4" type="a">
+        <li>Bahubali</li>
+        <li>Babu Rao</li>
+        <li>Raju</li>
+    </ol>
+by default numeric sequence will be there
+type attribute decides the type of sequence: 1 a A i I
+
+2. unordered list <ul>
+
+<ul type="square">
+        <li>Bahubali</li>
+        <li>Babu Rao</li>
+        <li>Raju</li>
+    </ul>
+type : disc| circle | square
+
+
+Table:
+<table></table>
+
+outer-box -> row -> columns
+cellpadding="10" -> spaces inside of cell
+ cellspacing="0" -> spaces outside of the cell
+
+
+<table border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Phone</td>
+        </tr>
+        <tr>
+            <td>101</td>
+            <td>Selmun Khon</td>
+            <td>899911111</td>  
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>Black Bug</td>
+            <td>988110111</td>
+        </tr>
+    </table>
+
+<table border="1" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Selmun Khon</td>
+                <td>899911111</td>  
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Black Bug</td>
+                <td>988110111</td>
+            </tr>
+        </tbody>
+        
+        
+    </table>
+
+
+<p>(a+b)<sup>2</sup></p>
+    <p>H<sub>2</sub>O</p>
+
+Form:
+
+<form action="https://www.myapp.com/register" method="post">
+</form>
+
+Note: form tag is not there to display the form elements
+form tag is responsible to submit the data to the server
+
+action: contain the url on which request has to be submitted
+method: specify the request method using which request has to be submitted
+
+
+now all the input fields should go inside of the form tag
+
+
+html provides 3 types of buttons:
+
+1. submit button: relevant inside the form tag only, and its functionality is already defined 
+when user hits the submit button then action attribute of form tag executes 
+
+2. plain button: is not having the functionality predefined 
+its the developer who is responsible for handling the click of the button
+
+3. reset button: relevant inside of the form only, it will clear all the field values 
+   
+
+
+
+
+
+
+
+

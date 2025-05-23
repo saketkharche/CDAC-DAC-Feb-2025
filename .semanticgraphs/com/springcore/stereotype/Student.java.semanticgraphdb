@@ -1,0 +1,195 @@
+
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.javaò
+!com.springcore.stereotype.StudentCLASS…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java
+ 
+("$
+packagecom.springcore.stereotype"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"”
+declarationStringΩ<mark class="annotation">@Component("ob")</mark> <br><mark class="annotation">@Scope("prototype")</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>Student"
+accesspublic*Student2ç
+2com.springcore.stereotype.Student.getStudentName()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ù
+Bcom.springcore.stereotype.Student.setStudentName(java.lang.String)DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2Ü
++com.springcore.stereotype.Student.getCity()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ñ
+;com.springcore.stereotype.Student.setCity(java.lang.String)DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2â
+.com.springcore.stereotype.Student.getAddress()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# #(2©
+Ncom.springcore.stereotype.Student.setAddress(java.util.List<java.lang.String>)DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java& &(2á
+,com.springcore.stereotype.Student.toString()DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java* *(2î
+9com.springcore.stereotype.Student?studentName@13.16:13.27DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ç
+2com.springcore.stereotype.Student?city@15.16:15.20DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ê
+5com.springcore.stereotype.Student?address@18.22:18.29DECLARATION…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (·
+2com.springcore.stereotype.Student.getStudentName()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"m
+declarationStringX<mark class="modifier">public </mark>String <mark class="method">getStudentName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getStudentName2ç
+9com.springcore.stereotype.Student?studentName@13.16:13.27CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java	 (2Î
+java.lang.StringRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (‚
+Bcom.springcore.stereotype.Student.setStudentName(java.lang.String)METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setStudentName</mark>(String studentName)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setStudentName2¢
+Ncom.springcore.stereotype.Student.setStudentName(java.lang.String)!studentNameCALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ( 2ç
+9com.springcore.stereotype.Student?studentName@13.16:13.27CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ß
+Ncom.springcore.stereotype.Student.setStudentName(java.lang.String)!studentName	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# (.2ﬂ
+voidRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (Ê
+Ncom.springcore.stereotype.Student.setStudentName(java.lang.String)!studentName	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# (."
+typeString"
+isFinalfalse"'
+declarationStringString studentName*studentName2‰
+java.lang.StringTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("≈
++com.springcore.stereotype.Student.getCity()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getCity</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getCity2Ü
+2com.springcore.stereotype.Student?city@15.16:15.20CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java	 (2Î
+java.lang.StringRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (¢
+;com.springcore.stereotype.Student.setCity(java.lang.String)METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"ç
+declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setCity</mark>(String city)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setCity2î
+@com.springcore.stereotype.Student.setCity(java.lang.String)!cityCALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2Ü
+2com.springcore.stereotype.Student?city@15.16:15.20CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (2ô
+@com.springcore.stereotype.Student.setCity(java.lang.String)!city	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ( 2ﬂ
+voidRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ( 
+@com.springcore.stereotype.Student.setCity(java.lang.String)!city	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ( "
+typeString"
+isFinalfalse" 
+declarationStringString city*city2‰
+java.lang.StringTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (ÿ	
+.com.springcore.stereotype.Student.getAddress()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# #("
+isFinalfalse"u
+declarationString`<mark class="modifier">public </mark>List&lt;String&gt; <mark class="method">getAddress</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeList<String>*
+getAddress2â
+5com.springcore.stereotype.Student?address@18.22:18.29CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java$	 $(2È
+java.util.ListRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# #(2Ù
+java.lang.StringRETURN_TYPE_ARGUMENT…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java# #(˙
+Ncom.springcore.stereotype.Student.setAddress(java.util.List<java.lang.String>)METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java& &("
+isFinalfalse"†
+declarationStringä<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setAddress</mark>(List&lt;String&gt; address)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setAddress2™
+Vcom.springcore.stereotype.Student.setAddress(java.util.List<java.lang.String>)!addressCALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java' '(2â
+5com.springcore.stereotype.Student?address@18.22:18.29CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java' '(2Ø
+Vcom.springcore.stereotype.Student.setAddress(java.util.List<java.lang.String>)!address	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java&% &(,2ﬂ
+voidRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java& &(‡
+Vcom.springcore.stereotype.Student.setAddress(java.util.List<java.lang.String>)!address	PARAMETER…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java&% &(,"
+typeList<String>"
+isFinalfalse")
+declarationStringList<String> address*address2‚
+java.util.ListTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java& &(2Ì
+java.lang.StringTYPE_ARGUMENT…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java& &(#à
+
+,com.springcore.stereotype.Student.toString()METHOD…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java* *("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2ç
+9com.springcore.stereotype.Student?studentName@13.16:13.27CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java+# +(.2Ü
+2com.springcore.stereotype.Student?city@15.16:15.20CALL…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java+= +(A2Î
+java.lang.StringRETURN_TYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java* *(Ω
+9com.springcore.stereotype.Student?studentName@13.16:13.27VARIABLE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"
+typeString"n
+declarationStringY<mark class="modifier">private </mark>String <mark class="class-field">studentName</mark>"
+isStaticfalse"
+accessprivate*studentName2‰
+java.lang.StringTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java	 (®
+2com.springcore.stereotype.Student?city@15.16:15.20VARIABLE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">city</mark>"
+isStaticfalse"
+accessprivate*city2‰
+java.lang.StringTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java	 (´
+5com.springcore.stereotype.Student?address@18.22:18.29VARIABLE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java ("
+isFinalfalse"
+typeList<String>"p
+declarationString[<mark class="modifier">private </mark>List<String> <mark class="class-field">address</mark>"
+isStaticfalse"
+accessprivate*address2‚
+java.util.ListTYPE…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java	 (2Ì
+java.lang.StringTYPE_ARGUMENT…
+æC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Student.java (

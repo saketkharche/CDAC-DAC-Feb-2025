@@ -1,0 +1,258 @@
+-----------------------------------------
+Day 4: Object Oriented Programming Concepts of Java
+Date : 06-March-2025
+-----------------------------------------
+Topics: 
+	- OOPs
+	-Terminologies: 
+		-Class, Field, Method, Reference, Instance, Instance Initializer Block
+	-Class
+	-Object
+	-Variable 
+	-Methods
+
+OOPS : Objected Oriented Programming:
+----------------------------------------
+-OOP is a programming paradigm based on the concept of objects.
+-It helps in designing and developing scalable, maintainable, and reusable systems. 
+
+-1. Modularity : Divides the program into objects.
+-2. Resusability : Inherit existing functionality.
+-3. Scalability : Easier to manage large appications.
+-4. Secure : Abstraction and Encapsulation we restrict direct access to data.
+	
+Real world Example:
+----------------------------
+-1. Class
+-2. Object
+-3. Methods
+
+Key Features:
+-----------------
+-1. Class
+-2. Object
+	-Objects are real worlds entity, and classes are their blueprints.
+	
+	class Student{
+		int i=10;
+		void display(){
+		}
+		p.s.v.main(){
+			
+		}
+	}
+
+Field: Attribute: Instance variable:
+------------------------------------
+-Instance variable represnts an attribute of an object
+-It is declared inside a class but outside the method
+
+class Employee{
+	
+	int empId; //Field :Instance variable
+	String empName;
+	
+	void show()
+	{
+		int k;
+		SOP(empId);
+	}
+	int empAge;
+	double empsal;
+}
+
+Separates: {},[],(),;,.
+Ex: public static void main(String... args[])
+
+Method():Functions
+-A method is a block of code that performs an action.
+-Methods can take parameters and return values.
+
+Ex:1
+void show(<parameters>)
+{
+	System.out.println("EmpId = "+empId);
+}
+or
+
+Ex:2
+double show(<parameters>)
+{
+	System.out.println("EmpId = "+empId);
+	return empSal;
+}
+
+
+class Employee{
+	
+	int empId; //Field :Instance variable
+	String empName;
+	
+	//Function declaration
+	String show()//Instance method
+	{
+		int k;
+		SOP(empId);
+		return empName;
+	}
+	int empAge;
+	double empsal;
+	
+	psvmain(){
+		show();//Function call
+		SOP (show());//Direct printing od return data
+		//or
+		String x = show();
+		SOP(x);
+	}
+}
+
+Reference:
+-A reference variable stores the memory address of an object.
+
+-It is used to access the object'fields and methods.
+
+Syntax:
+	<Classname> <refernce name> = new <class constructor name>;
+
+	Employee e1 = new Employee();
+
+
+Instance :
+------------
+-An instance ia a concreate object created from a class.
+-Each instance has it own separate memory allocation.
+
+
+
+Instance Initialize Block:
+---------------------------
+-Used for intializing instance variable.
+-Runs before the constructor whenever an object is created.
+
+------------
+-3. Abstraction
+-4. Encapsulation
+-5. Inheritance
+-6. Polymorphism
+------------
+
+class Test{
+static void add(int x,int y)
+{
+	SOP (x+y);
+}
+	
+	
+	psvmain()
+	{
+		add();
+	}
+}
+
+-------------
+Static: keywords-applied to variables, methods, block, class(inner classes).
+-Static variables: shared among all instances.
+-Static Methods: can be accesed without creating an object.
+-Static block: Executes onces when the class is loaded.
+-Static class : used for defining nested classes.
+
+
+local variables: ?
+
+void add(int x, inty)
+{
+	int z =x+y;
+}
+
+Ex:
+class Xyz{
+	int i;
+	static int j=5;
+	
+void add(int x, inty)
+{
+	i = x;
+	j = 10;
+	int z =x+y;
+}
+SOP (j);
+SOP (i);
+
+}
+
+Arrays:
+-------
+- indexed, linear, homogeneous.
+-An array is an indexed collection of fixed 
+number of homogeneous data elements in sequential manure.
+-Allows storing multiple values under a single variable name.
+-Improves code readability and managebility.
+Disadv:
+-Fixed size
+-Memory inefficiency
+-Soln: Collection Framework:dynamic array declarion : ArrayList
+
+Types: 1-D, 2-D, Multi-D, Jagged array : (D => [])
+
+1. Create an array
+	<data type> <arrayname>[]
+	Ex: 
+	int arr[];
+	int []arr;
+	int[] arr; ---> Recommended.
+	
+	
+	
+2. Declare an array
+	<arrayname> = new <datatype>[size];
+	Ex:
+	arr = new int[5];//4bytes * 5 =20bytes
+
+or
+	Ex:
+	int[] arr = new int[5];//default =0
+	int[] arr1 = new int[3];
+	
+	byte[] arr = new byte[5];//0
+	short[] arr = new short[5];//0
+	float[] arr = new float[5];//0.0
+	char[] arr = new char[4];//'/u0000'=null
+	
+	
+	For-each:
+	-Printing elemnets:
+	for(int x : arr){
+		System.out.println(x);
+	}
+
+	2-D Array:Multidimensional array
+	1.Create an 2D array:
+	int[][] a;
+	int [][]a;
+	int a[][];
+	
+	2.Declare 2D array:
+	int[][] a = new int[size][];
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3. Array initialize: it takes default values.
+
+arr[2] = 14;//setting the value 
+int x = arr[2];//getting the value
+
+Traversing array:
+for(int i=0;i<5;i++)
+{
+	SOP(arr[i]);//i=index of array
+}

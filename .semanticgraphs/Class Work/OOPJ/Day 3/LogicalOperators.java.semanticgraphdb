@@ -1,0 +1,61 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.javaª
+LogicalOperatorsCLASS}
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java("
+packageLogicalOperators"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>LogicalOperators"
+accesspublic*LogicalOperators2≤
+LogicalOperators.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (∑
+LogicalOperators.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∑
++LogicalOperators.main(String[])?a@2.16:2.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java+ (,2∑
++LogicalOperators.main(String[])?b@2.26:2.27CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java0 (12∑
++LogicalOperators.main(String[])?a@2.16:2.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java* (+2∑
++LogicalOperators.main(String[])?b@2.26:2.27CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java/ (02∑
++LogicalOperators.main(String[])?a@2.16:2.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java, (-2µ
+$LogicalOperators.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java% ()2æ
++LogicalOperators.main(String[])?a@2.16:2.17DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (2æ
++LogicalOperators.main(String[])?b@2.26:2.27DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (ß
++LogicalOperators.main(String[])?a@2.16:2.17VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java ("
+typeboolean"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">a</mark> = true, b = <mark class="modifier">false</mark>*a2ì
+booleanTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (ß
++LogicalOperators.main(String[])?b@2.26:2.27VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java ("
+typeboolean"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">b</mark> = true, b = <mark class="modifier">false</mark>*b2ì
+booleanTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java (ö
+$LogicalOperators.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\LogicalOperators.java ($

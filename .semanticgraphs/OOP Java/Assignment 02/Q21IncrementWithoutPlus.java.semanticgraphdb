@@ -1,0 +1,73 @@
+
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.javaÛ
+Q21IncrementWithoutPlusCLASSâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ($""
+packageQ21IncrementWithoutPlus"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"u
+declarationString`<mark class="modifier">public </mark><mark class="modifier">class </mark>Q21IncrementWithoutPlus"
+accesspublic*Q21IncrementWithoutPlus2¡
+&Q21IncrementWithoutPlus.main(String[])DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (Ú
+&Q21IncrementWithoutPlus.main(String[])METHODâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2«
+3Q21IncrementWithoutPlus.main(String[])?sc@4.16:4.18CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2»
+4Q21IncrementWithoutPlus.main(String[])?num@8.12:8.15CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("2’
+AQ21IncrementWithoutPlus.main(String[])?incrementedNum@11.12:11.26CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java4 (B2«
+3Q21IncrementWithoutPlus.main(String[])?sc@4.16:4.18CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (
+2ƒ
++Q21IncrementWithoutPlus.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java% ()2Œ
+3Q21IncrementWithoutPlus.main(String[])?sc@4.16:4.18DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2œ
+4Q21IncrementWithoutPlus.main(String[])?num@8.12:8.15DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2‹
+AQ21IncrementWithoutPlus.main(String[])?incrementedNum@11.12:11.26DECLARATIONâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2ü
+voidRETURN_TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (î
+3Q21IncrementWithoutPlus.main(String[])?sc@4.16:4.18VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2•
+java.util.ScannerTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (‡
+4Q21IncrementWithoutPlus.main(String[])?num@8.12:8.15VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = sc.nextInt()*num2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2«
+3Q21IncrementWithoutPlus.main(String[])?sc@4.16:4.18CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (˝
+AQ21IncrementWithoutPlus.main(String[])?incrementedNum@11.12:11.26VARIABLEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">incrementedNum</mark> = -~num*incrementedNum2ó
+intTYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java (2»
+4Q21IncrementWithoutPlus.main(String[])?num@8.12:8.15CALLâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ("±
++Q21IncrementWithoutPlus.main(String[])!args	PARAMETERâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ú
+String[]TYPEâ
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 02\Q21IncrementWithoutPlus.java ($

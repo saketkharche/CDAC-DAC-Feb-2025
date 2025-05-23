@@ -1,0 +1,95 @@
+### hi
+
+;
+- delimiter.
+
+mysql> select* from emp *;
+
+delimiter /
+select sal/10 from emp/
+
+
+delimiter//
+select * from emo/
+
+
+delimiter //
+select * from emp//
+select sal/10 from emp//
+
+- changing the delimiter is known as personalisation
+
+# MySQL -PL #
+
+        - MySQL programming language
+        - programming language from MySql
+        - used for database programming
+        - product of MySQL
+        - e.g. HRA_CALC, TAX_CALC, ATTENDANCE_CALS , ETC.
+        - used for server-side data processing
+        - ![alt text](image.png)
+        - MsQL-PL program can be called in MySQL Command Line Client
+        - MySQL workbench, 
+ ![alt text](image-1.png)
+
+ ![PL - Block](image-2.png)
+
+        - therefore , it is also called as Block Level Language ( feature of OOPS )
+
+        - Benifits of writing block within block
+            a. Modularity
+            b. Control the scope of variables ( form of data hiding) ( Encapsulation )
+            c. Efficient error management with the help of exception.
+            
+        - Screen input and screen output is not allowed ( scanf, printf, etc. not available ).
+        - used only for processiong
+        - can use SELECT statement insode the block but its not recommended 
+        - SQL commands that r allowed inside MySQL-PL block:-ṇṇ
+            DDL, DML, DQL, DTL.TCL
+        
+        - DCL commands are not allowed inside MySQL -PL program
+            - delete from emp
+              where deptno = ( select deptno from emp where ename = 'thomas');
+        
+        
+    - To store outout of MySQL-PL program:-
+        create table tempp
+         (
+            fir int,
+            sec char(15)
+         );  
+
+    - ![alt text](image-3.png)
+    - can be called through mysql command line client, workbench, java , .net; can be called through any front-end software.
+ ![alt text](image-4.png)
+ ![alt text](image-5.png)
+
+
+
+
+
+
+    
+
+
+
+   
+
+
+
+
+
+
+
+### Every RDBMS has its own programming language.
+
+        - Oracle (pl/sql) -> Procedural Language SQL ( Most popular language for commercial RDBMS ) ( 63% )
+        - MS SQL SERVER (T-SQL) -> Transact SQL
+        - MySQL (MySQL-PL) -> MySQLProgramming Language (Most popular language for open source RDBMS) (42%)
+
+
+
+
+## SQL ##
+    
+    - 

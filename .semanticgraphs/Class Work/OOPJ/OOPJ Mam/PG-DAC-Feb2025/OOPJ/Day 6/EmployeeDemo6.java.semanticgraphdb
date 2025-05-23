@@ -1,0 +1,166 @@
+
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java£	
+EmployeeCLASS˜
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java("
+packageEmployee"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Employee"
+accesspackage_private*Employee2Ç
+Employee.set(int, String)DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java	 (2½
+Employee.show()DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java
+	 
+(2Æ
+Employee?empId@1.16:1.21DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2È
+Employee?empName@2.19:2.26DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (†
+Employee.set(int, String)METHODœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java	 ("
+isFinalfalse"ì
+declarationStringÖ<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">set</mark>(<mark class="modifier">int</mark> empId<mark class="modifier"><mark class="modifier">,</mark></mark> String empName)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*set2Æ
+Employee.set(int, String)!empIdCALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2È
+!Employee.set(int, String)!empNameCALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2¿
+Employee?empId@1.16:1.21CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2Á
+Employee?empName@2.19:2.26CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2Ë
+Employee.set(int, String)!empId	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2Í
+!Employee.set(int, String)!empName	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (&2²
+voidRETURN_TYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (Ü
+Employee.set(int, String)!empId	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> empId*empId2ª
+intTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (Í
+!Employee.set(int, String)!empName	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (&"
+typeString"
+isFinalfalse"#
+declarationStringString empName*empName2­
+StringTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (×
+Employee.show()METHODœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java
+	 
+("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">show</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*show2¿
+Employee?empId@1.16:1.21CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ( 2Á
+Employee?empName@2.19:2.26CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java) (02²
+voidRETURN_TYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java
+ 
+(Â
+Employee?empId@1.16:1.21VARIABLEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+isFinalfalse"
+typeint"ƒ
+declarationStringn<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">empId</mark>"
+isStaticfalse"
+accessprivate*empId2ª
+intTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (²
+Employee?empName@2.19:2.26VARIABLEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+isFinalfalse"
+typeString"j
+declarationStringU<mark class="modifier">private </mark>String <mark class="class-field">empName</mark>"
+isStaticfalse"
+accessprivate*empName2­
+StringTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (ê
+EmployeeDemo6CLASSœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+packageEmployeeDemo6"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>EmployeeDemo6"
+accesspackage_private*EmployeeDemo62Ê
+EmployeeDemo6.main(String[])DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (Š
+EmployeeDemo6.main(String[])METHODœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2º
+Employee.Employee()CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (!2º
+Employee.Employee()CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("2Ñ
+*EmployeeDemo6.main(String[])?e@17.17:17.18CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java$ (%2Ñ
+*EmployeeDemo6.main(String[])?e@17.17:17.18CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (	2Ñ
+*EmployeeDemo6.main(String[])?e@17.17:17.18CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (	2Ò
++EmployeeDemo6.main(String[])?e1@22.17:22.19CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java% ('2Ò
++EmployeeDemo6.main(String[])?e1@22.17:22.19CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (
+2Ò
++EmployeeDemo6.main(String[])?e1@22.17:22.19CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (
+2Í
+!EmployeeDemo6.main(String[])!args	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java# ()2Ø
+*EmployeeDemo6.main(String[])?e@17.17:17.18DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2Ù
++EmployeeDemo6.main(String[])?e1@22.17:22.19DECLARATIONœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2²
+voidRETURN_TYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (Ý
+*EmployeeDemo6.main(String[])?e@17.17:17.18VARIABLEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+typeEmployee"
+isFinalfalse"p
+declarationString[<mark class="modifier"> </mark>Employee <mark class="class-field">e</mark> = new Employee()*e2¯
+EmployeeTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2º
+Employee.Employee()CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (!à
++EmployeeDemo6.main(String[])?e1@22.17:22.19VARIABLEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("
+typeEmployee"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>Employee <mark class="class-field">e1</mark> = new Employee()*e12¯
+EmployeeTYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java (2º
+Employee.Employee()CALLœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ("Í
+!EmployeeDemo6.main(String[])!args	PARAMETERœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¯
+String[]TYPEœ
+‘C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\OOPJ Mam\PG-DAC-Feb2025\OOPJ\Day 6\EmployeeDemo6.java ()

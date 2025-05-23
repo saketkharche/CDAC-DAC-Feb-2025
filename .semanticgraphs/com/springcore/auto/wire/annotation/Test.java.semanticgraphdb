@@ -1,0 +1,71 @@
+
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.javaì
+(com.springcore.auto.wire.annotation.TestCLASS–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (".
+package#com.springcore.auto.wire.annotation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Test"
+accesspublic*Test2£
+Acom.springcore.auto.wire.annotation.Test.main(java.lang.String[])DECLARATION–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (ù
+Acom.springcore.auto.wire.annotation.Test.main(java.lang.String[])METHOD–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+-java.io.PrintStream.println(java.lang.Object)CALL–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (2Æ
+Scom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?context@9.21:9.28CALL–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java
+ 
+(2¨
+Qcom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?emp1@10.6:10.10CALL–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (2¶
+Fcom.springcore.auto.wire.annotation.Test.main(java.lang.String[])!args	PARAMETER–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java" (&2µ
+Scom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?context@9.21:9.28DECLARATION–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java	 	(2≥
+Qcom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?emp1@10.6:10.10DECLARATION–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java
+ 
+(
+2Ê
+voidRETURN_TYPE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (√
+Scom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?context@9.21:9.28VARIABLE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java	 	("
+typeApplicationContext"
+isFinalfalse"À
+declarationStringµ<mark class="modifier"> </mark>ApplicationContext <mark class="class-field">context</mark> = new ClassPathXmlApplicationContext("com/springcore/auto/wire/annotation/autoconfig.xml")*context2â
+.org.springframework.context.ApplicationContextTYPE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java	 	(Ø
+Qcom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?emp1@10.6:10.10VARIABLE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java
+ 
+(
+"
+typeEmp"
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark>Emp <mark class="class-field">emp1</mark> = context.getBean("emp1"<mark class="modifier">,</mark> Emp.class)*emp12Ç
+'com.springcore.auto.wire.annotation.EmpTYPE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java
+ 
+(2Æ
+Scom.springcore.auto.wire.annotation.Test.main(java.lang.String[])?context@9.21:9.28CALL–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java
+ 
+(‰
+Fcom.springcore.auto.wire.annotation.Test.main(java.lang.String[])!args	PARAMETER–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ì
+java.lang.String[]TYPE–
+≈C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Test.java (!

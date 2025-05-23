@@ -1,0 +1,208 @@
+###################
+
+1} origin of the word computer -> computare (Latin word) -> to compute/ calculate
+
+2} Charles babage was a mathematician . He invented the first computer(aka difference engine)
+
+			    (INPUT)			      (OUTPUT)
+3} job of a computer ---->   Data   -->>   computer    -->> information
+			    (Raw facts)			   (Meaningful data)
+							   (processed data)
+
+4} Data====> data on whose basis the Management can take some decision or you can perform 	some action
+
+5} Processing===> work done by the computer to convert data into information.
+
+6} Database===>	collection of large amounts of data.
+
+7} DBMS===> Data base management system
+       ===> readymade software that you to manage your data.
+       ===> ANSI definition for DBMS--> collection of programs.
+       ===> function: Insert, update, delete, and process
+       ===> Various DBMS available:- MS Excel, dBase, FoxBASE, FoxPro(from fox system), Clipper(used by 		Union Bank of India) Dataease, Dataflex, Advanced Revelation, DB Vista, Quattro(from 			 borland), Lotus 1-2-3 etc.
+      ====> MS Excel program --> is known as a Macro (VBA programming)
+      ====> 53% work 
+
+8} MySQL --> DBMS (Relational Database Management system)
+7} Oracle --> RDBMS + ODDBMS (obj. oriented DBMS) --> ORDBMS(Obj. relational DBMS)  
+	e.g., MS Excel
+9} DBMS e.g., MS Excel, Foxpro, etc
+10} RDMS e.g., MySQL, Oracle, Postgress, etc.
+
+DIFFRENCE B/T BOTH:
+
+1} Naming Conventions are different (Nomenclature).
+2} Relationship between 2 files is maintained programmatically in DBMS BUT!! Relationship between 2 tables can be specified at the time of table.
+3} More Time is required for S/W development in DBMS BUT!!! Less time is required for S/W development
+ in RDBMS 
+4} More Programming in DBMS BUT!!! Less Programming.
+5} High Network Traffic in DBMS BUT!!! Low network Traffic in RDBMS
+6} Processing is on client machine in DBMS BUT!!! Processing is on
+7 DBMS if slow and expensive BUT!!!! RDBMS is Faster in terms of network traffic and Cheaper in terms of 	hardware cost, network, platform cost, infrastructure cost
+8} Client Server Architecture is not supported in DMBS BUT!!!! Most of RDMS support client server 	architecture cost 
+9} In DBMS We have File Level locking but in RDBMS we have row level locking
+10} DBMS is Not Suitable for multi-User S/W RDBMS is Suitable for muti user.
+11} Distributed Databases are not supported in DBMS BUT!!! Most of the RDMS supports 	distributed databases(exception MS access as it is weak RDBMS).
+12} No security of data in DBMS BUT!!!! Multiple levels of security in RDBMS some of them are:
+						---->a} logging in security:-
+							(MySQL DataBase Username and PassWord)
+
+						---->b} command level security:
+							(Privilege to give certain MySQL commands, 							e.g., CREATE TABLE, CREATE 									PROCEDURE,  )
+
+						---->c} Object level security:
+							(to access the table of other users)
+
+
+
+IMP: Table is not a file; Internally Every Row is A file in RDBMS
+
+
+#}
+-----------------------------------------------------
+TABLE:
+		data dept
+
+	DEPT NO   DNAME     LOCATION
+	   10	  Training    Mumbai
+ 	   20     Exports     Delhi
+
+------------------------------------------------------
+1} Coloumn---> aka Attributes or key
+2} Row ------> aka Records or Tuple or Entity
+3} Table-----> aka Relational or Entity class
+
+
+#}
+-----------------------------------------------------
+TABLE:
+		data Emp
+
+	EMP NO     ENAME     SALARY  DEPT NO. 
+	   101	   ROHIT      5000     10
+ 	   20      RAHUL     6000      20
+
+------------------------------------------------------
+
+#} 		DELHI(Emp table in delhi)(Or we can say server)
+		     	  |	|
+			  |	|
+			  |	|
+			  |	|
+			  
+			MUMBAI(Table)(client)
+
+
+1} DISTRIBUTED DATABASES: -- Each and every databases are doing operations on each others 				      databases.
+
+File system given by MySQL:
+i} NTFS: 
+ii} OFS:
+
+
+VARIOUS RDMS:
+---------------------------------------------------------------------
+Oracle: works on 113 OS
+----------------------------------
+*Sybase: going down
+	recently acquire by SAP
+---------------------------------
+*MS SQL Server:
+		Good RDBMS from Microsoft
+		works only with Windows OS no other OS
+		16%  
+	->single user version of oracle:- Personal Oracle(has all the features)
+---------------------------------
+
+Some of the open source RDBMS:
+
+*Ingres
+*Postgres(currently CDAC is also using this)
+*Unify : 
+---------------------------------------
+
+-DATA BASE SERVER HAS TO BE A MAINFRAME(SUPER COMPUTER):-(min 1600 gb RAM)
+DB2: good RDBMS from IBM 
+----------------------------------------
+
+Single user RDMS (PC Based):-
+ 
+Paradox: MS Access
+Vatcom SQL:
+---------------------------------------
+MYSQL:  -Was Launched by Swedish company in 1995.
+	-its name is a combination of "My" the name of co-founder Michael Widenius' 		 daughter, and "SQL"
+	-MySQL is open source RDBMS
+	-Most widely used open source RDBMS(42% of world open source database market)
+	-free S/W open Source projects that require a full featured data base management 	  system often use MySQL.
+	-Facebook, PayPal, Youtube, LinkedIn, Twitter, ebay, CISCO, Verizon, Uber, Shopify, 		NETFLIX, GitHub, WalMart, Booking.com, Zappos.com, Bank of America, 			 Flipkart, Paytm, Google(though not for searches but to store any 			  contancts Also for searching it uses Bigtable(every column is a file)).
+		   Joomla, WordPress, Flickr, etc
+	-Part of the widely used LAMP open Source web application s/w stack(and other "AMP" 	  stacks)
+L Linux			WAMP-> windows AMP
+A Apache		MAMP-> MaxOSAMP
+M MySQL			XAMP-> X-WindowsAMP
+P Perl or PHP 			
+
+	Sun microsystems acquired MySQL in 2008
+	Oracle acquired sun microsystem in 2010
+	why MySQL symbol is dolphine---> as it is user friendly 
+
+
+
+
+Various software dev tools:
+1 MySQL database
+2 MySQL-pl:---->used for database programming
+		MySQL programming language
+		used for database programming, e.g., HRA_CALC, TAX_CALC, ATTENDANCE_CALC, 			etc
+		
+3 MySQL command line client:-----> it is client S/W
+				   run SQL commands, MySQL commands, and MySQL-PL programs
+				   front-end s/w
+				   job of front-end s/w input and output
+				   Character Based(text based)
+				    
+					
+
+
+
+4 MySQL Workbench -------->it is client S/W
+			   run SQL commands, MySQL commands, and MySQL-PL programs
+			   front-end s/w
+			   job of front-end s/w input and output
+			   GUI Based(graphical user interface )
+
+5 MySQL Connectors
+6 MySQL for Excel
+7 MySQL Notifier
+8 MySQL Enterprise Backup:----> used to copy table data
+				used to backups of tables and restore from the backups.
+				Export and Import of tables
+				used to transport the tables from one data base to another 				 data base.
+				
+
+9 MySQL Enterprise High Availabilty
+10 MySQL Enterprise Encryption
+11 MySQL Enterprise Monitor
+12 MySQL Query Analyzer
+etc.
+
+
+
+DOWNLOAD AND INSTALL 
+
+
+1 ===>  -MYSQL Strutured Query language
+	-Conforms to ANSI standards(e.g., 1 char =1 byte of storage)
+	-Conforms to ISO standards(for QA)
+	-not a product of MySQL
+	-all commands for common for all RDBMS 
+	-create, update, alter, insert, delete, grant, revoke, select.
+	-Initially founded by IBM(1975-77) 
+	-SOURCE CODE OF SQL (C,C++ -->90%  and Assembly language-->10%)
+	-initially SQL was known as RQBE (Relational query by example) 
+	-IBM gave RQBE free of cost to ANSI
+	-ANSI renamed RQBE to SQL.
+	-SQL is now controlled by ANSI (and hence SQL is common for all RDBMS).
+	-in 2005, ANSI rewrote the source code of SQL in java(100% java)
+		

@@ -1,0 +1,95 @@
+
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.javaî
+Q6FirstFivePrimesCLASS’
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java("
+packageQ6FirstFivePrimes"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">class </mark>Q6FirstFivePrimes"
+accesspackage_private*Q6FirstFivePrimes2È
+ Q6FirstFivePrimes.main(String[])DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (˜!
+ Q6FirstFivePrimes.main(String[])METHOD–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ñ
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Í
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Í
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java  (!2Ï
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java% ((2Í
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java* (+2Ï
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java	 	(2Í
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java	 	(2Ó
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java
+ 
+(2Ó
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ï
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java! ($2Ñ
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ï
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALL–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ë
+%Q6FirstFivePrimes.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java% ()2Ø
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ö
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ú
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2Ô
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22DECLARATION–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (2¬
+voidRETURN_TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (¥
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2¤
+intTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (ž
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 2*num2¤
+intTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (º
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ("
+typeboolean"
+isFinalfalse"‰
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isPrime</mark> = true*isPrime2¨
+booleanTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (˜
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22VARIABLE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2¤
+intTYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java (Å
+%Q6FirstFivePrimes.main(String[])!args	PARAMETER–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2©
+String[]TYPE–
+‹C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q6FirstFivePrimes.java ($

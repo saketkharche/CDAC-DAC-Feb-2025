@@ -1,0 +1,88 @@
+
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.javaÕ
+Day05.SinglyLinkedListCLASS†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("
+packageDay05"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>SinglyLinkedList"
+accesspublic*SinglyLinkedList2Ç
+/Day05.SinglyLinkedList.main(java.lang.String[])DECLARATION†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (Â
+/Day05.SinglyLinkedList.main(java.lang.String[])METHOD†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ê
+4Day05.SinglyLinkedList.main(java.lang.String[])!args	PARAMETER†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java% ()2œ
+voidRETURN_TYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (¾
+4Day05.SinglyLinkedList.main(java.lang.String[])!args	PARAMETER†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2£
+java.lang.String[]TYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ($Ö
+Day05.SinglyLinkedList.NodeCLASS†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("!
+packageDay05.SinglyLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2½
+%Day05.SinglyLinkedList.Node.Node(int)DECLARATION†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (2Â
+*Day05.SinglyLinkedList.Node?data@6.12:6.16DECLARATION†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (2Â
+*Day05.SinglyLinkedList.Node?next@7.13:7.17DECLARATION†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (û	
+%Day05.SinglyLinkedList.Node.Node(int)CONSTRUCTOR†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("‚
+declarationStringm<mark class="modifier">public </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2»
+*Day05.SinglyLinkedList.Node.Node(int)!dataCALL†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java	 	(2»
+*Day05.SinglyLinkedList.Node?next@7.13:7.17CALL†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java
+ 
+(2»
+*Day05.SinglyLinkedList.Node?data@6.12:6.16CALL†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java	 	(2À
+*Day05.SinglyLinkedList.Node.Node(int)!data	PARAMETER†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (2³
+Day05.SinglyLinkedList.NodeRETURN_TYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (¹
+*Day05.SinglyLinkedList.Node.Node(int)!data	PARAMETER†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2”
+intTYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (¦
+*Day05.SinglyLinkedList.Node?data@6.12:6.16VARIABLE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2”
+intTYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (¢
+*Day05.SinglyLinkedList.Node?next@7.13:7.17VARIABLE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2¬
+Day05.SinglyLinkedList.NodeTYPE†
+|C:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day05/SinglyLinkedList.java (

@@ -1,0 +1,184 @@
+
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.javaã
+Day04.PermutationCLASSÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("
+packageDay04"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>Permutation"
+accesspublic*Permutation2—
+>Day04.Permutation.displays(java.lang.String, java.lang.String)DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2Ω
+*Day04.Permutation.main(java.lang.String[])DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (Ø/
+>Day04.Permutation.displays(java.lang.String, java.lang.String)METHODÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("
+isFinalfalse"ı
+declarationStringﬂ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displays</mark>(String str<mark class="modifier"><mark class="modifier">,</mark></mark> String res)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displays2•
+java.lang.String.length()CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2π
+-java.io.PrintStream.println(java.lang.String)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2•
+java.lang.String.length()CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	  	(&2®
+java.lang.String.charAt(int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+( 2∞
+$java.lang.String.substring(int, int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (&2´
+java.lang.String.substring(int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java3 (<2 
+>Day04.Permutation.displays(java.lang.String, java.lang.String)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!resCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	 	(2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	 	(2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	* 	(+2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+(2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+! 
+("2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java* (+2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java/ (22÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java= (>2⁄
+NDay04.Permutation.displays(java.lang.String, java.lang.String)?ros@11.19:11.22CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!resCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2Ÿ
+MDay04.Permutation.displays(java.lang.String, java.lang.String)?ch@10.17:10.19CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2”
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!str	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java  (#2”
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!res	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java, (/2›
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	 	(2‡
+MDay04.Permutation.displays(java.lang.String, java.lang.String)?ch@10.17:10.19DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+(2·
+NDay04.Permutation.displays(java.lang.String, java.lang.String)?ros@11.19:11.22DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2ó
+voidRETURN_TYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (å
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18VARIABLEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java	 	(◊
+MDay04.Permutation.displays(java.lang.String, java.lang.String)?ch@10.17:10.19VARIABLEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2ê
+charTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+(2®
+java.lang.String.charAt(int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+( 2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+ 
+(2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java
+! 
+("Ë
+NDay04.Permutation.displays(java.lang.String, java.lang.String)?ros@11.19:11.22VARIABLEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("
+typeString"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark>String <mark class="class-field">ros</mark> = str.substring(0, i) + str.substring(i + 1)*ros2ú
+java.lang.StringTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2∞
+$java.lang.String.substring(int, int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (&2´
+java.lang.String.substring(int)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java3 (<2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java* (+2Œ
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!strCALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java/ (22÷
+JDay04.Permutation.displays(java.lang.String, java.lang.String)?i@9.17:9.18CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java= (>∫
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!str	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java  (#"
+typeString"
+isFinalfalse"
+declarationString
+String str*str2ú
+java.lang.StringTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (∫
+BDay04.Permutation.displays(java.lang.String, java.lang.String)!res	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java, (/"
+typeString"
+isFinalfalse"
+declarationString
+String res*res2ú
+java.lang.StringTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java% (+ã
+*Day04.Permutation.main(java.lang.String[])METHODÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2 
+>Day04.Permutation.displays(java.lang.String, java.lang.String)CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2ƒ
+8Day04.Permutation.main(java.lang.String[])?s@17.15:17.16CALLÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2¿
+/Day04.Permutation.main(java.lang.String[])!args	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java% ()2À
+8Day04.Permutation.main(java.lang.String[])?s@17.15:17.16DECLARATIONÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (2ó
+voidRETURN_TYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (Û
+8Day04.Permutation.main(java.lang.String[])?s@17.15:17.16VARIABLEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ("
+typeString"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = "ABC"*s2ú
+java.lang.StringTYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java (Ø
+/Day04.Permutation.main(java.lang.String[])!args	PARAMETERÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2û
+java.lang.String[]TYPEÅ
+wC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day04/Permutation.java ($

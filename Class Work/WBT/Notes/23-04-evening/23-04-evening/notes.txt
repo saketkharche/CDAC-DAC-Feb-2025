@@ -1,0 +1,228 @@
+how to display content of one web page into another:
+
+<iframe>
+
+
+<iframe width="1039" height="520" src="https://www.youtube.com/embed/4ZfoJPDXVHs" title="iPhone 16 In-Depth Review After 120 Days ft.iPhone 15 ⚡ 1 Major Issue..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <iframe width="1039" height="520" src="https://www.youtube.com/embed/4ZfoJPDXVHs" title="iPhone 16 In-Depth Review After 120 Days ft.iPhone 15 ⚡ 1 Major Issue..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.2220331037097!2d72.83065662497337!3d18.921563832251486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1c06fffffff%3A0xc0290485a4d73f57!2sThe%20Taj%20Mahal%20Palace%2C%20Mumbai!5e0!3m2!1sen!2sin!4v1745412311730!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
+
+
+
+<!DOCTYPE html> it is to denote that we are using latest version/latest features of the html 
+It is a good practice to always have this tag
+
+<meta> metadata: data about data
+
+size of the content 50 KB
+language 
+size of media that page is rendering
+search keywords into meta tag
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<meta charset="UTF-8"> specifies that current html page is using Unicode convention for character encoding
+
+responsive page: a page that will adjust the layout/content according to the available area 
+
+
+div tag:
+
+<nav>
+	<img>
+	<a></a>
+	<a></a>
+	<a></a>
+</nav>
+
+<div></div>
+
+<footer></footer>
+
+<section>
+<footer>
+<nav>
+
+
+CSS: Cascading Style Sheet
+
+Css is for styling of the web page
+Css provides predefined properties for style customization
+
+<style>
+selector{
+	property-name:value;
+	.
+	.
+	.
+}
+</style>
+
+selector: 
+types of selector:
+1. tag selector: we can write name of the tag as selector and it will select all the tags with that name
+
+h1{
+            color: green;
+        }
+
+2. id selector: to identify an element uniquely we can give it an id 
+    in the selector we have to write #id-value
+
+	#head1{
+            color: green;
+        }
+	<h1 id="head1">Welcome to my page</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #head1{
+            color: green;
+        }
+        #head2{
+            color: red;
+        }
+        #head3{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="head1">Welcome to my page</h1>
+    <h1 id="head2">Hello</h1>
+    <h1 id="head3">Hii</h1>
+</body>
+</html>
+
+3. class selector: to identify few elements commonly 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .green-text{
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to my page</h1>
+    <h1 class="green-text">Hello</h1>
+    <h1>Hii</h1>
+    <p class="green-text">this is para 1</p>
+    <p>this is para 2</p>
+    <span>this is span 1</span>
+    <span>this is span 2</span>
+    <span class="green-text">this is span 3</span>
+</body>
+</html>
+
+4. universal selector: * it will select all the elements in the web page
+*{
+            color: grey;
+        }
+
+
+background-color
+background-image
+
+font-size
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box{
+            background-color: red;
+            width: 450px;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        <h1>Welcome to app</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti rerum soluta minima et. Id, amet. Laboriosam dolorum recusandae totam quo nihil. Fugiat veniam eos aut esse eligendi? Libero, at porro.</p>
+        <button>Click me</button>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            font-family: 'Segoe Ui Light';
+        }
+        #box{
+            /* background-color: red; */
+            width: 450px;
+            height: 250px;
+            border-width: 2px;
+            border-style: solid;
+            border-color: black;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        <h1>Welcome to app</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti rerum soluta minima et. Id, amet. Laboriosam dolorum recusandae totam quo nihil. Fugiat veniam eos aut esse eligendi? Libero, at porro.</p>
+        <button>Click me</button>
+    </div>
+</body>
+</html>
+
+to manage spaces inside of any element we have padding property
+
+top, right, bottom, left
+
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+padding: 10px 20px 40px 25px; clockwise T R B L
+padding: 30px; all side same value
+padding: 40px 20px; T R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

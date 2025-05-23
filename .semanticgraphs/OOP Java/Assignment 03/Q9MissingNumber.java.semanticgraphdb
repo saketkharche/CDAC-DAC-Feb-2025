@@ -1,0 +1,190 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java˛
+Q9MissingNumberCLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+packageQ9MissingNumber"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>Q9MissingNumber"
+accesspublic*Q9MissingNumber2¿
+-Q9MissingNumber.findMissingNumber(int[], int)DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ('2±
+Q9MissingNumber.main(String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (¸
+-Q9MissingNumber.findMissingNumber(int[], int)METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ('"
+isFinalfalse"π
+declarationString£<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">findMissingNumber</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMissingNumber2ª
+/Q9MissingNumber.findMissingNumber(int[], int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ª
+/Q9MissingNumber.findMissingNumber(int[], int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ( 2Ω
+1Q9MissingNumber.findMissingNumber(int[], int)!arrCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2Õ
+AQ9MissingNumber.findMissingNumber(int[], int)?actualSum@6.12:6.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java	 	(2«
+;Q9MissingNumber.findMissingNumber(int[], int)?num@8.17:8.20CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java	 	(2œ
+CQ9MissingNumber.findMissingNumber(int[], int)?expectedSum@5.12:5.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2Õ
+AQ9MissingNumber.findMissingNumber(int[], int)?actualSum@6.12:6.21CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (&2¬
+1Q9MissingNumber.findMissingNumber(int[], int)!arr	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java. (12¿
+/Q9MissingNumber.findMissingNumber(int[], int)!n	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java7 (82÷
+CQ9MissingNumber.findMissingNumber(int[], int)?expectedSum@5.12:5.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2‘
+AQ9MissingNumber.findMissingNumber(int[], int)?actualSum@6.12:6.21DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2Œ
+;Q9MissingNumber.findMissingNumber(int[], int)?num@8.17:8.20DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ñ
+intRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (§
+CQ9MissingNumber.findMissingNumber(int[], int)?expectedSum@5.12:5.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">expectedSum</mark> = n * (n + 1) / 2*expectedSum2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ª
+/Q9MissingNumber.findMissingNumber(int[], int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ª
+/Q9MissingNumber.findMissingNumber(int[], int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ( î
+AQ9MissingNumber.findMissingNumber(int[], int)?actualSum@6.12:6.21VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">actualSum</mark> = 0*	actualSum2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (˝
+;Q9MissingNumber.findMissingNumber(int[], int)?num@8.17:8.20VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (∫
+1Q9MissingNumber.findMissingNumber(int[], int)!arr	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java. (1"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java( (-Æ
+/Q9MissingNumber.findMissingNumber(int[], int)!n	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java7 (8"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java3 (6ë!
+Q9MissingNumber.main(String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2π
+-Q9MissingNumber.findMissingNumber(int[], int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (-2æ
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?n@20.12:20.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?i@24.17:24.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?n@20.12:20.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?i@24.17:24.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ( 2∫
+.Q9MissingNumber.main(String[])?arr@21.14:21.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?i@24.17:24.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2æ
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∫
+.Q9MissingNumber.main(String[])?arr@21.14:21.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java. (12∏
+,Q9MissingNumber.main(String[])?n@20.12:20.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java3 (42ƒ
+8Q9MissingNumber.main(String[])?missingNumber@29.12:29.25CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java7 (D2æ
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java   (2¥
+#Q9MissingNumber.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java% ()2≈
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ø
+,Q9MissingNumber.main(String[])?n@20.12:20.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2¡
+.Q9MissingNumber.main(String[])?arr@21.14:21.17DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ø
+,Q9MissingNumber.main(String[])?i@24.17:24.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2À
+8Q9MissingNumber.main(String[])?missingNumber@29.12:29.25DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (ç
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ù
+java.util.ScannerTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (¿
+,Q9MissingNumber.main(String[])?n@20.12:20.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2æ
+2Q9MissingNumber.main(String[])?scanner@16.16:16.23CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (‹
+.Q9MissingNumber.main(String[])?arr@21.14:21.17VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2ë
+int[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2∏
+,Q9MissingNumber.main(String[])?n@20.12:20.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (Ó
+,Q9MissingNumber.main(String[])?i@24.17:24.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (‰
+8Q9MissingNumber.main(String[])?missingNumber@29.12:29.25VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ("
+typeint"
+isFinalfalse"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">missingNumber</mark> = findMissingNumber(arr, n + 1)*missingNumber2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (2π
+-Q9MissingNumber.findMissingNumber(int[], int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java (-2∫
+.Q9MissingNumber.main(String[])?arr@21.14:21.17CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java. (12∏
+,Q9MissingNumber.main(String[])?n@20.12:20.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java3 (4ô
+#Q9MissingNumber.main(String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2î
+String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q9MissingNumber.java ($

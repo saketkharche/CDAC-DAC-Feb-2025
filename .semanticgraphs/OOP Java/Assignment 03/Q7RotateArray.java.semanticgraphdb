@@ -1,0 +1,276 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.javaú
+Q7RotateArrayCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+packageQ7RotateArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Q7RotateArray"
+accesspublic*Q7RotateArray2∂
+&Q7RotateArray.reverse(int[], int, int)DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2µ
+%Q7RotateArray.rotateRight(int[], int)DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("2¨
+Q7RotateArray.main(String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (í
+&Q7RotateArray.reverse(int[], int, int)METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+isFinalfalse"ò
+declarationStringÇ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">reverse</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> start<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> end)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typevoid*reverse2µ
+,Q7RotateArray.reverse(int[], int, int)!startCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!endCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2µ
+,Q7RotateArray.reverse(int[], int, int)!startCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ( 2≥
+*Q7RotateArray.reverse(int[], int, int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2µ
+,Q7RotateArray.reverse(int[], int, int)!startCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!endCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ( 2≥
+*Q7RotateArray.reverse(int[], int, int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!endCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2æ
+5Q7RotateArray.reverse(int[], int, int)?temp@6.16:6.20CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2µ
+,Q7RotateArray.reverse(int[], int, int)!startCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java	 	(2≥
+*Q7RotateArray.reverse(int[], int, int)!endCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java
+ 
+(2∏
+*Q7RotateArray.reverse(int[], int, int)!arr	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java& ()2∫
+,Q7RotateArray.reverse(int[], int, int)!start	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java/ (42∏
+*Q7RotateArray.reverse(int[], int, int)!end	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java: (=2≈
+5Q7RotateArray.reverse(int[], int, int)?temp@6.16:6.20DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (Ô
+5Q7RotateArray.reverse(int[], int, int)?temp@6.16:6.20VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[start]*temp2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≥
+*Q7RotateArray.reverse(int[], int, int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2µ
+,Q7RotateArray.reverse(int[], int, int)!startCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ( ≠
+*Q7RotateArray.reverse(int[], int, int)!arr	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java& ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2é
+int[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java  (%≠
+,Q7RotateArray.reverse(int[], int, int)!start	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java/ (4"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> start*start2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java+ (.ß
+*Q7RotateArray.reverse(int[], int, int)!end	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java: (="
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> end*end2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java6 (9è
+%Q7RotateArray.rotateRight(int[], int)METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (""
+isFinalfalse"¥
+declarationStringû<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">rotateRight</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> k)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*rotateRight2Ø
+&Q7RotateArray.reverse(int[], int, int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2Ø
+&Q7RotateArray.reverse(int[], int, int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2Ø
+&Q7RotateArray.reverse(int[], int, int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≤
+)Q7RotateArray.rotateRight(int[], int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2∞
+'Q7RotateArray.rotateRight(int[], int)!kCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (	2∞
+'Q7RotateArray.rotateRight(int[], int)!kCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2º
+3Q7RotateArray.rotateRight(int[], int)?n@16.12:16.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≤
+)Q7RotateArray.rotateRight(int[], int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2º
+3Q7RotateArray.rotateRight(int[], int)?n@16.12:16.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≤
+)Q7RotateArray.rotateRight(int[], int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2∞
+'Q7RotateArray.rotateRight(int[], int)!kCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≤
+)Q7RotateArray.rotateRight(int[], int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2∞
+'Q7RotateArray.rotateRight(int[], int)!kCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2º
+3Q7RotateArray.rotateRight(int[], int)?n@16.12:16.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2∑
+)Q7RotateArray.rotateRight(int[], int)!arr	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java) (,2µ
+'Q7RotateArray.rotateRight(int[], int)!k	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java2 (32√
+3Q7RotateArray.rotateRight(int[], int)?n@16.12:16.13DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (Æ
+3Q7RotateArray.rotateRight(int[], int)?n@16.12:16.13VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2≤
+)Q7RotateArray.rotateRight(int[], int)!arrCALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (¨
+)Q7RotateArray.rotateRight(int[], int)!arr	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java) (,"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2é
+int[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java# ((†
+'Q7RotateArray.rotateRight(int[], int)!k	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java2 (3"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> k*k2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. (1˜%
+Q7RotateArray.main(String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Æ
+%Q7RotateArray.rotateRight(int[], int)CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java1 1(2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java" "(2≥
+*Q7RotateArray.main(String[])?n@34.12:34.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java$ $(2≥
+*Q7RotateArray.main(String[])?n@34.12:34.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java'& '('2≥
+*Q7RotateArray.main(String[])?i@40.17:40.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( ((2≥
+*Q7RotateArray.main(String[])?n@34.12:34.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( ((2≥
+*Q7RotateArray.main(String[])?i@40.17:40.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( (( 2µ
+,Q7RotateArray.main(String[])?arr@36.14:36.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java) )(2≥
+*Q7RotateArray.main(String[])?i@40.17:40.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java) )(2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java) )(2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. .(2µ
+,Q7RotateArray.main(String[])?arr@36.14:36.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java1 1(2≥
+*Q7RotateArray.main(String[])?k@46.12:46.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java1 1(2µ
+,Q7RotateArray.main(String[])?arr@36.14:36.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java5 5(2µ
+,Q7RotateArray.main(String[])?num@53.17:53.20CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java6 6( 2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java9 9(2Ø
+!Q7RotateArray.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java% ()2¿
+0Q7RotateArray.main(String[])?scanner@30.16:30.23DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (2∫
+*Q7RotateArray.main(String[])?n@34.12:34.13DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java" "(2º
+,Q7RotateArray.main(String[])?arr@36.14:36.17DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java$ $(2∫
+*Q7RotateArray.main(String[])?i@40.17:40.18DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( ((2∫
+*Q7RotateArray.main(String[])?k@46.12:46.13DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. .(2º
+,Q7RotateArray.main(String[])?num@53.17:53.20DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java5 5(2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (Ö
+0Q7RotateArray.main(String[])?scanner@30.16:30.23VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ö
+java.util.ScannerTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java (≥
+*Q7RotateArray.main(String[])?n@34.12:34.13VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java" "("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java" "(2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java" "(œ
+,Q7RotateArray.main(String[])?arr@36.14:36.17VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java$ $("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2é
+int[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java$ $(2≥
+*Q7RotateArray.main(String[])?n@34.12:34.13CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java$ $(Ê
+*Q7RotateArray.main(String[])?i@40.17:40.18VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( (("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java( ((≥
+*Q7RotateArray.main(String[])?k@46.12:46.13VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. .("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = scanner.nextInt()*k2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. .(2π
+0Q7RotateArray.main(String[])?scanner@30.16:30.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java. .(Ë
+,Q7RotateArray.main(String[])?num@53.17:53.20VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java5 5("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java5 5(ë
+!Q7RotateArray.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ë
+String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q7RotateArray.java ($

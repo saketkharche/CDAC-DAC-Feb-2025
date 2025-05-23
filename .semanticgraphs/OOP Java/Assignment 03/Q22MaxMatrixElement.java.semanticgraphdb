@@ -1,0 +1,272 @@
+
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java⁄
+Q22MaxMatrixElementCLASSÅ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java( "
+packageQ22MaxMatrixElement"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>Q22MaxMatrixElement"
+accesspublic*Q22MaxMatrixElement2π
+"Q22MaxMatrixElement.main(String[])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
++Q22MaxMatrixElement.findMaxElement(int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ($2ø
+(Q22MaxMatrixElement.printMatrix(int[][])DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/ /("à
+"Q22MaxMatrixElement.main(String[])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∏
+(Q22MaxMatrixElement.printMatrix(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2ª
++Q22MaxMatrixElement.findMaxElement(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ( 2√
+3Q22MaxMatrixElement.main(String[])?matrix@3.16:3.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2√
+3Q22MaxMatrixElement.main(String[])?matrix@3.16:3.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! ('2¬
+2Q22MaxMatrixElement.main(String[])?max@14.12:14.15CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java3 (62º
+'Q22MaxMatrixElement.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java% ()2 
+3Q22MaxMatrixElement.main(String[])?matrix@3.16:3.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2…
+2Q22MaxMatrixElement.main(String[])?max@14.12:14.15DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (ˆ
+3Q22MaxMatrixElement.main(String[])?matrix@3.16:3.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"Î
+declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 14, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (ö
+2Q22MaxMatrixElement.main(String[])?max@14.12:14.15VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"ì
+declarationString~<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">max</mark> = findMaxElement(matrix)*max2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2ª
++Q22MaxMatrixElement.findMaxElement(int[][])CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ( 2√
+3Q22MaxMatrixElement.main(String[])?matrix@3.16:3.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! ('•
+'Q22MaxMatrixElement.main(String[])!args	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ò
+String[]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ($µ=
++Q22MaxMatrixElement.findMaxElement(int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ($"
+isFinalfalse"⁄
+declarationStringƒ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">findMaxElement</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*findMaxElement2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ($2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java   (2Ã
+<Q22MaxMatrixElement.findMaxElement(int[][])?rows@29.12:29.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java   ( 2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java "  (#2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! !(2Ã
+<Q22MaxMatrixElement.findMaxElement(int[][])?cols@30.12:30.16CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java!  !($2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java!& !('2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java" "(2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java" "(2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java" "(2À
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java"# "(&2À
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java# #(2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java# #( 2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java#! #("2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java#$ #(%2Œ
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxRow@27.12:27.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java$ $(2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java$ $(2Œ
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxCol@28.12:28.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java% %(2…
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java% %(2À
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java*0 *(32Œ
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxRow@27.12:27.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java*P *(V2Œ
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxCol@28.12:28.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java*_ *(e2À
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java+ +(2«
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java- (32“
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2’
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxRow@27.12:27.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2’
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxCol@28.12:28.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2”
+<Q22MaxMatrixElement.findMaxElement(int[][])?rows@29.12:29.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2”
+<Q22MaxMatrixElement.findMaxElement(int[][])?cols@30.12:30.16DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2–
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java   (2–
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! !(2ö
+intRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (⁄
+;Q22MaxMatrixElement.findMaxElement(int[][])?max@26.12:26.15VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">max</mark> = matrix[0][0]*max2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (ì
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxRow@27.12:27.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxRow</mark> = 0*maxRow2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (ì
+>Q22MaxMatrixElement.findMaxElement(int[][])?maxCol@28.12:28.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxCol</mark> = 0*maxCol2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (ﬁ
+<Q22MaxMatrixElement.findMaxElement(int[][])?rows@29.12:29.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = matrix.length*rows2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (·
+<Q22MaxMatrixElement.findMaxElement(int[][])?cols@30.12:30.16VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = matrix[0].length*cols2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (2¬
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java (É
+9Q22MaxMatrixElement.findMaxElement(int[][])?i@32.17:32.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java   ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java   (É
+9Q22MaxMatrixElement.findMaxElement(int[][])?j@33.21:33.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! !("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java! !(œ
+2Q22MaxMatrixElement.findMaxElement(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java- (3"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java% (*á
+(Q22MaxMatrixElement.printMatrix(int[][])METHODÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/ /(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2ø
+/Q22MaxMatrixElement.printMatrix(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java0 0(2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5 5(2ø
+/Q22MaxMatrixElement.printMatrix(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5 5("2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5+ 5(,2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?j@54.21:54.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6 6(2ø
+/Q22MaxMatrixElement.printMatrix(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6  6(&2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6' 6((2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?j@54.21:54.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java62 6(32ø
+/Q22MaxMatrixElement.printMatrix(int[][])!matrixCALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java7! 7('2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java7( 7()2∆
+6Q22MaxMatrixElement.printMatrix(int[][])?j@54.21:54.22CALLÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java7+ 7(,2ƒ
+/Q22MaxMatrixElement.printMatrix(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/+ /(12Õ
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5 5(2Õ
+6Q22MaxMatrixElement.printMatrix(int[][])?j@54.21:54.22DECLARATIONÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6 6(2õ
+voidRETURN_TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/ /(Ä
+6Q22MaxMatrixElement.printMatrix(int[][])?i@53.17:53.18VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5 5("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java5 5(Ä
+6Q22MaxMatrixElement.printMatrix(int[][])?j@54.21:54.22VARIABLEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6 6("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2ì
+intTYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java6 6(Ã
+/Q22MaxMatrixElement.printMatrix(int[][])!matrix	PARAMETERÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/+ /(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ó
+int[][]TYPEÖ
+{C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q22MaxMatrixElement.java/# /((

@@ -1,0 +1,55 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.javaÌ
+NullPointerExampleCLASS€
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java("
+packageNullPointerExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>NullPointerExample"
+accesspublic*NullPointerExample2·
+!NullPointerExample.main(String[])DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java (®
+!NullPointerExample.main(String[])METHOD„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¾
+/NullPointerExample.main(String[])?str@3.19:3.22CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java ("2¼
+-NullPointerExample.main(String[])?e@5.38:5.39CALL„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.javaA (B2º
+&NullPointerExample.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java% ()2Å
+/NullPointerExample.main(String[])?str@3.19:3.22DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java (2Ã
+-NullPointerExample.main(String[])?e@5.38:5.39DECLARATION„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java& ('2š
+voidRETURN_TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java (ˆ
+/NullPointerExample.main(String[])?str@3.19:3.22VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java ("
+typeString"
+isFinalfalse"„
+declarationStringo<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = <mark class="modifier">null</mark>*str2•
+StringTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java (¢
+&NullPointerExample.main(String[])!args	PARAMETER„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2—
+String[]TYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java ($Æ
+-NullPointerExample.main(String[])?e@5.38:5.39VARIABLE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java& ('"
+typeNullPointerException"
+isFinalfalse"+
+declarationStringNullPointerException e*e2£
+NullPointerExceptionTYPE„
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 12\NullPointerExample.java (%

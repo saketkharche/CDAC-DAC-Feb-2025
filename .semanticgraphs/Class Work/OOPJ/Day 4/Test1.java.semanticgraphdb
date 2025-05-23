@@ -1,0 +1,108 @@
+
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.javaé
+Test1CLASSr
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java("
+packageTest1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Test1"
+accesspackage_private*Test12ò
+Test1.increment()DECLARATIONv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 (2û
+Test1?counter@1.15:1.22DECLARATIONv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (©
+Test1.increment()METHODv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 ("
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">increment</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	increment2ó
+Test1?counter@1.15:1.22CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2ã
+voidRETURN_TYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (¢
+Test1?counter@1.15:1.22VARIABLEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java ("
+isFinalfalse"
+typeint"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">counter</mark> = 0;"
+isStatictrue"
+accesspackage_private*counter2É
+intTYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (Ï
+MainCLASSv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java ("
+packageMain"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2ö
+Main.main(String[])DECLARATIONv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 	(ù
+Main.main(String[])METHODv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ã
+Test.Test()CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java
+ 
+(2ã
+Test.Test()CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2§
+$Main.main(String[])?obj1@10.13:10.17CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2§
+$Main.main(String[])?obj2@11.13:11.17CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2ù
+Main.main(String[])!args	PARAMETERv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	% 	()2´
+$Main.main(String[])?obj1@10.13:10.17DECLARATIONv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java
+ 
+(2´
+$Main.main(String[])?obj2@11.13:11.17DECLARATIONv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2ã
+voidRETURN_TYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 	(–
+$Main.main(String[])?obj1@10.13:10.17VARIABLEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java
+ 
+("
+typeTest"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Test <mark class="class-field">obj1</mark> = new Test()*obj12Ñ
+TestTYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java
+ 
+(2ã
+Test.Test()CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java
+ 
+(–
+$Main.main(String[])?obj2@11.13:11.17VARIABLEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java ("
+typeTest"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Test <mark class="class-field">obj2</mark> = new Test()*obj22Ñ
+TestTYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (2ã
+Test.Test()CALLv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java (ˆ
+Main.main(String[])!args	PARAMETERv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2à
+String[]TYPEv
+lC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 4\Test1.java	 	($

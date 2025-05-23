@@ -1,0 +1,115 @@
+
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.javaÄ
+'com.springcore.auto.wire.annotation.EmpCLASSÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (".
+package#com.springcore.auto.wire.annotation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Emp"
+accesspublic*Emp2Ž
+-com.springcore.auto.wire.annotation.Emp.Emp()DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2¹
+Xcom.springcore.auto.wire.annotation.Emp.Emp(com.springcore.auto.wire.annotation.Address)DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2•
+4com.springcore.auto.wire.annotation.Emp.getAddress()DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2À
+_com.springcore.auto.wire.annotation.Emp.setAddress(com.springcore.auto.wire.annotation.Address)DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2“
+2com.springcore.auto.wire.annotation.Emp.toString()DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java" "(2š
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24DECLARATIONÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java	 	(ñ
+-com.springcore.auto.wire.annotation.Emp.Emp()CONSTRUCTORÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ("[
+declarationStringF<mark class="modifier">public </mark><mark class="method">Emp</mark>()*Emp2ó
+java.lang.Object.Object()CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2ˆ
+'com.springcore.auto.wire.annotation.EmpRETURN_TYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (Ê
+Xcom.springcore.auto.wire.annotation.Emp.Emp(com.springcore.auto.wire.annotation.Address)CONSTRUCTORÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ("j
+declarationStringU<mark class="modifier">public </mark><mark class="method">Emp</mark>(Address address)*Emp2‡
+-java.io.PrintStream.println(java.lang.String)CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2ó
+java.lang.Object.Object()CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2º
+`com.springcore.auto.wire.annotation.Emp.Emp(com.springcore.auto.wire.annotation.Address)!addressCALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2“
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2¿
+`com.springcore.auto.wire.annotation.Emp.Emp(com.springcore.auto.wire.annotation.Address)!address	PARAMETERÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2ˆ
+'com.springcore.auto.wire.annotation.EmpRETURN_TYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (™
+`com.springcore.auto.wire.annotation.Emp.Emp(com.springcore.auto.wire.annotation.Address)!address	PARAMETERÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ("
+typeAddress"
+isFinalfalse"$
+declarationStringAddress address*address2…
++com.springcore.auto.wire.annotation.AddressTYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (Š
+4com.springcore.auto.wire.annotation.Emp.getAddress()METHODÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ("
+isFinalfalse"j
+declarationStringU<mark class="modifier">public </mark>Address <mark class="method">getAddress</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeAddress*
+getAddress2“
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java	 (2Œ
++com.springcore.auto.wire.annotation.AddressRETURN_TYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (Í
+_com.springcore.auto.wire.annotation.Emp.setAddress(com.springcore.auto.wire.annotation.Address)METHODÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ("
+isFinalfalse"”
+declarationString<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setAddress</mark>(Address address)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setAddress2‡
+-java.io.PrintStream.println(java.lang.String)CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2Á
+gcom.springcore.auto.wire.annotation.Emp.setAddress(com.springcore.auto.wire.annotation.Address)!addressCALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2“
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (2Æ
+gcom.springcore.auto.wire.annotation.Emp.setAddress(com.springcore.auto.wire.annotation.Address)!address	PARAMETERÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java  ('2å
+voidRETURN_TYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java ( 
+gcom.springcore.auto.wire.annotation.Emp.setAddress(com.springcore.auto.wire.annotation.Address)!address	PARAMETERÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java  ('"
+typeAddress"
+isFinalfalse"$
+declarationStringAddress address*address2…
++com.springcore.auto.wire.annotation.AddressTYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java (—
+2com.springcore.auto.wire.annotation.Emp.toString()METHODÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java" "("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2“
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24CALLÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java# #("2ñ
+java.lang.StringRETURN_TYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java" "(Þ
+9com.springcore.auto.wire.annotation.Emp?address@9.17:9.24VARIABLEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java	 	("
+isFinalfalse"
+typeAddress"k
+declarationStringV<mark class="modifier">private </mark>Address <mark class="class-field">address</mark>"
+isStaticfalse"
+accessprivate*address2…
++com.springcore.auto.wire.annotation.AddressTYPEÏ
+ÄC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\auto\wire\annotation\Emp.java		 	(

@@ -1,0 +1,59 @@
+
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.javaå
+	InputDemoCLASSv
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java("
+package	InputDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>InputDemo"
+accesspackage_private*	InputDemo2£
+InputDemo.main(String[])DECLARATIONz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (©
+InputDemo.main(String[])METHODz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2©
+%InputDemo.main(String[])?sc@4.10:4.12CALLz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (2®
+$InputDemo.main(String[])?nm@6.9:6.11CALLz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java  ("2¶
+InputDemo.main(String[])!args	PARAMETERz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java% ()2∞
+%InputDemo.main(String[])?sc@4.10:4.12DECLARATIONz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java
+ (2Ø
+$InputDemo.main(String[])?nm@6.9:6.11DECLARATIONz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java	 (2è
+voidRETURN_TYPEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (‹
+%InputDemo.main(String[])?sc@4.10:4.12VARIABLEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java
+ ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ã
+ScannerTYPEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (	˜
+$InputDemo.main(String[])?nm@6.9:6.11VARIABLEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java	 ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">nm</mark> = sc.next()*nm2ä
+StringTYPEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (2©
+%InputDemo.main(String[])?sc@4.10:4.12CALLz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java (É
+InputDemo.main(String[])!args	PARAMETERz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2å
+String[]TYPEz
+pC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 3\InputDemo.java ($

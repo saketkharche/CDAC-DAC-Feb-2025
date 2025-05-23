@@ -1,0 +1,119 @@
+
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java´
+Q12ArrayCountCLASS
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+packageQ12ArrayCount"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Q12ArrayCount"
+accesspublic*Q12ArrayCount2¨
+Q12ArrayCount.main(String[])DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (Ö&
+Q12ArrayCount.main(String[])METHOD
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2≥
+*Q12ArrayCount.main(String[])?i@11.17:11.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?i@11.17:11.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java  (!2≥
+*Q12ArrayCount.main(String[])?arr@7.14:7.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?i@11.17:11.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2∑
+.Q12ArrayCount.main(String[])?scanner@5.16:5.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?arr@7.14:7.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?i@11.17:11.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2¥
++Q12ArrayCount.main(String[])?even@8.12:8.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java! (%2≥
+*Q12ArrayCount.main(String[])?odd@8.22:8.25CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?arr@7.14:7.17CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2≥
+*Q12ArrayCount.main(String[])?i@11.17:11.18CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2ø
+6Q12ArrayCount.main(String[])?multipleOfThree@8.31:8.46CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java! (02¥
++Q12ArrayCount.main(String[])?even@8.12:8.16CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java. (22≥
+*Q12ArrayCount.main(String[])?odd@8.22:8.25CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java- (02ø
+6Q12ArrayCount.main(String[])?multipleOfThree@8.31:8.46CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java0 (?2∑
+.Q12ArrayCount.main(String[])?scanner@5.16:5.23CALL
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2Ø
+!Q12ArrayCount.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java% ()2æ
+.Q12ArrayCount.main(String[])?scanner@5.16:5.23DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2∫
+*Q12ArrayCount.main(String[])?arr@7.14:7.17DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2ª
++Q12ArrayCount.main(String[])?even@8.12:8.16DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2∫
+*Q12ArrayCount.main(String[])?odd@8.22:8.25DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2∆
+6Q12ArrayCount.main(String[])?multipleOfThree@8.31:8.46DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (.2∫
+*Q12ArrayCount.main(String[])?i@11.17:11.18DECLARATION
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (2î
+voidRETURN_TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (É
+.Q12ArrayCount.main(String[])?scanner@5.16:5.23VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2ö
+java.util.ScannerTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (ò
+*Q12ArrayCount.main(String[])?arr@7.14:7.17VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+typeint"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[20]*arr2é
+int[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (ç
++Q12ArrayCount.main(String[])?even@8.12:8.16VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+typeint"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">even</mark> = 0, odd = 0, multipleOfThree = 0*even2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (ä
+*Q12ArrayCount.main(String[])?odd@8.22:8.25VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+typeint"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">odd</mark> = 0, odd = 0, multipleOfThree = 0*odd2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (Æ
+6Q12ArrayCount.main(String[])?multipleOfThree@8.31:8.46VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (."
+typeint"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">multipleOfThree</mark> = 0, odd = 0, multipleOfThree = 0*multipleOfThree2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (Ê
+*Q12ArrayCount.main(String[])?i@11.17:11.18VARIABLE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2å
+intTYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java (ë
+!Q12ArrayCount.main(String[])!args	PARAMETER
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ë
+String[]TYPE
+uC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q12ArrayCount.java ($

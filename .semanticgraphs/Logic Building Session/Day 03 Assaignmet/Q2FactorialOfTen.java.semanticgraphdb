@@ -1,0 +1,61 @@
+
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.javaç
+Q2FactorialOfTenCLASS‘
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java("
+packageQ2FactorialOfTen"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">class </mark>Q2FactorialOfTen"
+accesspackage_private*Q2FactorialOfTen2Æ
+Q2FactorialOfTen.main(String[])DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (—
+Q2FactorialOfTen.main(String[])METHOD•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ë
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (2Ë
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java! ("2Ó
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (2Ë
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (2Ó
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22CALL•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java1 (:2É
+$Q2FactorialOfTen.main(String[])!args	PARAMETER•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java% ()2Ú
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (2Ò
++Q2FactorialOfTen.main(String[])?i@3.17:3.18DECLARATION•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (2«
+voidRETURN_TYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (±
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22VARIABLE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java ("
+typelong"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">factorial</mark> = 1*	factorial2¤
+longTYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (•
++Q2FactorialOfTen.main(String[])?i@3.17:3.18VARIABLE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2£
+intTYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java (Â
+$Q2FactorialOfTen.main(String[])!args	PARAMETER•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2¨
+String[]TYPE•
+ŠC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 03 Assaignmet\Q2FactorialOfTen.java ($

@@ -1,0 +1,15 @@
+{
+  "name": "03-05-25mor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "post method",
+  "dependencies": {
+    "03-05-25mor": "file:",
+    "express": "^5.1.0"
+  }
+}

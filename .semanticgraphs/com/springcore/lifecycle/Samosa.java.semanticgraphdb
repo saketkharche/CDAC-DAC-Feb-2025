@@ -1,0 +1,131 @@
+
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java˝
+com.springcore.lifecycle.SamosaCLASS«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("#
+packagecom.springcore.lifecycle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>Samosa"
+accesspublic*Samosa2Å
+(com.springcore.lifecycle.Samosa.Samosa()DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2É
+*com.springcore.lifecycle.Samosa.getPrice()DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2â
+0com.springcore.lifecycle.Samosa.setPrice(double)DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+(2É
+*com.springcore.lifecycle.Samosa.toString()DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2˛
+%com.springcore.lifecycle.Samosa.hey()DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2˛
+%com.springcore.lifecycle.Samosa.bye()DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2à
+/com.springcore.lifecycle.Samosa?price@4.16:4.21DECLARATION«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (“
+(com.springcore.lifecycle.Samosa.Samosa()CONSTRUCTOR«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("^
+declarationStringI<mark class="modifier">public </mark><mark class="method">Samosa</mark>()*Samosa2Î
+java.lang.Object.Object()CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2¯
+com.springcore.lifecycle.SamosaRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (“
+*com.springcore.lifecycle.Samosa.getPrice()METHOD«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("
+isFinalfalse"Ö
+declarationStringp<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getPrice</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*getPrice2Å
+/com.springcore.lifecycle.Samosa?price@4.16:4.21CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java	 (2ﬂ
+doubleRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (ö
+0com.springcore.lifecycle.Samosa.setPrice(double)METHOD«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+("
+isFinalfalse"Æ
+declarationStringò<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setPrice</mark>(<mark class="modifier">double</mark> price)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setPrice2ˇ
+-java.io.PrintStream.println(java.lang.String)CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2à
+6com.springcore.lifecycle.Samosa.setPrice(double)!priceCALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2Å
+/com.springcore.lifecycle.Samosa?price@4.16:4.21CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2ç
+6com.springcore.lifecycle.Samosa.setPrice(double)!price	PARAMETER«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+("2›
+voidRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+(“
+6com.springcore.lifecycle.Samosa.setPrice(double)!price	PARAMETER«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+(""
+typedouble"
+isFinalfalse"?
+declarationString*<mark class="modifier">double</mark> price*price2ÿ
+doubleTYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java
+ 
+(Ì
+*com.springcore.lifecycle.Samosa.toString()METHOD«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Å
+/com.springcore.lifecycle.Samosa?price@4.16:4.21CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (!2È
+java.lang.StringRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (∫
+%com.springcore.lifecycle.Samosa.hey()METHOD«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">hey</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*hey2ˇ
+-java.io.PrintStream.println(java.lang.String)CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2›
+voidRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (∫
+%com.springcore.lifecycle.Samosa.bye()METHOD«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">bye</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*bye2ˇ
+-java.io.PrintStream.println(java.lang.String)CALL«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (2›
+voidRETURN_TYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java (∏
+/com.springcore.lifecycle.Samosa?price@4.16:4.21VARIABLE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java ("
+isFinalfalse"
+typedouble"Ü
+declarationStringq<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">price</mark>"
+isStaticfalse"
+accessprivate*price2ÿ
+doubleTYPE«
+ºC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\lifecycle\Samosa.java	 (

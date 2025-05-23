@@ -1,0 +1,33 @@
+
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java©
+Day10.QueueDemoCLASS
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java ("
+packageDay10"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>QueueDemo"
+accesspublic*	QueueDemo2¸
+(Day10.QueueDemo.main(java.lang.String[])DECLARATION
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java (œ
+(Day10.QueueDemo.main(java.lang.String[])METHOD
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2»
+-Day10.QueueDemo.main(java.lang.String[])!args	PARAMETER
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java% ()2”
+voidRETURN_TYPE
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java (§
+-Day10.QueueDemo.main(java.lang.String[])!args	PARAMETER
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2›
+java.lang.String[]TYPE
+uC:/Users/saket/OneDrive/Desktop/EveryThing/CDAC DAC study/CDAC-DAC-Feb-2025/IDE/intellij/ADS/src/Day10/QueueDemo.java ($

@@ -1,0 +1,60 @@
+
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java¨
+Q18TemperatureConverterCLASS 
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java(""
+packageQ18TemperatureConverter"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q18TemperatureConverter"
+accesspackage_private*Q18TemperatureConverter2Ü
+&Q18TemperatureConverter.main(String[])DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (°
+&Q18TemperatureConverter.main(String[])METHOD¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ç
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ($2ç
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ("2ê
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java9 (C2ß
++Q18TemperatureConverter.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java% ()2î
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (2ñ
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25DECLARATION¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (2º
+voidRETURN_TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (Ù
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ("
+typedouble"
+isFinalfalse"ˆ
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">celsius</mark> = 25.0*celsius2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (ß
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25VARIABLE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ("
+typedouble"
+isFinalfalse"ž
+declarationStringˆ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">fahrenheit</mark> = (celsius * 9 / 5) + 32*
+fahrenheit2µ
+doubleTYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java (2ç
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALL¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ($ç
++Q18TemperatureConverter.main(String[])!args	PARAMETER¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2·
+String[]TYPE¤
+™C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Logic Building Session\Day 01 Java Assignment 01\Q18TemperatureConverter.java ($

@@ -1,0 +1,152 @@
+
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.javaì
+Q3SecondLargestElementCLASSˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (#"!
+packageQ3SecondLargestElement"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier">public </mark><mark class="modifier">class </mark>Q3SecondLargestElement"
+accesspublic*Q3SecondLargestElement2¿
+%Q3SecondLargestElement.main(String[])DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (Ì;
+%Q3SecondLargestElement.main(String[])METHODˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ê
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ä
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ä
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ä
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java& ('2Æ
+3Q3SecondLargestElement.main(String[])?i@20.17:20.18CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ä
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Æ
+3Q3SecondLargestElement.main(String[])?i@20.17:20.18CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ( 2È
+5Q3SecondLargestElement.main(String[])?arr@16.14:16.17CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Æ
+3Q3SecondLargestElement.main(String[])?i@20.17:20.18CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ê
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2È
+5Q3SecondLargestElement.main(String[])?arr@16.14:16.17CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2È
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ì
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ò
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ì
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java  ('2Ì
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2È
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2È
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java   (2Ò
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java   (*2È
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java .  (12Ì
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java 4  (;2Ò
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java! !(2È
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java!  !(#2Ò
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java& &(2Ò
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java)< )(I2Ê
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java, ,(2Â
+*Q3SecondLargestElement.main(String[])!args	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java% ()2Ñ
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ë
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ï
+5Q3SecondLargestElement.main(String[])?arr@16.14:16.17DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Í
+3Q3SecondLargestElement.main(String[])?i@20.17:20.18DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ó
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ù
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ï
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20DECLARATIONˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2ž
+voidRETURN_TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ( 
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2¤
+java.util.ScannerTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (ß
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"Œ
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ê
+7Q3SecondLargestElement.main(String[])?scanner@4.16:4.23CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (ý
+5Q3SecondLargestElement.main(String[])?arr@16.14:16.17VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"¨
+declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2˜
+int[]TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (2Ä
+1Q3SecondLargestElement.main(String[])?n@8.12:8.13CALLˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (ƒ
+3Q3SecondLargestElement.main(String[])?i@20.17:20.18VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (¦
+9Q3SecondLargestElement.main(String[])?largest@25.12:25.19VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"’
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">largest</mark> = Integer.MIN_VALUE*largest2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (¹
+?Q3SecondLargestElement.main(String[])?secondLargest@26.12:26.25VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"™
+declarationStringƒ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">secondLargest</mark> = Integer.MIN_VALUE*secondLargest2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (…
+5Q3SecondLargestElement.main(String[])?num@28.17:28.20VARIABLEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2–
+intTYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java (®
+*Q3SecondLargestElement.main(String[])!args	PARAMETERˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2›
+String[]TYPEˆ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q3SecondLargestElement.java ($

@@ -1,0 +1,274 @@
+
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java–
+Q19MatrixTransposeCLASSÄ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java("
+packageQ19MatrixTranspose"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>Q19MatrixTranspose"
+accesspublic*Q19MatrixTranspose2∑
+!Q19MatrixTranspose.main(String[])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2¡
++Q19MatrixTranspose.transposeMatrix(int[][])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java# #()2Ω
+'Q19MatrixTranspose.printMatrix(int[][])DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java: :("â
+!Q19MatrixTranspose.main(String[])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∂
+'Q19MatrixTranspose.printMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2∫
++Q19MatrixTranspose.transposeMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (+2∂
+'Q19MatrixTranspose.printMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2∂
+'Q19MatrixTranspose.printMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2∫
++Q19MatrixTranspose.transposeMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% (42∂
+'Q19MatrixTranspose.printMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java   (2¡
+2Q19MatrixTranspose.main(String[])?matrix@3.16:3.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2¡
+2Q19MatrixTranspose.main(String[])?matrix@3.16:3.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java, (22∆
+7Q19MatrixTranspose.main(String[])?transpose@14.16:14.25CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2Ã
+=Q19MatrixTranspose.main(String[])?nonSquareMatrix@21.16:21.31CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (#2Ã
+=Q19MatrixTranspose.main(String[])?nonSquareMatrix@21.16:21.31CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java5 (D2œ
+@Q19MatrixTranspose.main(String[])?nonSquareTranspose@29.16:29.34CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java   (&2∫
+&Q19MatrixTranspose.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% ()2»
+2Q19MatrixTranspose.main(String[])?matrix@3.16:3.22DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2Õ
+7Q19MatrixTranspose.main(String[])?transpose@14.16:14.25DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2”
+=Q19MatrixTranspose.main(String[])?nonSquareMatrix@21.16:21.31DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2÷
+@Q19MatrixTranspose.main(String[])?nonSquareTranspose@29.16:29.34DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ("2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (Ú
+2Q19MatrixTranspose.main(String[])?matrix@3.16:3.22VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ("
+typeint"
+isFinalfalse"Í
+declarationString‘<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">matrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*matrix2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (∞
+7Q19MatrixTranspose.main(String[])?transpose@14.16:14.25VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ("
+typeint"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">transpose</mark> = transposeMatrix(matrix)*	transpose2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2∫
++Q19MatrixTranspose.transposeMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (+2¡
+2Q19MatrixTranspose.main(String[])?matrix@3.16:3.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java, (2‰
+=Q19MatrixTranspose.main(String[])?nonSquareMatrix@21.16:21.31VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ("
+typeint"
+isFinalfalse"»
+declarationString≤<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">nonSquareMatrix</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 } }*nonSquareMatrix2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (ﬂ
+@Q19MatrixTranspose.main(String[])?nonSquareTranspose@29.16:29.34VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (""
+typeint"
+isFinalfalse"±
+declarationStringõ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">nonSquareTranspose</mark> = transposeMatrix(nonSquareMatrix)*nonSquareTranspose2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java (2∫
++Q19MatrixTranspose.transposeMatrix(int[][])CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% (42Ã
+=Q19MatrixTranspose.main(String[])?nonSquareMatrix@21.16:21.31CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java5 (D¢
+&Q19MatrixTranspose.main(String[])!args	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ó
+String[]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java ($¶-
++Q19MatrixTranspose.transposeMatrix(int[][])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java# #()"
+isFinalfalse"ﬂ
+declarationString…<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">transposeMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint[][]*transposeMatrix2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% %(2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java% %($2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java) )(2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java* *(2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?cols@42.12:42.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java-$ -((2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?rows@41.12:41.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java-* -(.2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0 0(2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?rows@41.12:41.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0 0( 2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0" 0(#2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1 1(2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?cols@42.12:42.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1  1($2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1& 1('2–
+AQ19MatrixTranspose.transposeMatrix(int[][])?transpose@45.16:45.25CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2 2(2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2 2(2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2 2(2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2" 2((2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2) 2(*2»
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java2, 2(-2–
+AQ19MatrixTranspose.transposeMatrix(int[][])?transpose@45.16:45.25CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java6 6(2∆
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrix	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java#2 #(82“
+<Q19MatrixTranspose.transposeMatrix(int[][])?rows@41.12:41.16DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java) )(2“
+<Q19MatrixTranspose.transposeMatrix(int[][])?cols@42.12:42.16DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java* *(2◊
+AQ19MatrixTranspose.transposeMatrix(int[][])?transpose@45.16:45.25DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java- -(2œ
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0 0(2œ
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1 1(2ù
+int[][]RETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java# #(€
+<Q19MatrixTranspose.transposeMatrix(int[][])?rows@41.12:41.16VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java) )("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = matrix.length*rows2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java) )(2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java) )(ﬁ
+<Q19MatrixTranspose.transposeMatrix(int[][])?cols@42.12:42.16VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java* *("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">cols</mark> = matrix[0].length*cols2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java* *(2¡
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java* *(Ô
+AQ19MatrixTranspose.transposeMatrix(int[][])?transpose@45.16:45.25VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java- -("
+typeint"
+isFinalfalse"π
+declarationString£<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">transpose</mark> = new <mark class="modifier">int</mark>[cols][rows]*	transpose2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java- -(2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?cols@42.12:42.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java-$ -((2À
+<Q19MatrixTranspose.transposeMatrix(int[][])?rows@41.12:41.16CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java-* -(.Å
+9Q19MatrixTranspose.transposeMatrix(int[][])?i@48.17:48.18VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java0 0(Å
+9Q19MatrixTranspose.transposeMatrix(int[][])?j@49.21:49.22VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1 1("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java1 1(Õ
+2Q19MatrixTranspose.transposeMatrix(int[][])!matrix	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java#2 #(8"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java#* #(/®
+'Q19MatrixTranspose.printMatrix(int[][])METHODÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java: :(""
+isFinalfalse"ÿ
+declarationString¬<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printMatrix</mark>(<mark class="modifier">int</mark>[][] matrix)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*printMatrix2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java; ;(2Ω
+.Q19MatrixTranspose.printMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java; ;("2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java;+ ;(,2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?j@60.21:60.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java< <(2Ω
+.Q19MatrixTranspose.printMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java<  <(&2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java<' <((2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?j@60.21:60.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java<2 <(32Ω
+.Q19MatrixTranspose.printMatrix(int[][])!matrixCALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java=! =('2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java=( =()2ƒ
+5Q19MatrixTranspose.printMatrix(int[][])?j@60.21:60.22CALLÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java=+ =(,2¬
+.Q19MatrixTranspose.printMatrix(int[][])!matrix	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java:+ :(12À
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java; ;(2À
+5Q19MatrixTranspose.printMatrix(int[][])?j@60.21:60.22DECLARATIONÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java< <(2ö
+voidRETURN_TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java: :(˝
+5Q19MatrixTranspose.printMatrix(int[][])?i@59.17:59.18VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java; ;("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java; ;(˝
+5Q19MatrixTranspose.printMatrix(int[][])?j@60.21:60.22VARIABLEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java< <("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2í
+intTYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java< <(…
+.Q19MatrixTranspose.printMatrix(int[][])!matrix	PARAMETERÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java:+ :(1"
+typeint[][]"
+isFinalfalse"A
+declarationString,<mark class="modifier">int</mark>[][] matrix*matrix2ñ
+int[][]TYPEÑ
+zC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q19MatrixTranspose.java:# :((

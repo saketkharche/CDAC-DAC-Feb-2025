@@ -1,0 +1,111 @@
+
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java˝
+ATRAITÑ
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java
+("
+packageA"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">interface </mark>A"
+accesspackage_private*A2°
+A.msg()DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (ü
+A.msg()METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java ("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">msg</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*msg2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java	 (Å
+BTRAITà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java
+ ("
+packageB"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">interface </mark>B"
+accesspackage_private*B2°
+B.msg()DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (ü
+B.msg()METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java ("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">msg</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*msg2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java	 (Ω
+CCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java ("
+packageC"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">class </mark>C<mark class="modifier"><br>implements </mark>A, B"
+accesspackage_private*C2ñ
+AEXTENDà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2ñ
+BEXTENDà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (Ù
+MultipleInheritanceDemoCLASSà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (""
+packageMultipleInheritanceDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier"> </mark><mark class="modifier">class </mark>MultipleInheritanceDemo"
+accesspackage_private*MultipleInheritanceDemo2¿
+&MultipleInheritanceDemo.main(String[])DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (¸
+&MultipleInheritanceDemo.main(String[])METHODà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ò
+C.C()CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2∆
+3MultipleInheritanceDemo.main(String[])?c1@23.4:23.6CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2∆
+3MultipleInheritanceDemo.main(String[])?c1@23.4:23.6CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2∆
+3MultipleInheritanceDemo.main(String[])?c1@23.4:23.6CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2√
++MultipleInheritanceDemo.main(String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java  (&2Õ
+3MultipleInheritanceDemo.main(String[])?c1@23.4:23.6DECLARATIONà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2û
+voidRETURN_TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (Ç
+3MultipleInheritanceDemo.main(String[])?c1@23.4:23.6VARIABLEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java ("	
+typeC"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>C <mark class="class-field">c1</mark> = new C()*c12î
+CTYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (2ò
+C.C()CALLà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (Ø
++MultipleInheritanceDemo.main(String[])!args	PARAMETERà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2õ
+String[]TYPEà
+~C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\OOPJ\Day 7\MultipleInheritanceDemo.java (&

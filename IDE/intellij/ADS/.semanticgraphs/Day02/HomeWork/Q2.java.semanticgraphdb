@@ -1,0 +1,150 @@
+
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.javaÊ
+Day02.HomeWork.Q2CLASSÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+packageDay02.HomeWork"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier">public </mark><mark class="modifier">class </mark>Q2"
+accesspublic*Q22µ
+"Day02.HomeWork.Q2.MulTab(int, int)DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2Ω
+*Day02.HomeWork.Q2.main(java.lang.String[])DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (û
+"Day02.HomeWork.Q2.MulTab(int, int)METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+isFinalfalse"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">MulTab</mark>(<mark class="modifier">int</mark> n<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> m)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*MulTab2Æ
+"Day02.HomeWork.Q2.MulTab(int, int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2π
+-java.io.PrintStream.println(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!mCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java	 	(2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!mCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!mCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java' ((2∞
+$Day02.HomeWork.Q2.MulTab(int, int)!nCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java4 (52∞
+$Day02.HomeWork.Q2.MulTab(int, int)!mCALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java8 (92µ
+$Day02.HomeWork.Q2.MulTab(int, int)!n	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2µ
+$Day02.HomeWork.Q2.MulTab(int, int)!m	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java" (#2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (£
+$Day02.HomeWork.Q2.MulTab(int, int)!n	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (£
+$Day02.HomeWork.Q2.MulTab(int, int)!m	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java" (#"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> m*m2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (!¢!
+*Day02.HomeWork.Q2.main(java.lang.String[])METHODÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2∑
++java.io.PrintStream.print(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∑
++java.io.PrintStream.print(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2•
+java.util.Scanner.close()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2π
+-java.io.PrintStream.println(java.lang.String)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java   (2Æ
+"Day02.HomeWork.Q2.MulTab(int, int)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java! !(2∫
+.java.util.Scanner.Scanner(java.io.InputStream)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ( 2≈
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2≈
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2≈
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (
+2ƒ
+8Day02.HomeWork.Q2.main(java.lang.String[])?n@25.12:25.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java 8  (92ƒ
+8Day02.HomeWork.Q2.main(java.lang.String[])?m@28.12:28.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java H  (I2ƒ
+8Day02.HomeWork.Q2.main(java.lang.String[])?n@25.12:25.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java! !(2ƒ
+8Day02.HomeWork.Q2.main(java.lang.String[])?m@28.12:28.13CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java! !(2¿
+/Day02.HomeWork.Q2.main(java.lang.String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java% ()2Ã
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2À
+8Day02.HomeWork.Q2.main(java.lang.String[])?n@25.12:25.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2À
+8Day02.HomeWork.Q2.main(java.lang.String[])?m@28.12:28.13DECLARATIONÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2ó
+voidRETURN_TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java («
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2ù
+java.util.ScannerTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2∫
+.java.util.Scanner.Scanner(java.io.InputStream)CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ( ¯
+8Day02.HomeWork.Q2.main(java.lang.String[])?n@25.12:25.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2≈
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (¯
+8Day02.HomeWork.Q2.main(java.lang.String[])?m@28.12:28.13VARIABLEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">m</mark> = sc.nextInt()*m2è
+intTYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2ß
+java.util.Scanner.nextInt()CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (2≈
+9Day02.HomeWork.Q2.main(java.lang.String[])?sc@21.16:21.18CALLÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java (Ø
+/Day02.HomeWork.Q2.main(java.lang.String[])!args	PARAMETERÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2û
+java.lang.String[]TYPEÅ
+wC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\IDE\intellij\ADS\src\Day02\HomeWork\Q2.java ($

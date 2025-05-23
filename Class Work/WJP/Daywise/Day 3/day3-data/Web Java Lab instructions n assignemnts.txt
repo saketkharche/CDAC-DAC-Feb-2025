@@ -1,0 +1,96 @@
+Day 1
+0. day1.1 project does not use any layers , it was just created for JDBC introduction.
+
+1. import day1.2 in your new (web java workspace) .
+Edit DB password from DBUtils.
+Edit mysql connector(JDBC driver) path.
+
+2. We will walk through the code together n solve your queries
+
+3. Discuss n solve
+3.1 Voter registration
+i/p - fn,ln,email,pwd,dob (can add optional validation : age > 21) 
+o/p - mesg (success|failed)
+
+3.2 Change password
+i/p - email , old password , new password
+o/p - message (success|failed)
+
+3.3 Delete user details
+i/p - voter id
+o/p - message
+
+4. Reading H.W
+Go through daily sequence n revise JDBC concepts , API n implementation.
+
+
+Day 2
+
+1. Download n extract day 2 data
+
+2. Refer 
+- https://jakarta.ee/specifications/platform/9/apidocs/
+(For Jakarta EE api docs)
+
+3. Download , Extract n  add Tomcat web server to our workspace.
+It 's provided in "softwares" on G drive folder
+
+Please complete these steps . 
+Then we will start remaining steps in the combined lab.
+Everything will be revised  , do not worry !
+
+4. Create dynamic web project (day2_lab) . 
+ Test it with HTML(index.html) contents.
+5. Create n deploy the servlet using annotation
+(Understand annotation)
+6. Create n deploy the servlet using xml tags
+7.  Create 1 servlet with default (lazy) loading n another one with eager loading.
+
+8. Refer to -
+"day1-data\day1_help\jdbc help\sql\sql cmds.txt"
+Add "accounts" table with data (already supplied)
+Look for a stored function - 
+"transfer_funds_func"
+Add this in DB.
+
+9. Write a Tester(standalone main based app) n DAO layer code to execute the stored function.
+
+10. If time permits , we will discuss the DAO layer for the "online voting" also.(Optional assignment)
+10.1 User sign in (already done !)
+i/p email , password
+o/p User or null
+
+10.2 Get all candidates
+i/p - none
+o/p - List of all candidates
+
+10.3 Update voting status
+i/p - voter id
+o/p - a message
+
+10.4 Increment votes 
+i/p - candidate id
+o/p - a message
+
+
+ Day 3
+1. import day3_voting (today's web application) in your workspace.
+
+2. Edit DB password.
+
+3. Walk through entire code n understand
+3.1 Servlet JDBC integration
+3.2 Page Navigation (redirect)
+3.3 Introduction to cookies(server side state management)
+ LegacyCookieProcessor issues 
+n solution using UrlEncoder n Urldecoder.
+
+3.4 Run the web app
+3.5 Use Inspect option (network) to trace request - resp flow.
+
+4. Retrieve the cookies from candidate list page n confirm.
+
+5. Today's mandatory assignment
+Try to Complete Admin Flow , as much as possible.
+
+

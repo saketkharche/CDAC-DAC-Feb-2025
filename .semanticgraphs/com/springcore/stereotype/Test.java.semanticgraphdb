@@ -1,0 +1,120 @@
+
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java·
+com.springcore.stereotype.TestCLASS∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java ("$
+packagecom.springcore.stereotype"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Test"
+accesspublic*Test2è
+7com.springcore.stereotype.Test.main(java.lang.String[])DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (©(
+7com.springcore.stereotype.Test.main(java.lang.String[])METHOD∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ò
+ java.io.PrintStream.println(int)CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2Ï
+java.lang.Object.hashCode()CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java ( 2Ò
+ java.io.PrintStream.println(int)CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2Ï
+java.lang.Object.hashCode()CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java ( 2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2ó
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t1@21.10:21.12CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2ó
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t2@22.10:22.12CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (2í
+<com.springcore.stereotype.Test.main(java.lang.String[])!args	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java" (&2ü
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ 
+(2£
+Kcom.springcore.stereotype.Test.main(java.lang.String[])?student@11.10:11.17DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ (2§
+Lcom.springcore.stereotype.Test.main(java.lang.String[])?student2@18.10:18.18DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ (2û
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t1@21.10:21.12DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ (2û
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t2@22.10:22.12DECLARATION∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ (2‹
+voidRETURN_TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (ì
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ 
+("
+typeApplicationContext"
+isFinalfalse"ø
+declarationString©<mark class="modifier"> </mark>ApplicationContext <mark class="class-field">con</mark> = new ClassPathXmlApplicationContext("com/springcore/stereotype/stereoconfig.xml")*con2ˇ
+.org.springframework.context.ApplicationContextTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ 
+(Ö
+Kcom.springcore.stereotype.Test.main(java.lang.String[])?student@11.10:11.17VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ ("
+typeStudent"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark>Student <mark class="class-field">student</mark> = con.getBean("ob"<mark class="modifier">,</mark> Student.class)*student2Ú
+!com.springcore.stereotype.StudentTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (	2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (à
+Lcom.springcore.stereotype.Test.main(java.lang.String[])?student2@18.10:18.18VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ ("
+typeStudent"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark>Student <mark class="class-field">student2</mark> = con.getBean("ob"<mark class="modifier">,</mark> Student.class)*student22Ú
+!com.springcore.stereotype.StudentTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (	2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (˚
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t1@21.10:21.12VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ ("
+typeTeacher"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark>Teacher <mark class="class-field">t1</mark> = con.getBean("teacher"<mark class="modifier">,</mark> Teacher.class)*t12Ú
+!com.springcore.stereotype.TeacherTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (	2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (˚
+Fcom.springcore.stereotype.Test.main(java.lang.String[])?t2@22.10:22.12VARIABLE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java
+ ("
+typeTeacher"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark>Teacher <mark class="class-field">t2</mark> = con.getBean("teacher"<mark class="modifier">,</mark> Teacher.class)*t22Ú
+!com.springcore.stereotype.TeacherTYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (	2ò
+Gcom.springcore.stereotype.Test.main(java.lang.String[])?con@10.21:10.24CALL∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (∆
+<com.springcore.stereotype.Test.main(java.lang.String[])!args	PARAMETER∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java" (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2„
+java.lang.String[]TYPE∆
+ªC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\NOTES & INTERVIEW\Adv Java\Notes\spring\springcore\src\main\java\com\springcore\stereotype\Test.java (!

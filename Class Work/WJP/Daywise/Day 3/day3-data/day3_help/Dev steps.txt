@@ -1,0 +1,35 @@
+Dev steps
+1. Copy mysql connector jar under <tomcat_home>/lib
+2. Create new dyn web project
+3. Configure login.html , as the welcome page , in web.xml
+4. copy login.html under <webapp>
+5. Create LoginServlet
+url-pattern  - /login
+6. Methods
+ -init 
+  - open Connection
+  - create dao instance
+ doPost 
+  -set cont type
+  get writer
+  - call DAO's sign in method
+  - in case of invalid login 
+    - retry link -> login.html
+ - in case of valid login
+  -send user details to clnt
+ -render resp
+
+- destroy
+  clean up dao
+  close cn
+
+7. In case of valid login , redirect client to next suitable page
+How to redirect the client to the next page ?
+Method of - HttpServletResponse
+public void sendRedirect(String redirectLocation) throws IOException
+eg - AdminPage - /admin_dashboard
+CandidateListPage - /candidate_list
+LogoutPage - /logout
+
+
+

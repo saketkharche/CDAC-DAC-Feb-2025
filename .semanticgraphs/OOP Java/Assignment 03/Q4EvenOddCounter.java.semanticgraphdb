@@ -1,0 +1,142 @@
+
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java¬
+Q4EvenOddCounterCLASSÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+packageQ4EvenOddCounter"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4EvenOddCounter"
+accesspublic*Q4EvenOddCounter2≥
+Q4EvenOddCounter.main(String[])DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (Å)
+Q4EvenOddCounter.main(String[])METHODÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2æ
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2∏
++Q4EvenOddCounter.main(String[])?n@8.12:8.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java
+ 
+(2∏
++Q4EvenOddCounter.main(String[])?n@8.12:8.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java& ('2∫
+-Q4EvenOddCounter.main(String[])?i@14.17:14.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2∏
++Q4EvenOddCounter.main(String[])?n@8.12:8.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2∫
+-Q4EvenOddCounter.main(String[])?i@14.17:14.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ( 2º
+/Q4EvenOddCounter.main(String[])?arr@10.14:10.17CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2∫
+-Q4EvenOddCounter.main(String[])?i@14.17:14.18CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2æ
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2º
+/Q4EvenOddCounter.main(String[])?arr@10.14:10.17CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2º
+/Q4EvenOddCounter.main(String[])?num@21.17:21.20CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2¬
+5Q4EvenOddCounter.main(String[])?evenCount@19.12:19.21CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2¡
+4Q4EvenOddCounter.main(String[])?oddCount@19.27:19.35CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2¬
+5Q4EvenOddCounter.main(String[])?evenCount@19.12:19.21CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java4 (=2¡
+4Q4EvenOddCounter.main(String[])?oddCount@19.27:19.35CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java3 (;2æ
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java! !(2∂
+$Q4EvenOddCounter.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java% ()2≈
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2ø
++Q4EvenOddCounter.main(String[])?n@8.12:8.13DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2√
+/Q4EvenOddCounter.main(String[])?arr@10.14:10.17DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java
+ 
+(2¡
+-Q4EvenOddCounter.main(String[])?i@14.17:14.18DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2…
+5Q4EvenOddCounter.main(String[])?evenCount@19.12:19.21DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2»
+4Q4EvenOddCounter.main(String[])?oddCount@19.27:19.35DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (#2√
+/Q4EvenOddCounter.main(String[])?num@21.17:21.20DECLARATIONÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2ò
+voidRETURN_TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (é
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2û
+java.util.ScannerTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (¡
++Q4EvenOddCounter.main(String[])?n@8.12:8.13VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = scanner.nextInt()*n2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (2æ
+1Q4EvenOddCounter.main(String[])?scanner@4.16:4.23CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (ﬂ
+/Q4EvenOddCounter.main(String[])?arr@10.14:10.17VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java
+ 
+("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2í
+int[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java
+ 
+(2∏
++Q4EvenOddCounter.main(String[])?n@8.12:8.13CALLÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java
+ 
+(Ò
+-Q4EvenOddCounter.main(String[])?i@14.17:14.18VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (ò
+5Q4EvenOddCounter.main(String[])?evenCount@19.12:19.21VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+typeint"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">evenCount</mark> = 0, oddCount = 0*	evenCount2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (ï
+4Q4EvenOddCounter.main(String[])?oddCount@19.27:19.35VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (#"
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">oddCount</mark> = 0, oddCount = 0*oddCount2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (Û
+/Q4EvenOddCounter.main(String[])?num@21.17:21.20VARIABLEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark>*num2ê
+intTYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java (ú
+$Q4EvenOddCounter.main(String[])!args	PARAMETERÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ï
+String[]TYPEÇ
+xC:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\OOP Java\Assignment 03\Q4EvenOddCounter.java ($

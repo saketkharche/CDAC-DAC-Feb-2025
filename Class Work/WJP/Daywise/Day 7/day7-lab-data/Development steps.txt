@@ -1,0 +1,82 @@
+1. Create new dyn web project
+2. Create | copy 
+ - copy mysql 9.3 connector jar -> under <tomcat>/lib
+ Remove earlier my sql connector jar
+ - DBUtils , dao(UserDao - CRUD) , pojos
+
+3. Create FrontController Servlet
+ - routing (centralized navigation)
+ - Request handling 
+ - @WebServlet 
+   - value (url pattern) : global interceptor pattern - /
+    (to intercept ANY incoming request)
+   - load on start up : 1 (eager init)
+ - init 
+   openConnection (ctx params), create dao instance
+ - doGet
+  - routing logic
+  path - / : List of all users (w/o admin) 
+   - add a method(private) - list users functionality
+ - destroy 
+   clean up dao
+   close cn
+
+
+4. View Layer 
+ - JSP
+ - design practice 
+  DO NOT give direct acces to the view layer. It should be rendered via    	FrontController only
+ - store the JSPs under <WEB-INF>/views
+
+5. list.jsp 
+ - Displaly user list , in a table n add links
+Insteqd of using a scriptlet , for iteration
+ - use JSTL
+(JSP standard tag library)
+steps
+ 1. Copy JSTL jars under <tomcat>/lib
+ 2. import JSTL
+ - core , xml , format , sql , fun
+3. use taglib directive
+ <%@ taglib uri="JSTL core tag lib" prefix="c"%>
+
+4. use <c:forEach> for iteration
+
+5. After clicking on the update link
+http://localhost:7070/day7_mvc/update_form?id=3
+ -> In FrontController , add new case
+case "/update_form " -
+  showUpdateForm 
+   - DAO's method - getUserDetails(id)
+   - add user details in request scope -  user_details
+   - forward  (eg - udpate_form)   - 
+   - create update_form.jsp
+   - How to do data binding (model -> view)
+     EL syntax
+<input type="password" name="pass" value="${user_details.password}"/>
+<input type="date" name="dob" value="${user_details.dob}"/>
+update form - action="update" method="post"
+
+5.1 After submitting the update form 
+  http://localhost:7070/day7_mvc/update
+add new case -"/update"
+  to update user details - call dao's method 
+ - updateUserDetails
+- redirect ./
+ 
+
+6. After clicking on Delete link
+http://localhost:7070/day7_mvc/delete?id=3
+-> add new case (path) in FrontController
+-> invoke dao's method
+-> redirect instead of forward - to update view(list)
+
+
+
+
+
+
+
+
+ 
+ 
