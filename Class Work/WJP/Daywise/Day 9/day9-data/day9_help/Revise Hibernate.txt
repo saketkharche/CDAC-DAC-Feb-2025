@@ -1,0 +1,74 @@
+Revise Hibernate
+What is it ?
+Why ?
+Java App ---> Hibernate API --> JDBC API / JTA -> JDBC Driver -> DB
+Important blocks in Hibernate architecture
+1. Session - i/f
+Represents - wrapper around cn taken out from DBCP ,
+L1 cache(implicit)
+light weight , 1 per clnt req(demand) , short lived
+CRUD API - persist, get , merge , remove....., JPQL
+2. SessionFactory
+- provider of sessions
+- singleton per db per app
+- DBCP
+- L2 cache - explicitly enabled
+- immutable - thread safe
+3. Configuration
+ - class 
+ - provider of SF
+ - buildSessionFactory
+
+4. Transaction
+- i/f (org.hibernate)
+
+Steps 
+1. Maven project
+ -import hibernate template
+ - hib dependencies - maven local repo
+2. add hibernate.cfg.xml - <resources>
+ - DB config
+ - DBCP max size
+ - hbm2ddl.auto - update | none | create | create-drop| validate
+ - <mapping resource|class="F.Q Entity class name"/>
+3. Create Utils
+ - to provide SF
+ - static init block
+ - new Configuration().configure().buildSF()
+
+4. Code first | table first
+JPA annotations
+- mandatory annotations
+  @Entity , @Id - PK
+Optional annotations
+ - @Table
+ -@Column
+ - @Transient
+ @Enumerated
+@GeneratedValue - auto id generation
+ - strategy - AUTO | IDENTITY - auto increment 
+@Lob -
+char[] - clob
+byte[] - blob - longblob
+
+5. DAO
+i/f - no throws !
+class - no data , ctor , clean up !
+CRUD method
+ Steps
+ 1. Get session from SF
+ 2. begin tx
+3. try {
+   //session API - CRUD
+     tx.commit();
+  } catch (RuntimeExc e)
+  {
+     rollback
+     throw e
+  }
+
+6. simple tester - test case
+ tested user reg.
+
+
+ 

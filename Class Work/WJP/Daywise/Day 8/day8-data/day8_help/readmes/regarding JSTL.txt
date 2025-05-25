@@ -1,0 +1,174 @@
+JSTL (JSP standard tag library)
+
+Why JSTL ?
+When JSP standard actions are in-sufficient to solve requirements , 
+w/o writing scriptlets --- use additional standard actions --- supplied as JSTL actions
+
+
+JSTL  has become standard part of Java EE specs from version 1.5 onwards.
+It's support exists in form of a JAR :  jstl-1.2.jar (jakarta jars)
+(Which can be downloaded from Maven central repository. It's already copied in your case)
+
+JSTL steps
+1.Copy JSTL JARs into your run-time classpath/build path(copy jars either in <tomcat_home>/lib OR <WEB-INF>/lib
+
+2. Use taglib directive to import JSTL supplied core tag library into  JSP.
+
+<%@ taglib uri="URI of JSTL tag lib" prefix="tag prefix" %>
+
+eg --- To import JSTL core lib
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+3. Invoke JSTL tag/action
+
+3.1 Tag for setting the attribute under specified scope
+<c:set var="attr name" value="static/dyn value" scope="page|request|session|application"/>
+
+<c:set var="abc" value="${param.f1}"  />
+WC  : 
+pageContext.setAttribute("abc",request.getParameter("f1"))
+
+<c:set var="abc" value="${param.f1}"  scope="session"/>
+WC invokes --- session.setAttribute("abc",request.getParameter("f1"));
+
+menaing of <c:set> adds the specified attribute to specified scope.
+
+<c:set var="details" value="${sessionScope.abc}" />
+WC : 
+pageContext.setAttribute("details",session.getAttribute("abc"));
+since def scope=page
+
+
+
+2. <c:remove var="abc" scope="request"/>
+WC ---request.removeAttribute("abc") ---removes the attribute from request scope.
+
+
+3. <c:forEach> : a basic iteration tag
+syntax- <c:forEach var="loopLocaAttribute" items="Iterable src- List|Set|Map|array|String">
+ Body of the for-each loop
+</c:forEach>
+
+eg - Suppose you have list of candidates 
+${applicationScope.candidate_bean.top2Candidates}
+<c:forEach var="candidate" items="${applicationScope.candidate_bean.top2Candidates}">
+${candidate.id}......
+</c:forEach>
+
+
+3.1 eg as a java for-each loop
+Suppose you have a  JavaBean :  ShopBean , with a property  
+private AL<Category> categories; --supplied getter n setter
+
+In JSP : 
+
+<c:forEach var="cat" items="${sessionScope.shop.listCategories()}">
+${cat.name}<br/>
+</c:forEach>
+
+WC invokes ---
+
+for(Category cat : session.getAttribute("shop").listCategories())
+  out.print(cat.getName());
+
+3.2 <c:forEach> as for loop 
+ <c:forEach var = "i" begin = "1" end = "10">
+         No  <c:out value = "${i}"/><br/>
+  </c:forEach>
+
+
+4. <c:if> : for conditional rendering 
+syntax - <c:if test="boolean value">
+body -  evaluated in case test condition=true
+</c:if>
+
+eg :  <c:set var = "salary" value = "80000"/>
+      <c:if test = "${salary > 50000}">
+         <h5> Good Salary ! ${salary}</h5>
+      </c:if>
+
+eg : In a banking web app , suppose user wants to perform either withdraw or deposit .
+So there will be multiple submit buttons. How to find out which btn is clicked ?
+
+<input type="submit" name="btn" value="Withdraw" formaction="transactions.jsp" />
+<input type="submit" name="btn" value="Deposit" formaction="transactions.jsp" />
+
+In transactions.jsp : 
+
+<c:if test="${param.btn eq 'Deposit'}">
+  in deposit
+</c:if>
+<c:if test="${param.btn eq 'Withdraw'}">
+  in withdraw
+</c:if>
+
+eg - In Voting app - 
+logout.jsp 
+userDetails : User POJO
+How will you add Visit Again link if admin has logged in ?
+<c:set var="user" value="${sessionScope.user_bean.userDetails}"/>
+<c:if test="${user.role eq 'admin'}">
+ <a href="login.jsp">Visit Again</a>
+</c:if>
+
+5. For redirect + URL rewriting 
+<c:redirect url="redirect location"/>
+Just like <jsp:forward> , it also supports a child tag : <c:param> , for sending additional request parameters.
+
+eg : In one.jsp
+<c:redirect url="two.jsp">
+ <c:param name="qty" value="10"/>
+</c:redirect>
+In case of cookies enabled , 
+URL : http://host:port/ctx_path/two.jsp?qty=10
+
+In case of cookies blocked  , 
+URL : http://host:port/ctx_path/two.jsp?qty=10;jsessionid=FHSF67456HGJHD767
+Above URL will be appended by jsessionid.
+
+
+6 <c:url> for  URL rewriting (to be used in client pull , in case of user taking an action , clicks a links or button)
+<c:url var="attr Name" value="URL to be encoded(link href | form action)" scope="page|request|session|application"/>
+
+eg : <c:url var="abc" value="next.jsp" />
+WC invokes --- pageContext.setAttribute("abc",resp.encodeURL("next.jsp"));
+
+<a href="${abc}">Next</a>
+
+
+
+
+7. <c:choose> <c:when> <c:otherwise> - equivalent to switch-case n default case.
+syntax - 
+<c:choose>
+ <c:when test="test condition">
+....
+</c:when>
+<c:when test="test condition">
+....
+</c:when>
+<c:when test="test condition">
+...
+</c:when>
+ <c:otherwise>
+...
+ </c:otherwise>
+</c:choose>
+
+
+ <c:set var = "salary"  value = "${75000}"/>
+      Your salary is : <c:out value = "${salary}"/>
+      <c:choose>         
+         <c:when test = "${salary <= 10000}">
+            Salary is very low !!!!
+         </c:when>
+         
+         <c:when test = "${salary > 10000 and salary < 50000}">
+            Salary is  good!
+         </c:when>         
+         <c:otherwise>
+            Extremely Good salary !
+         </c:otherwise>
+      </c:choose>
+
+

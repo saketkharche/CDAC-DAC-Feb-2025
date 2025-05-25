@@ -1,0 +1,26 @@
+Recommendation  from Hibernate 
+Ideally use id property - only for HBM(hibenrnate mapping) purpose
+
+What should be typically the data type of unique ID property ?
+int / Integer
+long / Long
+
+Ans - use wrapper types (reference type)
+default value of the ref type - null
+
+Hibernate uses null checking to find out whether entity is transient or persistent.
+It may be confusing to hibernate if you use int/long 
+since their def value - 0 
+(i.e  hibernate might think of the entity as persistent with id=0 , causing problems)
+
+Entity class must have 
+-  default constructor
+-  all getters n setters 
+for Hibernate to manage persistence correctly.
+
+
+
+
+
+
+

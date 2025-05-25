@@ -1,0 +1,6 @@
+a1 b1 a1@gmail.com 1231 1994-10-21 admin
+a2 b2 a2@gmail.com 1232 1992-11-21 manager
+a3 b3 a3@gmail.com 1233 1993-11-21 customer
+a4 b4 a4@gmail.com 1234 1994-10-21 customer
+a5 b5 a5@gmail.com 1235 1994-11-02 customer
+a6 b6 a6@gmail.com 1236 1993-01-21 customer

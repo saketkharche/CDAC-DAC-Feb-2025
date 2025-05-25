@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: hibernate-core
+Specification-Version: 6.2.0.Final
+Specification-Vendor: Hibernate.org
+Implementation-Title: hibernate-core
+Implementation-Version: 6.2.0.Final
+Implementation-Vendor: Hibernate.org
+Implementation-Vendor-Id: org.hibernate
+Implementation-Url: https://hibernate.org/orm
+Hibernate-VersionFamily: 6.2
+Hibernate-JpaVersion: 3.1.0
+

@@ -1,0 +1,8 @@
+com\cdac\entites\User.class
+com\cdac\test\GetUserDetailsById.class
+com\cdac\test\UserRegistration.class
+com\cdac\dao\UserDao.class
+com\cdac\dao\UserDaoImpl.class
+com\cdac\entites\UserRole.class
+com\cdac\utils\Hibernateutils.class
+com\cdac\test\TestHibernate.class
