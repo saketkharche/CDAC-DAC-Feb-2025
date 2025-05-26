@@ -1,0 +1,24 @@
+Clone Food Delivery App (myswiggy)
+- restaurants
+- menu (food items)
+- customer|admin - user
+- order
+ - order lines (details)
+- delivery address
+- tag
+
+one - many
+many -one associations
+
+Restaurant 1 <-----> *  FoodItem
+Bi directional association between entities 
+
+Restaurant - one , parent(PK) , non-owning side(inverse) = the side not containing FK
+
+FoodItem - many , child (FK) , owning side(=the table containing FK )
+
+
+
+
+
+
