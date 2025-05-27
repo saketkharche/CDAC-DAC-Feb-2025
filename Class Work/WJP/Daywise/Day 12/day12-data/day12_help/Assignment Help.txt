@@ -1,0 +1,90 @@
+Assignment Help
+
+@MappedSuperclass
+public class BaseEntity {
+id , creation date/time , updation date/time
+version
+}
+
+Category 1 <------> * Product
+
+Category - one , parent , inverse
+Product - many ,child , owning
+
+category id - Long (auto increment)
+category name - unique -  string (unique) : varchar(30)
+category desc - varchar (200)
+
+Category extends BaseEntity
+...... +
+@OneToMany(mappedBy="productCategory",
+cascade=CascadeType.ALL,orphanRemoval=true)
+private List<Product> products=new AL<>();
+//add 2 helpers
+addProduct - this.products.add(p);p.setProductCategory(this);
+removeProduct - this.products.remove(p);p.setProductCategory(null);
+
+
+
+
+product id : Long (auto increment)
+name : string (unique) : varchar(20)
+product description : string : varchar(200)
+manufacture date : LocalDate
+price : double
+available quantity : int
+
+Product extends BaseEntity
+..... +
+@ManyToOne
+@JoinColumn(name="category_id",nullable=false)
+private Category productCategory;
+
+
+Add <mapping> entries / Entity
+
+
+3. Solve
+Add New Category 
+i/p - only category details
+categoryDao -
+session.persist(newCategory)
+
+4. Add Products to the existing category
+i/p - category id , List of products
+
+In ProductDao -
+ - get Category from its id - session.get
+ - chk for not null
+ - products.forEach (p -> category.addProduct(p));
+ - no session.persist() 
+ - commit //insert queries will be fired in products table
+
+
+Get Category details
+ - name
+JPQL - select c from Category c where c.categoryName=:name
+- creatqQuery - getSingleResult - select on categories table
+category.getProducts().size(); - select on products table
+commit
+
+DAO -> Tester
+
+sop(category);//1
+catgeory.getProducts().forEach(System.out::println);//2 --LazyInitExc
+Fix 
+1. EAGER
+OR
+Hint - access size of collection - within session
+OR
+
+JPQL - select c from Category c left join fetch c.products where c.categoryName=:name
+- left  join single
+ 
+
+
+
+
+
+
+

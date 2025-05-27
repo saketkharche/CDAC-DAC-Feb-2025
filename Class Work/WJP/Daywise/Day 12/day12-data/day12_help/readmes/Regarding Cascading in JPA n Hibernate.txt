@@ -1,0 +1,33 @@
+What is Cascading ?
+
+It refers to the ability to automatically propagate the state of an entity  across associations between entities. 
+
+Hibernate cascading is a powerful feature that simplifies the management of complex E-R within a persistence context. 
+
+It allows you to automatically propagate certain  operations (like saving, updating, and deleting) to associated entities, reducing the boilerplate  code .
+
+How 
+When you define a relationship between two entities(Category --- BlogPost) and specify a cascade type, Hibernate will automatically perform the specified operation on the related entities when you perform that operation on the parent entity.
+
+Types of Cascading options via CascadeType enum.
+jakarta.persistence.CascadeType : enum 
+Values :  ALL,PERSIST, MERGE, REMOVE, REFRESH, DETACH
+
+  CascadeType.PERSIST:
+   Use case - When you want to persist a new parent entity and its associated child entities in a single transaction. 
+ CascadeType.MERGE:
+   Use Case: When you want to update an existing parent entity and its associated child entities in a single transaction.
+    CascadeType.REMOVE:
+   Use Case: When you want to delete a parent entity and its associated child entities in a single transaction.
+    CascadeType.REFRESH:
+   Use Case: When you want to refresh the state of a parent entity and its associated child entities from the database.
+    CascadeType.ALL:
+   Use Case: When you want to apply all of the above cascade types to the E-R
+ 
+eg - Category 1<--->* BlogPost
+
+To cascade  save , update ,delete operations from Category to BlogPost
+
+
+Solution : @OneToMany (mappedBy = "chosenCategory",cascade = CascadeType.ALL)
+private List<BlogPost> posts=new ArrayList<>();

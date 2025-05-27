@@ -1,0 +1,7 @@
+https://docs.spring.io/spring-framework/docs/current/javadoc-api/
+
+Spring Data JPA
+1.	API Docs : 
+https://docs.spring.io/spring-data/data-jpa/docs/current/api/
+2. Ref docs : 
+https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/#reference

@@ -1,0 +1,16 @@
+INSERT INTO restaurants (creation_date, updated_on, address, city, description, name) VALUES
+('2024-05-01', '2024-05-01 11:00:00', '123 FC Road', 'Pune', 'Traditional Maharashtrian meals', 'Shree Misal House'),
+('2024-05-02', '2024-05-02 14:00:00', '88 JM Road', 'Pune', 'Popular North Indian and tandoor dishes', 'Tandoor Junction'),
+('2024-05-03', '2024-05-03 17:30:00', '42 Baner Road', 'Pune', 'Modern vegetarian café with fusion food', 'Green Leaf Café');
+
+
+INSERT INTO food_items (creation_date, updated_on, is_veg, item_description, item_name, price, restaurant_id) VALUES
+('2024-05-01', '2024-05-01 11:10:00', b'1', 'Spicy misal topped with farsan and onions', 'Puneri Misal', 70, 1),
+('2024-05-01', '2024-05-01 11:15:00', b'1', 'Sabudana khichdi with peanuts and lemon', 'Sabudana Khichdi', 60, 1),
+
+('2024-05-02', '2024-05-02 14:15:00', b'0', 'Char-grilled chicken with Indian spices', 'Tandoori Chicken', 180, 2),
+('2024-05-02', '2024-05-02 14:30:00', b'1', 'Soft naan stuffed with spiced potatoes', 'Aloo Kulcha', 90, 2),
+
+('2024-05-03', '2024-05-03 17:45:00', b'1', 'Millet-based pizza with paneer topping', 'Desi Paneer Pizza', 150, 3),
+('2024-05-03', '2024-05-03 18:00:00', b'1', 'Chilled kokum-based beverage', 'Kokum Cooler', 50, 3);
+

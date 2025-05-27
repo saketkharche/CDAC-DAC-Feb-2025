@@ -1,0 +1,229 @@
+Revise 
+
+1. JPA Inheritance
+ - @MappedSuperclass
+ - class level annotation
+ - declares common base class for all other entities
+ - no table 
+ - common fields
+   - id, cr time  , update ts , version(locking)
+
+2. Bi directional association between the entities
+
+Restaurant 1 <------> * FoodItem
+
+
+Restaurant - one , parent , inverse (non owning)
+
+FoodItem - many , child , owning (containing FK )
+
+3. How will you configure it in Java world ?
+In Restaurant Entity 
+name, address ....
++ private List<FoodItem> foodItems=new ArrayList<>();
+
+
+In FoodItem Entity
+itemName , desc ....+
+private Restaurant myRestaurant;
+
+Suggestion 
+ - Exclude association properties from toString
+ - Init collection based property.
+
+Problem 
+ -org.hibernate.MappingException
+Cause 
+ - Hibernate could not understand the type of asso.
+Solution
+ -add JPA Mapping annotations
+
+4. In Restaurant Entity 
+name, address ....
++ 
+@OneToMany
+private List<FoodItem> foodItems=new ArrayList<>();
+
+
+In FoodItem Entity
+itemName , desc ....+
+@ManyToOne
+private Restaurant myRestaurant;
+
+5. After adding these annotations
+ - no exc !
+ - problem : additional table 
+  - join table - totally un necessary !
+
+Cause - In a bi dir association , hibernate (JPA) auto can't figure out , about the owning n inverse side.
+
+Solution - Declare owning n inverse side
+How - Add mappedBy attribute in @OneToMany 
+Where does it appear ? - inverse side , to refer hibernate ->  to the owner of the asso.
+Value - name of the association property in the owning side.
+
+6. To customize name of the FK column
+ - @JoinColumn(name="name of FK column")
+
+
+7. Add new restaurant
+ - persist
+
+8. Add single food item to the restaurant
+i/p - restaurant id 
++ food item details
+Problem - after session.persist(foodItem) 
+ - Hibernate inserts a rec BUT with FK - null
+Cause - Prog has NOT created association between Restaurant n FoodItem
+Soln - Establish bi dir association - in entities (IMPORTANT)
+
+9. Founder's reco (project tips)
+- In case of a bi dir association
+ - Instead of creating bi dir association , in the DAO | Service layers
+  - Create it using helper methods in the entity classes itself.
+ - add methods , in the parent side (eg - Restaurant)
+  - addChild
+  - removeChild
+
+10.Add multiple food items(list)  to the restaurant
+i/p - restaurant id 
++ list of food item details
+Problem - In order ot add , a food item or mutiple food items,
+ session.persist(item) - was required !
+Better alternative - Hibernate should be able to insert the records auto.
+Solution - @OneToMany(mappedBy="myRestaurant", cascade=CascadeType.ALL)
+=> To tell hibernate to cascade ALL (save , update , delete) operations from src entity to target entity
+
+
+11. Delete Restaurant details
+i/p - name (unique)
+DB action - 1st child recs(food_items) should be deleted n then it should delete parent rec(restaurnat)
+
+12. Delete specified food item from specific restaurant
+i/p - restaurant id , food item id
+DB action - delete a rec form food items
+
+Problem - After calling removeFoodItem (helper method)
+, hibernate was simply making FK - NULL
+Cause - hibernate DOES NOT auto remove the orphan recs
+Solution - add 
+ - orphanRemoval - true , in @OneToMany
+Result - de linked record was deleted !
+
+13. Fetch Restaruant details by name
+i/p - name
+o/p - err mesg | details
+- works 
+
+14. Fetch Restaruant details by name along with its menu
+i/p - Restaruant name
+o/p - err mesg | details (Restaruant + food items)
+Problem - LazyInitializationException 
+
+Details - 
+When does hibernate throw LazyInitializationException ?
+- Any time , you are trying to access , un fetched data(proxy) , outside the session scope.
+
+- un fetched data => proxy (substituition of real data from db)
+
+Cause - JPA has default data fetching policies for different types
+one-many : LAZY
+one -one : EAGER
+many-one : EAGER
+many - many : LAZY
+
+Meaning with eg
+
+Restaurant 1<----->* FoodItem
+When you try to access , restaurant details(select) , is hibernate auto going to fire a select query on food_items table ? -  NO !
+
+Why - for better perfomance !
+Soln 
+1. Change fetch type from LAZY -> EAGER
+@OneToMany(.....,fetch=FetchType.EAGER)
+- typically not recommended , specially in case of many size is large
+(i.e large no of food items present in the restaurant)
+ - worse performance 
+Use case  - when size of many is small
+eg - User 1---* Role
+
+OR better solution
+
+2. Use default fetch type : LAZY
+ - Hint 
+- Simply access the size of the collection (List<FoodItem> , from within the session
+ - before commit
+
+OR BEST (optimal) solution
+
+3. Use join fetch key word , in JPQL - to fetch complete details , in a single join query
+String jpql="select r from Restaurant r join fetch r.foodItems where r.name=:nm";
+default join - inner join
+OR 
+String jpql="select r from Restaurant r left join fetch r.foodItems where r.name=:nm";
+join - left outer join
+
+
+Next Day -
+1. User  1 ------>  1 Address
+
+Full Stack App
+-> User sign up -> sign out
+-> sign in ->  profile page -> Fill in 
+ address , adhaar card , payment cards ....
+
+User class 
+......
++
+@OneToOne(cascade=ALL)
+@JoinColumn(name="adr_id")
+private Address myAddress;
+
+Address 
+.....
+
+2. Assign address to the existing User
+I/p - user id , address details
+(URL : http://host:port/address/{userId}
+Method - POST
+payload - address details)
+
+DB action - a rec should be inserted in address table + update adr id in users table
+
+
+
+3. Uni directional many-many
+
+Tag *----->* Restaurant
+
+
+Tag extends BaseEntity
+....+
+private Set<Restaurant> restaurants=new HashSet<>();
+
+In Restaurant
+- @EqualsAndHashcode
+
+Tables 
+parent tables - tags , restaurants
+child - my_restaurant_tags (Composite PK  - restaurant_id n tag_id -> FKs)
+
+4. Create new tag
+i/p - tag name
+- session.persist(newTag) , commit
+
+5. Add specified  restaurant under specified tag
+i/p - restaurant id , tag id
+o/p - DB action - rec should be added in the join table
+ - get tag from its id - session.get
+ - get restaurant from its id - session.get
+ - null chking 
+ - if not null
+  - tag.getRestaurants().add(restaurant);
+ - commit
+  
+
+
+
+
+
