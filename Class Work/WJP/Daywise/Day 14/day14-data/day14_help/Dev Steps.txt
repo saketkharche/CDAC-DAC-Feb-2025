@@ -1,0 +1,74 @@
+Dev Steps
+1. Create Maven based web app OR import template 
+ - spring + hibernate dependencies
+
+2. Configure Spring supplied Front Controller (to ensure any req coming from any client will be interecepted by this global interceptor - centralized dispatcher)
+
+class - o.s.w.s.DispatcherServlet(D.S) - entry point
+who manages its life cycle - WC
+web.xml
+ - servlet tags
+ url-pattern : /
+ load-on-startup : 1
+ servlet-name : spring
+
+3. D.S in it's init()
+ - Starts SC (i.e  creates the instance of WebApplicationContext) 
+ - using xml config file
+ - defaults 
+ - name : servletName-serlve.xml(spring-servlet.xml)
+ - location : WEB-INF
+ - contents : instructions meant for SC
+ - using these instructions
+ - SC creates , HandlerMapping bean 
+ - initiall empty.
+
+4. Create request handling controller (Handler)
+ - prog supplied
+ - @Controller : class level
+ - @RequestMapping - method level (cls level) 
+  - for intercepting GET , POST,PUT.... (like service(rq,rs)
+  @GetMapping - doGet 
+  @PostMapping - doPost
+
+5. Add index.jsp 
+ - WEB-INF/views
+
+6. Test the flow.
+
+7. Understand n use ModelAndView
+ - add a link in index.jsp
+ - upon clicking of the link 
+ - render dyn resp (changing time stamp)
+
+8. Understand n use Model (i.f -> ModelMap)
+ - add a link in index.jsp
+ - upon clicking of the link 
+ - render dyn resp (changing time + List<Integer>)
+ - D.I 
+ - SC injects EMPTY Model Map n handler has to fill it with the results.
+
+9. List all restaurants
+ - (w/o spring boot)
+ Bottoms Up manner
+ - DB 
+ - Entity 
+  (copy | create) Enitities 
+ - DAO 
+  spring bean
+ - Service
+ - Controller
+
+
+  
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+Spring Boot REST Steps
+
+Enter  Spring boot REST
+Understand RESTful web services n it's architecture , which sits on the top of Spring MVC
+(Draw a comparison , with existing Spring MVC Flow Diagram)
+1.1 Ref : Full Stack Overview.png
+
+1.2 refer to : REST Simplified
+1.3 Diag : web app vs web service
+1.4 Readme : RestController vs MVC Controller n Annotations.txt
+1.5 Develop the backend for Blog management for category resource
+(CRUD)
+
+Tech Stack
+JDK 21 , Embedded Tomcat 10.1 , Jakarta EE 9/10 , Spring Boot 3.x
+IDE -  STS 4
+
+1. Launch STS 4 - new workspace
+2. Window- preferences - JRE  - Add JDK 21
+
+Steps
+1. Create spring boot app : using spring boot starter project (choose packaging as JAR)
+2. Use same spring boot starters as earlier.
+Spring web , Mysql driver , Spring data JPA , Lombok , Spring Dev Tools,validation,actuator
+
+3. NO additional dependencies for view layer(i.e no jstl n no tomcat-embeded jasper  dependencies , in pom.xml
+
+4. Copy application.properties from earlier spring boot project
+(Do not add view resolver related properties)
+
+5. Later Add additional dependencies , in pom.xml
+<!--swagger dependency for Spring Boot 3 -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.8.6</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.modelmapper/modelmapper -->
+		<dependency>
+			<groupId>org.modelmapper</groupId>
+			<artifactId>modelmapper</artifactId>
+			<version>3.2.3</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.19.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<!-- <version>3.14.0</version> -->
+		</dependency>
+	
+OR 
+If you don't want to invest time in all of above , simply import "template projects\spring_boot_backend_template" n start with the actual development .
+
+
+6. Write simple RestController to serve simple resource , to confirm.
+
+7. Build the layers in bottoms up manner, for the following objectives.
+
+Objective : Complete backend for the Food Delivery App , Restaurant Resource resource
+
+
+Solve 			
+
+1. Get All Restaurants
+Use ResponseEntity
+2. Add new Category
+
+3. Delete catgeory details
+3.1 Instead of a hard delete , add soft delete
+3.2 Better design practice : Instead of returning a  plain string message to the front end , wrap it in the java object (ApiResponse) n then send it to front end
+
+4. Update category details 
+4.1 Get existing category details By Id(from the back end) : GET
+4.2 Update category details : PUT
+
+8. 
+Regarding swagger 
+Refer - "day16_help\Regarding Swagger.txt"
+
+
+Test it with postman/swagger (Add swagger dependency here)
+Steps 
+1. Add swagger dependency in pom.xml
+(Already added in spring boot backend template project)
+2. From web browser , access swagger endpoint
+http://localhost:8080/swagger-ui/index.html
+
+
+
+

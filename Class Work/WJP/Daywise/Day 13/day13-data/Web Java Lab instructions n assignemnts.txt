@@ -1,0 +1,350 @@
+Day 1
+0. day1.1 project does not use any layers , it was just created for JDBC introduction.
+
+1. import day1.2 in your new (web java workspace) .
+Edit DB password from DBUtils.
+Edit mysql connector(JDBC driver) path.
+
+2. We will walk through the code together n solve your queries
+
+3. Discuss n solve
+3.1 Voter registration
+i/p - fn,ln,email,pwd,dob (can add optional validation : age > 21) 
+o/p - mesg (success|failed)
+
+3.2 Change password
+i/p - email , old password , new password
+o/p - message (success|failed)
+
+3.3 Delete user details
+i/p - voter id
+o/p - message
+
+4. Reading H.W
+Go through daily sequence n revise JDBC concepts , API n implementation.
+
+
+Day 2
+
+1. Download n extract day 2 data
+
+2. Refer 
+- https://jakarta.ee/specifications/platform/9/apidocs/
+(For Jakarta EE api docs)
+
+3. Download , Extract n  add Tomcat web server to our workspace.
+It 's provided in "softwares" on G drive folder
+
+Please complete these steps . 
+Then we will start remaining steps in the combined lab.
+Everything will be revised  , do not worry !
+
+4. Create dynamic web project (day2_lab) . 
+ Test it with HTML(index.html) contents.
+5. Create n deploy the servlet using annotation
+(Understand annotation)
+6. Create n deploy the servlet using xml tags
+7.  Create 1 servlet with default (lazy) loading n another one with eager loading.
+
+8. Refer to -
+"day1-data\day1_help\jdbc help\sql\sql cmds.txt"
+Add "accounts" table with data (already supplied)
+Look for a stored function - 
+"transfer_funds_func"
+Add this in DB.
+
+9. Write a Tester(standalone main based app) n DAO layer code to execute the stored function.
+
+10. If time permits , we will discuss the DAO layer for the "online voting" also.(Optional assignment)
+10.1 User sign in (already done !)
+i/p email , password
+o/p User or null
+
+10.2 Get all candidates
+i/p - none
+o/p - List of all candidates
+
+10.3 Update voting status
+i/p - voter id
+o/p - a message
+
+10.4 Increment votes 
+i/p - candidate id
+o/p - a message
+
+
+ Day 3
+1. import day3_voting (today's web application) in your workspace.
+
+2. Edit DB password.
+
+3. Walk through entire code n understand
+3.1 Servlet JDBC integration
+3.2 Page Navigation (redirect)
+3.3 Introduction to cookies(server side state management)
+ LegacyCookieProcessor issues 
+n solution using UrlEncoder n Urldecoder.
+
+3.4 Run the web app
+3.5 Use Inspect option (network) to trace request - resp flow.
+
+4. Retrieve the cookies from candidate list page n confirm.
+
+5. Today's mandatory assignment
+Try to Complete Admin Flow , as much as possible.
+
+
+Day 4
+1. import day4_voting2
+ - edit DB password (
+ - We will do the code walk through together(in the combined lab)
+
+2. Complete Admin Flow .
+
+3. If time permits (in the combined lab)
+ - import day4_voting3
+ - edit DB password (from web.xml)
+ - Revise n complete Servlefrom DB Utils)tConfig
+
+4. In the individual labs -
+ import day4_voting
+ edit DB password (from DB Utils)
+Revise simple login-logout flow , using HttpSession
+
+
+Day 5
+1. Discuss troubleshooting / cleaning instructions
+2. Revise enums ?
+3. import day5.1
+  - to revise ServletConfig n init-params
+  - Edit password from  web.xml 
+
+4. import day5.2
+  - to revise ServletContext n context parameters
+  - Edit password from  web.xml 
+
+5. import day5.3 , to revise RequestDispatcher's forward technique
+6. import day5.4 , to revise RequestDispatcher's include technique
+7. import day5.5 , to revise Web Application listeners
+8. Complete pending work , in servlets
+
+Important reading home work
+- "day5-data\day5_help\diagrams\servlet life cycle in detail.png"
+
+We will start with JSP tomorrow onwards.
+
+
+Day 6
+
+1. Refer to 
+ "day6-data\day6_help\readmes\readme_jsp.txt"
+
+2. import day6.1 , project in your workspace.
+ - to revise basic JSP syntax
+ - scriptlets
+ - expression
+ - EL syntax
+ - declaration
+ - page directive attributes
+
+3. We will discuss n solve 
+- "day6-data\JSP basic assignment.png"
+
+4. Complete earlier work.
+
+
+Day 7
+
+1. import day7_mvc in your workspace
+ Edit DB password from web.xml
+ Run the project to check the user list.
+
+2. We will revise n continue in the combined lab.
+
+
+Day 8
+
+1. Today's first priority is  
+  - creating Hibernate project from scratch, to test
+  - automatic table creation
+  - insertion of record in DB
+
+2. For this follow the steps from 
+"day8-data\day8_help\hibernate help\hibernate steps.txt"
+OR 
+hibernate sequence .txt
+
+Suggestion - No need to create a Maven project from scratch. 
+You have already imported yesterday , hibernate_template_project
+
+So start with 
+ - edit db password , from hibernate.cfg.xml
+ - create utils
+ - create entity (Most important !)
+ - create DAO
+ - Can copy supplied tester(no need ot create !)
+
+3. import day8.1 
+ - Existing web project
+ - revise update user functionality.
+
+
+Day 9
+1. import day9.1 , as existing Maven project
+
+2. Edit DB password
+
+3. Revise in top down manner
+Names of the testers - 
+ - UserRegistration.java 
+ - GetUserDetailsById.java
+ - DisplayAllUsers
+ - DisplayUsersByDobAndRole
+ - DisplayUserFirstNamesByRole
+ - DisplayProjectionWithCtorExpression
+ - UserSignInChangePassword
+ - UpdateUserDetails (Bulk updation)
+
+It will ensure complete understanding of today's session.
+
+4. 
+Optional assignment
+
+CRUD operations on Product (can be used later in eCommerce project)
+Typical product details -
+product id : Long (auto increment)
+name : string (unique) : varchar(20)
+product description : string : varchar(200)
+manufacture date : LocalDate
+price : double
+available quantity : int
+
+1.1 Complete in lab
+1.2 Create Product Entity from above description
+1.3 Create Product DAO , implementation class  n testers for the following
+(After writing DAO method once on your own , please copy from the boilerplate code)
+You can copy the testers from day9.1 n make necessary changes.
+
+Solve as many as possible ! No Pressure .... 
+ 1. Add a new product
+i/p - product details (except id)
+
+ 2. Display product details 
+     i/p - product id 
+ 3. Display   id , name , price  of all the products manufactured before specified date
+ 
+
+
+Day 10 
+NO new assignments !
+
+1. import day10.1 to revise 
+ - Basic part of hibernate , along with BLOBs
+ - It is without Lombok annotations
+
+2. import day10.2
+ - It is a copy of day10.1 
+ - With Lombok annotations
+
+3. import day10.3
+ - advanced hibernate for food delivery app
+ - Mapped super class
+ - one - many n many - one  , bi directional association between the entities.
+
+
+Day 11
+Important day for your projects.
+
+1. import day11.1 , as existing Maven project
+ Edit DB password
+ - Do complete revision , using 
+
+  - Walk through below testers 
+  - "\day11-data\day11_help\Informal notes.txt" 
+  - "day11-data\Food Delivery App E-R diagram.png" 
+
+1. AddNewRestaurant.java
+2. AddRestaurantWithFoodItems.java
+3. AddNewFoodItemToRestaurant
+4. DeleteRestuarantDetails.java
+5. GetRestaurantDetailsByName.java
+6. GetRestaurantAndMenuDetailsByRestaurantName
+
+
+2. Mandatory assignment (for complete clarity - do take lab faculty's help here , if required !)
+Its alright , even if you can't complete it , but every one has to atleast start ...
+
+Establish Category  1 <-----> * Products (a bi dir association)
+ 
+2.1 Typical Category details
+category id - Long (auto increment)
+category name - unique -  string (unique) : varchar(30)
+category desc - varchar (200)
+
+2.2 Typical product details -
+product id : Long (auto increment)
+name : string (unique) : varchar(20)
+product description : string : varchar(200)
+manufacture date : LocalDate
+price : double
+available quantity : int
+
+2.3 
+  1. Create BaseEntity - mapped super class with id , creation date n updation time stamp
+  2. Create sub classes (entities) - Category n Product
+      - How will you add a bi dir association between Category n Product ?
+   - mappedBy
+   - cascade
+   - orphanRemoval
+   - fetch type
+
+3. Solve
+Add New Category 
+i/p - only category details
+
+4. Add Products to the existing category
+i/p - category id , List of products
+
+
+Day 12
+
+1. import day12.2 
+ - as existing Maven app.
+ - Force update Maven
+ - It will download spring dependencies , in the Maven local repository
+ - Revise basic spring bean life cycle
+ - modify xml config for better clarity
+
+2. Complete Day 11 , 
+ -Category , Product assignment
+ - List category n product details
+  i/p - category name
+ - Delete category details
+
+3. Later import day12.1 , to revise (Can be done tomorrow !)
+ - one to one uni dir association (User 1--->1 Address)
+ - many to many uni dir association (Tag *---->* Resaturant)
+
+
+Day 13
+
+Dear all , 
+
+import ONLY these below mentioned 3  projects .
+
+1. import day13.7 , as existing Maven project , to revise ,
+ Hybrid approach , with autowire=byName
+
+2. import day13.8 , as existing Maven project , to revise ,
+ Hybrid approach , with autowire=byType
+
+3. import "day13-data\code\spring_mvc_hibernate" , as existing Maven project 
+ - Maven Force update 
+ - Maven build - clean compile it.
+ - It will download Spring MVC related depndencies 
+
+We will create HelloWorld Spring MVC web app , to understand basic Spring MVC flow.
+(Extremely important for your project )
+This will be a coding along session (Hybrid !)
+
+

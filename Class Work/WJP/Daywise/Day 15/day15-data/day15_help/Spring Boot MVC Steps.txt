@@ -1,0 +1,93 @@
+Development steps (CRUD for restaurants)
+1. Render index page.
+Link - For List restaurants
+URL - http://host:post/ctx_path/
+Method - GET
+Payload - none
+Resp - render index page with a link to list restaurants
+
+	
+2. After clicking on the link (to list restaurants)
+ 
+Task  – Render List of restaurants
+URL - http://host:port/ctx_path/restaurants/list
+Method - GET
+Payload - none
+Resp - render restaurant list (list.jsp)
+
+Render it in tabular view (table - JSTL - c:forEach)
+
+3. Render Update n Delete Links | Button in list.jsp
+Hint - Use <c:url>  tags
+
+3.5 Solve 
+Fetch details of the restaurant by its name
+i/p - restaurant name (unique)
+o/p - if exists - ret restaurant details 
+otherwise throw custom exception - ResourceNotFoundException("invalid restaurant name....");
+Lab work - add a method in RestaurantController n test it !
+
+4. Description –Soft Delete Specific restaurant
+(why soft delete ?)
+After clicking on the "Delete" link
+URL - http://host:post/ctx_path/restaurants/delete?id=...
+Method - GET
+Payload - request param - restaurantId
+Action - soft delete restaurant details 
+Resp - redirect resp , redirect location - /restaurants/list
+(Why redirect n not forward?)
+
+Steps 
+4.1 restaurant POJO - add status : boolean
+4.2 restaurant Dao - 
+Inherited API -
+OR
+Finder Methods - yes !
+OR
+Custom queries 
+4.3 restaurant Service i/f
+method -
+String deleterestaurantDetails(Long restaurantId)
+4.4 impl -
+findById -> Optional<restaurant> -> orElseThrow .
+4.5 in case of no exc => valid id
+update status.
+
+
+
+
+5. Description –Update Specific restaurant details
+After clicking on the "Update" link
+URL - http://host:post/ctx_path/restaurants/update?restaurantId=...
+Method - GET
+Payload - request param - restaurantId
+Action - Render Update form (form fields - restaurant id , password n reg amount)
+restaurant id - readonly
+Resp - Render restaurant details update form
+
+6. After submitting form, to the same URL (default action)
+URL - http://host:post/ctx_path/restaurants/update
+Method - POST
+Payload - form data(restaurant id , password n reg amount)
+Action - Process Update form n update restaurant details in DB
+Resp -redirect resp , redirect location - /restaurants/list
+
+7. Description –Add new restaurant
+After clicking on the "Add new restaurant" button
+URL - http://host:post/ctx_path/restaurants/add_form
+Method - GET
+Payload - none
+Action - Render Registration form (form fields - restaurant's basic details)
+Resp - Render restaurant reg form
+
+7. After submitting form, to the same URL (default action)
+URL - http://host:post/ctx_path/restaurants/add_form
+Method - POST
+Payload - form data
+Action - Process Reg form n insert restaurant details in DB
+Resp -redirect resp , redirect location - /restaurants/list
+
+
+
+
+

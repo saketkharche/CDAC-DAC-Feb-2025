@@ -1,0 +1,31 @@
+Spring Training Roadmap
+
+Spring Core module | project | frmwork
+1. Spring Container , bean life cycle , D.I
+ - pure XML based configuration
+
+2. Hybrid config
+ lexx XML + majority annotations
+
+3. Enter Spring Web MVC module
+ - Servlet Based
+
+4. Spring MVC + Hibernate integration
+
+5. Identify the efforts in config 
+ Enter Spring Boot
+
+6. Create from scratch -
+ Spring boot based 
+ Spring Web MVC app (standalone web app - rendering view layer using still JSP) + Spring Data JPA - to reduce boilerplate code in the DAO layer
+
+7. Enter Full stack app
+ Spring Boot , Spring Data with RESTful web services (back end of the 
+full stack app) 
+ -front end simulated by postman | swagger
+
+8. Secure REST API end points 
+9. Divide the back end in to microsservices 
+
+
+

@@ -1,0 +1,39 @@
+1.	Revise Spring Boot MVC code walk through
+2.	Spring Boot in more details
+3.	Spring Data JPA 
+4.	Transaction management internals
+5.	Continue to more objectives 
+6.	Enter REST to develop backend of the Full stack application
+ 
+
+Core Java Refresher -
+
+java.util.Optional<T>
+It is a class that represents a holder which may or may not hold a value of type T.
+Methods -
+public T orElseThrow()
+Returns a value if present , otherwise throws the exception - NoSuchElementException
+OR
+public <X extends Throwable> T orElseThrow(Supplier<? extends X> exceptionSupplier) throws X extends Throwable
+If a value is present, returns the value, otherwise throws an exception produced by the exception supplying function.
+Supplier – functional i/f
+SAM – public T get()
+Eg – How will you throw a custom exception – ResourceNotFoundException , with the mesg – “Invalid User Id”
+Code in the service layer – 
+User user=userDao.findById(userId).orElseThrow(() -> new ResourceNotFoundException(“Invalid User Id”)));
+
+
+Objectives
+1.	List all veg Food Items
+2.	Custom Queries (@Query , @Modifying)
+3.	Solve Spring Data JPA 
+2.1 Get restaurant n food items details (in a single left outer join query) for specified restaurant id.
+2.2 Update price n description of a food item
+2.3 Add New food item
+2.4 Delete Food Item
+
+4.	Enter REST
+
+
+
+
