@@ -1,0 +1,8 @@
+package com.library.dao;
+
+public class BookDAO {
+	private String jdbcURL="jdbc:mysqsl://3306/wjpspot";
+	private String jdbcUsername="root";
+	private String jdbcPassword="root";
+
+}

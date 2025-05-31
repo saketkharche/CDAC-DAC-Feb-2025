@@ -1,0 +1,75 @@
+package com.library.dao;
+
+import com.library.model.Book;
+import java.sql.*;
+import java.util.*;
+
+public class BookDAO {
+    private final String jdbcURL = "jdbc:mysql://localhost:3306/ wjpspot";
+    private final String jdbcUsername = "root";
+    private final String jdbcPassword = "root";
+
+    private static final String INSERT_BOOK = "INSERT INTO books VALUES (?, ?, ?, ?, ?)";
+    private static final String SELECT_ALL_BOOKS = "SELECT * FROM books ORDER BY title ASC";
+    private static final String DELETE_BOOK = "DELETE FROM books WHERE bookId=?";
+    private static final String UPDATE_BOOK = "UPDATE books SET title=?, author=?, genre=?, publicationYear=? WHERE bookId=?";
+    private static final String SELECT_BOOK_BY_ID = "SELECT * FROM books WHERE bookId=?";
+
+    public Connection getConnection() throws SQLException {
+        return DriverManager.getConnection(jdbcURL, jdbcUsername, jdbcPassword);
+    }
+
+    public void insertBook(Book book) throws SQLException {
+        try (Connection conn = getConnection(); PreparedStatement ps = conn.prepareStatement(INSERT_BOOK)) {
+            ps.setInt(1, book.getBookId());
+            ps.setString(2, book.getTitle());
+            ps.setString(3, book.getAuthor());
+            ps.setString(4, book.getGenre());
+            ps.setInt(5, book.getPublicationYear());
+            ps.executeUpdate();
+        }
+    }
+
+    public List<Book> getAllBooks() throws SQLException {
+        List<Book> books = new ArrayList<>();
+        try (Connection conn = getConnection(); PreparedStatement ps = conn.prepareStatement(SELECT_ALL_BOOKS)) {
+            ResultSet rs = ps.executeQuery();
+            while (rs.next()) {
+                books.add(new Book(rs.getInt("book_id"), rs.getString("title"), rs.getString("author"),
+                                   rs.getString("genre"), rs.getInt("publicationYear")));
+            }
+        }
+        return books;
+    }
+
+    public void deleteBook(int id) throws SQLException {
+        try (Connection conn = getConnection(); PreparedStatement ps = conn.prepareStatement(DELETE_BOOK)) {
+            ps.setInt(1, id);
+            ps.executeUpdate();
+        }
+    }
+
+    public Book getBookById(int id) throws SQLException {
+        Book book = null;
+        try (Connection conn = getConnection(); PreparedStatement ps = conn.prepareStatement(SELECT_BOOK_BY_ID)) {
+            ps.setInt(1, id);
+            ResultSet rs = ps.executeQuery();
+            if (rs.next()) {
+                book = new Book(id, rs.getString("title"), rs.getString("author"),
+                                rs.getString("genre"), rs.getInt("publicationYear"));
+            }
+        }
+        return book;
+    }
+
+    public void updateBook(Book book) throws SQLException {
+        try (Connection conn = getConnection(); PreparedStatement ps = conn.prepareStatement(UPDATE_BOOK)) {
+            ps.setString(1, book.getTitle());
+            ps.setString(2, book.getAuthor());
+            ps.setString(3, book.getGenre());
+            ps.setInt(4, book.getPublicationYear());
+            ps.setInt(5, book.getBookId());
+            ps.executeUpdate();
+        }
+    }
+}

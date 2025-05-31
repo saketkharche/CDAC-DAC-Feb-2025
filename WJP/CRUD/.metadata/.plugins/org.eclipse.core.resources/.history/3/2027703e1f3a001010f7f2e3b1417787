@@ -1,0 +1,43 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" %>
+<%@ page import="java.util.*, com.library.model.Book" %>
+<html>
+<head>
+    <title>Book List</title>
+</head>
+<body>
+    <h2>Library Book List</h2>
+    <a href="addBook.jsp">Add New Book</a><br/><br/>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Book ID</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Publication Year</th>
+            <th>Actions</th>
+        </tr>
+        <%
+            List<Book> list = (List<Book>) request.getAttribute("bookList");
+            if (list != null) {
+                for (Book b : list) {
+        %>
+        <tr>
+            <td><%= b.getBookId() %></td>
+            <td><%= b.getTitle() %></td>
+            <td><%= b.getAuthor() %></td>
+            <td><%= b.getGenre() %></td>
+            <td><%= b.getPublicationYear() %></td>
+            <td>
+                <a href="BookController?action=edit&id=<%= b.getBookId() %>">Edit</a> |
+                <a href="BookController?action=delete&id=<%= b.getBookId() %>"
+                   onclick="return confirm('Are you sure you want to delete this book?');">Delete</a>
+            </td>
+        </tr>
+        <%      }
+            } else {
+        %>
+        <tr><td colspan="6">No books available.</td></tr>
+        <% } %>
+    </table>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" import="com.library.model.Book" %>
+<%
+    Book book = (Book) request.getAttribute("book");
+%>
+<html>
+<head>
+    <title>Edit Book</title>
+</head>
+<body>
+    <h2>Edit Book</h2>
+    <form action="BookController?action=update" method="post">
+        <input type="hidden" name="bookId" value="<%= book.getBookId() %>">
+        <label>Title:</label><input type="text" name="title" value="<%= book.getTitle() %>" required><br><br>
+        <label>Author:</label><input type="text" name="author" value="<%= book.getAuthor() %>" required><br><br>
+        <label>Genre:</label><input type="text" name="genre" value="<%= book.getGenre() %>" required><br><br>
+        <label>Publication Year:</label><input type="number" name="year" value="<%= book.getPublicationYear() %>" required><br><br>
+        <input type="submit" value="Update Book">
+    </form>
+    <br>
+    <a href="BookController">Back to Book List</a>
+</body>
+</html>
