@@ -1,0 +1,17 @@
+Testing Instructions - 
+
+drop database adv_java2
+
+start spring boot app (day16_boot_mvc)
+(It will create all tables)
+
+Insert this sample data in DB  
+
+From web browser , launch this URL 
+http://localhost:8080/spring_boot_mvc
+
+Test CRUD for Restaurants 
+(This is NOT RESTful web service , it is a demo of Spring web MVC application , integrated with JSP based view layer )
+
+Update functionality is also completed here !
+

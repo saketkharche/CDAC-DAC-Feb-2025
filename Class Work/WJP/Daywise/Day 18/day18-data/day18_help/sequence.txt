@@ -1,0 +1,52 @@
+Today's Sequence - 
+
+Transaction management internals
+Spring boot internals
+
+Discuss 
+ - more validations
+ - more end points
+ - replace field level D.I , by Constructor based D.I 
+   - why 
+    With Constructor based D.I  (mandatory D.I)
+     - SC tries to create dependency first 
+      - if n only if it succeedd  -> creates dependent .
+
+  - Spring recommended for 
+   - immutability (spring beans - singleton - immutable)
+   - mandatory dependencies (dependencies first n then dependents)
+
+
+Global / Centralized exception handling
+ - Are we handling the exceptions in
+  - controller | service | dao ?
+    - controller (Rest Controller)
+     - repeatative task of exc handling(try-catch) is done 
+      - all controllers n all methods 
+       De centralized exc handling !!!!
+    Instead of such De centralized exc handling -
+  Enter Centralized (Global exc handler)   
+
+Server side validations
+- User Registration
+Rest Controller - UserController
+Service - UserService
+DAO - UserDao | UserRepository
+Entity - User
+DTO - request , resp 
+Table - users
+
+
+Unit Testing - DAO layer testing
+Add Integration Test (Service-DAO-Entity-DB)
+
+Package n Deploy Spring boot application locally
+ - Maven goal 
+  - clean package
+ - Run jar file from cmd prompt , along with embedded Tomcat Container
+
+
+
+
+
+

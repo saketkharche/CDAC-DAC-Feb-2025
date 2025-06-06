@@ -1,0 +1,53 @@
+
+ INSERT INTO restaurants (creation_date, updated_on, address, city, description, name,status) VALUES
+('2024-05-01', '2024-05-01 11:00:00', '123 FC Road', 'Pune', 'Traditional Maharashtrian meals', 'Shree Misal House',1),
+('2024-05-02', '2024-05-02 14:00:00', '88 JM Road', 'Pune', 'Popular North Indian and tandoor dishes', 'Tandoor Junction',1),
+('2024-05-03', '2024-05-03 17:30:00', '42 Baner Road', 'Pune', 'Modern vegetarian café with fusion food', 'Green Leaf Café',1);
+
+
+INSERT INTO food_items (creation_date, updated_on, is_veg, item_description, item_name, price, restaurant_id) VALUES
+('2024-05-01', '2024-05-01 11:10:00', b'1', 'Spicy misal topped with farsan and onions', 'Puneri Misal', 70, 1),
+('2024-05-01', '2024-05-01 11:15:00', b'1', 'Sabudana khichdi with peanuts and lemon', 'Sabudana Khichdi', 60, 1),
+
+('2024-05-02', '2024-05-02 14:15:00', b'0', 'Char-grilled chicken with Indian spices', 'Tandoori Chicken', 180, 2),
+('2024-05-02', '2024-05-02 14:30:00', b'1', 'Soft naan stuffed with spiced potatoes', 'Aloo Kulcha', 90, 2),
+
+('2024-05-03', '2024-05-03 17:45:00', b'1', 'Millet-based pizza with paneer topping', 'Desi Paneer Pizza', 150, 3),
+('2024-05-03', '2024-05-03 18:00:00', b'1', 'Chilled kokum-based beverage', 'Kokum Cooler', 50, 3);
+
+
+INSERT INTO `adv_java2`.`address` (
+  creation_date, updated_on, adr_line1, adr_line2, city, country, state, zip_code
+) VALUES
+  (CURDATE(), NOW(), 'Flat 201, Sai Heritage', 'FC Road, Shivajinagar', 'Pune', 'India', 'Maharashtra', '411005'),
+  (CURDATE(), NOW(), 'House No. 34, Kumar Park', 'Lane 2, Kothrud', 'Pune', 'India', 'Maharashtra', '411038'),
+  (CURDATE(), NOW(), 'Bungalow 7, Nyati County', 'Near Corinthian Club, NIBM Road', 'Pune', 'India', 'Maharashtra', '411060'),
+  (CURDATE(), NOW(), 'Plot No. 121, Viman Nagar', 'Near Phoenix Marketcity', 'Pune', 'India', 'Maharashtra', '411014'),
+  (CURDATE(), NOW(), 'Row House 12, Magarpatta City', 'Hadapsar', 'Pune', 'India', 'Maharashtra', '411028'),
+  (CURDATE(), NOW(), 'Flat 9B, Blue Ridge', 'Phase 1, Hinjewadi', 'Pune', 'India', 'Maharashtra', '411057');
+
+#-- Admin
+INSERT INTO `adv_java2`.`users` (
+  creation_date, updated_on, dob, email, first_name, image, last_name, password, user_role, address_id
+) VALUES (
+  CURDATE(), NOW(), '1980-01-01', 'admin@foodie.in', 'Ravi', NULL, 'Kumar', 'Admin@123', 'ADMIN', 1
+);
+
+
+#-- Customers
+INSERT INTO `adv_java2`.`users` (
+  creation_date, updated_on, dob, email, first_name, image, last_name, password, user_role, address_id
+) VALUES
+  (CURDATE(), NOW(), '1995-05-15', 'neha.patil@gmail.com', 'Neha', NULL, 'Patil', 'Neha@123', 'CUSTOMER', 2),
+  (CURDATE(), NOW(), '1990-08-10', 'arjun.sharma@yahoo.com', 'Arjun', NULL, 'Sharma', 'Arjun@123', 'CUSTOMER', 3),
+  (CURDATE(), NOW(), '1998-12-25', 'meera.khan@outlook.com', 'Meera', NULL, 'Khan', 'Meera@123', 'CUSTOMER', 4);
+
+#-- Delivery Persons
+INSERT INTO `adv_java2`.`users` (
+  creation_date, updated_on, dob, email, first_name, image, last_name, password, user_role, address_id
+) VALUES
+  (CURDATE(), NOW(), '1992-07-20', 'rohit.driver@zmail.com', 'Rohit', NULL, 'Verma', 'Rohit@123', 'DELIVERY_PERSON', 5),
+  (CURDATE(), NOW(), '1994-11-05', 'anju.rider@zmail.com', 'Anju', NULL, 'Yadav', 'Anju@123', 'DELIVERY_PERSON', 6);
+
+
+

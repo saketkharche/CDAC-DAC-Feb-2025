@@ -1,2 +1,11 @@
+com\app\beans\UserBean.class
+com\app\dto\PartywiseVotes.class
+com\app\entities\User.class
+com\app\dao\UserDaoImpl.class
+com\app\dao\CandidateDaoImpl.class
+com\app\beans\CandidateBean.class
+com\app\entities\Candidate.class
+com\app\dao\CandidateDao.class
+com\app\dao\UserDao.class
 com\app\listeners\HibernateSFManager.class
 com\app\utils\HibernateUtils.class

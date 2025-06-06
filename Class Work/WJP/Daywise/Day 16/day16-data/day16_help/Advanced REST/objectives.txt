@@ -1,0 +1,59 @@
+1. Revise Backend development with annotations
+2. What will happen 
+ - If you give 0 id to create a restaurant ?
+ - Fix the problem
+3. Complete update n delete 
+ - Restaurant entity (standalone)
+3.1 
+Get Restaurant details by id
+URL - http://host:port/restaurants/{restaurantId}
+Method - GET
+
+3.2 Update (complete) restaurant details
+URL - http://host:port/restaurants/{restaurantId} - template URI variable
+Method -PUT
+Payload -updated restaurant details - @RequestBody
+Resp - DTO : ApiResp - SC 200 , mesg
+
+3.3 Delete restaurant details by name
+URL - http://host:port/restaurants/{restaurantName} - template URI variable
+Method -DELETE
+Payload -none
+success - Resp - DTO : ApiResp - SC 200 , mesg
+error resp - ApiResp - SC 404 ,err mesg
+
+
+4. In case of error (eg -dup restaurant name ) 
+ - Should you send the error stack trace to front end ?
+
+5. Better design practice
+ - Failure response – Suitable error code  (HttpStatus.CONFLICT) : 409
+ - API response  DTO 
+
+
+6. Add the bi dir associtation
+ Restaurant 1<--->* FoodItem
+Run the end point again
+ - To get restaurant details by id 
+ - observe n conclude
+7. Entity vs DTO
+8. ModelMapper 
+9. Fix errors in  
+ - To get restaurant details by id 
+
+
+ - getAllRestaurants
+ - addNewRestaurant
+ - add food item to the restaurant
+10. Assign User address
+
+11. Get all food items by specific restaurant 
+ - i/p – resturant id
+ -resp – List<Food item>
+
+12. Spring boot testing
+
+13. User sign in
+14. User sign up
+
+
