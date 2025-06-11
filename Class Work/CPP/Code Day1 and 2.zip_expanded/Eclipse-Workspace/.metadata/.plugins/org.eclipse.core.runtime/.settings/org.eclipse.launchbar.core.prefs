@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Feb25Test.exe,org.eclipse.launchbar.core.descriptorType.default\:ClassTest.exe,org.eclipse.launchbar.core.descriptorType.default\:Day1.1.exe,org.eclipse.launchbar.core.descriptorType.default\:Day1.2.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.1.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.3.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.4.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.5.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.6.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.7.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.8.exe,org.eclipse.launchbar.core.descriptorType.default\:Day2.9.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ClassTest.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ClassTest.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Feb25Test.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Feb25Test.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

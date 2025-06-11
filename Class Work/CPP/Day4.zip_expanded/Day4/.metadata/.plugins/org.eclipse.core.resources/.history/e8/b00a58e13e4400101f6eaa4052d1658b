@@ -1,0 +1,13 @@
+#include<iostream>
+
+int main()
+{
+	using namespace std;
+	cout<<"Hello World";
+	cout<<"Hello World";
+	cout<<"Hello World";
+}
+int Show()
+{
+	cout<<"\n AM SHow";
+}

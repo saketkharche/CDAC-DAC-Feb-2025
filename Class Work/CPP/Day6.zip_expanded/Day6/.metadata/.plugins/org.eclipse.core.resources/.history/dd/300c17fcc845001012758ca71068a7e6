@@ -1,0 +1,36 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+class A
+{
+public:
+int Num1;
+};
+class B:public A
+{
+public:
+int Num2;
+B()
+{
+	this->Num1=10;
+}
+};
+class C: public A
+{
+public:
+	int Num3;
+	C()
+	{
+		this->Num1=20;
+	}
+};
+class D:public B, public C
+{
+public:
+	int Num4;
+};
+int main()
+{
+
+	return 0;
+}

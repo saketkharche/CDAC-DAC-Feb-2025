@@ -1,16 +1,39 @@
 #include <iostream>
-
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-int main() {
-    // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the <b>lang</b> variable name to see how CLion can help you rename it.
-    auto lang = "C++";
-    std::cout << "Hello and welcome to " << lang << "!\n";
-
-    for (int i = 1; i <= 5; i++) {
-        // TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        std::cout << "i = " << i << std::endl;
-    }
-
+using namespace std;
+typedef struct Employee //Declaration of the structure Employee
+        {
+        int EmpId; //Data Member of the structure Employee
+        char Name[50]; //Data Member of the structure Employee
+        float Salary; //Data Member of the structure Employee
+        int Age; //Data Member of the structure Employee
+        void ScanData()
+        {
+            printf("Enter Name: ");
+            fflush(stdout);
+            scanf("%s", Name);
+            printf("\nEnter EmpId: ");
+            fflush(stdout);
+            scanf("%d", &EmpId);
+            printf("\nEnter Age: ");
+            fflush(stdout);
+            scanf("%d", &Age);
+            printf("\nEnter Salary: ");
+            fflush(stdout);
+            scanf("%f", &Salary);
+        }
+        void PrintData() //Member Function of struct Employee
+        {
+            printf("\n The Values of Employee:");
+            printf("\n Name: %s",Name);
+            printf("\n Age: %d", Age);
+            printf("\n Salary: %f", Salary);
+            printf("\n EmpId: %d",EmpId);
+        }
+        }yadhav;
+int main()
+{
+    yadhav m1;
+    m1.ScanData();
+    m1.PrintData();
     return 0;
-    // TIP See CLion help at <a href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>. Also, you can try interactive lessons for CLion by selecting 'Help | Learn IDE Features' from the main menu.
 }

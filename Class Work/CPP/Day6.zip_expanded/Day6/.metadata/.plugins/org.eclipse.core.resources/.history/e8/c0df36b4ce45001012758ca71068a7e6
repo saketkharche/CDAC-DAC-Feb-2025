@@ -1,0 +1,42 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
+class Test1
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Test1"<<endl;
+	}
+};
+
+class Test2: public Test1
+{
+public:
+	void Show()		//Method Overriding
+	{
+		cout<<"Am Show of Test2"<<endl;
+	}
+};
+
+int main()
+{
+	Test2 t2;
+	t2.Show();		//Early Binding, compiler is big enough to resolve this call
+
+	Test2 *ptr=new Test2();		//Early Binding		//here, Derived class to derived pointer variable
+	ptr->Show();
+
+	//Test2 *ptr1=new Test1();	//NOT OK, error: invalid conversion from 'Test1*' to 'Test2*'
+
+	Test1 *basePtr=new Test2();	//OK, Up-casting
+
+	basePtr->Show();
+
+
+
+
+
+	return 0;
+}

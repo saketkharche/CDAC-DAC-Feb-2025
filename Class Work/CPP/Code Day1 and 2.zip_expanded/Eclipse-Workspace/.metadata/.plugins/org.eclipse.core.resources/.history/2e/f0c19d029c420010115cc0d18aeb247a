@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+
+int main()
+{
+
+	//Add();	//NOT OK, Add is not defined yet so linker will throw an error that is known link error
+	return 0;
+}
+
+void Show()
+{
+	printf("Show function called\n");
+}
+
+
+

@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+
+	const int Num1 = 5;	// Constant integer Num1 with value 5
+
+	printf("The value of Num1 is: %d\n", Num1); // Print the value of Num1
+	return 0;
+}
+

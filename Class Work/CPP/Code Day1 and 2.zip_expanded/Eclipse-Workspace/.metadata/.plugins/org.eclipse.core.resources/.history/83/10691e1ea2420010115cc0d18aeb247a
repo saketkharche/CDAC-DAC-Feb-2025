@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+
+	int Num1;
+	printf("The value of Num1: %d", Num1);		//C Style printf
+
+	printf("\n Address of Num1: %p", &Num1);		//C Style printf"
+	return 0;
+}
+

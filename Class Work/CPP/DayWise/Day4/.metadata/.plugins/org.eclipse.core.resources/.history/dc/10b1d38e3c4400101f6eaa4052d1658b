@@ -1,0 +1,20 @@
+#include<iostream>
+
+using namespace std;
+
+namespace NA
+{
+int Num1=100;
+}
+
+
+int Num1=300;
+int main()
+{
+	int Num1=200;
+
+	printf("The Value of Local Num1:%d", Num1);
+	printf("\nThe Value of Global Num1:%d", ::Num1);	//Accessing Global variable using :: Scope Resolution Operator
+
+	return 0;
+}

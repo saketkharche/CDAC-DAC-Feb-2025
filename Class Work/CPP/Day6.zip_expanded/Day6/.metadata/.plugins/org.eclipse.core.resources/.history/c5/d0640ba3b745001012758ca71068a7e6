@@ -1,0 +1,54 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+class ArithmaticException
+{
+private:
+	string Message;
+	int LineNumber;
+	string FunctionName;
+	string FileName;
+
+public:
+	ArithmaticException(string Message, int LineNumber, string FunctionName, string FileName): Message(Message), LineNumber(LineNumber), FunctionName(FunctionName), FileName(FileName)
+	{
+
+	}
+
+	void PrintStackTrace()
+	{
+		cout<<this->Message<<" in "<<this->FileName<<" in "<<this->FunctionName<<" at line no: "<<this->LineNumber<<endl;
+	}
+	string GetMessage()
+	{
+		return this->Message;
+	}
+};
+
+void Div(int Num1, int Num2) throw (ArithmaticException)
+{
+	if(Num2==0)
+	{
+		throw ArithmaticException("Divide By Zero Exception",__LINE__, __FUNCTION__, __FILE__);
+	}
+	int Res=Num1/Num2;
+	cout<<"The Res: "<<Res<<endl;
+}
+int main()
+{
+	int Num1=10;
+	int Num2=0;
+	try
+	{
+		Div(Num1,Num2);
+	}
+	catch(ArithmaticException &ref)
+	{
+		cout<<"Exception Occurred: "<<ref.GetMessage()<<endl;
+		ref.PrintStackTrace();
+	}
+
+	cout<<"Rest of the Program"<<endl;
+	return 0;
+}
+

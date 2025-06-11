@@ -1,0 +1,19 @@
+#include<iostream>
+
+using namespace std;
+
+
+
+
+int main()
+{
+	//int Num1=200;	//Local Variable Num1
+
+	extern int Num1;	//Here extern keyword will look for Num1 variable Globally
+	printf("The Num is:%d", Num1);
+
+	printf("The Value of Num2:%d",Num2);
+	return 0;
+}
+int Num1=100;		//Global Variable Num1
+static int Num2=300;

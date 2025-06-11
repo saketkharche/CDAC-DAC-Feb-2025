@@ -1,0 +1,31 @@
+#include<iostream>
+using namespace std;
+
+int Add(int a, int b)
+{
+	return a+b;
+}
+int Sub(int a, int b)
+{
+	return a-b;
+}
+int Mul(int a, int b)
+{
+	return a*b;
+}
+int Div(int a, int b)
+{
+	return a/b;
+}
+int main()
+{
+	int a=100, b=200;
+
+	printf("The Sum is: %d", Add(a,b));
+	printf("The Sub is: %d", Sub(a,b));
+	printf("The Mul is: %d", Mul(a,b));
+	printf("The Div is: %d", Div(a,b));
+
+
+	return 0;
+}

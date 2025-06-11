@@ -1,0 +1,14 @@
+#include<iostream>
+
+using namespace std;
+
+int Num1=100;
+int main()
+{
+	int Num1=200;
+
+	printf("The Value of Local Num1:%d", Num1);
+	printf("\nThe Value of Global Num1:%d", ::Num1);
+
+	return 0;
+}

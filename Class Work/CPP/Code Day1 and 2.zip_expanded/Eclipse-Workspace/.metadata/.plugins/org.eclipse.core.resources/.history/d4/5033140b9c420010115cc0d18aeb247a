@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+
+int main()
+{
+
+	SHow();
+	return 0;
+}
+
+void Show()
+{
+	printf("Show function called\n");
+}
+
+
+

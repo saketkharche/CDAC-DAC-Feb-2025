@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+
+class Employee			//Class is a blueprint of the object
+{
+public:
+	int EmpId;			//Public Data Members of the class
+	char Name[50];
+	float Salary;
+	int Age;
+
+	void Scandata()
+	{
+		int EmpId;
+		printf("Enter EmpId: ");
+		fflush(stdout);
+		scanf("%d",this->EmpId);
+	}
+	void PrintData()
+	{
+		printf("Emp Id:%d", EmpId);
+	}
+};
+int main()
+{
+	Employee e;		//Object Employee class
+	return 0;
+}

@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
+
+
+int main()
+{
+
+	int status=0;
+	if(status==0)
+	{
+		cout<<"if"<<endl;
+	}
+	else
+	{
+		cout<<"else"<<endl;
+	}
+	return 0;
+	//return 0 //error: expected ';' before '}' token
+}
+
+

@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Day3.1.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.2.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.3.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.4.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.5.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.6.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.7.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.8.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.9.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.10.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.11.exe,org.eclipse.launchbar.core.descriptorType.default\:Day3.12.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Day3.1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Day3.1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

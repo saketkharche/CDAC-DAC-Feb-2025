@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+struct Employee
+{
+	unsigned int EmpId;
+	//char Name[50];
+	float Salary;
+}e1,e2,e3,e4;
+int main()
+{
+
+	struct Employee e5,e6,e7;
+
+	e5.EmpId=1001;
+	//e5.Name="Malkeet";
+	e5.Salary=56778.89;
+
+	printf("EmpId: %d", e5.EmpId);
+	//printf("Name: %s", e5.Name);
+	printf("\n Salary: %f", e5.Salary);
+
+	return 0;
+}
+
+
+

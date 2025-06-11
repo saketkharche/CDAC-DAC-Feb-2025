@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+
+int main()
+{
+
+	void Show();
+	Show();
+	return 0;
+}
+
+void Show()
+{
+	printf("Show function called\n");
+}
+
+
+
