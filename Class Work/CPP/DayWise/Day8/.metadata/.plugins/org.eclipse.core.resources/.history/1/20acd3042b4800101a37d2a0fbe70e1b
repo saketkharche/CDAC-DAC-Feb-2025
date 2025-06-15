@@ -1,0 +1,37 @@
+#include <iostream>
+#include <typeinfo>
+using namespace std;
+
+class Test{
+public:
+	int Num1;
+	int Num2;
+	Test()
+	{
+		this->Num1=0;
+		this->Num2=0;
+	}
+	Test(int Num1, int Num2)
+	{
+		this->Num1=Num1;
+		this->Num2=Num2;
+	}
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+	void NoChangeInData() const
+	{
+
+	}
+};
+int main()
+{
+	Test t1(100,200);
+	t1.Print();
+	t1.NoChangeInData();
+	t1.Print();
+
+	return 0;
+}
+

@@ -1,0 +1,11 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main()
+{
+	int *ptr==malloc(3*sizeof(int));
+
+	return 0;
+}
+

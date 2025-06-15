@@ -1,0 +1,73 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Student
+{
+public:
+	int RollNo;
+	string Name;
+
+	Student()
+	{
+		this->RollNo=0;
+		this->Name="";
+	}
+	Student(int RollNo, string Name)
+	{
+		this->RollNo=RollNo;
+		this->Name=Name;
+	}
+	void PrintStudent()const
+	{
+		cout<<"Roll No: "<<this->RollNo<<" Name: "<<this->Name<<endl;
+	}
+};
+class StudentAdmin
+{
+	vector<Student> slist;
+public:
+	StudentAdmin()
+	{
+		slist.push_back(Student(101, "Malkeet"));
+		slist.push_back(Student(102, "Rohan"));
+		slist.push_back(Student(103, "Zeenat"));
+	}
+	void AddStudent()
+	{
+		Student s;
+		cout<<"Enter Roll No:"<<endl;
+		cout<<"Enter Name:"<<endl;
+		cin>>s.Name;
+		slist.push_back(s);
+		cout<<"Student Added"<<endl;
+	}
+	void DeleteStudent()
+	{
+		bool flag=false;
+		int RollNo;
+		cout<<"Enter Roll No:"<<endl;
+		cin>>RollNo;
+		for(int i=0;i<slist.size();i++)
+		{
+			if(slist[i].RollNo==RollNo)
+			{
+				slist.erase(slist.begin()+i);
+				flag=true;
+				break;
+			}
+		}
+		if(flag==true)
+		{
+			cout<<"Student Record Deleted"<<endl;
+		}
+		else
+		{
+			cout<<"Student Not Found"<<endl;
+		}
+	}
+};
+int main()
+{
+	return 0;
+}

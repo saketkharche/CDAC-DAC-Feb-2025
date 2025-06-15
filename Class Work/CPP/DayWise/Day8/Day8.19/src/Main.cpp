@@ -1,0 +1,47 @@
+#include <iostream>
+#include <typeinfo>
+using namespace std;
+
+class Test{
+public:
+	int Num1;
+	int Num2;
+	Test()
+	{
+		this->Num1=0;
+		this->Num2=0;
+	}
+	Test(int Num1, int Num2)
+	{
+		this->Num1=Num1;
+		this->Num2=Num2;
+	}
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+	void NoChangeInData()const		//Test *const this
+	{
+		//Test *const ptr=(Test *const)this;
+		Test *const ptr=const_cast<Test *const>(this);		//Convertion of Non-Constant Memory to Constant Pointer Type memory
+	}
+	void Show()const	//const Test *const this;
+	{
+
+	}
+};
+int main()
+{
+	int Num1=100;			//Num1 is non-constant integer variable
+
+	const int *const ptr=&Num1;
+	//*ptr=200;		//NOT OK, error: assignment of read-only location '*(const int*)ptr'
+
+	Test t1(100,200);
+	t1.Print();
+	t1.NoChangeInData();
+	t1.Print();
+
+	return 0;
+}
+

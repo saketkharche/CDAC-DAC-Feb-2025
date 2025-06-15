@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainings\\JKJun25\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167027C3-33FE-4F78-9634-FB265CAF01CF}|ContructorsAndDestructors\\ContructorsAndDestructors.csproj|d:\\trainings\\jkjun25\\day1\\contructorsanddestructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167027C3-33FE-4F78-9634-FB265CAF01CF}|ContructorsAndDestructors\\ContructorsAndDestructors.csproj|solutionrelative:contructorsanddestructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901EB6A-334D-49F6-91BB-8EDB87D1A2AA}|FieldsAndProperties\\FieldsAndProperties.csproj|d:\\trainings\\jkjun25\\day1\\fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901EB6A-334D-49F6-91BB-8EDB87D1A2AA}|FieldsAndProperties\\FieldsAndProperties.csproj|solutionrelative:fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day1\\ContructorsAndDestructors\\Program.cs",
+              "RelativeDocumentMoniker": "ContructorsAndDestructors\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day1\\ContructorsAndDestructors\\Program.cs*",
+              "RelativeToolTip": "ContructorsAndDestructors\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:55:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeDocumentMoniker": "FieldsAndProperties\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeToolTip": "FieldsAndProperties\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwEsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:30:41.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Student
+{
+public:
+	int RollNo;
+	string Name;
+
+	Student()
+	{
+		this->RollNo=0;
+		this->Name=NULL;
+	}
+	Student(int RollNo, string Name)
+	{
+		this->RollNo=RollNo;
+		this->Name=Name;
+	}
+	void PrintStudent()const
+	{
+		cout<<"Roll No: "<<this->RollNo<<" Name: "<<this->Name<<endl;
+	}
+};
+class StudentAdmin
+{
+	vector<Student> slist;
+public:
+	StudentAdmin()
+	{
+		slist.push_back(Student(101, "Malkeet"));
+	}
+};
+int main()
+{
+	return 0;
+}

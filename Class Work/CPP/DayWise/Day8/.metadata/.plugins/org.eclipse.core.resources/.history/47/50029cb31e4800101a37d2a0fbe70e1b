@@ -1,0 +1,47 @@
+#include <iostream>
+using namespace std;
+
+class Test{
+public:
+	int Num1;
+	int Num2;
+	Test()
+	{
+		this->Num1=0;
+		this->Num2=0;
+	}
+	Test(int Num1, int Num2)
+	{
+		this->Num1=Num1;
+		this->Num2=Num2;
+	}
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+/*
+	void operator++(int n)
+	{
+		this->Num1=this->Num1+1;
+		this->Num2=this->Num2+1;
+	}
+*/
+};
+
+void operator++(Test &o1, int n)
+{
+	o1.Num1=o1.Num1+1;
+	o1.Num2=o1.Num2+1;
+}
+
+
+
+int main()
+{
+	Test t1(10,20);
+	//t1++;				//t1.operator++();   //Member Function of the class
+	t1++;				//operator++(t1,0);
+	t1.Print();
+	return 0;
+}
+

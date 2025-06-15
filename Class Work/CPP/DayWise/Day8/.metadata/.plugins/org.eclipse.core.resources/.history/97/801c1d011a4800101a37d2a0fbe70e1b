@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+
+class Test{
+public:
+	int Num1;
+	int Num2;
+	Test()
+	{
+		this->Num1=0;
+		this->Num2=0;
+	}
+	Test(int Num1, int Num2)
+	{
+		this->Num1=Num1;
+		this->Num2=Num2;
+	}
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+
+	Test operator++(int n)
+	{
+		Test t;
+		t.Num1=this->Num1+1;
+		t.Num2=this->Num2+1;
+		return t;
+	}
+
+};
+
+
+
+
+int main()
+{
+	Test t1(10,20);
+	t1++;				//t1.operator++();
+	t1.Print();
+	return 0;
+}
+

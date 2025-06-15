@@ -1,0 +1,11 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main()
+{
+	int *ptr=new int;
+	cout<<"The Value at ptr: "<<*ptr;
+	return 0;
+}
+

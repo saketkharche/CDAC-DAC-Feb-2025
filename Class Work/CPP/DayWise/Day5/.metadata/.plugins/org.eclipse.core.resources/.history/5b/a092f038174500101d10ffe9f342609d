@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
+
+int main()
+{
+	int Num1=100;
+	int &Ref=Num1;
+	cout<<"The value of Num1: "<<Num1;
+	cout<<"The value of Ref: "<<Ref;
+	return 0;
+}
+

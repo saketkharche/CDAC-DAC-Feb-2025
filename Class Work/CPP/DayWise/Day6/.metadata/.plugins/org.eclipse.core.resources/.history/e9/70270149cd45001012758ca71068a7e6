@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
+class Test1
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Test2"<<endl;
+	}
+};
+
+class Test2: public Test1
+{
+public:
+	void Show()		//Method Overriding
+	{
+		cout<<"Am Show of Test2"<<endl;
+	}
+};
+
+int main()
+{
+	Test1 t1;
+	t1.Show();
+	return 0;
+}

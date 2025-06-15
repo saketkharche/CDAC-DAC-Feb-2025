@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+class Test
+{
+public:
+	int Num1;
+	float F2;
+};
+template <class T>
+class Demo
+{
+public:
+	T Val1;
+	T Val2;
+
+}
+
+
+int main()
+{
+
+	return 0;
+}

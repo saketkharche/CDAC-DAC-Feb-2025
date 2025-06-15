@@ -1,0 +1,22 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Test
+{
+private:
+	int Num1;
+	int Num2;
+public:
+	void PrintData()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+};
+
+int main()
+{
+
+	return 0;
+}
+

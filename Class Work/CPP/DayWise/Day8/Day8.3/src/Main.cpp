@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+class Test
+{
+public:
+	int Num1;			//Object Data Member
+	int Num2;			//Object Data Member
+	static int Num3;	//Class Data Member
+
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<" Num3: "<<Test::Num3<<endl;
+	}
+};
+int Test::Num3=300;		//Global Definition of Num3
+int main()
+{
+	Test t;
+	t.Num1=100;
+	t.Num2=200;
+	t.Num3=500;			//OK, but not recommended
+	Test::Num3=500;		//OK, static data member should be accessed in static way i.e. by using class name
+	t.Print();
+	return 0;
+}
+

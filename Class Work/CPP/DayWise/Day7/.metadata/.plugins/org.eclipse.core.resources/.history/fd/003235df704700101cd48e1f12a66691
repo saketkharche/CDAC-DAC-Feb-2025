@@ -1,0 +1,29 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Test
+{
+private:
+	int Num1;
+	int Num2;
+public:
+	void PrintData()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+};
+void GetData()
+{
+	Test t;
+	t.Num1=100;
+	t.Num2=200;
+}
+int main()
+{
+	Test t;
+	t.Num1=100;
+	t.Num2=200;
+	return 0;
+}
+

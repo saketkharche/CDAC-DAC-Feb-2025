@@ -1,0 +1,30 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Test
+{
+private:
+	int Num1;
+	int Num2;
+public:
+	void PrintData()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+};
+void GetData()			//Non Member Function of the class Test
+{
+	Test t;
+	t.Num1=100;
+	t.Num2=200;
+}
+int main()				//Non Member Function of the class Test
+{
+	Test t;
+	t.Num1=100;
+	t.Num2=200;
+	t.PrintData();
+	return 0;
+}
+

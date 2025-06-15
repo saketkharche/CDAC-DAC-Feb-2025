@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
+
+int main()
+{
+	int Num1=100;
+	int &Ref=Num1;		//Ref is known as reference variable of type int\
+	int *ptr=&Num1;		//Here ptr is a pointer of type int
+	cout<<"The value of Num1: "<<Num1;
+	cout<<"The value of Ref: "<<Ref;
+
+
+	//int &ref2;		//NOT OK
+	//ref=&Num1
+	return 0;
+}
+

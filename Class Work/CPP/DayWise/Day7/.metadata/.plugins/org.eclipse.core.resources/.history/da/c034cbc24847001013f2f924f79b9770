@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+class Test
+{
+public:
+	int Num1;
+	float F2;
+};
+template <typename T>
+class Demo
+{
+public:
+	T Val1;
+	T Val2;
+
+	void GetData()
+	{
+		cout<<"Enter Two Values:"<<endl;
+		cin>>this->Val1>>this->Val2;
+	}
+
+	void PrintData()
+	{
+		cout<<"Val1: "<<this->Val1<<" Val2: "<<this->Val2<<endl;
+	}
+};
+
+
+int main()
+{
+
+	return 0;
+}

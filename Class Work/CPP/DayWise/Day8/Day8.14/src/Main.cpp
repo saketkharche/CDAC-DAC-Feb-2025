@@ -1,0 +1,41 @@
+#include <iostream>
+using namespace std;
+
+class Test{
+public:
+	int Num1;
+	int Num2;
+	Test()
+	{
+		this->Num1=0;
+		this->Num2=0;
+	}
+	Test(int Num1, int Num2)
+	{
+		this->Num1=Num1;
+		this->Num2=Num2;
+	}
+	void Print()
+	{
+		cout<<"Num1: "<<this->Num1<<" Num2: "<<this->Num2<<endl;
+	}
+	friend istream& operator>>(istream &cin,Test &ref);
+};
+istream& operator>>(istream &cin, Test &ref)
+{
+	cout<<"Enter Num1: "<<endl;
+	cin>>ref.Num1;
+	cout<<"Enter Num2: "<<endl;
+	cin>>ref.Num2;
+	return cin;
+}
+
+
+int main()
+{
+	Test t1;
+	cin>>t1;		//operator>>(cin, t1)
+	t1.Print();
+	return 0;
+}
+

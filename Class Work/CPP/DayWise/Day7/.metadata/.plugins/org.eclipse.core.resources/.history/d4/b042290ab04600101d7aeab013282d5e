@@ -1,0 +1,28 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Student
+{
+public:
+	int RollNo;
+	string Name;
+
+	void PrintStudent()const
+	{
+		cout<<"Roll No: "<<this->RollNo<<" Name: "<<this->Name<<endl;
+	}
+};
+class StudentAdmin
+{
+	vector<Student> slist;
+public:
+	StudentAdmin()
+	{
+		slist.pus
+	}
+};
+int main()
+{
+	return 0;
+}

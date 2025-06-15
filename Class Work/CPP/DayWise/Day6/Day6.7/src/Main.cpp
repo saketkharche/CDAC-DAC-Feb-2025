@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+class A
+{
+public:
+	int Num1;
+	int Num2;
+};
+class B:private A
+{
+public:
+	void GetData()
+	{
+		this->Num1=100;
+		this->Num2=200;
+	}
+};
+int main()
+{
+	B b1;
+	b1.GetData();
+
+	//cout<<"Num1 of b1: "<<b1.Num1<<endl;  //NOT OK, becouse Num1 and Num2 becomes private in class B
+	//cout<<"Num2 of b1: "<<b1.Num2<<endl;
+
+	return 0;
+}

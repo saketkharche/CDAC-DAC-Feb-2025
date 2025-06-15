@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+class Student
+{
+public:
+	int RollNo;
+	string Name;
+
+	void PrintStudent()const
+	{
+		cout<<"Roll No: "<<this->RollNo<<" Name: "<<this->Name<<endl;
+	}
+};
+
+int main()
+{
+	return 0;
+}
