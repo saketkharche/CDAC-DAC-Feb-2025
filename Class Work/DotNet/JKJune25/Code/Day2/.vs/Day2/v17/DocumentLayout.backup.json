@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4491D4-8F51-42F7-BC69-A99EF90B8A72}|..\\..\\..\\..\\..\\DotNet\\Assignment2\\Assignment2.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\dotnet\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED5338B-7DC4-4482-A6DA-875BE33FDB5D}|InterfaceExample1\\InterfaceExample1.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\code\\day2\\interfaceexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED5338B-7DC4-4482-A6DA-875BE33FDB5D}|InterfaceExample1\\InterfaceExample1.csproj|solutionrelative:interfaceexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595C0EE-63D6-470E-9819-E3464B1F7544}|AbstractClasses\\AbstractClasses.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\code\\day2\\abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595C0EE-63D6-470E-9819-E3464B1F7544}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD925D-0C62-48FE-93BF-BB1BD775E872}|OverloadingHidingAndOverriding\\OverloadingHidingAndOverriding.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\code\\day2\\overloadinghidingandoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FD925D-0C62-48FE-93BF-BB1BD775E872}|OverloadingHidingAndOverriding\\OverloadingHidingAndOverriding.csproj|solutionrelative:overloadinghidingandoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\DotNet\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DotNet\\Assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\DotNet\\Assignment2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DotNet\\Assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:00:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\InterfaceExample1\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample1\\Program.cs",
+              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\InterfaceExample1\\Program.cs",
+              "RelativeToolTip": "InterfaceExample1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:45:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\AbstractClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\AbstractClasses\\Program.cs",
+              "RelativeToolTip": "AbstractClasses\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:13:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\OverloadingHidingAndOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "OverloadingHidingAndOverriding\\Program.cs",
+              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\OverloadingHidingAndOverriding\\Program.cs",
+              "RelativeToolTip": "OverloadingHidingAndOverriding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:58:24.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

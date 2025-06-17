@@ -1,0 +1,15 @@
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\bin\Debug\net9.0\Assignment2.exe
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\bin\Debug\net9.0\Assignment2.deps.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\bin\Debug\net9.0\Assignment2.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\bin\Debug\net9.0\Assignment2.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\bin\Debug\net9.0\Assignment2.pdb
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.sourcelink.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\refint\Assignment2.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.pdb
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\Assignment2.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\DotNet\Assignment2\obj\Debug\net9.0\ref\Assignment2.dll

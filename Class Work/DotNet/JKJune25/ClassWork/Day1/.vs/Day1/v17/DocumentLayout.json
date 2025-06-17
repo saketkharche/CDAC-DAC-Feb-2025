@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\ClassWork\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F6E20A-650A-4D0E-8745-B6A78F487AB3}|ClassBasics\\ClassBasics.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\classwork\\day1\\classbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F6E20A-650A-4D0E-8745-B6A78F487AB3}|ClassBasics\\ClassBasics.csproj|solutionrelative:classbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEAF363E-05B8-448C-BEF5-6DE04D8836A2}|FieldsAndProperties\\FieldsAndProperties.csproj|c:\\users\\saket\\onedrive\\desktop\\everything\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\classwork\\day1\\fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAF363E-05B8-448C-BEF5-6DE04D8836A2}|FieldsAndProperties\\FieldsAndProperties.csproj|solutionrelative:fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\ClassWork\\Day1\\ClassBasics\\Program.cs",
-              "RelativeDocumentMoniker": "ClassBasics\\Program.cs",
-              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\ClassWork\\Day1\\ClassBasics\\Program.cs",
-              "RelativeToolTip": "ClassBasics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\ClassWork\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeDocumentMoniker": "FieldsAndProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\ClassWork\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeToolTip": "FieldsAndProperties\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T16:31:49.357Z",
+              "WhenOpened": "2025-06-15T18:09:54.156Z",
               "EditorCaption": ""
             }
           ]

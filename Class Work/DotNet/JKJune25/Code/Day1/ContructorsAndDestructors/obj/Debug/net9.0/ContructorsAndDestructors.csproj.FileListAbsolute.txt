@@ -12,3 +12,18 @@ D:\Trainings\JKJun25\Day1\ContructorsAndDestructors\obj\Debug\net9.0\refint\Cont
 D:\Trainings\JKJun25\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.pdb
 D:\Trainings\JKJun25\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.genruntimeconfig.cache
 D:\Trainings\JKJun25\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ref\ContructorsAndDestructors.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\bin\Debug\net9.0\ContructorsAndDestructors.exe
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\bin\Debug\net9.0\ContructorsAndDestructors.deps.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\bin\Debug\net9.0\ContructorsAndDestructors.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\bin\Debug\net9.0\ContructorsAndDestructors.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\bin\Debug\net9.0\ContructorsAndDestructors.pdb
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.sourcelink.json
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\refint\ContructorsAndDestructors.dll
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.pdb
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ContructorsAndDestructors.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\EveryThing\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day1\ContructorsAndDestructors\obj\Debug\net9.0\ref\ContructorsAndDestructors.dll
