@@ -1,0 +1,13 @@
+1. Declare a List of Employee class objects 
+        
+Accept details for Employees  in a loop. Stop accepting based on user input (yes/no)'
+Display the Employee with highest Salary
+Accept EmpNo to be searched. Display all details for that employee.
+Display details for the Nth Employee where N is a number accepted from the user.
+
+
+2. Create an array of Employee objects. Convert it to a List<Employee>.  Display all the Employees in the list.
+
+3. Create a List<Employee>. Convert it to an array. Display all the array elements.
+
+

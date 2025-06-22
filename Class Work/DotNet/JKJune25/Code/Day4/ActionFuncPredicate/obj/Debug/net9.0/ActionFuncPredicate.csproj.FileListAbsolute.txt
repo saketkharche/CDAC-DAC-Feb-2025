@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.exe
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.deps.json
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.runtimeconfig.json
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.dll
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.pdb
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.dll
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\refint\ActionFuncPredicate.dll
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.pdb
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day4\ActionFuncPredicate\obj\Debug\net9.0\ref\ActionFuncPredicate.dll

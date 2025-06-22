@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainings\\JKJun25\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4E3137-34F2-488E-AF7F-2AA54F408E12}|Lambdas\\Lambdas.csproj|d:\\trainings\\jkjun25\\day4\\lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4E3137-34F2-488E-AF7F-2AA54F408E12}|Lambdas\\Lambdas.csproj|solutionrelative:lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F98A354-FBD9-4BF6-AD4C-67E15B1F8BC5}|ActionFuncPredicate\\ActionFuncPredicate.csproj|d:\\trainings\\jkjun25\\day4\\actionfuncpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F98A354-FBD9-4BF6-AD4C-67E15B1F8BC5}|ActionFuncPredicate\\ActionFuncPredicate.csproj|solutionrelative:actionfuncpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25361BDA-7508-47CE-9183-4254103E5E58}|AnonymousMethods\\AnonymousMethods.csproj|d:\\trainings\\jkjun25\\day4\\anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25361BDA-7508-47CE-9183-4254103E5E58}|AnonymousMethods\\AnonymousMethods.csproj|solutionrelative:anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DAC8C0-5968-4E8B-8D5B-D6F82D483669}|DelegatesExample\\DelegatesExample.csproj|d:\\trainings\\jkjun25\\day4\\delegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DAC8C0-5968-4E8B-8D5B-D6F82D483669}|DelegatesExample\\DelegatesExample.csproj|solutionrelative:delegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day4\\Lambdas\\Program.cs",
+              "RelativeDocumentMoniker": "Lambdas\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day4\\Lambdas\\Program.cs*",
+              "RelativeToolTip": "Lambdas\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAA7wC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:11:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day4\\AnonymousMethods\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousMethods\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day4\\AnonymousMethods\\Program.cs",
+              "RelativeToolTip": "AnonymousMethods\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:35:09.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day4\\ActionFuncPredicate\\Program.cs",
+              "RelativeDocumentMoniker": "ActionFuncPredicate\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day4\\ActionFuncPredicate\\Program.cs",
+              "RelativeToolTip": "ActionFuncPredicate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:59:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day4\\DelegatesExample\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesExample\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day4\\DelegatesExample\\Program.cs",
+              "RelativeToolTip": "DelegatesExample\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA5wGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:57:10.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

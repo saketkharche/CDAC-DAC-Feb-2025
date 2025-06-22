@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day4\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.exe
+D:\Trainings\JKJun25\Day4\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.deps.json
+D:\Trainings\JKJun25\Day4\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.runtimeconfig.json
+D:\Trainings\JKJun25\Day4\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.dll
+D:\Trainings\JKJun25\Day4\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.pdb
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.dll
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\refint\AnonymousMethods.dll
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.pdb
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day4\AnonymousMethods\obj\Debug\net9.0\ref\AnonymousMethods.dll

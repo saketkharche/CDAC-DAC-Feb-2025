@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day5\EventHandling\bin\Debug\net9.0\EventHandling.exe
+D:\Trainings\JKJun25\Day5\EventHandling\bin\Debug\net9.0\EventHandling.deps.json
+D:\Trainings\JKJun25\Day5\EventHandling\bin\Debug\net9.0\EventHandling.runtimeconfig.json
+D:\Trainings\JKJun25\Day5\EventHandling\bin\Debug\net9.0\EventHandling.dll
+D:\Trainings\JKJun25\Day5\EventHandling\bin\Debug\net9.0\EventHandling.pdb
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.dll
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\refint\EventHandling.dll
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.pdb
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\EventHandling.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day5\EventHandling\obj\Debug\net9.0\ref\EventHandling.dll

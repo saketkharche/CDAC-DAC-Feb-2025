@@ -1,0 +1,33 @@
+D:\Trainings\JKJun25\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+D:\Trainings\JKJun25\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+D:\Trainings\JKJun25\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Trainings\JKJun25\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+D:\Trainings\JKJun25\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day5\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\saket\OneDrive\Desktop\CDAC DAC study\CDAC-DAC-Feb-2025\Class Work\DotNet\JKJune25\Code\Day5\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll

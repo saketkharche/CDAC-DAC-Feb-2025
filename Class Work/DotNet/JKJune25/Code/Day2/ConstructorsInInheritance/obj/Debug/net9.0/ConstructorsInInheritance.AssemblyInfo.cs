@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConstructorsInInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec2b7064f58dbc4fbcf3d0379a043a43f3a4c8d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConstructorsInInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConstructorsInInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

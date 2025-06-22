@@ -1,1 +1,0 @@
-https://www.devteam.space/blog/hibernate-vs-jdbc-which-to-choose/

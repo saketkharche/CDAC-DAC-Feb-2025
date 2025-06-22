@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day4\CollectionsExample\bin\Debug\net9.0\CollectionsExample.exe
+D:\Trainings\JKJun25\Day4\CollectionsExample\bin\Debug\net9.0\CollectionsExample.deps.json
+D:\Trainings\JKJun25\Day4\CollectionsExample\bin\Debug\net9.0\CollectionsExample.runtimeconfig.json
+D:\Trainings\JKJun25\Day4\CollectionsExample\bin\Debug\net9.0\CollectionsExample.dll
+D:\Trainings\JKJun25\Day4\CollectionsExample\bin\Debug\net9.0\CollectionsExample.pdb
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.dll
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\refint\CollectionsExample.dll
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.pdb
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\CollectionsExample.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day4\CollectionsExample\obj\Debug\net9.0\ref\CollectionsExample.dll

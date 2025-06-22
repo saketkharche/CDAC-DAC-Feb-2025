@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\StaticMembers\\StaticMembers.csproj": {}
+    "D:\\Trainings\\JKJun25\\Day2\\StaticMembers\\StaticMembers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\StaticMembers\\StaticMembers.csproj": {
+    "D:\\Trainings\\JKJun25\\Day2\\StaticMembers\\StaticMembers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\StaticMembers\\StaticMembers.csproj",
+        "projectUniqueName": "D:\\Trainings\\JKJun25\\Day2\\StaticMembers\\StaticMembers.csproj",
         "projectName": "StaticMembers",
-        "projectPath": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\StaticMembers\\StaticMembers.csproj",
-        "packagesPath": "C:\\Users\\saket\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saket\\OneDrive\\Desktop\\EveryThing\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day2\\StaticMembers\\obj\\",
+        "projectPath": "D:\\Trainings\\JKJun25\\Day2\\StaticMembers\\StaticMembers.csproj",
+        "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
+        "outputPath": "D:\\Trainings\\JKJun25\\Day2\\StaticMembers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\saket\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day4\Lambdas\bin\Debug\net9.0\Lambdas.exe
+D:\Trainings\JKJun25\Day4\Lambdas\bin\Debug\net9.0\Lambdas.deps.json
+D:\Trainings\JKJun25\Day4\Lambdas\bin\Debug\net9.0\Lambdas.runtimeconfig.json
+D:\Trainings\JKJun25\Day4\Lambdas\bin\Debug\net9.0\Lambdas.dll
+D:\Trainings\JKJun25\Day4\Lambdas\bin\Debug\net9.0\Lambdas.pdb
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.dll
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\refint\Lambdas.dll
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.pdb
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\Lambdas.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day4\Lambdas\obj\Debug\net9.0\ref\Lambdas.dll

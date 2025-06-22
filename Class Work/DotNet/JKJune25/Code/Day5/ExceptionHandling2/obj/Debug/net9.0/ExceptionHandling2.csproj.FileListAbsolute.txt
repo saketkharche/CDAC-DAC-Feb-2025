@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\bin\Debug\net9.0\ExceptionHandling2.exe
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\bin\Debug\net9.0\ExceptionHandling2.deps.json
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\bin\Debug\net9.0\ExceptionHandling2.runtimeconfig.json
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\bin\Debug\net9.0\ExceptionHandling2.dll
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\bin\Debug\net9.0\ExceptionHandling2.pdb
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.dll
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\refint\ExceptionHandling2.dll
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.pdb
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ExceptionHandling2.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day5\ExceptionHandling2\obj\Debug\net9.0\ref\ExceptionHandling2.dll
