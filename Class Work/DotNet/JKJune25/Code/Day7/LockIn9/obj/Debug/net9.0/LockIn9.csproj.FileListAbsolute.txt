@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day7\LockIn9\bin\Debug\net9.0\LockIn9.exe
+D:\Trainings\JKJun25\Day7\LockIn9\bin\Debug\net9.0\LockIn9.deps.json
+D:\Trainings\JKJun25\Day7\LockIn9\bin\Debug\net9.0\LockIn9.runtimeconfig.json
+D:\Trainings\JKJun25\Day7\LockIn9\bin\Debug\net9.0\LockIn9.dll
+D:\Trainings\JKJun25\Day7\LockIn9\bin\Debug\net9.0\LockIn9.pdb
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.dll
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\refint\LockIn9.dll
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.pdb
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\LockIn9.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day7\LockIn9\obj\Debug\net9.0\ref\LockIn9.dll

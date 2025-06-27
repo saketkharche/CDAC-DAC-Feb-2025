@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RNFWHuLeYWI=",
+  "success": true,
+  "projectFilePath": "D:\\Trainings\\JKJun25\\Day9\\SerializationWithCore\\SerializationWithCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikra\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

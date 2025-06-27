@@ -1,0 +1,14 @@
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\bin\Debug\net9.0\SynchronizationInThreads.exe
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\bin\Debug\net9.0\SynchronizationInThreads.deps.json
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\bin\Debug\net9.0\SynchronizationInThreads.runtimeconfig.json
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\bin\Debug\net9.0\SynchronizationInThreads.dll
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\bin\Debug\net9.0\SynchronizationInThreads.pdb
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.AssemblyInfoInputs.cache
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.AssemblyInfo.cs
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.dll
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\refint\SynchronizationInThreads.dll
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.pdb
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\SynchronizationInThreads.genruntimeconfig.cache
+D:\Trainings\JKJun25\Day7\SynchronizationInThreads\obj\Debug\net9.0\ref\SynchronizationInThreads.dll

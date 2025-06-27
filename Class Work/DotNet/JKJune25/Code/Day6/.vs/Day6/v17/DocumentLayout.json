@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\saket\\OneDrive\\Desktop\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day6\\",
+  "WorkspaceRootPath": "D:\\Trainings\\JKJun25\\Day6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80868716-F80A-42D4-BC75-3779F3DB70AF}|LinqExample\\LinqExample.csproj|c:\\users\\saket\\onedrive\\desktop\\cdac dac study\\cdac-dac-feb-2025\\class work\\dotnet\\jkjune25\\code\\day6\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80868716-F80A-42D4-BC75-3779F3DB70AF}|LinqExample\\LinqExample.csproj|d:\\trainings\\jkjun25\\day6\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80868716-F80A-42D4-BC75-3779F3DB70AF}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -28,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saket\\OneDrive\\Desktop\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day6\\LinqExample\\Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJun25\\Day6\\LinqExample\\Program.cs",
               "RelativeDocumentMoniker": "LinqExample\\Program.cs",
-              "ToolTip": "C:\\Users\\saket\\OneDrive\\Desktop\\CDAC DAC study\\CDAC-DAC-Feb-2025\\Class Work\\DotNet\\JKJune25\\Code\\Day6\\LinqExample\\Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJun25\\Day6\\LinqExample\\Program.cs",
               "RelativeToolTip": "LinqExample\\Program.cs",
-              "ViewState": "AgIAAK0BAAAAAAAAAAAiwLABAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T03:41:17.331Z",
               "EditorCaption": ""
