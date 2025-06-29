@@ -1,0 +1,32 @@
+﻿@model BorrowingRecord
+
+@{
+    ViewData["Title"] = "Borrow Book";
+    var books = ViewBag.Books as List<Book>;
+    var borrowers = ViewBag.Borrowers as List<Borrower>;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Borrow" method="post">
+    <div class="form-group">
+        <label>Select Book</label>
+        <select asp-for="BookId" class="form-control">
+            @foreach (var book in books.Where(b => b.IsAvailable))
+            {
+                <option value="@book.BookId">@book.Title</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Select Borrower</label>
+        <select asp-for="BorrowerId" class="form-control">
+            @foreach (var borrower in borrowers)
+            {
+                <option value="@borrower.BorrowerId">@borrower.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Borrow</button>
+    <a asp-controller="Book" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

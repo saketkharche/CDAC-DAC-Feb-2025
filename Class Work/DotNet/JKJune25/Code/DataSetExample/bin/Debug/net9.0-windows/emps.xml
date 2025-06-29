@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Emps diffgr:id="Emps1" msdata:rowOrder="0" diffgr:hasChanges="modified">
+      <EmpNo>1</EmpNo>
+      <Name>ROHAN Sharma</Name>
+      <Basic>9999999.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps2" msdata:rowOrder="1">
+      <EmpNo>2</EmpNo>
+      <Name>SHUBHAM</Name>
+      <Basic>999999.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps3" msdata:rowOrder="2">
+      <EmpNo>3</EmpNo>
+      <Name>Shital</Name>
+      <Basic>25000.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps4" msdata:rowOrder="3">
+      <EmpNo>4</EmpNo>
+      <Name>Ravi</Name>
+      <Basic>50000.00</Basic>
+      <DeptNo>30</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps6" msdata:rowOrder="5">
+      <EmpNo>7</EmpNo>
+      <Name>new</Name>
+      <Basic>11111.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <EmpNo>8</EmpNo>
+      <Name>inserted</Name>
+      <Basic>66666</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Deps diffgr:id="Deps1" msdata:rowOrder="0">
+      <DeptNo>10</DeptNo>
+      <DeptName>SALES</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps2" msdata:rowOrder="1">
+      <DeptNo>20</DeptNo>
+      <DeptName>IT</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps3" msdata:rowOrder="2">
+      <DeptNo>30</DeptNo>
+      <DeptName>HR</DeptName>
+    </Deps>
+  </NewDataSet>
+  <diffgr:before>
+    <Emps diffgr:id="Emps1" msdata:rowOrder="0">
+      <EmpNo>1</EmpNo>
+      <Name>ROHAN Sharma</Name>
+      <Basic>999999.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps5" msdata:rowOrder="4">
+      <EmpNo>6</EmpNo>
+      <Name>Alfred D'Mello</Name>
+      <Basic>5000.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+  </diffgr:before>
+</diffgr:diffgram>

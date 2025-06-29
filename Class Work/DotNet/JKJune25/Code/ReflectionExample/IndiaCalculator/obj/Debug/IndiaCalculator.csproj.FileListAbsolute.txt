@@ -1,0 +1,5 @@
+D:\TrainingExamples\cdac\ReflectionExample\IndiaCalculator\bin\Debug\IndiaCalculator.dll
+D:\TrainingExamples\cdac\ReflectionExample\IndiaCalculator\bin\Debug\IndiaCalculator.pdb
+D:\TrainingExamples\cdac\ReflectionExample\IndiaCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\TrainingExamples\cdac\ReflectionExample\IndiaCalculator\obj\Debug\IndiaCalculator.dll
+D:\TrainingExamples\cdac\ReflectionExample\IndiaCalculator\obj\Debug\IndiaCalculator.pdb

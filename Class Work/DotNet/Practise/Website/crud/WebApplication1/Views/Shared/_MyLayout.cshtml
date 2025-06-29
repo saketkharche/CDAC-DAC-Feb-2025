@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - Product App</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <header><h1>Product Management</h1></header>
+        <main>
+            @RenderBody()
+        </main>
+        @Html.Partial("_FooterPartial")
+    </div>
+</body>
+</html>

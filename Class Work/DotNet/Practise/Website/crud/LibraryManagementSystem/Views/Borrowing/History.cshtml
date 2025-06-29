@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BorrowingRecord>
+
+@{
+    ViewData["Title"] = "Borrowing History";
+    var borrowerName = ViewBag.BorrowerName as string;
+}
+
+<h2>Borrowing History for: @borrowerName</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Record ID</th>
+            <th>Book ID</th>
+            <th>Borrow Date</th>
+            <th>Return Date</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.RecordId</td>
+                <td>@record.BookId</td>
+                <td>@record.BorrowDate.ToShortDateString()</td>
+                <td>@(record.ReturnDate?.ToShortDateString() ?? "Not Returned")</td>
+                <td>@(record.ReturnDate == null ? "Borrowed" : "Returned")</td>
+                <td>
+                    @if (record.ReturnDate == null)
+                    {
+                        <form asp-action="Return" asp-route-id="@record.RecordId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-warning btn-sm">Mark Returned</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Borrow" class="btn btn-primary">New Borrow</a>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

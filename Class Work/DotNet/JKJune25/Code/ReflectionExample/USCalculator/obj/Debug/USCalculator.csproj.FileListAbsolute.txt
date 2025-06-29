@@ -1,0 +1,5 @@
+D:\TrainingExamples\cdac\ReflectionExample\USCalculator\bin\Debug\USCalculator.dll
+D:\TrainingExamples\cdac\ReflectionExample\USCalculator\bin\Debug\USCalculator.pdb
+D:\TrainingExamples\cdac\ReflectionExample\USCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\TrainingExamples\cdac\ReflectionExample\USCalculator\obj\Debug\USCalculator.dll
+D:\TrainingExamples\cdac\ReflectionExample\USCalculator\obj\Debug\USCalculator.pdb

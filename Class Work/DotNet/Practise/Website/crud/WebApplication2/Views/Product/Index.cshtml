@@ -1,0 +1,33 @@
+﻿@model List<WebApplication2.Models.Product>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Rate</th>
+            <th>Description</th>
+            <th>Category Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td><a asp-action="Edit" asp-route-id="@p.ProductId">@p.ProductId</a></td>
+                <td>@p.ProductName</td>
+                <td>@p.Rate</td>
+                <td>@p.Description</td>
+                <td>@p.CategoryName</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.Partial("_Footer")

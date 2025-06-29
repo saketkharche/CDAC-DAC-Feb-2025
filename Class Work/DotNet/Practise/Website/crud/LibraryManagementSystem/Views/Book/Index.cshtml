@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Book>
+<h2>Books</h2>
+<a asp-action="Create">Add Book</a>
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Category</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var b in Model)
+    {
+        <tr>
+            <td>@b.Title</td>
+            <td>@b.Author</td>
+            <td>@b.Category</td>
+            <td>@(b.IsAvailable ? "Available" : "Borrowed")</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@b.BookId">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@b.BookId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
