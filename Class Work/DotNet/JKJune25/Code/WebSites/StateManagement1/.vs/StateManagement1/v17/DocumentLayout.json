@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\todo1\\statemanagement1\\views\\default\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|solutionrelative:views\\default\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\todo1\\statemanagement1\\views\\default\\session2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|solutionrelative:views\\default\\session2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\todo1\\statemanagement1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\todo1\\statemanagement1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\todo1\\statemanagement1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15B931F-5386-4BDB-9F83-1F997AB3ECB6}|StateManagement1.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:11:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T10:39:17.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T10:37:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Session2.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Session2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Session2.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Views\\Default\\Session2.cshtml",
+              "RelativeToolTip": "Views\\Default\\Session2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:29:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\ToDo1\\StateManagement1\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:08:07.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

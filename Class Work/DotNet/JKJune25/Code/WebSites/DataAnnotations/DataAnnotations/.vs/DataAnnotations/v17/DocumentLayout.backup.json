@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\models\\employeemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:models\\employeemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|c:\\users\\vikra\\desktop\\iacsdjunn25\\dataannotations\\dataannotations\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\EmployeeMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeMetadata.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\EmployeeMetadata.cs",
+              "RelativeToolTip": "Models\\EmployeeMetadata.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:23:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T04:00:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T03:49:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T09:59:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:59:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:31:44.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "Views\\Default\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T09:10:39.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\IACSDJunn25\\DataAnnotations\\DataAnnotations\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:07:41.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
